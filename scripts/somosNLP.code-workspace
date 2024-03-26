@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "SomosNLP2004-COSER-corpus-1",
+			"path": "../../SomosNLP2004-COSER-corpus-1"
+		}
+	],
+	"settings": {}
+}
