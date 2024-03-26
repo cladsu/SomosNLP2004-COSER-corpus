@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: T6 Pues aquí se cultiva trigo, se cultiva cebada… y…, y nada más. O sea, que el cultivo es de secano y es eso, trigo y cebada… De regadío, pues no hay, no hay más que los huertos para… coger, pues nada, ensaladas, forraja y eso, lo demás es cultivo de cereales. 
+E1: ¿Y ha cambiado mucho la agricultura de antes a ahora? 
+I1: Pues, hombre, ha cambiao, ha cambiado mucho porque antes, se trabajaba con los machos, con mucho trabajo, y ahora, pues todo es con maquinaria, que hay muchos adelantos, y oye es igual en labrar con los tractores, luego con la cosechadora y… todo es muy, muy distinto a lo de antes. Con menos trabajo, pues se trabaja más tierra y se coge se rinde más. 
+E1: ¿Y el pueblo vive de la agricultura o  aparte de…? 
+I1: el pueblo vive de la agricultura, vive de la ganadería, que también hay ganao y, y… de, de esas cosas.
+E1: T1 Entonces, hacéis matanza, ¿no? 
+I1:  Y hacemos matanza. 
+E1: ¿Y cuándo es eso?  Explíquemelo porque yo soy de capital y no tengo ni idea. 
+I1: las matanzas se hacen entre diciembre y enero y… nada, pues que… mucha gente se mata los cerdos en casa, yo por ejemplo, todos los años matamos dos cerdos y hacemos, pues embutido y jamón y longaniza y… 
+E1: Y, y el proceso, así de matanza  con detalle, me lo puede explicar un poquillo, así ¿cómo se hace? 
+I1: Pero,  ¿cómo se hace? 
+",La provincia a la que pertenecen los informadores es Teruel.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: T6 Pues aquí se cultiva trigo, se cultiva cebada… y…, y nada más. O sea, que el cultivo es de secano y es eso, trigo y cebada… De regadío, pues no hay, no hay más que los huertos para… coger, pues nada, ensaladas, forraja y eso, lo demás es cultivo de cereales. 
+E1: ¿Y ha cambiado mucho la agricultura de antes a ahora? 
+I1: Pues, hombre, ha cambiao, ha cambiado mucho porque antes, se trabajaba con los machos, con mucho trabajo, y ahora, pues todo es con maquinaria, que hay muchos adelantos, y oye es igual en labrar con los tractores, luego con la cosechadora y… todo es muy, muy distinto a lo de antes. Con menos trabajo, pues se trabaja más tierra y se coge se rinde más. 
+E1: ¿Y el pueblo vive de la agricultura o  aparte de…? 
+I1: el pueblo vive de la agricultura, vive de la ganadería, que también hay ganao y, y… de, de esas cosas.
+E1: T1 Entonces, hacéis matanza, ¿no? 
+I1:  Y hacemos matanza. 
+E1: ¿Y cuándo es eso?  Explíquemelo porque yo soy de capital y no tengo ni idea. 
+I1: las matanzas se hacen entre diciembre y enero y… nada, pues que… mucha gente se mata los cerdos en casa, yo por ejemplo, todos los años matamos dos cerdos y hacemos, pues embutido y jamón y longaniza y… 
+E1: Y, y el proceso, así de matanza  con detalle, me lo puede explicar un poquillo, así ¿cómo se hace? 
+I1: Pero,  ¿cómo se hace? 
+",La provincia a la que pertenecen los informadores es Teruel.
+"Dime la provincia del siguiente texto: I1: T6 Pues aquí se cultiva trigo, se cultiva cebada… y…, y nada más. O sea, que el cultivo es de secano y es eso, trigo y cebada… De regadío, pues no hay, no hay más que los huertos para… coger, pues nada, ensaladas, forraja y eso, lo demás es cultivo de cereales. 
+E1: ¿Y ha cambiado mucho la agricultura de antes a ahora? 
+I1: Pues, hombre, ha cambiao, ha cambiado mucho porque antes, se trabajaba con los machos, con mucho trabajo, y ahora, pues todo es con maquinaria, que hay muchos adelantos, y oye es igual en labrar con los tractores, luego con la cosechadora y… todo es muy, muy distinto a lo de antes. Con menos trabajo, pues se trabaja más tierra y se coge se rinde más. 
+E1: ¿Y el pueblo vive de la agricultura o  aparte de…? 
+I1: el pueblo vive de la agricultura, vive de la ganadería, que también hay ganao y, y… de, de esas cosas.
+E1: T1 Entonces, hacéis matanza, ¿no? 
+I1:  Y hacemos matanza. 
+E1: ¿Y cuándo es eso?  Explíquemelo porque yo soy de capital y no tengo ni idea. 
+I1: las matanzas se hacen entre diciembre y enero y… nada, pues que… mucha gente se mata los cerdos en casa, yo por ejemplo, todos los años matamos dos cerdos y hacemos, pues embutido y jamón y longaniza y… 
+E1: Y, y el proceso, así de matanza  con detalle, me lo puede explicar un poquillo, así ¿cómo se hace? 
+I1: Pero,  ¿cómo se hace? 
+",La provincia a la que pertenecen los informadores es Teruel.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: T6 Pues aquí se cultiva trigo, se cultiva cebada… y…, y nada más. O sea, que el cultivo es de secano y es eso, trigo y cebada… De regadío, pues no hay, no hay más que los huertos para… coger, pues nada, ensaladas, forraja y eso, lo demás es cultivo de cereales. 
+E1: ¿Y ha cambiado mucho la agricultura de antes a ahora? 
+I1: Pues, hombre, ha cambiao, ha cambiado mucho porque antes, se trabajaba con los machos, con mucho trabajo, y ahora, pues todo es con maquinaria, que hay muchos adelantos, y oye es igual en labrar con los tractores, luego con la cosechadora y… todo es muy, muy distinto a lo de antes. Con menos trabajo, pues se trabaja más tierra y se coge se rinde más. 
+E1: ¿Y el pueblo vive de la agricultura o  aparte de…? 
+I1: el pueblo vive de la agricultura, vive de la ganadería, que también hay ganao y, y… de, de esas cosas.
+E1: T1 Entonces, hacéis matanza, ¿no? 
+I1:  Y hacemos matanza. 
+E1: ¿Y cuándo es eso?  Explíquemelo porque yo soy de capital y no tengo ni idea. 
+I1: las matanzas se hacen entre diciembre y enero y… nada, pues que… mucha gente se mata los cerdos en casa, yo por ejemplo, todos los años matamos dos cerdos y hacemos, pues embutido y jamón y longaniza y… 
+E1: Y, y el proceso, así de matanza  con detalle, me lo puede explicar un poquillo, así ¿cómo se hace? 
+I1: Pero,  ¿cómo se hace? 
+",La provincia a la que pertenecen los informadores es Teruel.
+"Dime de qué lugar es el siguiente texto:  I1: T6 Pues aquí se cultiva trigo, se cultiva cebada… y…, y nada más. O sea, que el cultivo es de secano y es eso, trigo y cebada… De regadío, pues no hay, no hay más que los huertos para… coger, pues nada, ensaladas, forraja y eso, lo demás es cultivo de cereales. 
+E1: ¿Y ha cambiado mucho la agricultura de antes a ahora? 
+I1: Pues, hombre, ha cambiao, ha cambiado mucho porque antes, se trabajaba con los machos, con mucho trabajo, y ahora, pues todo es con maquinaria, que hay muchos adelantos, y oye es igual en labrar con los tractores, luego con la cosechadora y… todo es muy, muy distinto a lo de antes. Con menos trabajo, pues se trabaja más tierra y se coge se rinde más. 
+E1: ¿Y el pueblo vive de la agricultura o  aparte de…? 
+I1: el pueblo vive de la agricultura, vive de la ganadería, que también hay ganao y, y… de, de esas cosas.
+E1: T1 Entonces, hacéis matanza, ¿no? 
+I1:  Y hacemos matanza. 
+E1: ¿Y cuándo es eso?  Explíquemelo porque yo soy de capital y no tengo ni idea. 
+I1: las matanzas se hacen entre diciembre y enero y… nada, pues que… mucha gente se mata los cerdos en casa, yo por ejemplo, todos los años matamos dos cerdos y hacemos, pues embutido y jamón y longaniza y… 
+E1: Y, y el proceso, así de matanza  con detalle, me lo puede explicar un poquillo, así ¿cómo se hace? 
+I1: Pero,  ¿cómo se hace? 
+",La provincia a la que pertenecen los informadores es Teruel.

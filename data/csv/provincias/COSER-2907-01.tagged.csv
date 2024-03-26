@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: He sacao esta mañana dos choricitos que tenía ahí congelaos. Digo: «Si vienen los cuezo y que tomen una tapita». 
+E1: Es que hemos estado Rndo:en Toledo y no hemos podido venir antes. 
+E2: Claro. 
+I1:  aquí. 
+E1: T1 A ver, tú…, tú, . tú has hecho matanza, ¿verdad? 
+I1: Sí. 
+E1: ¿Sí?, ¿y cómo se hacía la matanza? 
+I1: Os voy a dar una explicación que vais a llevar un examen…  Vale.Mira, se compra el cochinillo, se compra esto de destete, . ¿Sabes? Y luego, se suele comprar en el mes de marzo y hasta ahora en diciembre o enero no se mata, ¿entiendes? . Ya se mata, se hace morcilla de cebolla, se pica la cebolla…, se cuece. Luego, con la manteca del cerdo… 
+E1: Espera, ¿qui-, quién mata…, quién…, quién mata…? 
+E2: Al cerdo. 
+I1: El cerdo. Hay, había señores que les gustaba y los, los mataban, ¿sabe? . Particular…, particular, señores particulares, ¿sabes? Ya se mataba, se pelaba y ya luego se cogía la sangre del cerdo para la morcilla. La morcilla de cebolla y la cebolla que llaman de año que es con… calabaza con cebolla, . cocida, ¿sabes? . A la de cebolla se le echa la manteca del cerdo, y a la de calabaza se le echa la parte que está entreverada de la parte de…, de la barriga del cerdo que tiene tocino y magro, ¿sabes? . Bueno, a continuación…  ¿Hay que decir las especias que se echan? 
+",La provincia a la que pertenecen los informadores es Madrid.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: He sacao esta mañana dos choricitos que tenía ahí congelaos. Digo: «Si vienen los cuezo y que tomen una tapita». 
+E1: Es que hemos estado Rndo:en Toledo y no hemos podido venir antes. 
+E2: Claro. 
+I1:  aquí. 
+E1: T1 A ver, tú…, tú, . tú has hecho matanza, ¿verdad? 
+I1: Sí. 
+E1: ¿Sí?, ¿y cómo se hacía la matanza? 
+I1: Os voy a dar una explicación que vais a llevar un examen…  Vale.Mira, se compra el cochinillo, se compra esto de destete, . ¿Sabes? Y luego, se suele comprar en el mes de marzo y hasta ahora en diciembre o enero no se mata, ¿entiendes? . Ya se mata, se hace morcilla de cebolla, se pica la cebolla…, se cuece. Luego, con la manteca del cerdo… 
+E1: Espera, ¿qui-, quién mata…, quién…, quién mata…? 
+E2: Al cerdo. 
+I1: El cerdo. Hay, había señores que les gustaba y los, los mataban, ¿sabe? . Particular…, particular, señores particulares, ¿sabes? Ya se mataba, se pelaba y ya luego se cogía la sangre del cerdo para la morcilla. La morcilla de cebolla y la cebolla que llaman de año que es con… calabaza con cebolla, . cocida, ¿sabes? . A la de cebolla se le echa la manteca del cerdo, y a la de calabaza se le echa la parte que está entreverada de la parte de…, de la barriga del cerdo que tiene tocino y magro, ¿sabes? . Bueno, a continuación…  ¿Hay que decir las especias que se echan? 
+",La provincia a la que pertenecen los informadores es Madrid.
+"Dime la provincia del siguiente texto: I1: He sacao esta mañana dos choricitos que tenía ahí congelaos. Digo: «Si vienen los cuezo y que tomen una tapita». 
+E1: Es que hemos estado Rndo:en Toledo y no hemos podido venir antes. 
+E2: Claro. 
+I1:  aquí. 
+E1: T1 A ver, tú…, tú, . tú has hecho matanza, ¿verdad? 
+I1: Sí. 
+E1: ¿Sí?, ¿y cómo se hacía la matanza? 
+I1: Os voy a dar una explicación que vais a llevar un examen…  Vale.Mira, se compra el cochinillo, se compra esto de destete, . ¿Sabes? Y luego, se suele comprar en el mes de marzo y hasta ahora en diciembre o enero no se mata, ¿entiendes? . Ya se mata, se hace morcilla de cebolla, se pica la cebolla…, se cuece. Luego, con la manteca del cerdo… 
+E1: Espera, ¿qui-, quién mata…, quién…, quién mata…? 
+E2: Al cerdo. 
+I1: El cerdo. Hay, había señores que les gustaba y los, los mataban, ¿sabe? . Particular…, particular, señores particulares, ¿sabes? Ya se mataba, se pelaba y ya luego se cogía la sangre del cerdo para la morcilla. La morcilla de cebolla y la cebolla que llaman de año que es con… calabaza con cebolla, . cocida, ¿sabes? . A la de cebolla se le echa la manteca del cerdo, y a la de calabaza se le echa la parte que está entreverada de la parte de…, de la barriga del cerdo que tiene tocino y magro, ¿sabes? . Bueno, a continuación…  ¿Hay que decir las especias que se echan? 
+",La provincia a la que pertenecen los informadores es Madrid.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: He sacao esta mañana dos choricitos que tenía ahí congelaos. Digo: «Si vienen los cuezo y que tomen una tapita». 
+E1: Es que hemos estado Rndo:en Toledo y no hemos podido venir antes. 
+E2: Claro. 
+I1:  aquí. 
+E1: T1 A ver, tú…, tú, . tú has hecho matanza, ¿verdad? 
+I1: Sí. 
+E1: ¿Sí?, ¿y cómo se hacía la matanza? 
+I1: Os voy a dar una explicación que vais a llevar un examen…  Vale.Mira, se compra el cochinillo, se compra esto de destete, . ¿Sabes? Y luego, se suele comprar en el mes de marzo y hasta ahora en diciembre o enero no se mata, ¿entiendes? . Ya se mata, se hace morcilla de cebolla, se pica la cebolla…, se cuece. Luego, con la manteca del cerdo… 
+E1: Espera, ¿qui-, quién mata…, quién…, quién mata…? 
+E2: Al cerdo. 
+I1: El cerdo. Hay, había señores que les gustaba y los, los mataban, ¿sabe? . Particular…, particular, señores particulares, ¿sabes? Ya se mataba, se pelaba y ya luego se cogía la sangre del cerdo para la morcilla. La morcilla de cebolla y la cebolla que llaman de año que es con… calabaza con cebolla, . cocida, ¿sabes? . A la de cebolla se le echa la manteca del cerdo, y a la de calabaza se le echa la parte que está entreverada de la parte de…, de la barriga del cerdo que tiene tocino y magro, ¿sabes? . Bueno, a continuación…  ¿Hay que decir las especias que se echan? 
+",La provincia a la que pertenecen los informadores es Madrid.
+"Dime de qué lugar es el siguiente texto:  I1: He sacao esta mañana dos choricitos que tenía ahí congelaos. Digo: «Si vienen los cuezo y que tomen una tapita». 
+E1: Es que hemos estado Rndo:en Toledo y no hemos podido venir antes. 
+E2: Claro. 
+I1:  aquí. 
+E1: T1 A ver, tú…, tú, . tú has hecho matanza, ¿verdad? 
+I1: Sí. 
+E1: ¿Sí?, ¿y cómo se hacía la matanza? 
+I1: Os voy a dar una explicación que vais a llevar un examen…  Vale.Mira, se compra el cochinillo, se compra esto de destete, . ¿Sabes? Y luego, se suele comprar en el mes de marzo y hasta ahora en diciembre o enero no se mata, ¿entiendes? . Ya se mata, se hace morcilla de cebolla, se pica la cebolla…, se cuece. Luego, con la manteca del cerdo… 
+E1: Espera, ¿qui-, quién mata…, quién…, quién mata…? 
+E2: Al cerdo. 
+I1: El cerdo. Hay, había señores que les gustaba y los, los mataban, ¿sabe? . Particular…, particular, señores particulares, ¿sabes? Ya se mataba, se pelaba y ya luego se cogía la sangre del cerdo para la morcilla. La morcilla de cebolla y la cebolla que llaman de año que es con… calabaza con cebolla, . cocida, ¿sabes? . A la de cebolla se le echa la manteca del cerdo, y a la de calabaza se le echa la parte que está entreverada de la parte de…, de la barriga del cerdo que tiene tocino y magro, ¿sabes? . Bueno, a continuación…  ¿Hay que decir las especias que se echan? 
+",La provincia a la que pertenecen los informadores es Madrid.

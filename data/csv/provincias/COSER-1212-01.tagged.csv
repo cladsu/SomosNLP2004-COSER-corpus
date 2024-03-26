@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E2:  notas. 
+E1: T1 Por ejemplo, aquí, ¿criaban al cerdo en casa? 
+I1: Sí, criábamos cerdo, sí. 
+E1: ¿Y qué daban al cerdo? 
+I1: Al, al cerdo pues, patatas, remolacha, esas cosas. Y gamones, hasta gamones del monte que le daban también. 
+E1: ¿Y quién mataba el cerdo? 
+I1: Bueno, el cerdo pos se enviaba el veterinario daba la salida pa matale , eso.
+E1: ¿Y cómo, cómo hacen los chorizos? 
+I1: Puf, ¿pos cómo hacen los chorizos? Lo van picando en una de estas, con una máquina de esas de hacer chorizos, y lo van picando, en eso y lo van echando allí y de allí, después que lo adoban, pues lo tienen un par de días y después a hacer los chorizos. 
+E1: ¿Y, y dónde guardan los chorizos para que curen? 
+I1: Guardan los chorizos los tenemos de en la cocina, en la cocina  cierto tiempo y después ya se quitan. 
+",La provincia a la que pertenecen los informadores es Cantabria.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E2:  notas. 
+E1: T1 Por ejemplo, aquí, ¿criaban al cerdo en casa? 
+I1: Sí, criábamos cerdo, sí. 
+E1: ¿Y qué daban al cerdo? 
+I1: Al, al cerdo pues, patatas, remolacha, esas cosas. Y gamones, hasta gamones del monte que le daban también. 
+E1: ¿Y quién mataba el cerdo? 
+I1: Bueno, el cerdo pos se enviaba el veterinario daba la salida pa matale , eso.
+E1: ¿Y cómo, cómo hacen los chorizos? 
+I1: Puf, ¿pos cómo hacen los chorizos? Lo van picando en una de estas, con una máquina de esas de hacer chorizos, y lo van picando, en eso y lo van echando allí y de allí, después que lo adoban, pues lo tienen un par de días y después a hacer los chorizos. 
+E1: ¿Y, y dónde guardan los chorizos para que curen? 
+I1: Guardan los chorizos los tenemos de en la cocina, en la cocina  cierto tiempo y después ya se quitan. 
+",La provincia a la que pertenecen los informadores es Cantabria.
+"Dime la provincia del siguiente texto: E2:  notas. 
+E1: T1 Por ejemplo, aquí, ¿criaban al cerdo en casa? 
+I1: Sí, criábamos cerdo, sí. 
+E1: ¿Y qué daban al cerdo? 
+I1: Al, al cerdo pues, patatas, remolacha, esas cosas. Y gamones, hasta gamones del monte que le daban también. 
+E1: ¿Y quién mataba el cerdo? 
+I1: Bueno, el cerdo pos se enviaba el veterinario daba la salida pa matale , eso.
+E1: ¿Y cómo, cómo hacen los chorizos? 
+I1: Puf, ¿pos cómo hacen los chorizos? Lo van picando en una de estas, con una máquina de esas de hacer chorizos, y lo van picando, en eso y lo van echando allí y de allí, después que lo adoban, pues lo tienen un par de días y después a hacer los chorizos. 
+E1: ¿Y, y dónde guardan los chorizos para que curen? 
+I1: Guardan los chorizos los tenemos de en la cocina, en la cocina  cierto tiempo y después ya se quitan. 
+",La provincia a la que pertenecen los informadores es Cantabria.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E2:  notas. 
+E1: T1 Por ejemplo, aquí, ¿criaban al cerdo en casa? 
+I1: Sí, criábamos cerdo, sí. 
+E1: ¿Y qué daban al cerdo? 
+I1: Al, al cerdo pues, patatas, remolacha, esas cosas. Y gamones, hasta gamones del monte que le daban también. 
+E1: ¿Y quién mataba el cerdo? 
+I1: Bueno, el cerdo pos se enviaba el veterinario daba la salida pa matale , eso.
+E1: ¿Y cómo, cómo hacen los chorizos? 
+I1: Puf, ¿pos cómo hacen los chorizos? Lo van picando en una de estas, con una máquina de esas de hacer chorizos, y lo van picando, en eso y lo van echando allí y de allí, después que lo adoban, pues lo tienen un par de días y después a hacer los chorizos. 
+E1: ¿Y, y dónde guardan los chorizos para que curen? 
+I1: Guardan los chorizos los tenemos de en la cocina, en la cocina  cierto tiempo y después ya se quitan. 
+",La provincia a la que pertenecen los informadores es Cantabria.
+"Dime de qué lugar es el siguiente texto:  E2:  notas. 
+E1: T1 Por ejemplo, aquí, ¿criaban al cerdo en casa? 
+I1: Sí, criábamos cerdo, sí. 
+E1: ¿Y qué daban al cerdo? 
+I1: Al, al cerdo pues, patatas, remolacha, esas cosas. Y gamones, hasta gamones del monte que le daban también. 
+E1: ¿Y quién mataba el cerdo? 
+I1: Bueno, el cerdo pos se enviaba el veterinario daba la salida pa matale , eso.
+E1: ¿Y cómo, cómo hacen los chorizos? 
+I1: Puf, ¿pos cómo hacen los chorizos? Lo van picando en una de estas, con una máquina de esas de hacer chorizos, y lo van picando, en eso y lo van echando allí y de allí, después que lo adoban, pues lo tienen un par de días y después a hacer los chorizos. 
+E1: ¿Y, y dónde guardan los chorizos para que curen? 
+I1: Guardan los chorizos los tenemos de en la cocina, en la cocina  cierto tiempo y después ya se quitan. 
+",La provincia a la que pertenecen los informadores es Cantabria.

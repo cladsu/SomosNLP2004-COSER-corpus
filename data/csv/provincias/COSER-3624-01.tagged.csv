@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T21 Que le hagamos la entrevista ¿Entonces usted nació en Calzadilla_de_Coria?  
+I1: sí, señora. 
+E1: Y entonces, ¿cómo fue… hasta qué edad vivió allí? 
+I1: Hasta los nueve años o diez, vivimos allí. O sea, pero después bajábamos en el invierno pa allí.  Y vivíamos allí. Y en el verano, … nos veníamos pa aquí. Ahora nos Santos nos bajábamos. Y luego en San_Pedro nos veníamos pa aquí. 
+E1: ¿Y eso por qué era? ¿Por qué…?  
+I1: . porque calentaba mucho. Era… aquello mu caliente y esto era fresco. Y nos veníamos en el verano pa aquí, que era más fresco, pa'l ganao . 
+E1: T7 Entonces ustedes se dedicaban al ganao. 
+I1: Sí, a… cabras… eran cabras. 
+E1: Cuéntenos cómo era… su vida de niña, cómo… 
+I1: Pues de, de niña en un chozo. . Vivíamos en un chozo y… teníamos, o sea, teníamos dos chozos, en uno ande dormíamos y estábamos, y el otro ande
+E1: T12 no pudo ir a la escuela. 
+",La provincia a la que pertenecen los informadores es Salamanca.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T21 Que le hagamos la entrevista ¿Entonces usted nació en Calzadilla_de_Coria?  
+I1: sí, señora. 
+E1: Y entonces, ¿cómo fue… hasta qué edad vivió allí? 
+I1: Hasta los nueve años o diez, vivimos allí. O sea, pero después bajábamos en el invierno pa allí.  Y vivíamos allí. Y en el verano, … nos veníamos pa aquí. Ahora nos Santos nos bajábamos. Y luego en San_Pedro nos veníamos pa aquí. 
+E1: ¿Y eso por qué era? ¿Por qué…?  
+I1: . porque calentaba mucho. Era… aquello mu caliente y esto era fresco. Y nos veníamos en el verano pa aquí, que era más fresco, pa'l ganao . 
+E1: T7 Entonces ustedes se dedicaban al ganao. 
+I1: Sí, a… cabras… eran cabras. 
+E1: Cuéntenos cómo era… su vida de niña, cómo… 
+I1: Pues de, de niña en un chozo. . Vivíamos en un chozo y… teníamos, o sea, teníamos dos chozos, en uno ande dormíamos y estábamos, y el otro ande
+E1: T12 no pudo ir a la escuela. 
+",La provincia a la que pertenecen los informadores es Salamanca.
+"Dime la provincia del siguiente texto: E1: T21 Que le hagamos la entrevista ¿Entonces usted nació en Calzadilla_de_Coria?  
+I1: sí, señora. 
+E1: Y entonces, ¿cómo fue… hasta qué edad vivió allí? 
+I1: Hasta los nueve años o diez, vivimos allí. O sea, pero después bajábamos en el invierno pa allí.  Y vivíamos allí. Y en el verano, … nos veníamos pa aquí. Ahora nos Santos nos bajábamos. Y luego en San_Pedro nos veníamos pa aquí. 
+E1: ¿Y eso por qué era? ¿Por qué…?  
+I1: . porque calentaba mucho. Era… aquello mu caliente y esto era fresco. Y nos veníamos en el verano pa aquí, que era más fresco, pa'l ganao . 
+E1: T7 Entonces ustedes se dedicaban al ganao. 
+I1: Sí, a… cabras… eran cabras. 
+E1: Cuéntenos cómo era… su vida de niña, cómo… 
+I1: Pues de, de niña en un chozo. . Vivíamos en un chozo y… teníamos, o sea, teníamos dos chozos, en uno ande dormíamos y estábamos, y el otro ande
+E1: T12 no pudo ir a la escuela. 
+",La provincia a la que pertenecen los informadores es Salamanca.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T21 Que le hagamos la entrevista ¿Entonces usted nació en Calzadilla_de_Coria?  
+I1: sí, señora. 
+E1: Y entonces, ¿cómo fue… hasta qué edad vivió allí? 
+I1: Hasta los nueve años o diez, vivimos allí. O sea, pero después bajábamos en el invierno pa allí.  Y vivíamos allí. Y en el verano, … nos veníamos pa aquí. Ahora nos Santos nos bajábamos. Y luego en San_Pedro nos veníamos pa aquí. 
+E1: ¿Y eso por qué era? ¿Por qué…?  
+I1: . porque calentaba mucho. Era… aquello mu caliente y esto era fresco. Y nos veníamos en el verano pa aquí, que era más fresco, pa'l ganao . 
+E1: T7 Entonces ustedes se dedicaban al ganao. 
+I1: Sí, a… cabras… eran cabras. 
+E1: Cuéntenos cómo era… su vida de niña, cómo… 
+I1: Pues de, de niña en un chozo. . Vivíamos en un chozo y… teníamos, o sea, teníamos dos chozos, en uno ande dormíamos y estábamos, y el otro ande
+E1: T12 no pudo ir a la escuela. 
+",La provincia a la que pertenecen los informadores es Salamanca.
+"Dime de qué lugar es el siguiente texto:  E1: T21 Que le hagamos la entrevista ¿Entonces usted nació en Calzadilla_de_Coria?  
+I1: sí, señora. 
+E1: Y entonces, ¿cómo fue… hasta qué edad vivió allí? 
+I1: Hasta los nueve años o diez, vivimos allí. O sea, pero después bajábamos en el invierno pa allí.  Y vivíamos allí. Y en el verano, … nos veníamos pa aquí. Ahora nos Santos nos bajábamos. Y luego en San_Pedro nos veníamos pa aquí. 
+E1: ¿Y eso por qué era? ¿Por qué…?  
+I1: . porque calentaba mucho. Era… aquello mu caliente y esto era fresco. Y nos veníamos en el verano pa aquí, que era más fresco, pa'l ganao . 
+E1: T7 Entonces ustedes se dedicaban al ganao. 
+I1: Sí, a… cabras… eran cabras. 
+E1: Cuéntenos cómo era… su vida de niña, cómo… 
+I1: Pues de, de niña en un chozo. . Vivíamos en un chozo y… teníamos, o sea, teníamos dos chozos, en uno ande dormíamos y estábamos, y el otro ande
+E1: T12 no pudo ir a la escuela. 
+",La provincia a la que pertenecen los informadores es Salamanca.

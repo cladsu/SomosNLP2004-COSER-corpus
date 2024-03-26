@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T1 Pues, lo que queríamos saber era cómo, cómo cogían, cómo cogían al cerdo y qué hacían en la matanza.  
+I1: el cerdo le comprábamos, vamos a suponer,en, en noviembre, y le matábamos pues… en febrero, cuidándole bien, el cerdo, con co-, con cosas de casa. 
+E1: Y, ¿qué le daban de comer? 
+I1: Pues le echábamos harina de cebada, y le echábamos cardo del campo, que íbamos a comprarlo las muje-, a buscar al campo, cardos. 
+E1: Pero ¿así? 
+I1: Cardos, y ce-, ce-, y cebada, harina de cebada, lo criamos otros tres meses con eso. 
+E1: Y, ¿cuándo el cerdo ya tenía el tiempo para matarlo? ¿Qué, cómo lo hacían? 
+I1: Pues mira, lo matábamos la…, vamos a suponer. Casi siempre lo matábamos en viernes, el viernes lo matábamos, y luego el sábado, le hacíamos el picadillo, lo metíamos en adobo, el picadillo, y el sábado, el domingo dejábamos dormir. 
+E1: Y, ¿cómo? ¿Cómo mataban al cerdo? 
+I1: Pos mira, venía un señor que era que se dedicaba, se dedicaba a matar cerdos, un señor nos le mataba. 
+E1: Pero  ¿qué hacían? 
+",La provincia a la que pertenecen los informadores es Burgos.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T1 Pues, lo que queríamos saber era cómo, cómo cogían, cómo cogían al cerdo y qué hacían en la matanza.  
+I1: el cerdo le comprábamos, vamos a suponer,en, en noviembre, y le matábamos pues… en febrero, cuidándole bien, el cerdo, con co-, con cosas de casa. 
+E1: Y, ¿qué le daban de comer? 
+I1: Pues le echábamos harina de cebada, y le echábamos cardo del campo, que íbamos a comprarlo las muje-, a buscar al campo, cardos. 
+E1: Pero ¿así? 
+I1: Cardos, y ce-, ce-, y cebada, harina de cebada, lo criamos otros tres meses con eso. 
+E1: Y, ¿cuándo el cerdo ya tenía el tiempo para matarlo? ¿Qué, cómo lo hacían? 
+I1: Pues mira, lo matábamos la…, vamos a suponer. Casi siempre lo matábamos en viernes, el viernes lo matábamos, y luego el sábado, le hacíamos el picadillo, lo metíamos en adobo, el picadillo, y el sábado, el domingo dejábamos dormir. 
+E1: Y, ¿cómo? ¿Cómo mataban al cerdo? 
+I1: Pos mira, venía un señor que era que se dedicaba, se dedicaba a matar cerdos, un señor nos le mataba. 
+E1: Pero  ¿qué hacían? 
+",La provincia a la que pertenecen los informadores es Burgos.
+"Dime la provincia del siguiente texto: E1: T1 Pues, lo que queríamos saber era cómo, cómo cogían, cómo cogían al cerdo y qué hacían en la matanza.  
+I1: el cerdo le comprábamos, vamos a suponer,en, en noviembre, y le matábamos pues… en febrero, cuidándole bien, el cerdo, con co-, con cosas de casa. 
+E1: Y, ¿qué le daban de comer? 
+I1: Pues le echábamos harina de cebada, y le echábamos cardo del campo, que íbamos a comprarlo las muje-, a buscar al campo, cardos. 
+E1: Pero ¿así? 
+I1: Cardos, y ce-, ce-, y cebada, harina de cebada, lo criamos otros tres meses con eso. 
+E1: Y, ¿cuándo el cerdo ya tenía el tiempo para matarlo? ¿Qué, cómo lo hacían? 
+I1: Pues mira, lo matábamos la…, vamos a suponer. Casi siempre lo matábamos en viernes, el viernes lo matábamos, y luego el sábado, le hacíamos el picadillo, lo metíamos en adobo, el picadillo, y el sábado, el domingo dejábamos dormir. 
+E1: Y, ¿cómo? ¿Cómo mataban al cerdo? 
+I1: Pos mira, venía un señor que era que se dedicaba, se dedicaba a matar cerdos, un señor nos le mataba. 
+E1: Pero  ¿qué hacían? 
+",La provincia a la que pertenecen los informadores es Burgos.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T1 Pues, lo que queríamos saber era cómo, cómo cogían, cómo cogían al cerdo y qué hacían en la matanza.  
+I1: el cerdo le comprábamos, vamos a suponer,en, en noviembre, y le matábamos pues… en febrero, cuidándole bien, el cerdo, con co-, con cosas de casa. 
+E1: Y, ¿qué le daban de comer? 
+I1: Pues le echábamos harina de cebada, y le echábamos cardo del campo, que íbamos a comprarlo las muje-, a buscar al campo, cardos. 
+E1: Pero ¿así? 
+I1: Cardos, y ce-, ce-, y cebada, harina de cebada, lo criamos otros tres meses con eso. 
+E1: Y, ¿cuándo el cerdo ya tenía el tiempo para matarlo? ¿Qué, cómo lo hacían? 
+I1: Pues mira, lo matábamos la…, vamos a suponer. Casi siempre lo matábamos en viernes, el viernes lo matábamos, y luego el sábado, le hacíamos el picadillo, lo metíamos en adobo, el picadillo, y el sábado, el domingo dejábamos dormir. 
+E1: Y, ¿cómo? ¿Cómo mataban al cerdo? 
+I1: Pos mira, venía un señor que era que se dedicaba, se dedicaba a matar cerdos, un señor nos le mataba. 
+E1: Pero  ¿qué hacían? 
+",La provincia a la que pertenecen los informadores es Burgos.
+"Dime de qué lugar es el siguiente texto:  E1: T1 Pues, lo que queríamos saber era cómo, cómo cogían, cómo cogían al cerdo y qué hacían en la matanza.  
+I1: el cerdo le comprábamos, vamos a suponer,en, en noviembre, y le matábamos pues… en febrero, cuidándole bien, el cerdo, con co-, con cosas de casa. 
+E1: Y, ¿qué le daban de comer? 
+I1: Pues le echábamos harina de cebada, y le echábamos cardo del campo, que íbamos a comprarlo las muje-, a buscar al campo, cardos. 
+E1: Pero ¿así? 
+I1: Cardos, y ce-, ce-, y cebada, harina de cebada, lo criamos otros tres meses con eso. 
+E1: Y, ¿cuándo el cerdo ya tenía el tiempo para matarlo? ¿Qué, cómo lo hacían? 
+I1: Pues mira, lo matábamos la…, vamos a suponer. Casi siempre lo matábamos en viernes, el viernes lo matábamos, y luego el sábado, le hacíamos el picadillo, lo metíamos en adobo, el picadillo, y el sábado, el domingo dejábamos dormir. 
+E1: Y, ¿cómo? ¿Cómo mataban al cerdo? 
+I1: Pos mira, venía un señor que era que se dedicaba, se dedicaba a matar cerdos, un señor nos le mataba. 
+E1: Pero  ¿qué hacían? 
+",La provincia a la que pertenecen los informadores es Burgos.

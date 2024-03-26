@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1:  Buenas, Anonimizado. Le vamos a hacer algunas preguntas sobre cómo se vivía aquí antiguamente…, cómo se hacían las cosas… 
+I1: Bueno, …, L-Otra:eu… olvídome de todo, ¿eh? 
+E1: Bueno, pero seguro que se acuerda de las cosas. 
+I1: Bueno, a ver si…, si… L-Otra:Eu, se sei, eu contéstolle, tranquila.  
+E2: Seguro que sabe. 
+I1: Pero…, L-Otra:pero é que como… ao fin, ahora, L-Otra:perdín todo. Os aniños… 
+E1: Claro.  Bueno, por ejemplo, aquí…  
+I1: L-Otra:A ver, bótame, si. A ver se me sabes botar. Pouco, eh! Non me botes moito. 
+E2: ¿Setenta_y_cinco? 
+I1: Ochenta_y_tres. 
+E2: Ochenta_y_tres es poco.  
+",La provincia a la que pertenecen los informadores es Orense.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1:  Buenas, Anonimizado. Le vamos a hacer algunas preguntas sobre cómo se vivía aquí antiguamente…, cómo se hacían las cosas… 
+I1: Bueno, …, L-Otra:eu… olvídome de todo, ¿eh? 
+E1: Bueno, pero seguro que se acuerda de las cosas. 
+I1: Bueno, a ver si…, si… L-Otra:Eu, se sei, eu contéstolle, tranquila.  
+E2: Seguro que sabe. 
+I1: Pero…, L-Otra:pero é que como… ao fin, ahora, L-Otra:perdín todo. Os aniños… 
+E1: Claro.  Bueno, por ejemplo, aquí…  
+I1: L-Otra:A ver, bótame, si. A ver se me sabes botar. Pouco, eh! Non me botes moito. 
+E2: ¿Setenta_y_cinco? 
+I1: Ochenta_y_tres. 
+E2: Ochenta_y_tres es poco.  
+",La provincia a la que pertenecen los informadores es Orense.
+"Dime la provincia del siguiente texto: E1:  Buenas, Anonimizado. Le vamos a hacer algunas preguntas sobre cómo se vivía aquí antiguamente…, cómo se hacían las cosas… 
+I1: Bueno, …, L-Otra:eu… olvídome de todo, ¿eh? 
+E1: Bueno, pero seguro que se acuerda de las cosas. 
+I1: Bueno, a ver si…, si… L-Otra:Eu, se sei, eu contéstolle, tranquila.  
+E2: Seguro que sabe. 
+I1: Pero…, L-Otra:pero é que como… ao fin, ahora, L-Otra:perdín todo. Os aniños… 
+E1: Claro.  Bueno, por ejemplo, aquí…  
+I1: L-Otra:A ver, bótame, si. A ver se me sabes botar. Pouco, eh! Non me botes moito. 
+E2: ¿Setenta_y_cinco? 
+I1: Ochenta_y_tres. 
+E2: Ochenta_y_tres es poco.  
+",La provincia a la que pertenecen los informadores es Orense.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1:  Buenas, Anonimizado. Le vamos a hacer algunas preguntas sobre cómo se vivía aquí antiguamente…, cómo se hacían las cosas… 
+I1: Bueno, …, L-Otra:eu… olvídome de todo, ¿eh? 
+E1: Bueno, pero seguro que se acuerda de las cosas. 
+I1: Bueno, a ver si…, si… L-Otra:Eu, se sei, eu contéstolle, tranquila.  
+E2: Seguro que sabe. 
+I1: Pero…, L-Otra:pero é que como… ao fin, ahora, L-Otra:perdín todo. Os aniños… 
+E1: Claro.  Bueno, por ejemplo, aquí…  
+I1: L-Otra:A ver, bótame, si. A ver se me sabes botar. Pouco, eh! Non me botes moito. 
+E2: ¿Setenta_y_cinco? 
+I1: Ochenta_y_tres. 
+E2: Ochenta_y_tres es poco.  
+",La provincia a la que pertenecen los informadores es Orense.
+"Dime de qué lugar es el siguiente texto:  E1:  Buenas, Anonimizado. Le vamos a hacer algunas preguntas sobre cómo se vivía aquí antiguamente…, cómo se hacían las cosas… 
+I1: Bueno, …, L-Otra:eu… olvídome de todo, ¿eh? 
+E1: Bueno, pero seguro que se acuerda de las cosas. 
+I1: Bueno, a ver si…, si… L-Otra:Eu, se sei, eu contéstolle, tranquila.  
+E2: Seguro que sabe. 
+I1: Pero…, L-Otra:pero é que como… ao fin, ahora, L-Otra:perdín todo. Os aniños… 
+E1: Claro.  Bueno, por ejemplo, aquí…  
+I1: L-Otra:A ver, bótame, si. A ver se me sabes botar. Pouco, eh! Non me botes moito. 
+E2: ¿Setenta_y_cinco? 
+I1: Ochenta_y_tres. 
+E2: Ochenta_y_tres es poco.  
+",La provincia a la que pertenecen los informadores es Orense.

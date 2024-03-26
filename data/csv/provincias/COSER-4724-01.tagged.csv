@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: Pues muy bien, don Anonimizado.  A ver, nos está diciendo que es usted del…, es usted de aquí del pueblo de Maella, ¿no? 
+I1: Sí, sí. 
+E1: ¿Y cuándo nació usted? 
+I1: El día vinticinco del siete del 36.
+E1: ¿Del 36?  Veinticinco del siete de, del 36. Así que le pilló la guerra… 
+I1: Sí, sí.  Como, cuando…, cuando…, en, en la guerra he nacío . 
+E1: . 
+I1: Al 36. 
+E1: T12 Y… me es-, me estaba diciendo antes que…, que ya…, que usted no, no, no pudo ir a la escuela, ¿no?, A-Nul…  
+I1: a los nueve años yo ya estaba trabajando al campo. . Y ya iba…, ya estaba de…, de…, de compinche, quiero decir, de pe-…, de pe-…,  de peón. . Labraba al campo, tenía nueve años y yo ya iba al campo ya. 
+E1: T6 ¿Y cómo era las que…, de qué tipo de… cultivos se…, se hacen aquí?  
+",La provincia a la que pertenecen los informadores es Zaragoza.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: Pues muy bien, don Anonimizado.  A ver, nos está diciendo que es usted del…, es usted de aquí del pueblo de Maella, ¿no? 
+I1: Sí, sí. 
+E1: ¿Y cuándo nació usted? 
+I1: El día vinticinco del siete del 36.
+E1: ¿Del 36?  Veinticinco del siete de, del 36. Así que le pilló la guerra… 
+I1: Sí, sí.  Como, cuando…, cuando…, en, en la guerra he nacío . 
+E1: . 
+I1: Al 36. 
+E1: T12 Y… me es-, me estaba diciendo antes que…, que ya…, que usted no, no, no pudo ir a la escuela, ¿no?, A-Nul…  
+I1: a los nueve años yo ya estaba trabajando al campo. . Y ya iba…, ya estaba de…, de…, de compinche, quiero decir, de pe-…, de pe-…,  de peón. . Labraba al campo, tenía nueve años y yo ya iba al campo ya. 
+E1: T6 ¿Y cómo era las que…, de qué tipo de… cultivos se…, se hacen aquí?  
+",La provincia a la que pertenecen los informadores es Zaragoza.
+"Dime la provincia del siguiente texto: E1: Pues muy bien, don Anonimizado.  A ver, nos está diciendo que es usted del…, es usted de aquí del pueblo de Maella, ¿no? 
+I1: Sí, sí. 
+E1: ¿Y cuándo nació usted? 
+I1: El día vinticinco del siete del 36.
+E1: ¿Del 36?  Veinticinco del siete de, del 36. Así que le pilló la guerra… 
+I1: Sí, sí.  Como, cuando…, cuando…, en, en la guerra he nacío . 
+E1: . 
+I1: Al 36. 
+E1: T12 Y… me es-, me estaba diciendo antes que…, que ya…, que usted no, no, no pudo ir a la escuela, ¿no?, A-Nul…  
+I1: a los nueve años yo ya estaba trabajando al campo. . Y ya iba…, ya estaba de…, de…, de compinche, quiero decir, de pe-…, de pe-…,  de peón. . Labraba al campo, tenía nueve años y yo ya iba al campo ya. 
+E1: T6 ¿Y cómo era las que…, de qué tipo de… cultivos se…, se hacen aquí?  
+",La provincia a la que pertenecen los informadores es Zaragoza.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: Pues muy bien, don Anonimizado.  A ver, nos está diciendo que es usted del…, es usted de aquí del pueblo de Maella, ¿no? 
+I1: Sí, sí. 
+E1: ¿Y cuándo nació usted? 
+I1: El día vinticinco del siete del 36.
+E1: ¿Del 36?  Veinticinco del siete de, del 36. Así que le pilló la guerra… 
+I1: Sí, sí.  Como, cuando…, cuando…, en, en la guerra he nacío . 
+E1: . 
+I1: Al 36. 
+E1: T12 Y… me es-, me estaba diciendo antes que…, que ya…, que usted no, no, no pudo ir a la escuela, ¿no?, A-Nul…  
+I1: a los nueve años yo ya estaba trabajando al campo. . Y ya iba…, ya estaba de…, de…, de compinche, quiero decir, de pe-…, de pe-…,  de peón. . Labraba al campo, tenía nueve años y yo ya iba al campo ya. 
+E1: T6 ¿Y cómo era las que…, de qué tipo de… cultivos se…, se hacen aquí?  
+",La provincia a la que pertenecen los informadores es Zaragoza.
+"Dime de qué lugar es el siguiente texto:  E1: Pues muy bien, don Anonimizado.  A ver, nos está diciendo que es usted del…, es usted de aquí del pueblo de Maella, ¿no? 
+I1: Sí, sí. 
+E1: ¿Y cuándo nació usted? 
+I1: El día vinticinco del siete del 36.
+E1: ¿Del 36?  Veinticinco del siete de, del 36. Así que le pilló la guerra… 
+I1: Sí, sí.  Como, cuando…, cuando…, en, en la guerra he nacío . 
+E1: . 
+I1: Al 36. 
+E1: T12 Y… me es-, me estaba diciendo antes que…, que ya…, que usted no, no, no pudo ir a la escuela, ¿no?, A-Nul…  
+I1: a los nueve años yo ya estaba trabajando al campo. . Y ya iba…, ya estaba de…, de…, de compinche, quiero decir, de pe-…, de pe-…,  de peón. . Labraba al campo, tenía nueve años y yo ya iba al campo ya. 
+E1: T6 ¿Y cómo era las que…, de qué tipo de… cultivos se…, se hacen aquí?  
+",La provincia a la que pertenecen los informadores es Zaragoza.

@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E:  E: T1 A-Nul Bueno, pues si quiere empezamos por, por cómo era la matanza, ¿se mata aquí todavía o ya no? 
+I1: Ya no…, ya no se mata, pues la matanza era que se compraban los cerdos, pues ahí a primeros de…, de la primavera, o quizás… en el invierno ya se compraba el que se iba a matar al año siguiente,  ¿sabes? Entonces se engordaba el cerdo en casa, entonces se engordaba con…, con harina, berzas. 
+I2: . 
+E:  E: Sí, ¿harina de qué? 
+I1: Sí, con harina de cebada, y… como ahora con vitaminas y eso no, se le engordaba natural, y entonces se cuando llegaba ya el invierno, por allí por diciembre  patatas cocidas y berzas y cosas esas. o enero, pues entonces se…, se hacía la matanza, pues nada, se… 
+E:  E: ¿Y cómo se ma-, cómo se mata al cerdo? 
+I1: Pues el cerdo se mataba, había un señor aquí en el pueblo que se dedicaba a esas cosas, se le llamaba, venía a casa, V-Sml y entonces los de casa mismo le ayudaban, le echaban el cerdo sobre una banqueta, le tenían entre cuatro o cinco,  porque, claro, el cerdo siempre era muy grande. 
+E:  E: Sí, ¿ataban las patas? 
+I1: Ataban las patas, sí, ataban las patas y entonces, pues el…, el matarife . era el que le clavaba el cuchillo así por el cuello. 
+E:  E: Sí. 
+I2: Ya sabía dónde tenía que ir. 
+",La provincia a la que pertenecen los informadores es La Rioja.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E:  E: T1 A-Nul Bueno, pues si quiere empezamos por, por cómo era la matanza, ¿se mata aquí todavía o ya no? 
+I1: Ya no…, ya no se mata, pues la matanza era que se compraban los cerdos, pues ahí a primeros de…, de la primavera, o quizás… en el invierno ya se compraba el que se iba a matar al año siguiente,  ¿sabes? Entonces se engordaba el cerdo en casa, entonces se engordaba con…, con harina, berzas. 
+I2: . 
+E:  E: Sí, ¿harina de qué? 
+I1: Sí, con harina de cebada, y… como ahora con vitaminas y eso no, se le engordaba natural, y entonces se cuando llegaba ya el invierno, por allí por diciembre  patatas cocidas y berzas y cosas esas. o enero, pues entonces se…, se hacía la matanza, pues nada, se… 
+E:  E: ¿Y cómo se ma-, cómo se mata al cerdo? 
+I1: Pues el cerdo se mataba, había un señor aquí en el pueblo que se dedicaba a esas cosas, se le llamaba, venía a casa, V-Sml y entonces los de casa mismo le ayudaban, le echaban el cerdo sobre una banqueta, le tenían entre cuatro o cinco,  porque, claro, el cerdo siempre era muy grande. 
+E:  E: Sí, ¿ataban las patas? 
+I1: Ataban las patas, sí, ataban las patas y entonces, pues el…, el matarife . era el que le clavaba el cuchillo así por el cuello. 
+E:  E: Sí. 
+I2: Ya sabía dónde tenía que ir. 
+",La provincia a la que pertenecen los informadores es La Rioja.
+"Dime la provincia del siguiente texto: E:  E: T1 A-Nul Bueno, pues si quiere empezamos por, por cómo era la matanza, ¿se mata aquí todavía o ya no? 
+I1: Ya no…, ya no se mata, pues la matanza era que se compraban los cerdos, pues ahí a primeros de…, de la primavera, o quizás… en el invierno ya se compraba el que se iba a matar al año siguiente,  ¿sabes? Entonces se engordaba el cerdo en casa, entonces se engordaba con…, con harina, berzas. 
+I2: . 
+E:  E: Sí, ¿harina de qué? 
+I1: Sí, con harina de cebada, y… como ahora con vitaminas y eso no, se le engordaba natural, y entonces se cuando llegaba ya el invierno, por allí por diciembre  patatas cocidas y berzas y cosas esas. o enero, pues entonces se…, se hacía la matanza, pues nada, se… 
+E:  E: ¿Y cómo se ma-, cómo se mata al cerdo? 
+I1: Pues el cerdo se mataba, había un señor aquí en el pueblo que se dedicaba a esas cosas, se le llamaba, venía a casa, V-Sml y entonces los de casa mismo le ayudaban, le echaban el cerdo sobre una banqueta, le tenían entre cuatro o cinco,  porque, claro, el cerdo siempre era muy grande. 
+E:  E: Sí, ¿ataban las patas? 
+I1: Ataban las patas, sí, ataban las patas y entonces, pues el…, el matarife . era el que le clavaba el cuchillo así por el cuello. 
+E:  E: Sí. 
+I2: Ya sabía dónde tenía que ir. 
+",La provincia a la que pertenecen los informadores es La Rioja.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E:  E: T1 A-Nul Bueno, pues si quiere empezamos por, por cómo era la matanza, ¿se mata aquí todavía o ya no? 
+I1: Ya no…, ya no se mata, pues la matanza era que se compraban los cerdos, pues ahí a primeros de…, de la primavera, o quizás… en el invierno ya se compraba el que se iba a matar al año siguiente,  ¿sabes? Entonces se engordaba el cerdo en casa, entonces se engordaba con…, con harina, berzas. 
+I2: . 
+E:  E: Sí, ¿harina de qué? 
+I1: Sí, con harina de cebada, y… como ahora con vitaminas y eso no, se le engordaba natural, y entonces se cuando llegaba ya el invierno, por allí por diciembre  patatas cocidas y berzas y cosas esas. o enero, pues entonces se…, se hacía la matanza, pues nada, se… 
+E:  E: ¿Y cómo se ma-, cómo se mata al cerdo? 
+I1: Pues el cerdo se mataba, había un señor aquí en el pueblo que se dedicaba a esas cosas, se le llamaba, venía a casa, V-Sml y entonces los de casa mismo le ayudaban, le echaban el cerdo sobre una banqueta, le tenían entre cuatro o cinco,  porque, claro, el cerdo siempre era muy grande. 
+E:  E: Sí, ¿ataban las patas? 
+I1: Ataban las patas, sí, ataban las patas y entonces, pues el…, el matarife . era el que le clavaba el cuchillo así por el cuello. 
+E:  E: Sí. 
+I2: Ya sabía dónde tenía que ir. 
+",La provincia a la que pertenecen los informadores es La Rioja.
+"Dime de qué lugar es el siguiente texto:  E:  E: T1 A-Nul Bueno, pues si quiere empezamos por, por cómo era la matanza, ¿se mata aquí todavía o ya no? 
+I1: Ya no…, ya no se mata, pues la matanza era que se compraban los cerdos, pues ahí a primeros de…, de la primavera, o quizás… en el invierno ya se compraba el que se iba a matar al año siguiente,  ¿sabes? Entonces se engordaba el cerdo en casa, entonces se engordaba con…, con harina, berzas. 
+I2: . 
+E:  E: Sí, ¿harina de qué? 
+I1: Sí, con harina de cebada, y… como ahora con vitaminas y eso no, se le engordaba natural, y entonces se cuando llegaba ya el invierno, por allí por diciembre  patatas cocidas y berzas y cosas esas. o enero, pues entonces se…, se hacía la matanza, pues nada, se… 
+E:  E: ¿Y cómo se ma-, cómo se mata al cerdo? 
+I1: Pues el cerdo se mataba, había un señor aquí en el pueblo que se dedicaba a esas cosas, se le llamaba, venía a casa, V-Sml y entonces los de casa mismo le ayudaban, le echaban el cerdo sobre una banqueta, le tenían entre cuatro o cinco,  porque, claro, el cerdo siempre era muy grande. 
+E:  E: Sí, ¿ataban las patas? 
+I1: Ataban las patas, sí, ataban las patas y entonces, pues el…, el matarife . era el que le clavaba el cuchillo así por el cuello. 
+E:  E: Sí. 
+I2: Ya sabía dónde tenía que ir. 
+",La provincia a la que pertenecen los informadores es La Rioja.

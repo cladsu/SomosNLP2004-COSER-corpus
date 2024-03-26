@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: Porque, joder, no sabe lo difícil que es encontrar una persona que nos quiera dedicar un ratito. Se lo voy a meter aquí… 
+I1: Ya…  bueno, aquí estamos.  
+E1: Estamos aquí… ya con él, nos vamos a poner un ratito con él, a que nos cuente. 
+IE1: Muy bien. HCruz:Hola.  HCruz:Hola, buenas.  ¿Dónde vos parece?  ¿Aquí mejor? 
+E1: aquí nos parece bien.  Sí, aquí está bien. 
+IE1: ¿Mejor que ahí en el salón? 
+E1: Sí… porque aquí está un poco al airecillo fresquito, ¿no? 
+IE1: Bueno… entra frío…  
+I1: No, no, no, frío, frío ninguno. 
+IE1: Nada, pues hala. 
+E1: Fenomenal. 
+",La provincia a la que pertenecen los informadores es Asturias.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: Porque, joder, no sabe lo difícil que es encontrar una persona que nos quiera dedicar un ratito. Se lo voy a meter aquí… 
+I1: Ya…  bueno, aquí estamos.  
+E1: Estamos aquí… ya con él, nos vamos a poner un ratito con él, a que nos cuente. 
+IE1: Muy bien. HCruz:Hola.  HCruz:Hola, buenas.  ¿Dónde vos parece?  ¿Aquí mejor? 
+E1: aquí nos parece bien.  Sí, aquí está bien. 
+IE1: ¿Mejor que ahí en el salón? 
+E1: Sí… porque aquí está un poco al airecillo fresquito, ¿no? 
+IE1: Bueno… entra frío…  
+I1: No, no, no, frío, frío ninguno. 
+IE1: Nada, pues hala. 
+E1: Fenomenal. 
+",La provincia a la que pertenecen los informadores es Asturias.
+"Dime la provincia del siguiente texto: E1: Porque, joder, no sabe lo difícil que es encontrar una persona que nos quiera dedicar un ratito. Se lo voy a meter aquí… 
+I1: Ya…  bueno, aquí estamos.  
+E1: Estamos aquí… ya con él, nos vamos a poner un ratito con él, a que nos cuente. 
+IE1: Muy bien. HCruz:Hola.  HCruz:Hola, buenas.  ¿Dónde vos parece?  ¿Aquí mejor? 
+E1: aquí nos parece bien.  Sí, aquí está bien. 
+IE1: ¿Mejor que ahí en el salón? 
+E1: Sí… porque aquí está un poco al airecillo fresquito, ¿no? 
+IE1: Bueno… entra frío…  
+I1: No, no, no, frío, frío ninguno. 
+IE1: Nada, pues hala. 
+E1: Fenomenal. 
+",La provincia a la que pertenecen los informadores es Asturias.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: Porque, joder, no sabe lo difícil que es encontrar una persona que nos quiera dedicar un ratito. Se lo voy a meter aquí… 
+I1: Ya…  bueno, aquí estamos.  
+E1: Estamos aquí… ya con él, nos vamos a poner un ratito con él, a que nos cuente. 
+IE1: Muy bien. HCruz:Hola.  HCruz:Hola, buenas.  ¿Dónde vos parece?  ¿Aquí mejor? 
+E1: aquí nos parece bien.  Sí, aquí está bien. 
+IE1: ¿Mejor que ahí en el salón? 
+E1: Sí… porque aquí está un poco al airecillo fresquito, ¿no? 
+IE1: Bueno… entra frío…  
+I1: No, no, no, frío, frío ninguno. 
+IE1: Nada, pues hala. 
+E1: Fenomenal. 
+",La provincia a la que pertenecen los informadores es Asturias.
+"Dime de qué lugar es el siguiente texto:  E1: Porque, joder, no sabe lo difícil que es encontrar una persona que nos quiera dedicar un ratito. Se lo voy a meter aquí… 
+I1: Ya…  bueno, aquí estamos.  
+E1: Estamos aquí… ya con él, nos vamos a poner un ratito con él, a que nos cuente. 
+IE1: Muy bien. HCruz:Hola.  HCruz:Hola, buenas.  ¿Dónde vos parece?  ¿Aquí mejor? 
+E1: aquí nos parece bien.  Sí, aquí está bien. 
+IE1: ¿Mejor que ahí en el salón? 
+E1: Sí… porque aquí está un poco al airecillo fresquito, ¿no? 
+IE1: Bueno… entra frío…  
+I1: No, no, no, frío, frío ninguno. 
+IE1: Nada, pues hala. 
+E1: Fenomenal. 
+",La provincia a la que pertenecen los informadores es Asturias.

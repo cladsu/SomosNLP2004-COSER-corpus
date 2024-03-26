@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: Estamos con Anonimizado en… Errigoiti. 
+I:  I: Errigoiti, bar Potín.  
+E1: Anonimizado, ¿cuántos años tiene? Más o menos, no nos tiene que decir la  verdad del todo, ¿eh? 
+I:  I: Sí…, yo ochenta_y_cuatro. 
+E2: ¿Ochenta_y_cuatro?  
+E1: ¿Ochenta_y_cuatro años tiene? 
+I:  I: Sí. 
+E1: ¿Y…, y cómo se conserva tan bien?  ¿Por la energía que tiene? 
+I:  I:  Rndo:No sé yo.  
+E1: ¿Eh? ¿Y el optimismo que tiene? 
+I:  I: No sé por qué, pero… ochenta_y_cuatro tengo. 
+",La provincia a la que pertenecen los informadores es Vizcaya.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: Estamos con Anonimizado en… Errigoiti. 
+I:  I: Errigoiti, bar Potín.  
+E1: Anonimizado, ¿cuántos años tiene? Más o menos, no nos tiene que decir la  verdad del todo, ¿eh? 
+I:  I: Sí…, yo ochenta_y_cuatro. 
+E2: ¿Ochenta_y_cuatro?  
+E1: ¿Ochenta_y_cuatro años tiene? 
+I:  I: Sí. 
+E1: ¿Y…, y cómo se conserva tan bien?  ¿Por la energía que tiene? 
+I:  I:  Rndo:No sé yo.  
+E1: ¿Eh? ¿Y el optimismo que tiene? 
+I:  I: No sé por qué, pero… ochenta_y_cuatro tengo. 
+",La provincia a la que pertenecen los informadores es Vizcaya.
+"Dime la provincia del siguiente texto: E1: Estamos con Anonimizado en… Errigoiti. 
+I:  I: Errigoiti, bar Potín.  
+E1: Anonimizado, ¿cuántos años tiene? Más o menos, no nos tiene que decir la  verdad del todo, ¿eh? 
+I:  I: Sí…, yo ochenta_y_cuatro. 
+E2: ¿Ochenta_y_cuatro?  
+E1: ¿Ochenta_y_cuatro años tiene? 
+I:  I: Sí. 
+E1: ¿Y…, y cómo se conserva tan bien?  ¿Por la energía que tiene? 
+I:  I:  Rndo:No sé yo.  
+E1: ¿Eh? ¿Y el optimismo que tiene? 
+I:  I: No sé por qué, pero… ochenta_y_cuatro tengo. 
+",La provincia a la que pertenecen los informadores es Vizcaya.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: Estamos con Anonimizado en… Errigoiti. 
+I:  I: Errigoiti, bar Potín.  
+E1: Anonimizado, ¿cuántos años tiene? Más o menos, no nos tiene que decir la  verdad del todo, ¿eh? 
+I:  I: Sí…, yo ochenta_y_cuatro. 
+E2: ¿Ochenta_y_cuatro?  
+E1: ¿Ochenta_y_cuatro años tiene? 
+I:  I: Sí. 
+E1: ¿Y…, y cómo se conserva tan bien?  ¿Por la energía que tiene? 
+I:  I:  Rndo:No sé yo.  
+E1: ¿Eh? ¿Y el optimismo que tiene? 
+I:  I: No sé por qué, pero… ochenta_y_cuatro tengo. 
+",La provincia a la que pertenecen los informadores es Vizcaya.
+"Dime de qué lugar es el siguiente texto:  E1: Estamos con Anonimizado en… Errigoiti. 
+I:  I: Errigoiti, bar Potín.  
+E1: Anonimizado, ¿cuántos años tiene? Más o menos, no nos tiene que decir la  verdad del todo, ¿eh? 
+I:  I: Sí…, yo ochenta_y_cuatro. 
+E2: ¿Ochenta_y_cuatro?  
+E1: ¿Ochenta_y_cuatro años tiene? 
+I:  I: Sí. 
+E1: ¿Y…, y cómo se conserva tan bien?  ¿Por la energía que tiene? 
+I:  I:  Rndo:No sé yo.  
+E1: ¿Eh? ¿Y el optimismo que tiene? 
+I:  I: No sé por qué, pero… ochenta_y_cuatro tengo. 
+",La provincia a la que pertenecen los informadores es Vizcaya.

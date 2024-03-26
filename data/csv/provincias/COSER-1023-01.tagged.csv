@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T1 Bueno, señora,  ¿Puede usted hablarnos de la matanza, cómo la hacían…? 
+I1: Pues aquí s'hacían como la hacen ara mismo. Se hacen, porque mucha gente toavía
+E1: Normalmente, ¿quién hacía la matanza? ¿Una, una persona…  específica? 
+I1: Tos los años.
+I2: HCruz:No están ahí. 
+I1: HCruz:¿No están ahí? 
+I2: HCruz:S'han ío a una comunión de la Anonimizado.
+I1: HCruz:Ah… Pues esos la han hecho este año. 
+E1: ¿Sí? 
+I1: Y lo, nos lo venden a nosotros luego. 
+E1: Pero, no era costumbre criar a los cerdos en casa  y matarlos… 
+",La provincia a la que pertenecen los informadores es Cáceres.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T1 Bueno, señora,  ¿Puede usted hablarnos de la matanza, cómo la hacían…? 
+I1: Pues aquí s'hacían como la hacen ara mismo. Se hacen, porque mucha gente toavía
+E1: Normalmente, ¿quién hacía la matanza? ¿Una, una persona…  específica? 
+I1: Tos los años.
+I2: HCruz:No están ahí. 
+I1: HCruz:¿No están ahí? 
+I2: HCruz:S'han ío a una comunión de la Anonimizado.
+I1: HCruz:Ah… Pues esos la han hecho este año. 
+E1: ¿Sí? 
+I1: Y lo, nos lo venden a nosotros luego. 
+E1: Pero, no era costumbre criar a los cerdos en casa  y matarlos… 
+",La provincia a la que pertenecen los informadores es Cáceres.
+"Dime la provincia del siguiente texto: E1: T1 Bueno, señora,  ¿Puede usted hablarnos de la matanza, cómo la hacían…? 
+I1: Pues aquí s'hacían como la hacen ara mismo. Se hacen, porque mucha gente toavía
+E1: Normalmente, ¿quién hacía la matanza? ¿Una, una persona…  específica? 
+I1: Tos los años.
+I2: HCruz:No están ahí. 
+I1: HCruz:¿No están ahí? 
+I2: HCruz:S'han ío a una comunión de la Anonimizado.
+I1: HCruz:Ah… Pues esos la han hecho este año. 
+E1: ¿Sí? 
+I1: Y lo, nos lo venden a nosotros luego. 
+E1: Pero, no era costumbre criar a los cerdos en casa  y matarlos… 
+",La provincia a la que pertenecen los informadores es Cáceres.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T1 Bueno, señora,  ¿Puede usted hablarnos de la matanza, cómo la hacían…? 
+I1: Pues aquí s'hacían como la hacen ara mismo. Se hacen, porque mucha gente toavía
+E1: Normalmente, ¿quién hacía la matanza? ¿Una, una persona…  específica? 
+I1: Tos los años.
+I2: HCruz:No están ahí. 
+I1: HCruz:¿No están ahí? 
+I2: HCruz:S'han ío a una comunión de la Anonimizado.
+I1: HCruz:Ah… Pues esos la han hecho este año. 
+E1: ¿Sí? 
+I1: Y lo, nos lo venden a nosotros luego. 
+E1: Pero, no era costumbre criar a los cerdos en casa  y matarlos… 
+",La provincia a la que pertenecen los informadores es Cáceres.
+"Dime de qué lugar es el siguiente texto:  E1: T1 Bueno, señora,  ¿Puede usted hablarnos de la matanza, cómo la hacían…? 
+I1: Pues aquí s'hacían como la hacen ara mismo. Se hacen, porque mucha gente toavía
+E1: Normalmente, ¿quién hacía la matanza? ¿Una, una persona…  específica? 
+I1: Tos los años.
+I2: HCruz:No están ahí. 
+I1: HCruz:¿No están ahí? 
+I2: HCruz:S'han ío a una comunión de la Anonimizado.
+I1: HCruz:Ah… Pues esos la han hecho este año. 
+E1: ¿Sí? 
+I1: Y lo, nos lo venden a nosotros luego. 
+E1: Pero, no era costumbre criar a los cerdos en casa  y matarlos… 
+",La provincia a la que pertenecen los informadores es Cáceres.

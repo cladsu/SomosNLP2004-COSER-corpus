@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: T1 Y… venía el matachín o el mataór , y cada cual en nuestra casay después hacíamos las morcillas, los chorizos y después, poníamos los jamones a salar, y a la, a los cuarenta días, lo dába-, lavábamos a las los perniles, los poníamos a secar.
+E1: Pero ¿cómo se hacía todo…? Desde que se tenía el cerdo, se criaba, ¿cómo se mataba?, ¿qué instrumentos utilizaban? 
+I1: Pues… los comprábamos chiquiticos y pa modo de eso, como no había de esos compuestos, los criábamos a base de patatascon salvao. Y a los ocho meses o diez, los matábamos. Venía el matachín con sus buenos cuchillos, sus ganchos pa ponerle aquí en la barba, pa que les…, la gente los cogería, les echaban en una tabla, allí los sa-, los sangraban y después, los quemaban, o sea, los chocarraban con…
+E2: ¿El matachín este era de fuera o era de…? 
+I1: No, de Miranda. 
+E:  E: De Miranda, de acuerdo. ¿Y él se encargó de hacer todo o…? 
+I1: Sí, él los chocarraba y después que se había quitao el pelo les…, con unas corbeteras de pucheros los limpiaban con agua bien limpios y después, el… 
+E2: Para quitar el pelo. 
+I1: Eso, sí. 
+E1: ¿Chocarrar qué es? 
+I1: Socarrar, pues, quemar la ilaga encima del, del cuto… ¿Me ha entendido? 
+",La provincia a la que pertenecen los informadores es Navarra.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: T1 Y… venía el matachín o el mataór , y cada cual en nuestra casay después hacíamos las morcillas, los chorizos y después, poníamos los jamones a salar, y a la, a los cuarenta días, lo dába-, lavábamos a las los perniles, los poníamos a secar.
+E1: Pero ¿cómo se hacía todo…? Desde que se tenía el cerdo, se criaba, ¿cómo se mataba?, ¿qué instrumentos utilizaban? 
+I1: Pues… los comprábamos chiquiticos y pa modo de eso, como no había de esos compuestos, los criábamos a base de patatascon salvao. Y a los ocho meses o diez, los matábamos. Venía el matachín con sus buenos cuchillos, sus ganchos pa ponerle aquí en la barba, pa que les…, la gente los cogería, les echaban en una tabla, allí los sa-, los sangraban y después, los quemaban, o sea, los chocarraban con…
+E2: ¿El matachín este era de fuera o era de…? 
+I1: No, de Miranda. 
+E:  E: De Miranda, de acuerdo. ¿Y él se encargó de hacer todo o…? 
+I1: Sí, él los chocarraba y después que se había quitao el pelo les…, con unas corbeteras de pucheros los limpiaban con agua bien limpios y después, el… 
+E2: Para quitar el pelo. 
+I1: Eso, sí. 
+E1: ¿Chocarrar qué es? 
+I1: Socarrar, pues, quemar la ilaga encima del, del cuto… ¿Me ha entendido? 
+",La provincia a la que pertenecen los informadores es Navarra.
+"Dime la provincia del siguiente texto: I1: T1 Y… venía el matachín o el mataór , y cada cual en nuestra casay después hacíamos las morcillas, los chorizos y después, poníamos los jamones a salar, y a la, a los cuarenta días, lo dába-, lavábamos a las los perniles, los poníamos a secar.
+E1: Pero ¿cómo se hacía todo…? Desde que se tenía el cerdo, se criaba, ¿cómo se mataba?, ¿qué instrumentos utilizaban? 
+I1: Pues… los comprábamos chiquiticos y pa modo de eso, como no había de esos compuestos, los criábamos a base de patatascon salvao. Y a los ocho meses o diez, los matábamos. Venía el matachín con sus buenos cuchillos, sus ganchos pa ponerle aquí en la barba, pa que les…, la gente los cogería, les echaban en una tabla, allí los sa-, los sangraban y después, los quemaban, o sea, los chocarraban con…
+E2: ¿El matachín este era de fuera o era de…? 
+I1: No, de Miranda. 
+E:  E: De Miranda, de acuerdo. ¿Y él se encargó de hacer todo o…? 
+I1: Sí, él los chocarraba y después que se había quitao el pelo les…, con unas corbeteras de pucheros los limpiaban con agua bien limpios y después, el… 
+E2: Para quitar el pelo. 
+I1: Eso, sí. 
+E1: ¿Chocarrar qué es? 
+I1: Socarrar, pues, quemar la ilaga encima del, del cuto… ¿Me ha entendido? 
+",La provincia a la que pertenecen los informadores es Navarra.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: T1 Y… venía el matachín o el mataór , y cada cual en nuestra casay después hacíamos las morcillas, los chorizos y después, poníamos los jamones a salar, y a la, a los cuarenta días, lo dába-, lavábamos a las los perniles, los poníamos a secar.
+E1: Pero ¿cómo se hacía todo…? Desde que se tenía el cerdo, se criaba, ¿cómo se mataba?, ¿qué instrumentos utilizaban? 
+I1: Pues… los comprábamos chiquiticos y pa modo de eso, como no había de esos compuestos, los criábamos a base de patatascon salvao. Y a los ocho meses o diez, los matábamos. Venía el matachín con sus buenos cuchillos, sus ganchos pa ponerle aquí en la barba, pa que les…, la gente los cogería, les echaban en una tabla, allí los sa-, los sangraban y después, los quemaban, o sea, los chocarraban con…
+E2: ¿El matachín este era de fuera o era de…? 
+I1: No, de Miranda. 
+E:  E: De Miranda, de acuerdo. ¿Y él se encargó de hacer todo o…? 
+I1: Sí, él los chocarraba y después que se había quitao el pelo les…, con unas corbeteras de pucheros los limpiaban con agua bien limpios y después, el… 
+E2: Para quitar el pelo. 
+I1: Eso, sí. 
+E1: ¿Chocarrar qué es? 
+I1: Socarrar, pues, quemar la ilaga encima del, del cuto… ¿Me ha entendido? 
+",La provincia a la que pertenecen los informadores es Navarra.
+"Dime de qué lugar es el siguiente texto:  I1: T1 Y… venía el matachín o el mataór , y cada cual en nuestra casay después hacíamos las morcillas, los chorizos y después, poníamos los jamones a salar, y a la, a los cuarenta días, lo dába-, lavábamos a las los perniles, los poníamos a secar.
+E1: Pero ¿cómo se hacía todo…? Desde que se tenía el cerdo, se criaba, ¿cómo se mataba?, ¿qué instrumentos utilizaban? 
+I1: Pues… los comprábamos chiquiticos y pa modo de eso, como no había de esos compuestos, los criábamos a base de patatascon salvao. Y a los ocho meses o diez, los matábamos. Venía el matachín con sus buenos cuchillos, sus ganchos pa ponerle aquí en la barba, pa que les…, la gente los cogería, les echaban en una tabla, allí los sa-, los sangraban y después, los quemaban, o sea, los chocarraban con…
+E2: ¿El matachín este era de fuera o era de…? 
+I1: No, de Miranda. 
+E:  E: De Miranda, de acuerdo. ¿Y él se encargó de hacer todo o…? 
+I1: Sí, él los chocarraba y después que se había quitao el pelo les…, con unas corbeteras de pucheros los limpiaban con agua bien limpios y después, el… 
+E2: Para quitar el pelo. 
+I1: Eso, sí. 
+E1: ¿Chocarrar qué es? 
+I1: Socarrar, pues, quemar la ilaga encima del, del cuto… ¿Me ha entendido? 
+",La provincia a la que pertenecen los informadores es Navarra.

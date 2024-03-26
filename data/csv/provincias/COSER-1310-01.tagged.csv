@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: ¿La grabadora está en marcha ya?  ¿Sí? Bueno, pues le vamos a hacer primero un par de preguntas que son de, de forma… para… Usted se llama, entonces, Anonimizado. 
+I1: Sí. 
+E1: Y tiene, ¿cuántos años, Anonimizado? 
+I1: Yo tengo setenta_y_dos años. 
+E1: Setenta_y_dos años. De aquí, de Puebla_de_Arenoso de toda la vida. 
+I1: Sí, yo he nacido, no le digo, en una aldea, que se llamaba Torcas. 
+E1: ¿Torcas? Y eso estaba, me dije, dónde ahora… Porque, ¿hay un embalse aquí? 
+I1: Sí, el embalse de Arenós, está cubierto por las aguas, donde yo he nacido. Están las casas, que las derribaron, se nos han caído, pero están envueltas de agua. 
+E1: ¿Y cuándo se hizo aquello? El embalse. 
+I1: El embalse… se empezó a construir… allá por el año… 71, 72. 
+E1: Y vinieron gente… 
+",La provincia a la que pertenecen los informadores es Castellón.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: ¿La grabadora está en marcha ya?  ¿Sí? Bueno, pues le vamos a hacer primero un par de preguntas que son de, de forma… para… Usted se llama, entonces, Anonimizado. 
+I1: Sí. 
+E1: Y tiene, ¿cuántos años, Anonimizado? 
+I1: Yo tengo setenta_y_dos años. 
+E1: Setenta_y_dos años. De aquí, de Puebla_de_Arenoso de toda la vida. 
+I1: Sí, yo he nacido, no le digo, en una aldea, que se llamaba Torcas. 
+E1: ¿Torcas? Y eso estaba, me dije, dónde ahora… Porque, ¿hay un embalse aquí? 
+I1: Sí, el embalse de Arenós, está cubierto por las aguas, donde yo he nacido. Están las casas, que las derribaron, se nos han caído, pero están envueltas de agua. 
+E1: ¿Y cuándo se hizo aquello? El embalse. 
+I1: El embalse… se empezó a construir… allá por el año… 71, 72. 
+E1: Y vinieron gente… 
+",La provincia a la que pertenecen los informadores es Castellón.
+"Dime la provincia del siguiente texto: E1: ¿La grabadora está en marcha ya?  ¿Sí? Bueno, pues le vamos a hacer primero un par de preguntas que son de, de forma… para… Usted se llama, entonces, Anonimizado. 
+I1: Sí. 
+E1: Y tiene, ¿cuántos años, Anonimizado? 
+I1: Yo tengo setenta_y_dos años. 
+E1: Setenta_y_dos años. De aquí, de Puebla_de_Arenoso de toda la vida. 
+I1: Sí, yo he nacido, no le digo, en una aldea, que se llamaba Torcas. 
+E1: ¿Torcas? Y eso estaba, me dije, dónde ahora… Porque, ¿hay un embalse aquí? 
+I1: Sí, el embalse de Arenós, está cubierto por las aguas, donde yo he nacido. Están las casas, que las derribaron, se nos han caído, pero están envueltas de agua. 
+E1: ¿Y cuándo se hizo aquello? El embalse. 
+I1: El embalse… se empezó a construir… allá por el año… 71, 72. 
+E1: Y vinieron gente… 
+",La provincia a la que pertenecen los informadores es Castellón.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: ¿La grabadora está en marcha ya?  ¿Sí? Bueno, pues le vamos a hacer primero un par de preguntas que son de, de forma… para… Usted se llama, entonces, Anonimizado. 
+I1: Sí. 
+E1: Y tiene, ¿cuántos años, Anonimizado? 
+I1: Yo tengo setenta_y_dos años. 
+E1: Setenta_y_dos años. De aquí, de Puebla_de_Arenoso de toda la vida. 
+I1: Sí, yo he nacido, no le digo, en una aldea, que se llamaba Torcas. 
+E1: ¿Torcas? Y eso estaba, me dije, dónde ahora… Porque, ¿hay un embalse aquí? 
+I1: Sí, el embalse de Arenós, está cubierto por las aguas, donde yo he nacido. Están las casas, que las derribaron, se nos han caído, pero están envueltas de agua. 
+E1: ¿Y cuándo se hizo aquello? El embalse. 
+I1: El embalse… se empezó a construir… allá por el año… 71, 72. 
+E1: Y vinieron gente… 
+",La provincia a la que pertenecen los informadores es Castellón.
+"Dime de qué lugar es el siguiente texto:  E1: ¿La grabadora está en marcha ya?  ¿Sí? Bueno, pues le vamos a hacer primero un par de preguntas que son de, de forma… para… Usted se llama, entonces, Anonimizado. 
+I1: Sí. 
+E1: Y tiene, ¿cuántos años, Anonimizado? 
+I1: Yo tengo setenta_y_dos años. 
+E1: Setenta_y_dos años. De aquí, de Puebla_de_Arenoso de toda la vida. 
+I1: Sí, yo he nacido, no le digo, en una aldea, que se llamaba Torcas. 
+E1: ¿Torcas? Y eso estaba, me dije, dónde ahora… Porque, ¿hay un embalse aquí? 
+I1: Sí, el embalse de Arenós, está cubierto por las aguas, donde yo he nacido. Están las casas, que las derribaron, se nos han caído, pero están envueltas de agua. 
+E1: ¿Y cuándo se hizo aquello? El embalse. 
+I1: El embalse… se empezó a construir… allá por el año… 71, 72. 
+E1: Y vinieron gente… 
+",La provincia a la que pertenecen los informadores es Castellón.

@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: Claro, por hablar un rato… de las matanzas. ¿Le parece entonces que hablemos un rato? A ver, cómo… 
+E2: Si quita la radio un poquito. Porque es que si no, cuando…  Coge, anda, coge una silla si quieres… 
+I1: .  
+E1: Es que si no, no nos da tiempo a escribir… tan rápido como usted habla. 
+E2: ¿Cómo se pronuncia el nombre de este pueblo? ¿Humeda, o cómo? 
+I1: Humada. 
+E2: Humada.  Humada. 
+E1: T1 A ver, pues, ¿cómo, cómo hacían la matanza? Bueno, primero, ¿cómo criaban los cerdos? 
+I1: He criao muchos, pero, pero, pero yo no sé cómo tenga que explicároslo.
+E1: Pero ¿qué, qué echaban a los cerdos de comer o…? 
+I1: Piensos. 
+",La provincia a la que pertenecen los informadores es Burgos.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: Claro, por hablar un rato… de las matanzas. ¿Le parece entonces que hablemos un rato? A ver, cómo… 
+E2: Si quita la radio un poquito. Porque es que si no, cuando…  Coge, anda, coge una silla si quieres… 
+I1: .  
+E1: Es que si no, no nos da tiempo a escribir… tan rápido como usted habla. 
+E2: ¿Cómo se pronuncia el nombre de este pueblo? ¿Humeda, o cómo? 
+I1: Humada. 
+E2: Humada.  Humada. 
+E1: T1 A ver, pues, ¿cómo, cómo hacían la matanza? Bueno, primero, ¿cómo criaban los cerdos? 
+I1: He criao muchos, pero, pero, pero yo no sé cómo tenga que explicároslo.
+E1: Pero ¿qué, qué echaban a los cerdos de comer o…? 
+I1: Piensos. 
+",La provincia a la que pertenecen los informadores es Burgos.
+"Dime la provincia del siguiente texto: E1: Claro, por hablar un rato… de las matanzas. ¿Le parece entonces que hablemos un rato? A ver, cómo… 
+E2: Si quita la radio un poquito. Porque es que si no, cuando…  Coge, anda, coge una silla si quieres… 
+I1: .  
+E1: Es que si no, no nos da tiempo a escribir… tan rápido como usted habla. 
+E2: ¿Cómo se pronuncia el nombre de este pueblo? ¿Humeda, o cómo? 
+I1: Humada. 
+E2: Humada.  Humada. 
+E1: T1 A ver, pues, ¿cómo, cómo hacían la matanza? Bueno, primero, ¿cómo criaban los cerdos? 
+I1: He criao muchos, pero, pero, pero yo no sé cómo tenga que explicároslo.
+E1: Pero ¿qué, qué echaban a los cerdos de comer o…? 
+I1: Piensos. 
+",La provincia a la que pertenecen los informadores es Burgos.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: Claro, por hablar un rato… de las matanzas. ¿Le parece entonces que hablemos un rato? A ver, cómo… 
+E2: Si quita la radio un poquito. Porque es que si no, cuando…  Coge, anda, coge una silla si quieres… 
+I1: .  
+E1: Es que si no, no nos da tiempo a escribir… tan rápido como usted habla. 
+E2: ¿Cómo se pronuncia el nombre de este pueblo? ¿Humeda, o cómo? 
+I1: Humada. 
+E2: Humada.  Humada. 
+E1: T1 A ver, pues, ¿cómo, cómo hacían la matanza? Bueno, primero, ¿cómo criaban los cerdos? 
+I1: He criao muchos, pero, pero, pero yo no sé cómo tenga que explicároslo.
+E1: Pero ¿qué, qué echaban a los cerdos de comer o…? 
+I1: Piensos. 
+",La provincia a la que pertenecen los informadores es Burgos.
+"Dime de qué lugar es el siguiente texto:  E1: Claro, por hablar un rato… de las matanzas. ¿Le parece entonces que hablemos un rato? A ver, cómo… 
+E2: Si quita la radio un poquito. Porque es que si no, cuando…  Coge, anda, coge una silla si quieres… 
+I1: .  
+E1: Es que si no, no nos da tiempo a escribir… tan rápido como usted habla. 
+E2: ¿Cómo se pronuncia el nombre de este pueblo? ¿Humeda, o cómo? 
+I1: Humada. 
+E2: Humada.  Humada. 
+E1: T1 A ver, pues, ¿cómo, cómo hacían la matanza? Bueno, primero, ¿cómo criaban los cerdos? 
+I1: He criao muchos, pero, pero, pero yo no sé cómo tenga que explicároslo.
+E1: Pero ¿qué, qué echaban a los cerdos de comer o…? 
+I1: Piensos. 
+",La provincia a la que pertenecen los informadores es Burgos.

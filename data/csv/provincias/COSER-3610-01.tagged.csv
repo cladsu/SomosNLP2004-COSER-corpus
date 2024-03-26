@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: T16 Yo, tres que he tenido, tres han nacido en casa, . los tres que he tenido, tres han nacido… y jamás me vio ni curó ningún médico antes de nacer. 
+E1: ¿Quién asistía entonces? 
+I1: El médico del pueblo, cuando iba a dar a luz. Pero a mí nadie, nadie, nadie, yo no fui nunca a que me viera nadie, nadie, nadie, nadie de nada. 
+E1: ¿Y las señoras?, ¿las demás? 
+I1: Pues la mayoría, la mayoría eran aquí del pueblo, yo aquí fui, y aquí fuimos las demás, porque yo tu-, tuve una hermana que tiene otros tuvo cuatro, otra que tuvo tres y otra que tuvo otros tres, y todos los hemos tenido en el pueblo, el médico, el médico que había en ese momento, pues te asiste el parto, pero, en todo, en todo momento no…  Yo no fui nunca a que me viera, ni, ni, ni si estaba inflamada, si tenía la tensión, si tenía alergia, yo nunca, nunca, nunca me vio el médico,  nunca… 
+E1: había comadres o comadronas? 
+I1: Bueno, pues comadronas había alguna, y alguna es a mí me daba más miedo de las comadronas, porque las comadronas es una mujer que, que se dedica precisamente, pu-, pu-, pues que es,  un poquito arrestada… 
+E1: ¿Cómo? 
+I1: Arrestada, podríamos decir, que, que se arresta a decir, voy a sacar, pero sin saber nada de nada, o sea, que, que, que de ver a otra, como le cortan el, el ombligo, el cordón, lo hacía, R_Tlf pero no porque, porque en realidad…
+E2: Supiera. R_Tlf 
+I1: Supiera nada, ¿no? 
+",La provincia a la que pertenecen los informadores es Salamanca.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: T16 Yo, tres que he tenido, tres han nacido en casa, . los tres que he tenido, tres han nacido… y jamás me vio ni curó ningún médico antes de nacer. 
+E1: ¿Quién asistía entonces? 
+I1: El médico del pueblo, cuando iba a dar a luz. Pero a mí nadie, nadie, nadie, yo no fui nunca a que me viera nadie, nadie, nadie, nadie de nada. 
+E1: ¿Y las señoras?, ¿las demás? 
+I1: Pues la mayoría, la mayoría eran aquí del pueblo, yo aquí fui, y aquí fuimos las demás, porque yo tu-, tuve una hermana que tiene otros tuvo cuatro, otra que tuvo tres y otra que tuvo otros tres, y todos los hemos tenido en el pueblo, el médico, el médico que había en ese momento, pues te asiste el parto, pero, en todo, en todo momento no…  Yo no fui nunca a que me viera, ni, ni, ni si estaba inflamada, si tenía la tensión, si tenía alergia, yo nunca, nunca, nunca me vio el médico,  nunca… 
+E1: había comadres o comadronas? 
+I1: Bueno, pues comadronas había alguna, y alguna es a mí me daba más miedo de las comadronas, porque las comadronas es una mujer que, que se dedica precisamente, pu-, pu-, pues que es,  un poquito arrestada… 
+E1: ¿Cómo? 
+I1: Arrestada, podríamos decir, que, que se arresta a decir, voy a sacar, pero sin saber nada de nada, o sea, que, que, que de ver a otra, como le cortan el, el ombligo, el cordón, lo hacía, R_Tlf pero no porque, porque en realidad…
+E2: Supiera. R_Tlf 
+I1: Supiera nada, ¿no? 
+",La provincia a la que pertenecen los informadores es Salamanca.
+"Dime la provincia del siguiente texto: I1: T16 Yo, tres que he tenido, tres han nacido en casa, . los tres que he tenido, tres han nacido… y jamás me vio ni curó ningún médico antes de nacer. 
+E1: ¿Quién asistía entonces? 
+I1: El médico del pueblo, cuando iba a dar a luz. Pero a mí nadie, nadie, nadie, yo no fui nunca a que me viera nadie, nadie, nadie, nadie de nada. 
+E1: ¿Y las señoras?, ¿las demás? 
+I1: Pues la mayoría, la mayoría eran aquí del pueblo, yo aquí fui, y aquí fuimos las demás, porque yo tu-, tuve una hermana que tiene otros tuvo cuatro, otra que tuvo tres y otra que tuvo otros tres, y todos los hemos tenido en el pueblo, el médico, el médico que había en ese momento, pues te asiste el parto, pero, en todo, en todo momento no…  Yo no fui nunca a que me viera, ni, ni, ni si estaba inflamada, si tenía la tensión, si tenía alergia, yo nunca, nunca, nunca me vio el médico,  nunca… 
+E1: había comadres o comadronas? 
+I1: Bueno, pues comadronas había alguna, y alguna es a mí me daba más miedo de las comadronas, porque las comadronas es una mujer que, que se dedica precisamente, pu-, pu-, pues que es,  un poquito arrestada… 
+E1: ¿Cómo? 
+I1: Arrestada, podríamos decir, que, que se arresta a decir, voy a sacar, pero sin saber nada de nada, o sea, que, que, que de ver a otra, como le cortan el, el ombligo, el cordón, lo hacía, R_Tlf pero no porque, porque en realidad…
+E2: Supiera. R_Tlf 
+I1: Supiera nada, ¿no? 
+",La provincia a la que pertenecen los informadores es Salamanca.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: T16 Yo, tres que he tenido, tres han nacido en casa, . los tres que he tenido, tres han nacido… y jamás me vio ni curó ningún médico antes de nacer. 
+E1: ¿Quién asistía entonces? 
+I1: El médico del pueblo, cuando iba a dar a luz. Pero a mí nadie, nadie, nadie, yo no fui nunca a que me viera nadie, nadie, nadie, nadie de nada. 
+E1: ¿Y las señoras?, ¿las demás? 
+I1: Pues la mayoría, la mayoría eran aquí del pueblo, yo aquí fui, y aquí fuimos las demás, porque yo tu-, tuve una hermana que tiene otros tuvo cuatro, otra que tuvo tres y otra que tuvo otros tres, y todos los hemos tenido en el pueblo, el médico, el médico que había en ese momento, pues te asiste el parto, pero, en todo, en todo momento no…  Yo no fui nunca a que me viera, ni, ni, ni si estaba inflamada, si tenía la tensión, si tenía alergia, yo nunca, nunca, nunca me vio el médico,  nunca… 
+E1: había comadres o comadronas? 
+I1: Bueno, pues comadronas había alguna, y alguna es a mí me daba más miedo de las comadronas, porque las comadronas es una mujer que, que se dedica precisamente, pu-, pu-, pues que es,  un poquito arrestada… 
+E1: ¿Cómo? 
+I1: Arrestada, podríamos decir, que, que se arresta a decir, voy a sacar, pero sin saber nada de nada, o sea, que, que, que de ver a otra, como le cortan el, el ombligo, el cordón, lo hacía, R_Tlf pero no porque, porque en realidad…
+E2: Supiera. R_Tlf 
+I1: Supiera nada, ¿no? 
+",La provincia a la que pertenecen los informadores es Salamanca.
+"Dime de qué lugar es el siguiente texto:  I1: T16 Yo, tres que he tenido, tres han nacido en casa, . los tres que he tenido, tres han nacido… y jamás me vio ni curó ningún médico antes de nacer. 
+E1: ¿Quién asistía entonces? 
+I1: El médico del pueblo, cuando iba a dar a luz. Pero a mí nadie, nadie, nadie, yo no fui nunca a que me viera nadie, nadie, nadie, nadie de nada. 
+E1: ¿Y las señoras?, ¿las demás? 
+I1: Pues la mayoría, la mayoría eran aquí del pueblo, yo aquí fui, y aquí fuimos las demás, porque yo tu-, tuve una hermana que tiene otros tuvo cuatro, otra que tuvo tres y otra que tuvo otros tres, y todos los hemos tenido en el pueblo, el médico, el médico que había en ese momento, pues te asiste el parto, pero, en todo, en todo momento no…  Yo no fui nunca a que me viera, ni, ni, ni si estaba inflamada, si tenía la tensión, si tenía alergia, yo nunca, nunca, nunca me vio el médico,  nunca… 
+E1: había comadres o comadronas? 
+I1: Bueno, pues comadronas había alguna, y alguna es a mí me daba más miedo de las comadronas, porque las comadronas es una mujer que, que se dedica precisamente, pu-, pu-, pues que es,  un poquito arrestada… 
+E1: ¿Cómo? 
+I1: Arrestada, podríamos decir, que, que se arresta a decir, voy a sacar, pero sin saber nada de nada, o sea, que, que, que de ver a otra, como le cortan el, el ombligo, el cordón, lo hacía, R_Tlf pero no porque, porque en realidad…
+E2: Supiera. R_Tlf 
+I1: Supiera nada, ¿no? 
+",La provincia a la que pertenecen los informadores es Salamanca.

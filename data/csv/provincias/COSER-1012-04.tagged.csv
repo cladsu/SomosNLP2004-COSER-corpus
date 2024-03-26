@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. IE:  IE: Que se están acabando los . 
+E1: ¿Los qué? 
+I1: Los .  A-Crt ¿Jarandilla? 
+E1: Jarandilla, que  ya nos han contado.  
+I1: T15 pues las fiestas, una de las más principales de Jarandilla es la Virgen_de_Sopetrán. 
+E1: La Virgen_de_Sopetrán. 
+I1: La gente es muy devota de ella, y la hacen muchas fiestas, y sale la Virgen en procesión y van los danzantes delante de la Virgen… danzando con cintas y cosas, y es muy bonita. Y eso esel día después de la Ascensión, el domingo después de la Ascensión. Como… 
+E1: nan
+I1: Eso, el día después de la Ascensión, sí. ¿Y qué más te digo? Y que se hace mucha… muchos dulces… 
+E1: Ay, la comida, sí. 
+I1: Perrunillas, roscas. 
+",La provincia a la que pertenecen los informadores es Cáceres.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: IE:  IE: Que se están acabando los . 
+E1: ¿Los qué? 
+I1: Los .  A-Crt ¿Jarandilla? 
+E1: Jarandilla, que  ya nos han contado.  
+I1: T15 pues las fiestas, una de las más principales de Jarandilla es la Virgen_de_Sopetrán. 
+E1: La Virgen_de_Sopetrán. 
+I1: La gente es muy devota de ella, y la hacen muchas fiestas, y sale la Virgen en procesión y van los danzantes delante de la Virgen… danzando con cintas y cosas, y es muy bonita. Y eso esel día después de la Ascensión, el domingo después de la Ascensión. Como… 
+E1: nan
+I1: Eso, el día después de la Ascensión, sí. ¿Y qué más te digo? Y que se hace mucha… muchos dulces… 
+E1: Ay, la comida, sí. 
+I1: Perrunillas, roscas. 
+",La provincia a la que pertenecen los informadores es Cáceres.
+"Dime la provincia del siguiente texto: IE:  IE: Que se están acabando los . 
+E1: ¿Los qué? 
+I1: Los .  A-Crt ¿Jarandilla? 
+E1: Jarandilla, que  ya nos han contado.  
+I1: T15 pues las fiestas, una de las más principales de Jarandilla es la Virgen_de_Sopetrán. 
+E1: La Virgen_de_Sopetrán. 
+I1: La gente es muy devota de ella, y la hacen muchas fiestas, y sale la Virgen en procesión y van los danzantes delante de la Virgen… danzando con cintas y cosas, y es muy bonita. Y eso esel día después de la Ascensión, el domingo después de la Ascensión. Como… 
+E1: nan
+I1: Eso, el día después de la Ascensión, sí. ¿Y qué más te digo? Y que se hace mucha… muchos dulces… 
+E1: Ay, la comida, sí. 
+I1: Perrunillas, roscas. 
+",La provincia a la que pertenecen los informadores es Cáceres.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: IE:  IE: Que se están acabando los . 
+E1: ¿Los qué? 
+I1: Los .  A-Crt ¿Jarandilla? 
+E1: Jarandilla, que  ya nos han contado.  
+I1: T15 pues las fiestas, una de las más principales de Jarandilla es la Virgen_de_Sopetrán. 
+E1: La Virgen_de_Sopetrán. 
+I1: La gente es muy devota de ella, y la hacen muchas fiestas, y sale la Virgen en procesión y van los danzantes delante de la Virgen… danzando con cintas y cosas, y es muy bonita. Y eso esel día después de la Ascensión, el domingo después de la Ascensión. Como… 
+E1: nan
+I1: Eso, el día después de la Ascensión, sí. ¿Y qué más te digo? Y que se hace mucha… muchos dulces… 
+E1: Ay, la comida, sí. 
+I1: Perrunillas, roscas. 
+",La provincia a la que pertenecen los informadores es Cáceres.
+"Dime de qué lugar es el siguiente texto:  IE:  IE: Que se están acabando los . 
+E1: ¿Los qué? 
+I1: Los .  A-Crt ¿Jarandilla? 
+E1: Jarandilla, que  ya nos han contado.  
+I1: T15 pues las fiestas, una de las más principales de Jarandilla es la Virgen_de_Sopetrán. 
+E1: La Virgen_de_Sopetrán. 
+I1: La gente es muy devota de ella, y la hacen muchas fiestas, y sale la Virgen en procesión y van los danzantes delante de la Virgen… danzando con cintas y cosas, y es muy bonita. Y eso esel día después de la Ascensión, el domingo después de la Ascensión. Como… 
+E1: nan
+I1: Eso, el día después de la Ascensión, sí. ¿Y qué más te digo? Y que se hace mucha… muchos dulces… 
+E1: Ay, la comida, sí. 
+I1: Perrunillas, roscas. 
+",La provincia a la que pertenecen los informadores es Cáceres.

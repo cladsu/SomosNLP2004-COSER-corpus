@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T13 ¿Ah, sí?  ¿Dónde? 
+I1: No tengo padre ni madre, están muertos todos. Si yo tenía no más qu-, yo tengo no más que un hermano.  
+E1: nos sentamos si no le importa? Estaremos más cómodos. 
+I1: Aquí podemos. Aquí que está mejó . Aquí no se sienta ya ninguno. Pues CARRASP yo no tengo padre ni madreyo tenía dos hermanos, uno que tenía en Córdoba, y, y otro que…, que estaba aquí casao con una de Casariche. Entonces yo al venirme ya por la pensión, ¿no?, no tenía a nadie en Córdoba.
+E1: Me deja que le ponga el micrófono aquí… Muchísimas gracias. No se preocupe, que esto es solo para nosotros. 
+I1:  Yo no tenía nadie en Córdoba, ¿no?  Entonces yo,¿qué voy a hacer? Pos venirme a un sitio donde estaba mi hermano, y como mi hermano estaba aquí casao, . pues yo me vino al calor de un hermano, ¿no? 
+E1: Sí, sí. 
+I1: Entonces yo estaba con él, pos eso, pero él estaba casao con una de Casariche. Entonces yo me vine cuando terminé cuando me te-, me tuvieron dá la pensión. Entonces es que me vine aquí con mi hermano poque
+E1: Sí, que cada vez… 
+I1:  ¡Eso es! Mi hermano también taba casao. En fin, que yo allí en Córdoba ya no tengo a nadie, nada, digo: «Pues me vengo aquí».
+E1: Y usted… 
+",La provincia a la que pertenecen los informadores es Sevilla.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T13 ¿Ah, sí?  ¿Dónde? 
+I1: No tengo padre ni madre, están muertos todos. Si yo tenía no más qu-, yo tengo no más que un hermano.  
+E1: nos sentamos si no le importa? Estaremos más cómodos. 
+I1: Aquí podemos. Aquí que está mejó . Aquí no se sienta ya ninguno. Pues CARRASP yo no tengo padre ni madreyo tenía dos hermanos, uno que tenía en Córdoba, y, y otro que…, que estaba aquí casao con una de Casariche. Entonces yo al venirme ya por la pensión, ¿no?, no tenía a nadie en Córdoba.
+E1: Me deja que le ponga el micrófono aquí… Muchísimas gracias. No se preocupe, que esto es solo para nosotros. 
+I1:  Yo no tenía nadie en Córdoba, ¿no?  Entonces yo,¿qué voy a hacer? Pos venirme a un sitio donde estaba mi hermano, y como mi hermano estaba aquí casao, . pues yo me vino al calor de un hermano, ¿no? 
+E1: Sí, sí. 
+I1: Entonces yo estaba con él, pos eso, pero él estaba casao con una de Casariche. Entonces yo me vine cuando terminé cuando me te-, me tuvieron dá la pensión. Entonces es que me vine aquí con mi hermano poque
+E1: Sí, que cada vez… 
+I1:  ¡Eso es! Mi hermano también taba casao. En fin, que yo allí en Córdoba ya no tengo a nadie, nada, digo: «Pues me vengo aquí».
+E1: Y usted… 
+",La provincia a la que pertenecen los informadores es Sevilla.
+"Dime la provincia del siguiente texto: E1: T13 ¿Ah, sí?  ¿Dónde? 
+I1: No tengo padre ni madre, están muertos todos. Si yo tenía no más qu-, yo tengo no más que un hermano.  
+E1: nos sentamos si no le importa? Estaremos más cómodos. 
+I1: Aquí podemos. Aquí que está mejó . Aquí no se sienta ya ninguno. Pues CARRASP yo no tengo padre ni madreyo tenía dos hermanos, uno que tenía en Córdoba, y, y otro que…, que estaba aquí casao con una de Casariche. Entonces yo al venirme ya por la pensión, ¿no?, no tenía a nadie en Córdoba.
+E1: Me deja que le ponga el micrófono aquí… Muchísimas gracias. No se preocupe, que esto es solo para nosotros. 
+I1:  Yo no tenía nadie en Córdoba, ¿no?  Entonces yo,¿qué voy a hacer? Pos venirme a un sitio donde estaba mi hermano, y como mi hermano estaba aquí casao, . pues yo me vino al calor de un hermano, ¿no? 
+E1: Sí, sí. 
+I1: Entonces yo estaba con él, pos eso, pero él estaba casao con una de Casariche. Entonces yo me vine cuando terminé cuando me te-, me tuvieron dá la pensión. Entonces es que me vine aquí con mi hermano poque
+E1: Sí, que cada vez… 
+I1:  ¡Eso es! Mi hermano también taba casao. En fin, que yo allí en Córdoba ya no tengo a nadie, nada, digo: «Pues me vengo aquí».
+E1: Y usted… 
+",La provincia a la que pertenecen los informadores es Sevilla.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T13 ¿Ah, sí?  ¿Dónde? 
+I1: No tengo padre ni madre, están muertos todos. Si yo tenía no más qu-, yo tengo no más que un hermano.  
+E1: nos sentamos si no le importa? Estaremos más cómodos. 
+I1: Aquí podemos. Aquí que está mejó . Aquí no se sienta ya ninguno. Pues CARRASP yo no tengo padre ni madreyo tenía dos hermanos, uno que tenía en Córdoba, y, y otro que…, que estaba aquí casao con una de Casariche. Entonces yo al venirme ya por la pensión, ¿no?, no tenía a nadie en Córdoba.
+E1: Me deja que le ponga el micrófono aquí… Muchísimas gracias. No se preocupe, que esto es solo para nosotros. 
+I1:  Yo no tenía nadie en Córdoba, ¿no?  Entonces yo,¿qué voy a hacer? Pos venirme a un sitio donde estaba mi hermano, y como mi hermano estaba aquí casao, . pues yo me vino al calor de un hermano, ¿no? 
+E1: Sí, sí. 
+I1: Entonces yo estaba con él, pos eso, pero él estaba casao con una de Casariche. Entonces yo me vine cuando terminé cuando me te-, me tuvieron dá la pensión. Entonces es que me vine aquí con mi hermano poque
+E1: Sí, que cada vez… 
+I1:  ¡Eso es! Mi hermano también taba casao. En fin, que yo allí en Córdoba ya no tengo a nadie, nada, digo: «Pues me vengo aquí».
+E1: Y usted… 
+",La provincia a la que pertenecen los informadores es Sevilla.
+"Dime de qué lugar es el siguiente texto:  E1: T13 ¿Ah, sí?  ¿Dónde? 
+I1: No tengo padre ni madre, están muertos todos. Si yo tenía no más qu-, yo tengo no más que un hermano.  
+E1: nos sentamos si no le importa? Estaremos más cómodos. 
+I1: Aquí podemos. Aquí que está mejó . Aquí no se sienta ya ninguno. Pues CARRASP yo no tengo padre ni madreyo tenía dos hermanos, uno que tenía en Córdoba, y, y otro que…, que estaba aquí casao con una de Casariche. Entonces yo al venirme ya por la pensión, ¿no?, no tenía a nadie en Córdoba.
+E1: Me deja que le ponga el micrófono aquí… Muchísimas gracias. No se preocupe, que esto es solo para nosotros. 
+I1:  Yo no tenía nadie en Córdoba, ¿no?  Entonces yo,¿qué voy a hacer? Pos venirme a un sitio donde estaba mi hermano, y como mi hermano estaba aquí casao, . pues yo me vino al calor de un hermano, ¿no? 
+E1: Sí, sí. 
+I1: Entonces yo estaba con él, pos eso, pero él estaba casao con una de Casariche. Entonces yo me vine cuando terminé cuando me te-, me tuvieron dá la pensión. Entonces es que me vine aquí con mi hermano poque
+E1: Sí, que cada vez… 
+I1:  ¡Eso es! Mi hermano también taba casao. En fin, que yo allí en Córdoba ya no tengo a nadie, nada, digo: «Pues me vengo aquí».
+E1: Y usted… 
+",La provincia a la que pertenecen los informadores es Sevilla.

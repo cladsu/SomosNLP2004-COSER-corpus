@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T1 Bueno, cerramos la puerta que si no, nos…,con el ruido de los camiones, no…, no, no sale nada. Aquí, ¿cómo…, cómo mataban el cerdo aquí? ¿Cómo? 
+I1: ¿Cómo lo matan? ¿Cómo lo seguimos matando?A-Nul mato siempre. 
+E1: ¿Usted sigue matando todavía? ¿Sí? 
+I1: P-Enf:Sí. Y hago la conserva en casa y todo,  vaya, los jamones y todo eso, vamos, todo. 
+E1: sí, sí… ¿Y cómo mataban? ¿Cómo? 
+I1: Bueno, lo matábamos, pues, en…, claro, se saca se trae un matachín, se coloca en una banca el cerdo y se…   Espera, ¿hablamos una o hablamos dos? 
+E1: Sí, eso es,  que si no, no sale nada. 
+I1: Es que si no, no sale nada. Ya lo veo. Entonces nada, se coge el matachín, con una, se ata el cerdo, en una… un… en una argolla, vamos a decir, o algo así para que no pueda, para que no estire, cuando estira el cerdo que no…, que no se vaya para adelante, se quita la sangre… Entonces después, se lava, se chumarra… 
+E1: ¿Pero no tienen que…, que pinchar primero…? 
+I1: Bueno, pinchan, claro, saca la sangre. Bien. Se bate la sangre para si queremos hacer morcillas. . Entonces con la sangre se hacen las morcillas. Después, se chumarra el cerdo con helechos . y después una vez ya chumarrao , chumarrao
+E1: ¿Y ahora? No, y ahora no… 
+",La provincia a la que pertenecen los informadores es La Rioja.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T1 Bueno, cerramos la puerta que si no, nos…,con el ruido de los camiones, no…, no, no sale nada. Aquí, ¿cómo…, cómo mataban el cerdo aquí? ¿Cómo? 
+I1: ¿Cómo lo matan? ¿Cómo lo seguimos matando?A-Nul mato siempre. 
+E1: ¿Usted sigue matando todavía? ¿Sí? 
+I1: P-Enf:Sí. Y hago la conserva en casa y todo,  vaya, los jamones y todo eso, vamos, todo. 
+E1: sí, sí… ¿Y cómo mataban? ¿Cómo? 
+I1: Bueno, lo matábamos, pues, en…, claro, se saca se trae un matachín, se coloca en una banca el cerdo y se…   Espera, ¿hablamos una o hablamos dos? 
+E1: Sí, eso es,  que si no, no sale nada. 
+I1: Es que si no, no sale nada. Ya lo veo. Entonces nada, se coge el matachín, con una, se ata el cerdo, en una… un… en una argolla, vamos a decir, o algo así para que no pueda, para que no estire, cuando estira el cerdo que no…, que no se vaya para adelante, se quita la sangre… Entonces después, se lava, se chumarra… 
+E1: ¿Pero no tienen que…, que pinchar primero…? 
+I1: Bueno, pinchan, claro, saca la sangre. Bien. Se bate la sangre para si queremos hacer morcillas. . Entonces con la sangre se hacen las morcillas. Después, se chumarra el cerdo con helechos . y después una vez ya chumarrao , chumarrao
+E1: ¿Y ahora? No, y ahora no… 
+",La provincia a la que pertenecen los informadores es La Rioja.
+"Dime la provincia del siguiente texto: E1: T1 Bueno, cerramos la puerta que si no, nos…,con el ruido de los camiones, no…, no, no sale nada. Aquí, ¿cómo…, cómo mataban el cerdo aquí? ¿Cómo? 
+I1: ¿Cómo lo matan? ¿Cómo lo seguimos matando?A-Nul mato siempre. 
+E1: ¿Usted sigue matando todavía? ¿Sí? 
+I1: P-Enf:Sí. Y hago la conserva en casa y todo,  vaya, los jamones y todo eso, vamos, todo. 
+E1: sí, sí… ¿Y cómo mataban? ¿Cómo? 
+I1: Bueno, lo matábamos, pues, en…, claro, se saca se trae un matachín, se coloca en una banca el cerdo y se…   Espera, ¿hablamos una o hablamos dos? 
+E1: Sí, eso es,  que si no, no sale nada. 
+I1: Es que si no, no sale nada. Ya lo veo. Entonces nada, se coge el matachín, con una, se ata el cerdo, en una… un… en una argolla, vamos a decir, o algo así para que no pueda, para que no estire, cuando estira el cerdo que no…, que no se vaya para adelante, se quita la sangre… Entonces después, se lava, se chumarra… 
+E1: ¿Pero no tienen que…, que pinchar primero…? 
+I1: Bueno, pinchan, claro, saca la sangre. Bien. Se bate la sangre para si queremos hacer morcillas. . Entonces con la sangre se hacen las morcillas. Después, se chumarra el cerdo con helechos . y después una vez ya chumarrao , chumarrao
+E1: ¿Y ahora? No, y ahora no… 
+",La provincia a la que pertenecen los informadores es La Rioja.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T1 Bueno, cerramos la puerta que si no, nos…,con el ruido de los camiones, no…, no, no sale nada. Aquí, ¿cómo…, cómo mataban el cerdo aquí? ¿Cómo? 
+I1: ¿Cómo lo matan? ¿Cómo lo seguimos matando?A-Nul mato siempre. 
+E1: ¿Usted sigue matando todavía? ¿Sí? 
+I1: P-Enf:Sí. Y hago la conserva en casa y todo,  vaya, los jamones y todo eso, vamos, todo. 
+E1: sí, sí… ¿Y cómo mataban? ¿Cómo? 
+I1: Bueno, lo matábamos, pues, en…, claro, se saca se trae un matachín, se coloca en una banca el cerdo y se…   Espera, ¿hablamos una o hablamos dos? 
+E1: Sí, eso es,  que si no, no sale nada. 
+I1: Es que si no, no sale nada. Ya lo veo. Entonces nada, se coge el matachín, con una, se ata el cerdo, en una… un… en una argolla, vamos a decir, o algo así para que no pueda, para que no estire, cuando estira el cerdo que no…, que no se vaya para adelante, se quita la sangre… Entonces después, se lava, se chumarra… 
+E1: ¿Pero no tienen que…, que pinchar primero…? 
+I1: Bueno, pinchan, claro, saca la sangre. Bien. Se bate la sangre para si queremos hacer morcillas. . Entonces con la sangre se hacen las morcillas. Después, se chumarra el cerdo con helechos . y después una vez ya chumarrao , chumarrao
+E1: ¿Y ahora? No, y ahora no… 
+",La provincia a la que pertenecen los informadores es La Rioja.
+"Dime de qué lugar es el siguiente texto:  E1: T1 Bueno, cerramos la puerta que si no, nos…,con el ruido de los camiones, no…, no, no sale nada. Aquí, ¿cómo…, cómo mataban el cerdo aquí? ¿Cómo? 
+I1: ¿Cómo lo matan? ¿Cómo lo seguimos matando?A-Nul mato siempre. 
+E1: ¿Usted sigue matando todavía? ¿Sí? 
+I1: P-Enf:Sí. Y hago la conserva en casa y todo,  vaya, los jamones y todo eso, vamos, todo. 
+E1: sí, sí… ¿Y cómo mataban? ¿Cómo? 
+I1: Bueno, lo matábamos, pues, en…, claro, se saca se trae un matachín, se coloca en una banca el cerdo y se…   Espera, ¿hablamos una o hablamos dos? 
+E1: Sí, eso es,  que si no, no sale nada. 
+I1: Es que si no, no sale nada. Ya lo veo. Entonces nada, se coge el matachín, con una, se ata el cerdo, en una… un… en una argolla, vamos a decir, o algo así para que no pueda, para que no estire, cuando estira el cerdo que no…, que no se vaya para adelante, se quita la sangre… Entonces después, se lava, se chumarra… 
+E1: ¿Pero no tienen que…, que pinchar primero…? 
+I1: Bueno, pinchan, claro, saca la sangre. Bien. Se bate la sangre para si queremos hacer morcillas. . Entonces con la sangre se hacen las morcillas. Después, se chumarra el cerdo con helechos . y después una vez ya chumarrao , chumarrao
+E1: ¿Y ahora? No, y ahora no… 
+",La provincia a la que pertenecen los informadores es La Rioja.

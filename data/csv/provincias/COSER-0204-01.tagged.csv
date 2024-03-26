@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1:  nosotros hemos encontrado a su hermano y su hermano a ustedes. 
+I2: Aquí los va a informar de, de, de pe a pa.
+E2: Vale,  estupendo. 
+E1: Anonimizado, cuéntenos. ¿Qué, qué cosas recuerda usted de…?  
+I2: ¿Por qué ? Tú diles lo primero. 
+I1: T11 Sí, sí, sí  de lo primero . Pos, que nací, por ejemplo, fija·os en los padres, pos, que hicieron cosas que no debieron de hacerlas, pero las, las hicieron, cuando la revolución de la, de la guerra, la revolución que entonces, V-Sml pues hicieron cosas malas, malas, malas. No malas en el sentido de mala, no como por ejemplo  ¿Queréis un cafetito caliente o algo?¡Os lo traigo! quemar los santos, de aquellos… 
+E2: Ah, no,  muchas gracias, no se preocupe. No, de verdad muchas gracias. Muchas gracias, Anonimizado. 
+I1: .  Como quemar los santos, ¿Sabes? Y  Porque no, que no… La gente hay una revolución que pescaban y, y se iban a trabajar más que hablando y discutiendo que si esto que si lo otro, . que si la tierra repartila pa los pobres, que la, la repartieron. La repartieron, pero… repartirlas, pero eso. No era de ellos, pero quitaron que quitar. Y se hicieron muchas cosas mal hechas de feas, oía yo. Por ejemplo, ¿tú te acuerdas de Anonimizado?
+I2: Sí. 
+I1: Aquel hombre tenía unas tierras buenismas , que eran las de Callacabras. Y resulta de que en la guerra, como hubo un dinero, de unos y de otros yo qué sé si derecho y torcío
+I2: Claro. 
+",La provincia a la que pertenecen los informadores es Albacete.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1:  nosotros hemos encontrado a su hermano y su hermano a ustedes. 
+I2: Aquí los va a informar de, de, de pe a pa.
+E2: Vale,  estupendo. 
+E1: Anonimizado, cuéntenos. ¿Qué, qué cosas recuerda usted de…?  
+I2: ¿Por qué ? Tú diles lo primero. 
+I1: T11 Sí, sí, sí  de lo primero . Pos, que nací, por ejemplo, fija·os en los padres, pos, que hicieron cosas que no debieron de hacerlas, pero las, las hicieron, cuando la revolución de la, de la guerra, la revolución que entonces, V-Sml pues hicieron cosas malas, malas, malas. No malas en el sentido de mala, no como por ejemplo  ¿Queréis un cafetito caliente o algo?¡Os lo traigo! quemar los santos, de aquellos… 
+E2: Ah, no,  muchas gracias, no se preocupe. No, de verdad muchas gracias. Muchas gracias, Anonimizado. 
+I1: .  Como quemar los santos, ¿Sabes? Y  Porque no, que no… La gente hay una revolución que pescaban y, y se iban a trabajar más que hablando y discutiendo que si esto que si lo otro, . que si la tierra repartila pa los pobres, que la, la repartieron. La repartieron, pero… repartirlas, pero eso. No era de ellos, pero quitaron que quitar. Y se hicieron muchas cosas mal hechas de feas, oía yo. Por ejemplo, ¿tú te acuerdas de Anonimizado?
+I2: Sí. 
+I1: Aquel hombre tenía unas tierras buenismas , que eran las de Callacabras. Y resulta de que en la guerra, como hubo un dinero, de unos y de otros yo qué sé si derecho y torcío
+I2: Claro. 
+",La provincia a la que pertenecen los informadores es Albacete.
+"Dime la provincia del siguiente texto: E1:  nosotros hemos encontrado a su hermano y su hermano a ustedes. 
+I2: Aquí los va a informar de, de, de pe a pa.
+E2: Vale,  estupendo. 
+E1: Anonimizado, cuéntenos. ¿Qué, qué cosas recuerda usted de…?  
+I2: ¿Por qué ? Tú diles lo primero. 
+I1: T11 Sí, sí, sí  de lo primero . Pos, que nací, por ejemplo, fija·os en los padres, pos, que hicieron cosas que no debieron de hacerlas, pero las, las hicieron, cuando la revolución de la, de la guerra, la revolución que entonces, V-Sml pues hicieron cosas malas, malas, malas. No malas en el sentido de mala, no como por ejemplo  ¿Queréis un cafetito caliente o algo?¡Os lo traigo! quemar los santos, de aquellos… 
+E2: Ah, no,  muchas gracias, no se preocupe. No, de verdad muchas gracias. Muchas gracias, Anonimizado. 
+I1: .  Como quemar los santos, ¿Sabes? Y  Porque no, que no… La gente hay una revolución que pescaban y, y se iban a trabajar más que hablando y discutiendo que si esto que si lo otro, . que si la tierra repartila pa los pobres, que la, la repartieron. La repartieron, pero… repartirlas, pero eso. No era de ellos, pero quitaron que quitar. Y se hicieron muchas cosas mal hechas de feas, oía yo. Por ejemplo, ¿tú te acuerdas de Anonimizado?
+I2: Sí. 
+I1: Aquel hombre tenía unas tierras buenismas , que eran las de Callacabras. Y resulta de que en la guerra, como hubo un dinero, de unos y de otros yo qué sé si derecho y torcío
+I2: Claro. 
+",La provincia a la que pertenecen los informadores es Albacete.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1:  nosotros hemos encontrado a su hermano y su hermano a ustedes. 
+I2: Aquí los va a informar de, de, de pe a pa.
+E2: Vale,  estupendo. 
+E1: Anonimizado, cuéntenos. ¿Qué, qué cosas recuerda usted de…?  
+I2: ¿Por qué ? Tú diles lo primero. 
+I1: T11 Sí, sí, sí  de lo primero . Pos, que nací, por ejemplo, fija·os en los padres, pos, que hicieron cosas que no debieron de hacerlas, pero las, las hicieron, cuando la revolución de la, de la guerra, la revolución que entonces, V-Sml pues hicieron cosas malas, malas, malas. No malas en el sentido de mala, no como por ejemplo  ¿Queréis un cafetito caliente o algo?¡Os lo traigo! quemar los santos, de aquellos… 
+E2: Ah, no,  muchas gracias, no se preocupe. No, de verdad muchas gracias. Muchas gracias, Anonimizado. 
+I1: .  Como quemar los santos, ¿Sabes? Y  Porque no, que no… La gente hay una revolución que pescaban y, y se iban a trabajar más que hablando y discutiendo que si esto que si lo otro, . que si la tierra repartila pa los pobres, que la, la repartieron. La repartieron, pero… repartirlas, pero eso. No era de ellos, pero quitaron que quitar. Y se hicieron muchas cosas mal hechas de feas, oía yo. Por ejemplo, ¿tú te acuerdas de Anonimizado?
+I2: Sí. 
+I1: Aquel hombre tenía unas tierras buenismas , que eran las de Callacabras. Y resulta de que en la guerra, como hubo un dinero, de unos y de otros yo qué sé si derecho y torcío
+I2: Claro. 
+",La provincia a la que pertenecen los informadores es Albacete.
+"Dime de qué lugar es el siguiente texto:  E1:  nosotros hemos encontrado a su hermano y su hermano a ustedes. 
+I2: Aquí los va a informar de, de, de pe a pa.
+E2: Vale,  estupendo. 
+E1: Anonimizado, cuéntenos. ¿Qué, qué cosas recuerda usted de…?  
+I2: ¿Por qué ? Tú diles lo primero. 
+I1: T11 Sí, sí, sí  de lo primero . Pos, que nací, por ejemplo, fija·os en los padres, pos, que hicieron cosas que no debieron de hacerlas, pero las, las hicieron, cuando la revolución de la, de la guerra, la revolución que entonces, V-Sml pues hicieron cosas malas, malas, malas. No malas en el sentido de mala, no como por ejemplo  ¿Queréis un cafetito caliente o algo?¡Os lo traigo! quemar los santos, de aquellos… 
+E2: Ah, no,  muchas gracias, no se preocupe. No, de verdad muchas gracias. Muchas gracias, Anonimizado. 
+I1: .  Como quemar los santos, ¿Sabes? Y  Porque no, que no… La gente hay una revolución que pescaban y, y se iban a trabajar más que hablando y discutiendo que si esto que si lo otro, . que si la tierra repartila pa los pobres, que la, la repartieron. La repartieron, pero… repartirlas, pero eso. No era de ellos, pero quitaron que quitar. Y se hicieron muchas cosas mal hechas de feas, oía yo. Por ejemplo, ¿tú te acuerdas de Anonimizado?
+I2: Sí. 
+I1: Aquel hombre tenía unas tierras buenismas , que eran las de Callacabras. Y resulta de que en la guerra, como hubo un dinero, de unos y de otros yo qué sé si derecho y torcío
+I2: Claro. 
+",La provincia a la que pertenecen los informadores es Albacete.

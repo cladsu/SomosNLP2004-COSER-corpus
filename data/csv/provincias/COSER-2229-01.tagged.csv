@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T1 ¿Usted ha participado en muchas matanzas? ¿Ha visto muchas matanzas? ¿Cómo…, cómo se mataba a los cerdos…? Más o menos, cuéntenos un poquito… 
+I1: Pues, mira, ¿no ves que en casa también… éramos muchos hermanos? Y matábamos, pues por lo menos tres…, si no eran cuatro…, cerdos, ¿eh?  Y ahora, a última hora, ya se mati-, ya los cogían con… la pala del tractor, ¿sabes? 
+I2: Mataba mi pa-, mi padre, ¿eh?  Mi padre era el matachín.  
+I1: Pues lo…, ahora ya lo cogían con el tractor, pero en aquellos años… tenían que entrar a la zolle. ¿Sabes lo que es una zolle? ¿No? 
+E1:  No…, es que no sabemos nada.  
+I2: pon la zolle, que se llamaba, se llama aquí ozolle.  
+E1: ¿Cómo? 
+I2: La zolle.  Era… pues un cuadro…  Los cerdos. Y les daban de comer. 
+I1: Que aquí hablamos muy mal. 
+E1:  Qué va… 
+E2: No, hombre, para la  que tienes… A-Nul.  
+",La provincia a la que pertenecen los informadores es Huesca.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T1 ¿Usted ha participado en muchas matanzas? ¿Ha visto muchas matanzas? ¿Cómo…, cómo se mataba a los cerdos…? Más o menos, cuéntenos un poquito… 
+I1: Pues, mira, ¿no ves que en casa también… éramos muchos hermanos? Y matábamos, pues por lo menos tres…, si no eran cuatro…, cerdos, ¿eh?  Y ahora, a última hora, ya se mati-, ya los cogían con… la pala del tractor, ¿sabes? 
+I2: Mataba mi pa-, mi padre, ¿eh?  Mi padre era el matachín.  
+I1: Pues lo…, ahora ya lo cogían con el tractor, pero en aquellos años… tenían que entrar a la zolle. ¿Sabes lo que es una zolle? ¿No? 
+E1:  No…, es que no sabemos nada.  
+I2: pon la zolle, que se llamaba, se llama aquí ozolle.  
+E1: ¿Cómo? 
+I2: La zolle.  Era… pues un cuadro…  Los cerdos. Y les daban de comer. 
+I1: Que aquí hablamos muy mal. 
+E1:  Qué va… 
+E2: No, hombre, para la  que tienes… A-Nul.  
+",La provincia a la que pertenecen los informadores es Huesca.
+"Dime la provincia del siguiente texto: E1: T1 ¿Usted ha participado en muchas matanzas? ¿Ha visto muchas matanzas? ¿Cómo…, cómo se mataba a los cerdos…? Más o menos, cuéntenos un poquito… 
+I1: Pues, mira, ¿no ves que en casa también… éramos muchos hermanos? Y matábamos, pues por lo menos tres…, si no eran cuatro…, cerdos, ¿eh?  Y ahora, a última hora, ya se mati-, ya los cogían con… la pala del tractor, ¿sabes? 
+I2: Mataba mi pa-, mi padre, ¿eh?  Mi padre era el matachín.  
+I1: Pues lo…, ahora ya lo cogían con el tractor, pero en aquellos años… tenían que entrar a la zolle. ¿Sabes lo que es una zolle? ¿No? 
+E1:  No…, es que no sabemos nada.  
+I2: pon la zolle, que se llamaba, se llama aquí ozolle.  
+E1: ¿Cómo? 
+I2: La zolle.  Era… pues un cuadro…  Los cerdos. Y les daban de comer. 
+I1: Que aquí hablamos muy mal. 
+E1:  Qué va… 
+E2: No, hombre, para la  que tienes… A-Nul.  
+",La provincia a la que pertenecen los informadores es Huesca.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T1 ¿Usted ha participado en muchas matanzas? ¿Ha visto muchas matanzas? ¿Cómo…, cómo se mataba a los cerdos…? Más o menos, cuéntenos un poquito… 
+I1: Pues, mira, ¿no ves que en casa también… éramos muchos hermanos? Y matábamos, pues por lo menos tres…, si no eran cuatro…, cerdos, ¿eh?  Y ahora, a última hora, ya se mati-, ya los cogían con… la pala del tractor, ¿sabes? 
+I2: Mataba mi pa-, mi padre, ¿eh?  Mi padre era el matachín.  
+I1: Pues lo…, ahora ya lo cogían con el tractor, pero en aquellos años… tenían que entrar a la zolle. ¿Sabes lo que es una zolle? ¿No? 
+E1:  No…, es que no sabemos nada.  
+I2: pon la zolle, que se llamaba, se llama aquí ozolle.  
+E1: ¿Cómo? 
+I2: La zolle.  Era… pues un cuadro…  Los cerdos. Y les daban de comer. 
+I1: Que aquí hablamos muy mal. 
+E1:  Qué va… 
+E2: No, hombre, para la  que tienes… A-Nul.  
+",La provincia a la que pertenecen los informadores es Huesca.
+"Dime de qué lugar es el siguiente texto:  E1: T1 ¿Usted ha participado en muchas matanzas? ¿Ha visto muchas matanzas? ¿Cómo…, cómo se mataba a los cerdos…? Más o menos, cuéntenos un poquito… 
+I1: Pues, mira, ¿no ves que en casa también… éramos muchos hermanos? Y matábamos, pues por lo menos tres…, si no eran cuatro…, cerdos, ¿eh?  Y ahora, a última hora, ya se mati-, ya los cogían con… la pala del tractor, ¿sabes? 
+I2: Mataba mi pa-, mi padre, ¿eh?  Mi padre era el matachín.  
+I1: Pues lo…, ahora ya lo cogían con el tractor, pero en aquellos años… tenían que entrar a la zolle. ¿Sabes lo que es una zolle? ¿No? 
+E1:  No…, es que no sabemos nada.  
+I2: pon la zolle, que se llamaba, se llama aquí ozolle.  
+E1: ¿Cómo? 
+I2: La zolle.  Era… pues un cuadro…  Los cerdos. Y les daban de comer. 
+I1: Que aquí hablamos muy mal. 
+E1:  Qué va… 
+E2: No, hombre, para la  que tienes… A-Nul.  
+",La provincia a la que pertenecen los informadores es Huesca.

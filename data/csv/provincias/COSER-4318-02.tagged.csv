@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: ¿Quién? 
+IE:  IE: Soy Anonimizado.
+I1: Ah, sí.  Sube. Dime. 
+IE:  IE:  Anonimizado, espérate un segundo. 
+I1: ¿Qué? 
+IE:  IE: Me he encontrado a estos chicos por la calle. 
+E1: Hola, ¿qué hay? 
+E2: Hola, buenas. 
+IE:  IE: Me están preguntando si co-, si conozco algún, conozco alguna persona que conozca de las costumbres populares y digo mira: «Tengo una vecina…  que ha escrito un libro, y que sabe ». 
+I1: No, la que ha escrito un libro, yo la he ayudao, pero es mi amiga Anonimizado.  
+IE:  IE: Pero que tú estabas de coticular ahí…
+",La provincia a la que pertenecen los informadores es Valencia.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: ¿Quién? 
+IE:  IE: Soy Anonimizado.
+I1: Ah, sí.  Sube. Dime. 
+IE:  IE:  Anonimizado, espérate un segundo. 
+I1: ¿Qué? 
+IE:  IE: Me he encontrado a estos chicos por la calle. 
+E1: Hola, ¿qué hay? 
+E2: Hola, buenas. 
+IE:  IE: Me están preguntando si co-, si conozco algún, conozco alguna persona que conozca de las costumbres populares y digo mira: «Tengo una vecina…  que ha escrito un libro, y que sabe ». 
+I1: No, la que ha escrito un libro, yo la he ayudao, pero es mi amiga Anonimizado.  
+IE:  IE: Pero que tú estabas de coticular ahí…
+",La provincia a la que pertenecen los informadores es Valencia.
+"Dime la provincia del siguiente texto: I1: ¿Quién? 
+IE:  IE: Soy Anonimizado.
+I1: Ah, sí.  Sube. Dime. 
+IE:  IE:  Anonimizado, espérate un segundo. 
+I1: ¿Qué? 
+IE:  IE: Me he encontrado a estos chicos por la calle. 
+E1: Hola, ¿qué hay? 
+E2: Hola, buenas. 
+IE:  IE: Me están preguntando si co-, si conozco algún, conozco alguna persona que conozca de las costumbres populares y digo mira: «Tengo una vecina…  que ha escrito un libro, y que sabe ». 
+I1: No, la que ha escrito un libro, yo la he ayudao, pero es mi amiga Anonimizado.  
+IE:  IE: Pero que tú estabas de coticular ahí…
+",La provincia a la que pertenecen los informadores es Valencia.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: ¿Quién? 
+IE:  IE: Soy Anonimizado.
+I1: Ah, sí.  Sube. Dime. 
+IE:  IE:  Anonimizado, espérate un segundo. 
+I1: ¿Qué? 
+IE:  IE: Me he encontrado a estos chicos por la calle. 
+E1: Hola, ¿qué hay? 
+E2: Hola, buenas. 
+IE:  IE: Me están preguntando si co-, si conozco algún, conozco alguna persona que conozca de las costumbres populares y digo mira: «Tengo una vecina…  que ha escrito un libro, y que sabe ». 
+I1: No, la que ha escrito un libro, yo la he ayudao, pero es mi amiga Anonimizado.  
+IE:  IE: Pero que tú estabas de coticular ahí…
+",La provincia a la que pertenecen los informadores es Valencia.
+"Dime de qué lugar es el siguiente texto:  I1: ¿Quién? 
+IE:  IE: Soy Anonimizado.
+I1: Ah, sí.  Sube. Dime. 
+IE:  IE:  Anonimizado, espérate un segundo. 
+I1: ¿Qué? 
+IE:  IE: Me he encontrado a estos chicos por la calle. 
+E1: Hola, ¿qué hay? 
+E2: Hola, buenas. 
+IE:  IE: Me están preguntando si co-, si conozco algún, conozco alguna persona que conozca de las costumbres populares y digo mira: «Tengo una vecina…  que ha escrito un libro, y que sabe ». 
+I1: No, la que ha escrito un libro, yo la he ayudao, pero es mi amiga Anonimizado.  
+IE:  IE: Pero que tú estabas de coticular ahí…
+",La provincia a la que pertenecen los informadores es Valencia.

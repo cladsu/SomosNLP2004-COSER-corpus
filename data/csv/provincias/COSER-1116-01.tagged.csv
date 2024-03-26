@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I2: Maricón, le decía cacón,  cacón, cacón… y cacón… Y un hermano tengo aquí que le llaman elAnonimizado Pescadilla, porque mi padre vendía pescado. Y él se le quedó elAnonimizado Pescadilla, y todo el mundo lo conoce por elAnonimizado Pescadilla. 
+E1: Y todo el mundo tiene mote, ¿no? Y… 
+I2: Todo el mundo tiene mote. 
+E1: Tiene un apodo con el que… V-MrmHCruz:Pilar,  Piedad, ¿le, le vas a preguntar tú…?  
+E2: HCruz:¿Tú me has pedido un cuaderno? 
+E1: Sí, yo me ocupo de esto.Sí. Gracias, gracias. 
+E2: Bueno, ¿entonces usted ha nacido aquí y…? ¡Ah!, nació en Medina. ¿Y cuándo, cuándo se vino para, para…  aquí? En el 36. ¿Y cuántos años tenía usted ya? 
+I1: Pues siete años. 
+E2: Siete años. 
+I1: .
+E2: T1 ¿Y, y la y… aquí había matanza en este pueblo? 
+",La provincia a la que pertenecen los informadores es Cádiz.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I2: Maricón, le decía cacón,  cacón, cacón… y cacón… Y un hermano tengo aquí que le llaman elAnonimizado Pescadilla, porque mi padre vendía pescado. Y él se le quedó elAnonimizado Pescadilla, y todo el mundo lo conoce por elAnonimizado Pescadilla. 
+E1: Y todo el mundo tiene mote, ¿no? Y… 
+I2: Todo el mundo tiene mote. 
+E1: Tiene un apodo con el que… V-MrmHCruz:Pilar,  Piedad, ¿le, le vas a preguntar tú…?  
+E2: HCruz:¿Tú me has pedido un cuaderno? 
+E1: Sí, yo me ocupo de esto.Sí. Gracias, gracias. 
+E2: Bueno, ¿entonces usted ha nacido aquí y…? ¡Ah!, nació en Medina. ¿Y cuándo, cuándo se vino para, para…  aquí? En el 36. ¿Y cuántos años tenía usted ya? 
+I1: Pues siete años. 
+E2: Siete años. 
+I1: .
+E2: T1 ¿Y, y la y… aquí había matanza en este pueblo? 
+",La provincia a la que pertenecen los informadores es Cádiz.
+"Dime la provincia del siguiente texto: I2: Maricón, le decía cacón,  cacón, cacón… y cacón… Y un hermano tengo aquí que le llaman elAnonimizado Pescadilla, porque mi padre vendía pescado. Y él se le quedó elAnonimizado Pescadilla, y todo el mundo lo conoce por elAnonimizado Pescadilla. 
+E1: Y todo el mundo tiene mote, ¿no? Y… 
+I2: Todo el mundo tiene mote. 
+E1: Tiene un apodo con el que… V-MrmHCruz:Pilar,  Piedad, ¿le, le vas a preguntar tú…?  
+E2: HCruz:¿Tú me has pedido un cuaderno? 
+E1: Sí, yo me ocupo de esto.Sí. Gracias, gracias. 
+E2: Bueno, ¿entonces usted ha nacido aquí y…? ¡Ah!, nació en Medina. ¿Y cuándo, cuándo se vino para, para…  aquí? En el 36. ¿Y cuántos años tenía usted ya? 
+I1: Pues siete años. 
+E2: Siete años. 
+I1: .
+E2: T1 ¿Y, y la y… aquí había matanza en este pueblo? 
+",La provincia a la que pertenecen los informadores es Cádiz.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I2: Maricón, le decía cacón,  cacón, cacón… y cacón… Y un hermano tengo aquí que le llaman elAnonimizado Pescadilla, porque mi padre vendía pescado. Y él se le quedó elAnonimizado Pescadilla, y todo el mundo lo conoce por elAnonimizado Pescadilla. 
+E1: Y todo el mundo tiene mote, ¿no? Y… 
+I2: Todo el mundo tiene mote. 
+E1: Tiene un apodo con el que… V-MrmHCruz:Pilar,  Piedad, ¿le, le vas a preguntar tú…?  
+E2: HCruz:¿Tú me has pedido un cuaderno? 
+E1: Sí, yo me ocupo de esto.Sí. Gracias, gracias. 
+E2: Bueno, ¿entonces usted ha nacido aquí y…? ¡Ah!, nació en Medina. ¿Y cuándo, cuándo se vino para, para…  aquí? En el 36. ¿Y cuántos años tenía usted ya? 
+I1: Pues siete años. 
+E2: Siete años. 
+I1: .
+E2: T1 ¿Y, y la y… aquí había matanza en este pueblo? 
+",La provincia a la que pertenecen los informadores es Cádiz.
+"Dime de qué lugar es el siguiente texto:  I2: Maricón, le decía cacón,  cacón, cacón… y cacón… Y un hermano tengo aquí que le llaman elAnonimizado Pescadilla, porque mi padre vendía pescado. Y él se le quedó elAnonimizado Pescadilla, y todo el mundo lo conoce por elAnonimizado Pescadilla. 
+E1: Y todo el mundo tiene mote, ¿no? Y… 
+I2: Todo el mundo tiene mote. 
+E1: Tiene un apodo con el que… V-MrmHCruz:Pilar,  Piedad, ¿le, le vas a preguntar tú…?  
+E2: HCruz:¿Tú me has pedido un cuaderno? 
+E1: Sí, yo me ocupo de esto.Sí. Gracias, gracias. 
+E2: Bueno, ¿entonces usted ha nacido aquí y…? ¡Ah!, nació en Medina. ¿Y cuándo, cuándo se vino para, para…  aquí? En el 36. ¿Y cuántos años tenía usted ya? 
+I1: Pues siete años. 
+E2: Siete años. 
+I1: .
+E2: T1 ¿Y, y la y… aquí había matanza en este pueblo? 
+",La provincia a la que pertenecen los informadores es Cádiz.

@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: Yo me llamo Anonimizado. 
+E1: Anonimizado, ¿qué más? 
+I1: Anonimizado. 
+E1: ¿Y tiene usted cuántos años? 
+I1: Cincuenta_y_seis . 
+E1: Trabaja usted, ¿en…, en qué? 
+I1: En el campo. 
+E1: ¿Qué… cultivan aquí? 
+I1: Aquí, bueno… 
+I2: De todo y… de nada. 
+I1: Lo que es el campo. 
+",La provincia a la que pertenecen los informadores es Toledo.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: Yo me llamo Anonimizado. 
+E1: Anonimizado, ¿qué más? 
+I1: Anonimizado. 
+E1: ¿Y tiene usted cuántos años? 
+I1: Cincuenta_y_seis . 
+E1: Trabaja usted, ¿en…, en qué? 
+I1: En el campo. 
+E1: ¿Qué… cultivan aquí? 
+I1: Aquí, bueno… 
+I2: De todo y… de nada. 
+I1: Lo que es el campo. 
+",La provincia a la que pertenecen los informadores es Toledo.
+"Dime la provincia del siguiente texto: I1: Yo me llamo Anonimizado. 
+E1: Anonimizado, ¿qué más? 
+I1: Anonimizado. 
+E1: ¿Y tiene usted cuántos años? 
+I1: Cincuenta_y_seis . 
+E1: Trabaja usted, ¿en…, en qué? 
+I1: En el campo. 
+E1: ¿Qué… cultivan aquí? 
+I1: Aquí, bueno… 
+I2: De todo y… de nada. 
+I1: Lo que es el campo. 
+",La provincia a la que pertenecen los informadores es Toledo.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: Yo me llamo Anonimizado. 
+E1: Anonimizado, ¿qué más? 
+I1: Anonimizado. 
+E1: ¿Y tiene usted cuántos años? 
+I1: Cincuenta_y_seis . 
+E1: Trabaja usted, ¿en…, en qué? 
+I1: En el campo. 
+E1: ¿Qué… cultivan aquí? 
+I1: Aquí, bueno… 
+I2: De todo y… de nada. 
+I1: Lo que es el campo. 
+",La provincia a la que pertenecen los informadores es Toledo.
+"Dime de qué lugar es el siguiente texto:  I1: Yo me llamo Anonimizado. 
+E1: Anonimizado, ¿qué más? 
+I1: Anonimizado. 
+E1: ¿Y tiene usted cuántos años? 
+I1: Cincuenta_y_seis . 
+E1: Trabaja usted, ¿en…, en qué? 
+I1: En el campo. 
+E1: ¿Qué… cultivan aquí? 
+I1: Aquí, bueno… 
+I2: De todo y… de nada. 
+I1: Lo que es el campo. 
+",La provincia a la que pertenecen los informadores es Toledo.

@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1:  Dígannos sus nombres. 
+I1: Anonimizado. 
+E1: ¿Y usted? 
+I2: Anonimizado. 
+E1: ¿Y usted? 
+I3: Yo, Anonimizado. 
+E1: Anonimizado. ¿Y… llevan mucho t-, viven siempre en este pueblo? 
+I1: Sí,  Bueno…, vivimos,  eso, vivimos ahí en… Barrio_Banastón.    Al lao del puente, eso. Pero… a misa venimos aquí.  Semos de aquí, de Banastón. Eso.
+E1: ¿Y sus padres también eran de aquí? 
+I1: No, de… HCruz:Hola, buenas. Ellos eran de La_Cueva, de… .  V-Sml De un pueblo que… se llamaba… Muro_de_Roda.  
+I2: nieta, estudiando A-Nul.  
+",La provincia a la que pertenecen los informadores es Huesca.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1:  Dígannos sus nombres. 
+I1: Anonimizado. 
+E1: ¿Y usted? 
+I2: Anonimizado. 
+E1: ¿Y usted? 
+I3: Yo, Anonimizado. 
+E1: Anonimizado. ¿Y… llevan mucho t-, viven siempre en este pueblo? 
+I1: Sí,  Bueno…, vivimos,  eso, vivimos ahí en… Barrio_Banastón.    Al lao del puente, eso. Pero… a misa venimos aquí.  Semos de aquí, de Banastón. Eso.
+E1: ¿Y sus padres también eran de aquí? 
+I1: No, de… HCruz:Hola, buenas. Ellos eran de La_Cueva, de… .  V-Sml De un pueblo que… se llamaba… Muro_de_Roda.  
+I2: nieta, estudiando A-Nul.  
+",La provincia a la que pertenecen los informadores es Huesca.
+"Dime la provincia del siguiente texto: E1:  Dígannos sus nombres. 
+I1: Anonimizado. 
+E1: ¿Y usted? 
+I2: Anonimizado. 
+E1: ¿Y usted? 
+I3: Yo, Anonimizado. 
+E1: Anonimizado. ¿Y… llevan mucho t-, viven siempre en este pueblo? 
+I1: Sí,  Bueno…, vivimos,  eso, vivimos ahí en… Barrio_Banastón.    Al lao del puente, eso. Pero… a misa venimos aquí.  Semos de aquí, de Banastón. Eso.
+E1: ¿Y sus padres también eran de aquí? 
+I1: No, de… HCruz:Hola, buenas. Ellos eran de La_Cueva, de… .  V-Sml De un pueblo que… se llamaba… Muro_de_Roda.  
+I2: nieta, estudiando A-Nul.  
+",La provincia a la que pertenecen los informadores es Huesca.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1:  Dígannos sus nombres. 
+I1: Anonimizado. 
+E1: ¿Y usted? 
+I2: Anonimizado. 
+E1: ¿Y usted? 
+I3: Yo, Anonimizado. 
+E1: Anonimizado. ¿Y… llevan mucho t-, viven siempre en este pueblo? 
+I1: Sí,  Bueno…, vivimos,  eso, vivimos ahí en… Barrio_Banastón.    Al lao del puente, eso. Pero… a misa venimos aquí.  Semos de aquí, de Banastón. Eso.
+E1: ¿Y sus padres también eran de aquí? 
+I1: No, de… HCruz:Hola, buenas. Ellos eran de La_Cueva, de… .  V-Sml De un pueblo que… se llamaba… Muro_de_Roda.  
+I2: nieta, estudiando A-Nul.  
+",La provincia a la que pertenecen los informadores es Huesca.
+"Dime de qué lugar es el siguiente texto:  E1:  Dígannos sus nombres. 
+I1: Anonimizado. 
+E1: ¿Y usted? 
+I2: Anonimizado. 
+E1: ¿Y usted? 
+I3: Yo, Anonimizado. 
+E1: Anonimizado. ¿Y… llevan mucho t-, viven siempre en este pueblo? 
+I1: Sí,  Bueno…, vivimos,  eso, vivimos ahí en… Barrio_Banastón.    Al lao del puente, eso. Pero… a misa venimos aquí.  Semos de aquí, de Banastón. Eso.
+E1: ¿Y sus padres también eran de aquí? 
+I1: No, de… HCruz:Hola, buenas. Ellos eran de La_Cueva, de… .  V-Sml De un pueblo que… se llamaba… Muro_de_Roda.  
+I2: nieta, estudiando A-Nul.  
+",La provincia a la que pertenecen los informadores es Huesca.

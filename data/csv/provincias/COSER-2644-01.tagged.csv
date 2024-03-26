@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: Claro, pa hilarla, pa hilarla, sí.
+E1: Sí. 
+I1: Anda, pues venís a ver buenas cosas vosotros por aquí. 
+E1: Sí, venimos y… entonces. 
+I1:  ¡Ay, Dios mío, de Madrid nada menos! 
+E1: Sí, estamos haciendo un trabajo sobre la vida tradicional y todas esas costumbres que se han perdido, yo le confieso que mire que llevo años haciéndolo y nunca he visto a nadie abrir la lana ni hilarla, en casi ningún sitio se hace ya. Aquí todavía ¿ustedes sí hilan la lana? 
+I1: Sí, aún la hilan, sí, aún la hilamos alguna, no, ahora aquí ya no, pero na más tres o cuatro viejas, pero, pero aún también alguna vez que otra hilamos algo.
+E1: ¿Sí? ¿Y ustedes le importaría que nos sentemos aquí un poquito mientras, y nos cuente un poco…? 
+I1: Sí, esta, esta, esta señora, que es la que sabe,  no, no, yo no sé nada, no ves que yo… Pero dile dónde se sientan. 
+E1: Aquí en el suelo. 
+I1:  ¡En el suelo, no, hombre!¡Cómo en el suelo! 
+",La provincia a la que pertenecen los informadores es León.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: Claro, pa hilarla, pa hilarla, sí.
+E1: Sí. 
+I1: Anda, pues venís a ver buenas cosas vosotros por aquí. 
+E1: Sí, venimos y… entonces. 
+I1:  ¡Ay, Dios mío, de Madrid nada menos! 
+E1: Sí, estamos haciendo un trabajo sobre la vida tradicional y todas esas costumbres que se han perdido, yo le confieso que mire que llevo años haciéndolo y nunca he visto a nadie abrir la lana ni hilarla, en casi ningún sitio se hace ya. Aquí todavía ¿ustedes sí hilan la lana? 
+I1: Sí, aún la hilan, sí, aún la hilamos alguna, no, ahora aquí ya no, pero na más tres o cuatro viejas, pero, pero aún también alguna vez que otra hilamos algo.
+E1: ¿Sí? ¿Y ustedes le importaría que nos sentemos aquí un poquito mientras, y nos cuente un poco…? 
+I1: Sí, esta, esta, esta señora, que es la que sabe,  no, no, yo no sé nada, no ves que yo… Pero dile dónde se sientan. 
+E1: Aquí en el suelo. 
+I1:  ¡En el suelo, no, hombre!¡Cómo en el suelo! 
+",La provincia a la que pertenecen los informadores es León.
+"Dime la provincia del siguiente texto: I1: Claro, pa hilarla, pa hilarla, sí.
+E1: Sí. 
+I1: Anda, pues venís a ver buenas cosas vosotros por aquí. 
+E1: Sí, venimos y… entonces. 
+I1:  ¡Ay, Dios mío, de Madrid nada menos! 
+E1: Sí, estamos haciendo un trabajo sobre la vida tradicional y todas esas costumbres que se han perdido, yo le confieso que mire que llevo años haciéndolo y nunca he visto a nadie abrir la lana ni hilarla, en casi ningún sitio se hace ya. Aquí todavía ¿ustedes sí hilan la lana? 
+I1: Sí, aún la hilan, sí, aún la hilamos alguna, no, ahora aquí ya no, pero na más tres o cuatro viejas, pero, pero aún también alguna vez que otra hilamos algo.
+E1: ¿Sí? ¿Y ustedes le importaría que nos sentemos aquí un poquito mientras, y nos cuente un poco…? 
+I1: Sí, esta, esta, esta señora, que es la que sabe,  no, no, yo no sé nada, no ves que yo… Pero dile dónde se sientan. 
+E1: Aquí en el suelo. 
+I1:  ¡En el suelo, no, hombre!¡Cómo en el suelo! 
+",La provincia a la que pertenecen los informadores es León.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: Claro, pa hilarla, pa hilarla, sí.
+E1: Sí. 
+I1: Anda, pues venís a ver buenas cosas vosotros por aquí. 
+E1: Sí, venimos y… entonces. 
+I1:  ¡Ay, Dios mío, de Madrid nada menos! 
+E1: Sí, estamos haciendo un trabajo sobre la vida tradicional y todas esas costumbres que se han perdido, yo le confieso que mire que llevo años haciéndolo y nunca he visto a nadie abrir la lana ni hilarla, en casi ningún sitio se hace ya. Aquí todavía ¿ustedes sí hilan la lana? 
+I1: Sí, aún la hilan, sí, aún la hilamos alguna, no, ahora aquí ya no, pero na más tres o cuatro viejas, pero, pero aún también alguna vez que otra hilamos algo.
+E1: ¿Sí? ¿Y ustedes le importaría que nos sentemos aquí un poquito mientras, y nos cuente un poco…? 
+I1: Sí, esta, esta, esta señora, que es la que sabe,  no, no, yo no sé nada, no ves que yo… Pero dile dónde se sientan. 
+E1: Aquí en el suelo. 
+I1:  ¡En el suelo, no, hombre!¡Cómo en el suelo! 
+",La provincia a la que pertenecen los informadores es León.
+"Dime de qué lugar es el siguiente texto:  I1: Claro, pa hilarla, pa hilarla, sí.
+E1: Sí. 
+I1: Anda, pues venís a ver buenas cosas vosotros por aquí. 
+E1: Sí, venimos y… entonces. 
+I1:  ¡Ay, Dios mío, de Madrid nada menos! 
+E1: Sí, estamos haciendo un trabajo sobre la vida tradicional y todas esas costumbres que se han perdido, yo le confieso que mire que llevo años haciéndolo y nunca he visto a nadie abrir la lana ni hilarla, en casi ningún sitio se hace ya. Aquí todavía ¿ustedes sí hilan la lana? 
+I1: Sí, aún la hilan, sí, aún la hilamos alguna, no, ahora aquí ya no, pero na más tres o cuatro viejas, pero, pero aún también alguna vez que otra hilamos algo.
+E1: ¿Sí? ¿Y ustedes le importaría que nos sentemos aquí un poquito mientras, y nos cuente un poco…? 
+I1: Sí, esta, esta, esta señora, que es la que sabe,  no, no, yo no sé nada, no ves que yo… Pero dile dónde se sientan. 
+E1: Aquí en el suelo. 
+I1:  ¡En el suelo, no, hombre!¡Cómo en el suelo! 
+",La provincia a la que pertenecen los informadores es León.

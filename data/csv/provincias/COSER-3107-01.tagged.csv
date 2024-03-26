@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1:  Y estamos buscando una persona que haya nacido en el pueblo  y que nos pudiera contar un poco cómo era la vida de antes. ¿Usted es de aquí del pueblo? ¿Ha nacido aquí en el pueblo? 
+I:  I: Sí. 
+E1: ¿Sí? ¿Y ha vivido siempre aquí en el pueblo? 
+I:  I: Sí. 
+E1: ¿Y le importaría que… hacerle unas preguntas y que nos contestara un poco cómo era la, la vida de antes y…? 
+I:  I: Sí. 
+E1: ¿Sí? Muy bien. 
+E2: Estupendo. 
+E3: Fenomenal, muchas gracias. 
+E1: Muchas gracias. 
+I:  I: Voy a poner aquí. 
+",La provincia a la que pertenecen los informadores es Murcia.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1:  Y estamos buscando una persona que haya nacido en el pueblo  y que nos pudiera contar un poco cómo era la vida de antes. ¿Usted es de aquí del pueblo? ¿Ha nacido aquí en el pueblo? 
+I:  I: Sí. 
+E1: ¿Sí? ¿Y ha vivido siempre aquí en el pueblo? 
+I:  I: Sí. 
+E1: ¿Y le importaría que… hacerle unas preguntas y que nos contestara un poco cómo era la, la vida de antes y…? 
+I:  I: Sí. 
+E1: ¿Sí? Muy bien. 
+E2: Estupendo. 
+E3: Fenomenal, muchas gracias. 
+E1: Muchas gracias. 
+I:  I: Voy a poner aquí. 
+",La provincia a la que pertenecen los informadores es Murcia.
+"Dime la provincia del siguiente texto: E1:  Y estamos buscando una persona que haya nacido en el pueblo  y que nos pudiera contar un poco cómo era la vida de antes. ¿Usted es de aquí del pueblo? ¿Ha nacido aquí en el pueblo? 
+I:  I: Sí. 
+E1: ¿Sí? ¿Y ha vivido siempre aquí en el pueblo? 
+I:  I: Sí. 
+E1: ¿Y le importaría que… hacerle unas preguntas y que nos contestara un poco cómo era la, la vida de antes y…? 
+I:  I: Sí. 
+E1: ¿Sí? Muy bien. 
+E2: Estupendo. 
+E3: Fenomenal, muchas gracias. 
+E1: Muchas gracias. 
+I:  I: Voy a poner aquí. 
+",La provincia a la que pertenecen los informadores es Murcia.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1:  Y estamos buscando una persona que haya nacido en el pueblo  y que nos pudiera contar un poco cómo era la vida de antes. ¿Usted es de aquí del pueblo? ¿Ha nacido aquí en el pueblo? 
+I:  I: Sí. 
+E1: ¿Sí? ¿Y ha vivido siempre aquí en el pueblo? 
+I:  I: Sí. 
+E1: ¿Y le importaría que… hacerle unas preguntas y que nos contestara un poco cómo era la, la vida de antes y…? 
+I:  I: Sí. 
+E1: ¿Sí? Muy bien. 
+E2: Estupendo. 
+E3: Fenomenal, muchas gracias. 
+E1: Muchas gracias. 
+I:  I: Voy a poner aquí. 
+",La provincia a la que pertenecen los informadores es Murcia.
+"Dime de qué lugar es el siguiente texto:  E1:  Y estamos buscando una persona que haya nacido en el pueblo  y que nos pudiera contar un poco cómo era la vida de antes. ¿Usted es de aquí del pueblo? ¿Ha nacido aquí en el pueblo? 
+I:  I: Sí. 
+E1: ¿Sí? ¿Y ha vivido siempre aquí en el pueblo? 
+I:  I: Sí. 
+E1: ¿Y le importaría que… hacerle unas preguntas y que nos contestara un poco cómo era la, la vida de antes y…? 
+I:  I: Sí. 
+E1: ¿Sí? Muy bien. 
+E2: Estupendo. 
+E3: Fenomenal, muchas gracias. 
+E1: Muchas gracias. 
+I:  I: Voy a poner aquí. 
+",La provincia a la que pertenecen los informadores es Murcia.

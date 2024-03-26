@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E:  E: T1 A ver, ¿cómo mataban al cerdo? 
+I:  I: ¿Que cómo le mataban? 
+E:  E: Sí, en la matanza. 
+I:  I: Pues con un cuchillo, ¿cómo le van a matar? 
+E:  E: ¿Con un cuchillo? ¿Y cómo le sacaban del cubil? 
+I:  I: ¿Cómo del cubil? Ah,  del…, del… Bueno, la matanza le sacaban de…, de la… Donde estaba, de la cochinera, ¿no? ¿O qué? Ah, tú explícamelo, que no sé. 
+E:  E: Sí, como nosotros no tenemos ni idea… 
+I:  I: Ah, bueno, pues mira, le traían y le echábamos en una mesa, en la mesa…le mataban con un cuchillo, entonces se cogía en un… barreño el… la sangre, se movía, para eso. Y luego se… socarraba con un…, con un soplete, con gas, porque antiguamente era con…, con escobones, pero ya es más moderno y entonces es con un soplete y se va otros pelando con unos cuchillos, se va pelando el eso. Luego se le abre, PS se le abre, se le saca todo… las tripas, todas las cosas del vientre, luego se le va sacando las costillas, se le va sacando… lo que es el morro, todo el morro, se le va haciendo luego… el la el magro, se va sacando para los chorizos y la gordura para las morcillas. Y luego el tocino se le hacen dos hojas grandes, todo lo último ya es el tocino, que se queda todo así ya que va sacando todo el magro y todo la gordura para las morcillas, y luego el tocino, lo último, y luego pues eso se pone en un saladero, el tocino, para salarlo, para… conservarlo un poco tiempo. Y los jamones, se los echa bien de sal, tapaditos de sal y se los conserva así un poco tiempo hasta que luego ya llega, bueno, pues mira, ¿cuántos meses será… que se tienen? En diciembre se mata, diciembre, enero, febre-, en abril se suelen… fregarlos para quitar la sal y luego se cuelgan, para tenerlos así hasta el tiempo que quieras tú tenerlos, dos o tres años, para que estén bien conservaos. Y los chorizos, cuando se pican luego se guisa con sal, pimentón y… ajo, se echa bien de ajo con un poquito vino. Nosotras echamos un poquito vino y un poquito agua. Se mueve y luego ya se…, se envosa con una máquina y se ata a mano. Se envosa
+E:  E: ¿Y cómo se sujeta al cerdo? 
+I:  I: Ay, el cerdo se sujeta entre unos cuantos. 
+E:  E: ¿Entre muchos? 
+",La provincia a la que pertenecen los informadores es Toledo.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E:  E: T1 A ver, ¿cómo mataban al cerdo? 
+I:  I: ¿Que cómo le mataban? 
+E:  E: Sí, en la matanza. 
+I:  I: Pues con un cuchillo, ¿cómo le van a matar? 
+E:  E: ¿Con un cuchillo? ¿Y cómo le sacaban del cubil? 
+I:  I: ¿Cómo del cubil? Ah,  del…, del… Bueno, la matanza le sacaban de…, de la… Donde estaba, de la cochinera, ¿no? ¿O qué? Ah, tú explícamelo, que no sé. 
+E:  E: Sí, como nosotros no tenemos ni idea… 
+I:  I: Ah, bueno, pues mira, le traían y le echábamos en una mesa, en la mesa…le mataban con un cuchillo, entonces se cogía en un… barreño el… la sangre, se movía, para eso. Y luego se… socarraba con un…, con un soplete, con gas, porque antiguamente era con…, con escobones, pero ya es más moderno y entonces es con un soplete y se va otros pelando con unos cuchillos, se va pelando el eso. Luego se le abre, PS se le abre, se le saca todo… las tripas, todas las cosas del vientre, luego se le va sacando las costillas, se le va sacando… lo que es el morro, todo el morro, se le va haciendo luego… el la el magro, se va sacando para los chorizos y la gordura para las morcillas. Y luego el tocino se le hacen dos hojas grandes, todo lo último ya es el tocino, que se queda todo así ya que va sacando todo el magro y todo la gordura para las morcillas, y luego el tocino, lo último, y luego pues eso se pone en un saladero, el tocino, para salarlo, para… conservarlo un poco tiempo. Y los jamones, se los echa bien de sal, tapaditos de sal y se los conserva así un poco tiempo hasta que luego ya llega, bueno, pues mira, ¿cuántos meses será… que se tienen? En diciembre se mata, diciembre, enero, febre-, en abril se suelen… fregarlos para quitar la sal y luego se cuelgan, para tenerlos así hasta el tiempo que quieras tú tenerlos, dos o tres años, para que estén bien conservaos. Y los chorizos, cuando se pican luego se guisa con sal, pimentón y… ajo, se echa bien de ajo con un poquito vino. Nosotras echamos un poquito vino y un poquito agua. Se mueve y luego ya se…, se envosa con una máquina y se ata a mano. Se envosa
+E:  E: ¿Y cómo se sujeta al cerdo? 
+I:  I: Ay, el cerdo se sujeta entre unos cuantos. 
+E:  E: ¿Entre muchos? 
+",La provincia a la que pertenecen los informadores es Toledo.
+"Dime la provincia del siguiente texto: E:  E: T1 A ver, ¿cómo mataban al cerdo? 
+I:  I: ¿Que cómo le mataban? 
+E:  E: Sí, en la matanza. 
+I:  I: Pues con un cuchillo, ¿cómo le van a matar? 
+E:  E: ¿Con un cuchillo? ¿Y cómo le sacaban del cubil? 
+I:  I: ¿Cómo del cubil? Ah,  del…, del… Bueno, la matanza le sacaban de…, de la… Donde estaba, de la cochinera, ¿no? ¿O qué? Ah, tú explícamelo, que no sé. 
+E:  E: Sí, como nosotros no tenemos ni idea… 
+I:  I: Ah, bueno, pues mira, le traían y le echábamos en una mesa, en la mesa…le mataban con un cuchillo, entonces se cogía en un… barreño el… la sangre, se movía, para eso. Y luego se… socarraba con un…, con un soplete, con gas, porque antiguamente era con…, con escobones, pero ya es más moderno y entonces es con un soplete y se va otros pelando con unos cuchillos, se va pelando el eso. Luego se le abre, PS se le abre, se le saca todo… las tripas, todas las cosas del vientre, luego se le va sacando las costillas, se le va sacando… lo que es el morro, todo el morro, se le va haciendo luego… el la el magro, se va sacando para los chorizos y la gordura para las morcillas. Y luego el tocino se le hacen dos hojas grandes, todo lo último ya es el tocino, que se queda todo así ya que va sacando todo el magro y todo la gordura para las morcillas, y luego el tocino, lo último, y luego pues eso se pone en un saladero, el tocino, para salarlo, para… conservarlo un poco tiempo. Y los jamones, se los echa bien de sal, tapaditos de sal y se los conserva así un poco tiempo hasta que luego ya llega, bueno, pues mira, ¿cuántos meses será… que se tienen? En diciembre se mata, diciembre, enero, febre-, en abril se suelen… fregarlos para quitar la sal y luego se cuelgan, para tenerlos así hasta el tiempo que quieras tú tenerlos, dos o tres años, para que estén bien conservaos. Y los chorizos, cuando se pican luego se guisa con sal, pimentón y… ajo, se echa bien de ajo con un poquito vino. Nosotras echamos un poquito vino y un poquito agua. Se mueve y luego ya se…, se envosa con una máquina y se ata a mano. Se envosa
+E:  E: ¿Y cómo se sujeta al cerdo? 
+I:  I: Ay, el cerdo se sujeta entre unos cuantos. 
+E:  E: ¿Entre muchos? 
+",La provincia a la que pertenecen los informadores es Toledo.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E:  E: T1 A ver, ¿cómo mataban al cerdo? 
+I:  I: ¿Que cómo le mataban? 
+E:  E: Sí, en la matanza. 
+I:  I: Pues con un cuchillo, ¿cómo le van a matar? 
+E:  E: ¿Con un cuchillo? ¿Y cómo le sacaban del cubil? 
+I:  I: ¿Cómo del cubil? Ah,  del…, del… Bueno, la matanza le sacaban de…, de la… Donde estaba, de la cochinera, ¿no? ¿O qué? Ah, tú explícamelo, que no sé. 
+E:  E: Sí, como nosotros no tenemos ni idea… 
+I:  I: Ah, bueno, pues mira, le traían y le echábamos en una mesa, en la mesa…le mataban con un cuchillo, entonces se cogía en un… barreño el… la sangre, se movía, para eso. Y luego se… socarraba con un…, con un soplete, con gas, porque antiguamente era con…, con escobones, pero ya es más moderno y entonces es con un soplete y se va otros pelando con unos cuchillos, se va pelando el eso. Luego se le abre, PS se le abre, se le saca todo… las tripas, todas las cosas del vientre, luego se le va sacando las costillas, se le va sacando… lo que es el morro, todo el morro, se le va haciendo luego… el la el magro, se va sacando para los chorizos y la gordura para las morcillas. Y luego el tocino se le hacen dos hojas grandes, todo lo último ya es el tocino, que se queda todo así ya que va sacando todo el magro y todo la gordura para las morcillas, y luego el tocino, lo último, y luego pues eso se pone en un saladero, el tocino, para salarlo, para… conservarlo un poco tiempo. Y los jamones, se los echa bien de sal, tapaditos de sal y se los conserva así un poco tiempo hasta que luego ya llega, bueno, pues mira, ¿cuántos meses será… que se tienen? En diciembre se mata, diciembre, enero, febre-, en abril se suelen… fregarlos para quitar la sal y luego se cuelgan, para tenerlos así hasta el tiempo que quieras tú tenerlos, dos o tres años, para que estén bien conservaos. Y los chorizos, cuando se pican luego se guisa con sal, pimentón y… ajo, se echa bien de ajo con un poquito vino. Nosotras echamos un poquito vino y un poquito agua. Se mueve y luego ya se…, se envosa con una máquina y se ata a mano. Se envosa
+E:  E: ¿Y cómo se sujeta al cerdo? 
+I:  I: Ay, el cerdo se sujeta entre unos cuantos. 
+E:  E: ¿Entre muchos? 
+",La provincia a la que pertenecen los informadores es Toledo.
+"Dime de qué lugar es el siguiente texto:  E:  E: T1 A ver, ¿cómo mataban al cerdo? 
+I:  I: ¿Que cómo le mataban? 
+E:  E: Sí, en la matanza. 
+I:  I: Pues con un cuchillo, ¿cómo le van a matar? 
+E:  E: ¿Con un cuchillo? ¿Y cómo le sacaban del cubil? 
+I:  I: ¿Cómo del cubil? Ah,  del…, del… Bueno, la matanza le sacaban de…, de la… Donde estaba, de la cochinera, ¿no? ¿O qué? Ah, tú explícamelo, que no sé. 
+E:  E: Sí, como nosotros no tenemos ni idea… 
+I:  I: Ah, bueno, pues mira, le traían y le echábamos en una mesa, en la mesa…le mataban con un cuchillo, entonces se cogía en un… barreño el… la sangre, se movía, para eso. Y luego se… socarraba con un…, con un soplete, con gas, porque antiguamente era con…, con escobones, pero ya es más moderno y entonces es con un soplete y se va otros pelando con unos cuchillos, se va pelando el eso. Luego se le abre, PS se le abre, se le saca todo… las tripas, todas las cosas del vientre, luego se le va sacando las costillas, se le va sacando… lo que es el morro, todo el morro, se le va haciendo luego… el la el magro, se va sacando para los chorizos y la gordura para las morcillas. Y luego el tocino se le hacen dos hojas grandes, todo lo último ya es el tocino, que se queda todo así ya que va sacando todo el magro y todo la gordura para las morcillas, y luego el tocino, lo último, y luego pues eso se pone en un saladero, el tocino, para salarlo, para… conservarlo un poco tiempo. Y los jamones, se los echa bien de sal, tapaditos de sal y se los conserva así un poco tiempo hasta que luego ya llega, bueno, pues mira, ¿cuántos meses será… que se tienen? En diciembre se mata, diciembre, enero, febre-, en abril se suelen… fregarlos para quitar la sal y luego se cuelgan, para tenerlos así hasta el tiempo que quieras tú tenerlos, dos o tres años, para que estén bien conservaos. Y los chorizos, cuando se pican luego se guisa con sal, pimentón y… ajo, se echa bien de ajo con un poquito vino. Nosotras echamos un poquito vino y un poquito agua. Se mueve y luego ya se…, se envosa con una máquina y se ata a mano. Se envosa
+E:  E: ¿Y cómo se sujeta al cerdo? 
+I:  I: Ay, el cerdo se sujeta entre unos cuantos. 
+E:  E: ¿Entre muchos? 
+",La provincia a la que pertenecen los informadores es Toledo.

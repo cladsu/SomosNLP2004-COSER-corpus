@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: Entonces, usted ha hecho matanza, ¿no? 
+I1: Sí. 
+E1: ¿Y… el cerdo… se teníaen casa o…  se compraba? 
+I1: se cebaba en casa,y se…, se  tenía todo un año para cebarle, porque no es como ahora con los piensos compuestos, que… TOS en seis meses a lo mejor se hace, . pues antes era un año por lo menos, HCruz:¿no, Anonimizado?, el hacer el, el cerdo y luego, pues… eh se mataba, se juntaba toda la familia, nos pasábamos dos días prácticamente de fiesta . haciendo la matanza, se mataba primeramente el cerdo, se cocía la sangre y luego se recogía un poquito para hacer las morcillas. Y las morcillas . consisten… 
+E1: Un momento. Pero el,  el proceso. ¿Un cuchillo, un gancho, un tajo?   qué eso. 
+I1: Bueno, pues un… gancho que había en… se colgaba del corral de una viga. 
+E1: ¿Dónde se ponía el gancho? 
+I1: En una viga, o sea, de una cuerda gorda se…, se ataba y allí se después  de matarle. 
+E1: ¿qué se ata? 
+I1: El cerdo. 
+E1: Ah. 
+",La provincia a la que pertenecen los informadores es Segovia.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: Entonces, usted ha hecho matanza, ¿no? 
+I1: Sí. 
+E1: ¿Y… el cerdo… se teníaen casa o…  se compraba? 
+I1: se cebaba en casa,y se…, se  tenía todo un año para cebarle, porque no es como ahora con los piensos compuestos, que… TOS en seis meses a lo mejor se hace, . pues antes era un año por lo menos, HCruz:¿no, Anonimizado?, el hacer el, el cerdo y luego, pues… eh se mataba, se juntaba toda la familia, nos pasábamos dos días prácticamente de fiesta . haciendo la matanza, se mataba primeramente el cerdo, se cocía la sangre y luego se recogía un poquito para hacer las morcillas. Y las morcillas . consisten… 
+E1: Un momento. Pero el,  el proceso. ¿Un cuchillo, un gancho, un tajo?   qué eso. 
+I1: Bueno, pues un… gancho que había en… se colgaba del corral de una viga. 
+E1: ¿Dónde se ponía el gancho? 
+I1: En una viga, o sea, de una cuerda gorda se…, se ataba y allí se después  de matarle. 
+E1: ¿qué se ata? 
+I1: El cerdo. 
+E1: Ah. 
+",La provincia a la que pertenecen los informadores es Segovia.
+"Dime la provincia del siguiente texto: E1: Entonces, usted ha hecho matanza, ¿no? 
+I1: Sí. 
+E1: ¿Y… el cerdo… se teníaen casa o…  se compraba? 
+I1: se cebaba en casa,y se…, se  tenía todo un año para cebarle, porque no es como ahora con los piensos compuestos, que… TOS en seis meses a lo mejor se hace, . pues antes era un año por lo menos, HCruz:¿no, Anonimizado?, el hacer el, el cerdo y luego, pues… eh se mataba, se juntaba toda la familia, nos pasábamos dos días prácticamente de fiesta . haciendo la matanza, se mataba primeramente el cerdo, se cocía la sangre y luego se recogía un poquito para hacer las morcillas. Y las morcillas . consisten… 
+E1: Un momento. Pero el,  el proceso. ¿Un cuchillo, un gancho, un tajo?   qué eso. 
+I1: Bueno, pues un… gancho que había en… se colgaba del corral de una viga. 
+E1: ¿Dónde se ponía el gancho? 
+I1: En una viga, o sea, de una cuerda gorda se…, se ataba y allí se después  de matarle. 
+E1: ¿qué se ata? 
+I1: El cerdo. 
+E1: Ah. 
+",La provincia a la que pertenecen los informadores es Segovia.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: Entonces, usted ha hecho matanza, ¿no? 
+I1: Sí. 
+E1: ¿Y… el cerdo… se teníaen casa o…  se compraba? 
+I1: se cebaba en casa,y se…, se  tenía todo un año para cebarle, porque no es como ahora con los piensos compuestos, que… TOS en seis meses a lo mejor se hace, . pues antes era un año por lo menos, HCruz:¿no, Anonimizado?, el hacer el, el cerdo y luego, pues… eh se mataba, se juntaba toda la familia, nos pasábamos dos días prácticamente de fiesta . haciendo la matanza, se mataba primeramente el cerdo, se cocía la sangre y luego se recogía un poquito para hacer las morcillas. Y las morcillas . consisten… 
+E1: Un momento. Pero el,  el proceso. ¿Un cuchillo, un gancho, un tajo?   qué eso. 
+I1: Bueno, pues un… gancho que había en… se colgaba del corral de una viga. 
+E1: ¿Dónde se ponía el gancho? 
+I1: En una viga, o sea, de una cuerda gorda se…, se ataba y allí se después  de matarle. 
+E1: ¿qué se ata? 
+I1: El cerdo. 
+E1: Ah. 
+",La provincia a la que pertenecen los informadores es Segovia.
+"Dime de qué lugar es el siguiente texto:  E1: Entonces, usted ha hecho matanza, ¿no? 
+I1: Sí. 
+E1: ¿Y… el cerdo… se teníaen casa o…  se compraba? 
+I1: se cebaba en casa,y se…, se  tenía todo un año para cebarle, porque no es como ahora con los piensos compuestos, que… TOS en seis meses a lo mejor se hace, . pues antes era un año por lo menos, HCruz:¿no, Anonimizado?, el hacer el, el cerdo y luego, pues… eh se mataba, se juntaba toda la familia, nos pasábamos dos días prácticamente de fiesta . haciendo la matanza, se mataba primeramente el cerdo, se cocía la sangre y luego se recogía un poquito para hacer las morcillas. Y las morcillas . consisten… 
+E1: Un momento. Pero el,  el proceso. ¿Un cuchillo, un gancho, un tajo?   qué eso. 
+I1: Bueno, pues un… gancho que había en… se colgaba del corral de una viga. 
+E1: ¿Dónde se ponía el gancho? 
+I1: En una viga, o sea, de una cuerda gorda se…, se ataba y allí se después  de matarle. 
+E1: ¿qué se ata? 
+I1: El cerdo. 
+E1: Ah. 
+",La provincia a la que pertenecen los informadores es Segovia.

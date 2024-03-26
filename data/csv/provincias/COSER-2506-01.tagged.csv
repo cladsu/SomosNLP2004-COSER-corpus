@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T1 Yo le pregunto, ¿eh? Vamos a ver…¿Aquí se hacían, se hacían matanzas? 
+I1: Sí. 
+E1: Sí. ¿Y se siguen haciendo todavía? 
+I1: Muy pocas. 
+E1: ¿Muy pocas? ¿Y usted hace todavía matanza? 
+I1: No, no, no.  He hecho muchas. 
+E1: Ha hecho muchas. Bueno, entonces…, ¿cómo era? ¿Cómo era lo de la matanza? ¿Cómo…? ¿El día de la matanza qué quién mataba el cerdo? 
+I1: Pues mi marido. 
+E1: Pero… ¿Cómo, cómo mataba? Es que según qué sitios… 
+I1: Pues nada. Lo ponen en una banca, lo sujetan entre cuatro, le hincan el cuchillo… 
+IE:  IE: ¿No lo habís visto nunca en la televisión? 
+",La provincia a la que pertenecen los informadores es La Rioja.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T1 Yo le pregunto, ¿eh? Vamos a ver…¿Aquí se hacían, se hacían matanzas? 
+I1: Sí. 
+E1: Sí. ¿Y se siguen haciendo todavía? 
+I1: Muy pocas. 
+E1: ¿Muy pocas? ¿Y usted hace todavía matanza? 
+I1: No, no, no.  He hecho muchas. 
+E1: Ha hecho muchas. Bueno, entonces…, ¿cómo era? ¿Cómo era lo de la matanza? ¿Cómo…? ¿El día de la matanza qué quién mataba el cerdo? 
+I1: Pues mi marido. 
+E1: Pero… ¿Cómo, cómo mataba? Es que según qué sitios… 
+I1: Pues nada. Lo ponen en una banca, lo sujetan entre cuatro, le hincan el cuchillo… 
+IE:  IE: ¿No lo habís visto nunca en la televisión? 
+",La provincia a la que pertenecen los informadores es La Rioja.
+"Dime la provincia del siguiente texto: E1: T1 Yo le pregunto, ¿eh? Vamos a ver…¿Aquí se hacían, se hacían matanzas? 
+I1: Sí. 
+E1: Sí. ¿Y se siguen haciendo todavía? 
+I1: Muy pocas. 
+E1: ¿Muy pocas? ¿Y usted hace todavía matanza? 
+I1: No, no, no.  He hecho muchas. 
+E1: Ha hecho muchas. Bueno, entonces…, ¿cómo era? ¿Cómo era lo de la matanza? ¿Cómo…? ¿El día de la matanza qué quién mataba el cerdo? 
+I1: Pues mi marido. 
+E1: Pero… ¿Cómo, cómo mataba? Es que según qué sitios… 
+I1: Pues nada. Lo ponen en una banca, lo sujetan entre cuatro, le hincan el cuchillo… 
+IE:  IE: ¿No lo habís visto nunca en la televisión? 
+",La provincia a la que pertenecen los informadores es La Rioja.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T1 Yo le pregunto, ¿eh? Vamos a ver…¿Aquí se hacían, se hacían matanzas? 
+I1: Sí. 
+E1: Sí. ¿Y se siguen haciendo todavía? 
+I1: Muy pocas. 
+E1: ¿Muy pocas? ¿Y usted hace todavía matanza? 
+I1: No, no, no.  He hecho muchas. 
+E1: Ha hecho muchas. Bueno, entonces…, ¿cómo era? ¿Cómo era lo de la matanza? ¿Cómo…? ¿El día de la matanza qué quién mataba el cerdo? 
+I1: Pues mi marido. 
+E1: Pero… ¿Cómo, cómo mataba? Es que según qué sitios… 
+I1: Pues nada. Lo ponen en una banca, lo sujetan entre cuatro, le hincan el cuchillo… 
+IE:  IE: ¿No lo habís visto nunca en la televisión? 
+",La provincia a la que pertenecen los informadores es La Rioja.
+"Dime de qué lugar es el siguiente texto:  E1: T1 Yo le pregunto, ¿eh? Vamos a ver…¿Aquí se hacían, se hacían matanzas? 
+I1: Sí. 
+E1: Sí. ¿Y se siguen haciendo todavía? 
+I1: Muy pocas. 
+E1: ¿Muy pocas? ¿Y usted hace todavía matanza? 
+I1: No, no, no.  He hecho muchas. 
+E1: Ha hecho muchas. Bueno, entonces…, ¿cómo era? ¿Cómo era lo de la matanza? ¿Cómo…? ¿El día de la matanza qué quién mataba el cerdo? 
+I1: Pues mi marido. 
+E1: Pero… ¿Cómo, cómo mataba? Es que según qué sitios… 
+I1: Pues nada. Lo ponen en una banca, lo sujetan entre cuatro, le hincan el cuchillo… 
+IE:  IE: ¿No lo habís visto nunca en la televisión? 
+",La provincia a la que pertenecen los informadores es La Rioja.

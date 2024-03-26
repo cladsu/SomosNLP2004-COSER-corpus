@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T1 Vamos a empezar por, por la matanza.  ¿Aquí se hacía matanza? 
+I1: Sí, y seguimos toavía . 
+E1: ¿Hacen matanza?  
+I1: un… cerdo lo matamos.  ¿No, no lo oléis a chorizo?  
+E1: Sí, sí,  sí, sí que huele, sí. 
+I1: Bueno, pues  sí, nosotros sí. Aquí ya pocos pero… Bueno, creo yo, eh, no yo, yo no me meto en otros sitios, no sé qué hacen. 
+E1: Y cuéntenos, ¿cómo, cómo es la matanza? ¿Cómo, cómo hacen para el día de la matanza? 
+I1: Bueno, el día de matanza  se saca el cerdo de esto…, de su jortil , con el gancho se le agarra, se le mete el cuchillo, se le desangra, o sea, se le quita la sangre y luego pues la, la, las tripas y luego, pues bueno, antes de las tripas, se quema el esto… con paja o helecho pa quitar la, el, el pelo que tiene . y se limpia bien. Luego se saca las tripas y pues se hacen morcillas… con la sangre, arroz, cebolla, mucha cebolla y pues eso. Y luego alguna, puf , qué os digo yo, anís, o esto se le echa también y alguna otra especie
+E1: ¿recuerda que se hiciera el jamón? 
+I1: Sí, sí, sí, sí, y bueno, y cuando era… Hasta, bueno…, ya se murió la madre y tal y enton-, pa ento-… o sea, siempre ella se encargaba. O sea, mayormente eso ha sido cosa de, de mujeres. O sea, aparte la matanza, luego ya lo resto han hecho ellos, . o sea, ellas hacían, . sí. 
+E1: ¿Y aquí no se usaban cuerdas para sacar el cerdo?  Sacaban el cerdo con un gancho. 
+",La provincia a la que pertenecen los informadores es Guipúzcoa.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T1 Vamos a empezar por, por la matanza.  ¿Aquí se hacía matanza? 
+I1: Sí, y seguimos toavía . 
+E1: ¿Hacen matanza?  
+I1: un… cerdo lo matamos.  ¿No, no lo oléis a chorizo?  
+E1: Sí, sí,  sí, sí que huele, sí. 
+I1: Bueno, pues  sí, nosotros sí. Aquí ya pocos pero… Bueno, creo yo, eh, no yo, yo no me meto en otros sitios, no sé qué hacen. 
+E1: Y cuéntenos, ¿cómo, cómo es la matanza? ¿Cómo, cómo hacen para el día de la matanza? 
+I1: Bueno, el día de matanza  se saca el cerdo de esto…, de su jortil , con el gancho se le agarra, se le mete el cuchillo, se le desangra, o sea, se le quita la sangre y luego pues la, la, las tripas y luego, pues bueno, antes de las tripas, se quema el esto… con paja o helecho pa quitar la, el, el pelo que tiene . y se limpia bien. Luego se saca las tripas y pues se hacen morcillas… con la sangre, arroz, cebolla, mucha cebolla y pues eso. Y luego alguna, puf , qué os digo yo, anís, o esto se le echa también y alguna otra especie
+E1: ¿recuerda que se hiciera el jamón? 
+I1: Sí, sí, sí, sí, y bueno, y cuando era… Hasta, bueno…, ya se murió la madre y tal y enton-, pa ento-… o sea, siempre ella se encargaba. O sea, mayormente eso ha sido cosa de, de mujeres. O sea, aparte la matanza, luego ya lo resto han hecho ellos, . o sea, ellas hacían, . sí. 
+E1: ¿Y aquí no se usaban cuerdas para sacar el cerdo?  Sacaban el cerdo con un gancho. 
+",La provincia a la que pertenecen los informadores es Guipúzcoa.
+"Dime la provincia del siguiente texto: E1: T1 Vamos a empezar por, por la matanza.  ¿Aquí se hacía matanza? 
+I1: Sí, y seguimos toavía . 
+E1: ¿Hacen matanza?  
+I1: un… cerdo lo matamos.  ¿No, no lo oléis a chorizo?  
+E1: Sí, sí,  sí, sí que huele, sí. 
+I1: Bueno, pues  sí, nosotros sí. Aquí ya pocos pero… Bueno, creo yo, eh, no yo, yo no me meto en otros sitios, no sé qué hacen. 
+E1: Y cuéntenos, ¿cómo, cómo es la matanza? ¿Cómo, cómo hacen para el día de la matanza? 
+I1: Bueno, el día de matanza  se saca el cerdo de esto…, de su jortil , con el gancho se le agarra, se le mete el cuchillo, se le desangra, o sea, se le quita la sangre y luego pues la, la, las tripas y luego, pues bueno, antes de las tripas, se quema el esto… con paja o helecho pa quitar la, el, el pelo que tiene . y se limpia bien. Luego se saca las tripas y pues se hacen morcillas… con la sangre, arroz, cebolla, mucha cebolla y pues eso. Y luego alguna, puf , qué os digo yo, anís, o esto se le echa también y alguna otra especie
+E1: ¿recuerda que se hiciera el jamón? 
+I1: Sí, sí, sí, sí, y bueno, y cuando era… Hasta, bueno…, ya se murió la madre y tal y enton-, pa ento-… o sea, siempre ella se encargaba. O sea, mayormente eso ha sido cosa de, de mujeres. O sea, aparte la matanza, luego ya lo resto han hecho ellos, . o sea, ellas hacían, . sí. 
+E1: ¿Y aquí no se usaban cuerdas para sacar el cerdo?  Sacaban el cerdo con un gancho. 
+",La provincia a la que pertenecen los informadores es Guipúzcoa.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T1 Vamos a empezar por, por la matanza.  ¿Aquí se hacía matanza? 
+I1: Sí, y seguimos toavía . 
+E1: ¿Hacen matanza?  
+I1: un… cerdo lo matamos.  ¿No, no lo oléis a chorizo?  
+E1: Sí, sí,  sí, sí que huele, sí. 
+I1: Bueno, pues  sí, nosotros sí. Aquí ya pocos pero… Bueno, creo yo, eh, no yo, yo no me meto en otros sitios, no sé qué hacen. 
+E1: Y cuéntenos, ¿cómo, cómo es la matanza? ¿Cómo, cómo hacen para el día de la matanza? 
+I1: Bueno, el día de matanza  se saca el cerdo de esto…, de su jortil , con el gancho se le agarra, se le mete el cuchillo, se le desangra, o sea, se le quita la sangre y luego pues la, la, las tripas y luego, pues bueno, antes de las tripas, se quema el esto… con paja o helecho pa quitar la, el, el pelo que tiene . y se limpia bien. Luego se saca las tripas y pues se hacen morcillas… con la sangre, arroz, cebolla, mucha cebolla y pues eso. Y luego alguna, puf , qué os digo yo, anís, o esto se le echa también y alguna otra especie
+E1: ¿recuerda que se hiciera el jamón? 
+I1: Sí, sí, sí, sí, y bueno, y cuando era… Hasta, bueno…, ya se murió la madre y tal y enton-, pa ento-… o sea, siempre ella se encargaba. O sea, mayormente eso ha sido cosa de, de mujeres. O sea, aparte la matanza, luego ya lo resto han hecho ellos, . o sea, ellas hacían, . sí. 
+E1: ¿Y aquí no se usaban cuerdas para sacar el cerdo?  Sacaban el cerdo con un gancho. 
+",La provincia a la que pertenecen los informadores es Guipúzcoa.
+"Dime de qué lugar es el siguiente texto:  E1: T1 Vamos a empezar por, por la matanza.  ¿Aquí se hacía matanza? 
+I1: Sí, y seguimos toavía . 
+E1: ¿Hacen matanza?  
+I1: un… cerdo lo matamos.  ¿No, no lo oléis a chorizo?  
+E1: Sí, sí,  sí, sí que huele, sí. 
+I1: Bueno, pues  sí, nosotros sí. Aquí ya pocos pero… Bueno, creo yo, eh, no yo, yo no me meto en otros sitios, no sé qué hacen. 
+E1: Y cuéntenos, ¿cómo, cómo es la matanza? ¿Cómo, cómo hacen para el día de la matanza? 
+I1: Bueno, el día de matanza  se saca el cerdo de esto…, de su jortil , con el gancho se le agarra, se le mete el cuchillo, se le desangra, o sea, se le quita la sangre y luego pues la, la, las tripas y luego, pues bueno, antes de las tripas, se quema el esto… con paja o helecho pa quitar la, el, el pelo que tiene . y se limpia bien. Luego se saca las tripas y pues se hacen morcillas… con la sangre, arroz, cebolla, mucha cebolla y pues eso. Y luego alguna, puf , qué os digo yo, anís, o esto se le echa también y alguna otra especie
+E1: ¿recuerda que se hiciera el jamón? 
+I1: Sí, sí, sí, sí, y bueno, y cuando era… Hasta, bueno…, ya se murió la madre y tal y enton-, pa ento-… o sea, siempre ella se encargaba. O sea, mayormente eso ha sido cosa de, de mujeres. O sea, aparte la matanza, luego ya lo resto han hecho ellos, . o sea, ellas hacían, . sí. 
+E1: ¿Y aquí no se usaban cuerdas para sacar el cerdo?  Sacaban el cerdo con un gancho. 
+",La provincia a la que pertenecen los informadores es Guipúzcoa.

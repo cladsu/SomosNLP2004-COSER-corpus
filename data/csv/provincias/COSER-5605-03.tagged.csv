@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: Pa adentro y pa afuera, y entonces hice ahí un pico de cocina, pa…, pa estar el día. . Siéntense, siéntense. 
+E2: Gracias. 
+E1: Gracias.
+I1: Siéntense. 
+E1: ¿Y usted dónde se va a sentar?
+I1: Yo me siento áhi , en cualquier silla. Tengo tres. Hay tres sillas. Cuenten.
+E3: Hoy sí que…, hoy sí que nos sentamos, ¿eh? 
+I1: Sí, hoy los asentamos
+E3: Y si se sienta aquí, que tiene como luz, más la pared,  ¿sí? ¿Le parece bien?  
+E1: O así, ¿no?, ¿no podré…? Sí, ¿no?  . 
+I1: ¿Yo pa,pa ónde me asiento
+",La provincia a la que pertenecen los informadores es Lanzarote.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: Pa adentro y pa afuera, y entonces hice ahí un pico de cocina, pa…, pa estar el día. . Siéntense, siéntense. 
+E2: Gracias. 
+E1: Gracias.
+I1: Siéntense. 
+E1: ¿Y usted dónde se va a sentar?
+I1: Yo me siento áhi , en cualquier silla. Tengo tres. Hay tres sillas. Cuenten.
+E3: Hoy sí que…, hoy sí que nos sentamos, ¿eh? 
+I1: Sí, hoy los asentamos
+E3: Y si se sienta aquí, que tiene como luz, más la pared,  ¿sí? ¿Le parece bien?  
+E1: O así, ¿no?, ¿no podré…? Sí, ¿no?  . 
+I1: ¿Yo pa,pa ónde me asiento
+",La provincia a la que pertenecen los informadores es Lanzarote.
+"Dime la provincia del siguiente texto: I1: Pa adentro y pa afuera, y entonces hice ahí un pico de cocina, pa…, pa estar el día. . Siéntense, siéntense. 
+E2: Gracias. 
+E1: Gracias.
+I1: Siéntense. 
+E1: ¿Y usted dónde se va a sentar?
+I1: Yo me siento áhi , en cualquier silla. Tengo tres. Hay tres sillas. Cuenten.
+E3: Hoy sí que…, hoy sí que nos sentamos, ¿eh? 
+I1: Sí, hoy los asentamos
+E3: Y si se sienta aquí, que tiene como luz, más la pared,  ¿sí? ¿Le parece bien?  
+E1: O así, ¿no?, ¿no podré…? Sí, ¿no?  . 
+I1: ¿Yo pa,pa ónde me asiento
+",La provincia a la que pertenecen los informadores es Lanzarote.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: Pa adentro y pa afuera, y entonces hice ahí un pico de cocina, pa…, pa estar el día. . Siéntense, siéntense. 
+E2: Gracias. 
+E1: Gracias.
+I1: Siéntense. 
+E1: ¿Y usted dónde se va a sentar?
+I1: Yo me siento áhi , en cualquier silla. Tengo tres. Hay tres sillas. Cuenten.
+E3: Hoy sí que…, hoy sí que nos sentamos, ¿eh? 
+I1: Sí, hoy los asentamos
+E3: Y si se sienta aquí, que tiene como luz, más la pared,  ¿sí? ¿Le parece bien?  
+E1: O así, ¿no?, ¿no podré…? Sí, ¿no?  . 
+I1: ¿Yo pa,pa ónde me asiento
+",La provincia a la que pertenecen los informadores es Lanzarote.
+"Dime de qué lugar es el siguiente texto:  I1: Pa adentro y pa afuera, y entonces hice ahí un pico de cocina, pa…, pa estar el día. . Siéntense, siéntense. 
+E2: Gracias. 
+E1: Gracias.
+I1: Siéntense. 
+E1: ¿Y usted dónde se va a sentar?
+I1: Yo me siento áhi , en cualquier silla. Tengo tres. Hay tres sillas. Cuenten.
+E3: Hoy sí que…, hoy sí que nos sentamos, ¿eh? 
+I1: Sí, hoy los asentamos
+E3: Y si se sienta aquí, que tiene como luz, más la pared,  ¿sí? ¿Le parece bien?  
+E1: O así, ¿no?, ¿no podré…? Sí, ¿no?  . 
+I1: ¿Yo pa,pa ónde me asiento
+",La provincia a la que pertenecen los informadores es Lanzarote.

@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: T6 Yo, cuando me criaba, que tengo ochenta_y_cuatro años, pues se vivía muy mal. Todo a base de, de miserias, no teníamos nada más que… Ahora en este tiempo llenábamos allí una era, le llamábamos, la llenábamos de, de haces, y de…, había que irlos a segar, no como ahora que se van a cosechar y ahí a trillar, con las parejas de vacas a dar vueltas en la parva, y todas esas cosas. Y luego las limpiábamos el día que hacía aire, y el poquito grano que cogíamos, pues lo traíamos pa casa. Y luego no nos valía na y a pasar miserias. 
+E1: No sería tanto. 
+I1: Sí, sí, sí, sí. 
+I2: Bueno, antes también tenían el problema de que hoy día compramos… todo hecho; antes…, encima que no había ni casi ropa, porque yo misma me he conocido que mi madre tenía que lavar… A-Nul costaba la ropa, írmela a la lavar al río, que no había lavadoras, A-Nul río. Y luego… la tenía pa'l día siguiente. Y la tenían que hacer y todo, conque…  de ropa. Estábamos esperando que pusiera la gallina, pa ir a comprar un…, una…, 
+I1: una vara, que entonces no había metros de tela, pa remendar la camisa, pa comprarle unas alpargatas al muchachín… y todas esas cosas. Y no le dábamos yogures, porque entonces no había. Unas sopitas de ajo o del cocido. Y con eso los criábamos. 
+E1: Oiga, y las alpargatas, ¿cómo eran? 
+I1: Ay, malísimas de esas, de Mon-, Moncoy, ¿cómo las llamáis? 
+I2: Yo no sé, no las he conocido. 
+E1: ¿Cómo hacían las alpargatas? 
+I1: La alpargata la traían, la vendían los, los… 
+I2: Sí, pero, doña Anonimizado, pero yo creo que antes se hacían también una alpergata que traían, traían me parece que era el piso, ¿no? Y luego ya le ponían ustedes unas tiras, ¿o no?
+",La provincia a la que pertenecen los informadores es Salamanca.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: T6 Yo, cuando me criaba, que tengo ochenta_y_cuatro años, pues se vivía muy mal. Todo a base de, de miserias, no teníamos nada más que… Ahora en este tiempo llenábamos allí una era, le llamábamos, la llenábamos de, de haces, y de…, había que irlos a segar, no como ahora que se van a cosechar y ahí a trillar, con las parejas de vacas a dar vueltas en la parva, y todas esas cosas. Y luego las limpiábamos el día que hacía aire, y el poquito grano que cogíamos, pues lo traíamos pa casa. Y luego no nos valía na y a pasar miserias. 
+E1: No sería tanto. 
+I1: Sí, sí, sí, sí. 
+I2: Bueno, antes también tenían el problema de que hoy día compramos… todo hecho; antes…, encima que no había ni casi ropa, porque yo misma me he conocido que mi madre tenía que lavar… A-Nul costaba la ropa, írmela a la lavar al río, que no había lavadoras, A-Nul río. Y luego… la tenía pa'l día siguiente. Y la tenían que hacer y todo, conque…  de ropa. Estábamos esperando que pusiera la gallina, pa ir a comprar un…, una…, 
+I1: una vara, que entonces no había metros de tela, pa remendar la camisa, pa comprarle unas alpargatas al muchachín… y todas esas cosas. Y no le dábamos yogures, porque entonces no había. Unas sopitas de ajo o del cocido. Y con eso los criábamos. 
+E1: Oiga, y las alpargatas, ¿cómo eran? 
+I1: Ay, malísimas de esas, de Mon-, Moncoy, ¿cómo las llamáis? 
+I2: Yo no sé, no las he conocido. 
+E1: ¿Cómo hacían las alpargatas? 
+I1: La alpargata la traían, la vendían los, los… 
+I2: Sí, pero, doña Anonimizado, pero yo creo que antes se hacían también una alpergata que traían, traían me parece que era el piso, ¿no? Y luego ya le ponían ustedes unas tiras, ¿o no?
+",La provincia a la que pertenecen los informadores es Salamanca.
+"Dime la provincia del siguiente texto: I1: T6 Yo, cuando me criaba, que tengo ochenta_y_cuatro años, pues se vivía muy mal. Todo a base de, de miserias, no teníamos nada más que… Ahora en este tiempo llenábamos allí una era, le llamábamos, la llenábamos de, de haces, y de…, había que irlos a segar, no como ahora que se van a cosechar y ahí a trillar, con las parejas de vacas a dar vueltas en la parva, y todas esas cosas. Y luego las limpiábamos el día que hacía aire, y el poquito grano que cogíamos, pues lo traíamos pa casa. Y luego no nos valía na y a pasar miserias. 
+E1: No sería tanto. 
+I1: Sí, sí, sí, sí. 
+I2: Bueno, antes también tenían el problema de que hoy día compramos… todo hecho; antes…, encima que no había ni casi ropa, porque yo misma me he conocido que mi madre tenía que lavar… A-Nul costaba la ropa, írmela a la lavar al río, que no había lavadoras, A-Nul río. Y luego… la tenía pa'l día siguiente. Y la tenían que hacer y todo, conque…  de ropa. Estábamos esperando que pusiera la gallina, pa ir a comprar un…, una…, 
+I1: una vara, que entonces no había metros de tela, pa remendar la camisa, pa comprarle unas alpargatas al muchachín… y todas esas cosas. Y no le dábamos yogures, porque entonces no había. Unas sopitas de ajo o del cocido. Y con eso los criábamos. 
+E1: Oiga, y las alpargatas, ¿cómo eran? 
+I1: Ay, malísimas de esas, de Mon-, Moncoy, ¿cómo las llamáis? 
+I2: Yo no sé, no las he conocido. 
+E1: ¿Cómo hacían las alpargatas? 
+I1: La alpargata la traían, la vendían los, los… 
+I2: Sí, pero, doña Anonimizado, pero yo creo que antes se hacían también una alpergata que traían, traían me parece que era el piso, ¿no? Y luego ya le ponían ustedes unas tiras, ¿o no?
+",La provincia a la que pertenecen los informadores es Salamanca.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: T6 Yo, cuando me criaba, que tengo ochenta_y_cuatro años, pues se vivía muy mal. Todo a base de, de miserias, no teníamos nada más que… Ahora en este tiempo llenábamos allí una era, le llamábamos, la llenábamos de, de haces, y de…, había que irlos a segar, no como ahora que se van a cosechar y ahí a trillar, con las parejas de vacas a dar vueltas en la parva, y todas esas cosas. Y luego las limpiábamos el día que hacía aire, y el poquito grano que cogíamos, pues lo traíamos pa casa. Y luego no nos valía na y a pasar miserias. 
+E1: No sería tanto. 
+I1: Sí, sí, sí, sí. 
+I2: Bueno, antes también tenían el problema de que hoy día compramos… todo hecho; antes…, encima que no había ni casi ropa, porque yo misma me he conocido que mi madre tenía que lavar… A-Nul costaba la ropa, írmela a la lavar al río, que no había lavadoras, A-Nul río. Y luego… la tenía pa'l día siguiente. Y la tenían que hacer y todo, conque…  de ropa. Estábamos esperando que pusiera la gallina, pa ir a comprar un…, una…, 
+I1: una vara, que entonces no había metros de tela, pa remendar la camisa, pa comprarle unas alpargatas al muchachín… y todas esas cosas. Y no le dábamos yogures, porque entonces no había. Unas sopitas de ajo o del cocido. Y con eso los criábamos. 
+E1: Oiga, y las alpargatas, ¿cómo eran? 
+I1: Ay, malísimas de esas, de Mon-, Moncoy, ¿cómo las llamáis? 
+I2: Yo no sé, no las he conocido. 
+E1: ¿Cómo hacían las alpargatas? 
+I1: La alpargata la traían, la vendían los, los… 
+I2: Sí, pero, doña Anonimizado, pero yo creo que antes se hacían también una alpergata que traían, traían me parece que era el piso, ¿no? Y luego ya le ponían ustedes unas tiras, ¿o no?
+",La provincia a la que pertenecen los informadores es Salamanca.
+"Dime de qué lugar es el siguiente texto:  I1: T6 Yo, cuando me criaba, que tengo ochenta_y_cuatro años, pues se vivía muy mal. Todo a base de, de miserias, no teníamos nada más que… Ahora en este tiempo llenábamos allí una era, le llamábamos, la llenábamos de, de haces, y de…, había que irlos a segar, no como ahora que se van a cosechar y ahí a trillar, con las parejas de vacas a dar vueltas en la parva, y todas esas cosas. Y luego las limpiábamos el día que hacía aire, y el poquito grano que cogíamos, pues lo traíamos pa casa. Y luego no nos valía na y a pasar miserias. 
+E1: No sería tanto. 
+I1: Sí, sí, sí, sí. 
+I2: Bueno, antes también tenían el problema de que hoy día compramos… todo hecho; antes…, encima que no había ni casi ropa, porque yo misma me he conocido que mi madre tenía que lavar… A-Nul costaba la ropa, írmela a la lavar al río, que no había lavadoras, A-Nul río. Y luego… la tenía pa'l día siguiente. Y la tenían que hacer y todo, conque…  de ropa. Estábamos esperando que pusiera la gallina, pa ir a comprar un…, una…, 
+I1: una vara, que entonces no había metros de tela, pa remendar la camisa, pa comprarle unas alpargatas al muchachín… y todas esas cosas. Y no le dábamos yogures, porque entonces no había. Unas sopitas de ajo o del cocido. Y con eso los criábamos. 
+E1: Oiga, y las alpargatas, ¿cómo eran? 
+I1: Ay, malísimas de esas, de Mon-, Moncoy, ¿cómo las llamáis? 
+I2: Yo no sé, no las he conocido. 
+E1: ¿Cómo hacían las alpargatas? 
+I1: La alpargata la traían, la vendían los, los… 
+I2: Sí, pero, doña Anonimizado, pero yo creo que antes se hacían también una alpergata que traían, traían me parece que era el piso, ¿no? Y luego ya le ponían ustedes unas tiras, ¿o no?
+",La provincia a la que pertenecen los informadores es Salamanca.

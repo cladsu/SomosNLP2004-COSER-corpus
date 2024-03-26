@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: Bueno, Anonimizado; pues nosotros venimos a hacer un trabajo sobre tradiciones, en la forma de vivir de cuando eran pequeños, para que nos cuenten, para que no se pierdan esas cosas, dejarlo de testimonio para que todos los pueblos de España  estamos haciendo ahora Murcia. Yo he pensado pues en Anonimizado y en Anonimizado.  Ah, ¿vas a poner esa también? 
+E2: Bien, sí, ya la he conseguido poner. 
+E1: Bueno, pues, nació… ¿Dónde nació, Anonimizado? 
+I1: Yo nací en Archena  en un… 
+E1: ¿A cuántos kilómetros de aquí está? 
+I1: Está… a unos tres kilómetros o por ahí, ¿verdá ? 
+E1: ¿Y aquí cuándo vino? 
+I1: Aquí vine… pues empecé cuando tenía doce años a trabajar en una fábrica de conservas que habiba ahí. Iba y venía todos los días a mi casa.
+E1: ¿Andando iba? 
+I1: Andando. 
+E1: ¿O en algún carro? ¿Andando todos los días? 
+",La provincia a la que pertenecen los informadores es Murcia.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: Bueno, Anonimizado; pues nosotros venimos a hacer un trabajo sobre tradiciones, en la forma de vivir de cuando eran pequeños, para que nos cuenten, para que no se pierdan esas cosas, dejarlo de testimonio para que todos los pueblos de España  estamos haciendo ahora Murcia. Yo he pensado pues en Anonimizado y en Anonimizado.  Ah, ¿vas a poner esa también? 
+E2: Bien, sí, ya la he conseguido poner. 
+E1: Bueno, pues, nació… ¿Dónde nació, Anonimizado? 
+I1: Yo nací en Archena  en un… 
+E1: ¿A cuántos kilómetros de aquí está? 
+I1: Está… a unos tres kilómetros o por ahí, ¿verdá ? 
+E1: ¿Y aquí cuándo vino? 
+I1: Aquí vine… pues empecé cuando tenía doce años a trabajar en una fábrica de conservas que habiba ahí. Iba y venía todos los días a mi casa.
+E1: ¿Andando iba? 
+I1: Andando. 
+E1: ¿O en algún carro? ¿Andando todos los días? 
+",La provincia a la que pertenecen los informadores es Murcia.
+"Dime la provincia del siguiente texto: E1: Bueno, Anonimizado; pues nosotros venimos a hacer un trabajo sobre tradiciones, en la forma de vivir de cuando eran pequeños, para que nos cuenten, para que no se pierdan esas cosas, dejarlo de testimonio para que todos los pueblos de España  estamos haciendo ahora Murcia. Yo he pensado pues en Anonimizado y en Anonimizado.  Ah, ¿vas a poner esa también? 
+E2: Bien, sí, ya la he conseguido poner. 
+E1: Bueno, pues, nació… ¿Dónde nació, Anonimizado? 
+I1: Yo nací en Archena  en un… 
+E1: ¿A cuántos kilómetros de aquí está? 
+I1: Está… a unos tres kilómetros o por ahí, ¿verdá ? 
+E1: ¿Y aquí cuándo vino? 
+I1: Aquí vine… pues empecé cuando tenía doce años a trabajar en una fábrica de conservas que habiba ahí. Iba y venía todos los días a mi casa.
+E1: ¿Andando iba? 
+I1: Andando. 
+E1: ¿O en algún carro? ¿Andando todos los días? 
+",La provincia a la que pertenecen los informadores es Murcia.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: Bueno, Anonimizado; pues nosotros venimos a hacer un trabajo sobre tradiciones, en la forma de vivir de cuando eran pequeños, para que nos cuenten, para que no se pierdan esas cosas, dejarlo de testimonio para que todos los pueblos de España  estamos haciendo ahora Murcia. Yo he pensado pues en Anonimizado y en Anonimizado.  Ah, ¿vas a poner esa también? 
+E2: Bien, sí, ya la he conseguido poner. 
+E1: Bueno, pues, nació… ¿Dónde nació, Anonimizado? 
+I1: Yo nací en Archena  en un… 
+E1: ¿A cuántos kilómetros de aquí está? 
+I1: Está… a unos tres kilómetros o por ahí, ¿verdá ? 
+E1: ¿Y aquí cuándo vino? 
+I1: Aquí vine… pues empecé cuando tenía doce años a trabajar en una fábrica de conservas que habiba ahí. Iba y venía todos los días a mi casa.
+E1: ¿Andando iba? 
+I1: Andando. 
+E1: ¿O en algún carro? ¿Andando todos los días? 
+",La provincia a la que pertenecen los informadores es Murcia.
+"Dime de qué lugar es el siguiente texto:  E1: Bueno, Anonimizado; pues nosotros venimos a hacer un trabajo sobre tradiciones, en la forma de vivir de cuando eran pequeños, para que nos cuenten, para que no se pierdan esas cosas, dejarlo de testimonio para que todos los pueblos de España  estamos haciendo ahora Murcia. Yo he pensado pues en Anonimizado y en Anonimizado.  Ah, ¿vas a poner esa también? 
+E2: Bien, sí, ya la he conseguido poner. 
+E1: Bueno, pues, nació… ¿Dónde nació, Anonimizado? 
+I1: Yo nací en Archena  en un… 
+E1: ¿A cuántos kilómetros de aquí está? 
+I1: Está… a unos tres kilómetros o por ahí, ¿verdá ? 
+E1: ¿Y aquí cuándo vino? 
+I1: Aquí vine… pues empecé cuando tenía doce años a trabajar en una fábrica de conservas que habiba ahí. Iba y venía todos los días a mi casa.
+E1: ¿Andando iba? 
+I1: Andando. 
+E1: ¿O en algún carro? ¿Andando todos los días? 
+",La provincia a la que pertenecen los informadores es Murcia.

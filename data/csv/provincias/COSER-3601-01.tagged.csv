@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: Sí. 
+E1: Cómo se hace… 
+I1: Sí. Bueno, ¿y por dónde empezamos? 
+E1: Desde  el cerdo. 
+E2: desde el cerdo vivo. 
+I1: ¿Sí?Bueno, por los tocinos. 
+E1: No, el cerdo primero, eh, ¿de don-,  dónde lo compraban o…? 
+I1: ¿Pues dónde lo compraban? Donde lo, donde lo ceben. Eso sí que yo no os lo puedo decir, porque qué sé yo ánde lo han comprao.
+E1: Pero ¿no se criaba el cerdo en casa? 
+I1: En casa se hacía y se mata,  el otro día mató un hijo mío. 
+E1: ¿Sí? 
+",La provincia a la que pertenecen los informadores es Salamanca.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: Sí. 
+E1: Cómo se hace… 
+I1: Sí. Bueno, ¿y por dónde empezamos? 
+E1: Desde  el cerdo. 
+E2: desde el cerdo vivo. 
+I1: ¿Sí?Bueno, por los tocinos. 
+E1: No, el cerdo primero, eh, ¿de don-,  dónde lo compraban o…? 
+I1: ¿Pues dónde lo compraban? Donde lo, donde lo ceben. Eso sí que yo no os lo puedo decir, porque qué sé yo ánde lo han comprao.
+E1: Pero ¿no se criaba el cerdo en casa? 
+I1: En casa se hacía y se mata,  el otro día mató un hijo mío. 
+E1: ¿Sí? 
+",La provincia a la que pertenecen los informadores es Salamanca.
+"Dime la provincia del siguiente texto: I1: Sí. 
+E1: Cómo se hace… 
+I1: Sí. Bueno, ¿y por dónde empezamos? 
+E1: Desde  el cerdo. 
+E2: desde el cerdo vivo. 
+I1: ¿Sí?Bueno, por los tocinos. 
+E1: No, el cerdo primero, eh, ¿de don-,  dónde lo compraban o…? 
+I1: ¿Pues dónde lo compraban? Donde lo, donde lo ceben. Eso sí que yo no os lo puedo decir, porque qué sé yo ánde lo han comprao.
+E1: Pero ¿no se criaba el cerdo en casa? 
+I1: En casa se hacía y se mata,  el otro día mató un hijo mío. 
+E1: ¿Sí? 
+",La provincia a la que pertenecen los informadores es Salamanca.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: Sí. 
+E1: Cómo se hace… 
+I1: Sí. Bueno, ¿y por dónde empezamos? 
+E1: Desde  el cerdo. 
+E2: desde el cerdo vivo. 
+I1: ¿Sí?Bueno, por los tocinos. 
+E1: No, el cerdo primero, eh, ¿de don-,  dónde lo compraban o…? 
+I1: ¿Pues dónde lo compraban? Donde lo, donde lo ceben. Eso sí que yo no os lo puedo decir, porque qué sé yo ánde lo han comprao.
+E1: Pero ¿no se criaba el cerdo en casa? 
+I1: En casa se hacía y se mata,  el otro día mató un hijo mío. 
+E1: ¿Sí? 
+",La provincia a la que pertenecen los informadores es Salamanca.
+"Dime de qué lugar es el siguiente texto:  I1: Sí. 
+E1: Cómo se hace… 
+I1: Sí. Bueno, ¿y por dónde empezamos? 
+E1: Desde  el cerdo. 
+E2: desde el cerdo vivo. 
+I1: ¿Sí?Bueno, por los tocinos. 
+E1: No, el cerdo primero, eh, ¿de don-,  dónde lo compraban o…? 
+I1: ¿Pues dónde lo compraban? Donde lo, donde lo ceben. Eso sí que yo no os lo puedo decir, porque qué sé yo ánde lo han comprao.
+E1: Pero ¿no se criaba el cerdo en casa? 
+I1: En casa se hacía y se mata,  el otro día mató un hijo mío. 
+E1: ¿Sí? 
+",La provincia a la que pertenecen los informadores es Salamanca.

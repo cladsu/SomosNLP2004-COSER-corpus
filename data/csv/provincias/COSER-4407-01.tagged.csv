@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T1 ¿O sea, que usted ha vivido todo el tiempo en el pueblo? 
+I:  I: Sí. 
+E1: ¿Sí? Y entonces  usted la matanza, ¿cuándo la solían hacer? 
+I:  I: Pues… a últimos de diciembre o primeros de enero. 
+E1: A últimos de… y ya aprovechando para la… Navidad también… 
+I:  I: Sí. . A veces matábamos dos cerdos, y matábamos uno ahora, a mediaos de diciembre, . y cuando ya unoestaba… curao prácticamente y eso, PS pues en enero matábamos el otro. 
+E1: . O sea, ¿normalmente dos cerdos? 
+I:  I: Sí, normalmente hacíamos dos matanzas. 
+E1: . Y luego, ¿cómo lo…cogían el cerdo?,¿dependía del peso o algo parecido? 
+I:  I: Solíamos criarle aquí en casa, . porque… somos labradores y… bueno, pues el pienso, pues no nos costaba, claro. 
+E1: Sí, sí, sí. 
+",La provincia a la que pertenecen los informadores es Valladolid.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T1 ¿O sea, que usted ha vivido todo el tiempo en el pueblo? 
+I:  I: Sí. 
+E1: ¿Sí? Y entonces  usted la matanza, ¿cuándo la solían hacer? 
+I:  I: Pues… a últimos de diciembre o primeros de enero. 
+E1: A últimos de… y ya aprovechando para la… Navidad también… 
+I:  I: Sí. . A veces matábamos dos cerdos, y matábamos uno ahora, a mediaos de diciembre, . y cuando ya unoestaba… curao prácticamente y eso, PS pues en enero matábamos el otro. 
+E1: . O sea, ¿normalmente dos cerdos? 
+I:  I: Sí, normalmente hacíamos dos matanzas. 
+E1: . Y luego, ¿cómo lo…cogían el cerdo?,¿dependía del peso o algo parecido? 
+I:  I: Solíamos criarle aquí en casa, . porque… somos labradores y… bueno, pues el pienso, pues no nos costaba, claro. 
+E1: Sí, sí, sí. 
+",La provincia a la que pertenecen los informadores es Valladolid.
+"Dime la provincia del siguiente texto: E1: T1 ¿O sea, que usted ha vivido todo el tiempo en el pueblo? 
+I:  I: Sí. 
+E1: ¿Sí? Y entonces  usted la matanza, ¿cuándo la solían hacer? 
+I:  I: Pues… a últimos de diciembre o primeros de enero. 
+E1: A últimos de… y ya aprovechando para la… Navidad también… 
+I:  I: Sí. . A veces matábamos dos cerdos, y matábamos uno ahora, a mediaos de diciembre, . y cuando ya unoestaba… curao prácticamente y eso, PS pues en enero matábamos el otro. 
+E1: . O sea, ¿normalmente dos cerdos? 
+I:  I: Sí, normalmente hacíamos dos matanzas. 
+E1: . Y luego, ¿cómo lo…cogían el cerdo?,¿dependía del peso o algo parecido? 
+I:  I: Solíamos criarle aquí en casa, . porque… somos labradores y… bueno, pues el pienso, pues no nos costaba, claro. 
+E1: Sí, sí, sí. 
+",La provincia a la que pertenecen los informadores es Valladolid.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T1 ¿O sea, que usted ha vivido todo el tiempo en el pueblo? 
+I:  I: Sí. 
+E1: ¿Sí? Y entonces  usted la matanza, ¿cuándo la solían hacer? 
+I:  I: Pues… a últimos de diciembre o primeros de enero. 
+E1: A últimos de… y ya aprovechando para la… Navidad también… 
+I:  I: Sí. . A veces matábamos dos cerdos, y matábamos uno ahora, a mediaos de diciembre, . y cuando ya unoestaba… curao prácticamente y eso, PS pues en enero matábamos el otro. 
+E1: . O sea, ¿normalmente dos cerdos? 
+I:  I: Sí, normalmente hacíamos dos matanzas. 
+E1: . Y luego, ¿cómo lo…cogían el cerdo?,¿dependía del peso o algo parecido? 
+I:  I: Solíamos criarle aquí en casa, . porque… somos labradores y… bueno, pues el pienso, pues no nos costaba, claro. 
+E1: Sí, sí, sí. 
+",La provincia a la que pertenecen los informadores es Valladolid.
+"Dime de qué lugar es el siguiente texto:  E1: T1 ¿O sea, que usted ha vivido todo el tiempo en el pueblo? 
+I:  I: Sí. 
+E1: ¿Sí? Y entonces  usted la matanza, ¿cuándo la solían hacer? 
+I:  I: Pues… a últimos de diciembre o primeros de enero. 
+E1: A últimos de… y ya aprovechando para la… Navidad también… 
+I:  I: Sí. . A veces matábamos dos cerdos, y matábamos uno ahora, a mediaos de diciembre, . y cuando ya unoestaba… curao prácticamente y eso, PS pues en enero matábamos el otro. 
+E1: . O sea, ¿normalmente dos cerdos? 
+I:  I: Sí, normalmente hacíamos dos matanzas. 
+E1: . Y luego, ¿cómo lo…cogían el cerdo?,¿dependía del peso o algo parecido? 
+I:  I: Solíamos criarle aquí en casa, . porque… somos labradores y… bueno, pues el pienso, pues no nos costaba, claro. 
+E1: Sí, sí, sí. 
+",La provincia a la que pertenecen los informadores es Valladolid.

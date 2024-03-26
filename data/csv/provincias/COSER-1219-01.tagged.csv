@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: Eh. Usted, entonces, ¿usted? Huy. 
+I1: No te caigas, hija. 
+E1:  ¿Usted es de aquí de toda la vida? ¿De, de,  de Portillo_de_Solórzano , ha vivido aquí…?  
+I1: primero he vivido… Pero vamos, está jun-, casi pegao . En la Junta_de_Voto.
+E1: En la Junta_de_Voto. 
+I1: Sí. 
+E1: ¿Y luego se casó aquí? 
+I1: Luego, me casé, hace veintinueve años que llevo aquí. Desde que me casé. 
+E1: O sea, ¿pero que es de aquí, de Cantabria, de toda la vida? 
+I1: Sí, sí, sí.  De toda la vida. 
+E1: T3 De toda la vida, y su madre también. Bueno, entonces, vamos a ver, queríamos, por ejemplo, preguntar primero de, de los animales de, de… ¿Aquí tien-, crían cerdos? ¿Ustedes todavía crían cerdos? 
+",La provincia a la que pertenecen los informadores es Cantabria.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: Eh. Usted, entonces, ¿usted? Huy. 
+I1: No te caigas, hija. 
+E1:  ¿Usted es de aquí de toda la vida? ¿De, de,  de Portillo_de_Solórzano , ha vivido aquí…?  
+I1: primero he vivido… Pero vamos, está jun-, casi pegao . En la Junta_de_Voto.
+E1: En la Junta_de_Voto. 
+I1: Sí. 
+E1: ¿Y luego se casó aquí? 
+I1: Luego, me casé, hace veintinueve años que llevo aquí. Desde que me casé. 
+E1: O sea, ¿pero que es de aquí, de Cantabria, de toda la vida? 
+I1: Sí, sí, sí.  De toda la vida. 
+E1: T3 De toda la vida, y su madre también. Bueno, entonces, vamos a ver, queríamos, por ejemplo, preguntar primero de, de los animales de, de… ¿Aquí tien-, crían cerdos? ¿Ustedes todavía crían cerdos? 
+",La provincia a la que pertenecen los informadores es Cantabria.
+"Dime la provincia del siguiente texto: E1: Eh. Usted, entonces, ¿usted? Huy. 
+I1: No te caigas, hija. 
+E1:  ¿Usted es de aquí de toda la vida? ¿De, de,  de Portillo_de_Solórzano , ha vivido aquí…?  
+I1: primero he vivido… Pero vamos, está jun-, casi pegao . En la Junta_de_Voto.
+E1: En la Junta_de_Voto. 
+I1: Sí. 
+E1: ¿Y luego se casó aquí? 
+I1: Luego, me casé, hace veintinueve años que llevo aquí. Desde que me casé. 
+E1: O sea, ¿pero que es de aquí, de Cantabria, de toda la vida? 
+I1: Sí, sí, sí.  De toda la vida. 
+E1: T3 De toda la vida, y su madre también. Bueno, entonces, vamos a ver, queríamos, por ejemplo, preguntar primero de, de los animales de, de… ¿Aquí tien-, crían cerdos? ¿Ustedes todavía crían cerdos? 
+",La provincia a la que pertenecen los informadores es Cantabria.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: Eh. Usted, entonces, ¿usted? Huy. 
+I1: No te caigas, hija. 
+E1:  ¿Usted es de aquí de toda la vida? ¿De, de,  de Portillo_de_Solórzano , ha vivido aquí…?  
+I1: primero he vivido… Pero vamos, está jun-, casi pegao . En la Junta_de_Voto.
+E1: En la Junta_de_Voto. 
+I1: Sí. 
+E1: ¿Y luego se casó aquí? 
+I1: Luego, me casé, hace veintinueve años que llevo aquí. Desde que me casé. 
+E1: O sea, ¿pero que es de aquí, de Cantabria, de toda la vida? 
+I1: Sí, sí, sí.  De toda la vida. 
+E1: T3 De toda la vida, y su madre también. Bueno, entonces, vamos a ver, queríamos, por ejemplo, preguntar primero de, de los animales de, de… ¿Aquí tien-, crían cerdos? ¿Ustedes todavía crían cerdos? 
+",La provincia a la que pertenecen los informadores es Cantabria.
+"Dime de qué lugar es el siguiente texto:  E1: Eh. Usted, entonces, ¿usted? Huy. 
+I1: No te caigas, hija. 
+E1:  ¿Usted es de aquí de toda la vida? ¿De, de,  de Portillo_de_Solórzano , ha vivido aquí…?  
+I1: primero he vivido… Pero vamos, está jun-, casi pegao . En la Junta_de_Voto.
+E1: En la Junta_de_Voto. 
+I1: Sí. 
+E1: ¿Y luego se casó aquí? 
+I1: Luego, me casé, hace veintinueve años que llevo aquí. Desde que me casé. 
+E1: O sea, ¿pero que es de aquí, de Cantabria, de toda la vida? 
+I1: Sí, sí, sí.  De toda la vida. 
+E1: T3 De toda la vida, y su madre también. Bueno, entonces, vamos a ver, queríamos, por ejemplo, preguntar primero de, de los animales de, de… ¿Aquí tien-, crían cerdos? ¿Ustedes todavía crían cerdos? 
+",La provincia a la que pertenecen los informadores es Cantabria.

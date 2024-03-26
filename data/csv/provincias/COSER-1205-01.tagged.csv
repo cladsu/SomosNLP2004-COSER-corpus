@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T1 ¿Nunca ha criado cerdos con…? 
+I1: Aquí… Se crían los cerdos, paren las cerdas y se crían. Les da de mamar hasta un mes, después se les echa de comer, a los dos meses se venden… 
+E2: Y después ya, la matanza. 
+I1: Y se deja uno para, para casa. …? Y al año, se le va engordando; al año se lo mata. 
+E2: Pero ¿cómo se mata al cerdo? 
+I1:  ¿Cómo se mata al cerdo? Es que yo no sé cómo se mata, yo no le mato, me le mata un señor. 
+E2: O sea que… 
+I1:  un matazán. 
+E2: . Bueno, pero cuando tenemos el cerdo ya muerto, después, ¿lo primero que hace…? 
+I1: Lo primero que hace, se abre el ce-, se… limpia el cerdo, se mata al cerdo, se limpia, se le abre, se le saca el vientre, se le deja enfriar, a otro día se le estaza , se…, se adoba la carne, se hacen los chorizos, el tocino se echa en sal, y los huesos. Los chorizos se cuelgan a curar, y después que están curaos
+E2: hábleme un poco de lo de la carne, cómo… 
+",La provincia a la que pertenecen los informadores es Cantabria.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T1 ¿Nunca ha criado cerdos con…? 
+I1: Aquí… Se crían los cerdos, paren las cerdas y se crían. Les da de mamar hasta un mes, después se les echa de comer, a los dos meses se venden… 
+E2: Y después ya, la matanza. 
+I1: Y se deja uno para, para casa. …? Y al año, se le va engordando; al año se lo mata. 
+E2: Pero ¿cómo se mata al cerdo? 
+I1:  ¿Cómo se mata al cerdo? Es que yo no sé cómo se mata, yo no le mato, me le mata un señor. 
+E2: O sea que… 
+I1:  un matazán. 
+E2: . Bueno, pero cuando tenemos el cerdo ya muerto, después, ¿lo primero que hace…? 
+I1: Lo primero que hace, se abre el ce-, se… limpia el cerdo, se mata al cerdo, se limpia, se le abre, se le saca el vientre, se le deja enfriar, a otro día se le estaza , se…, se adoba la carne, se hacen los chorizos, el tocino se echa en sal, y los huesos. Los chorizos se cuelgan a curar, y después que están curaos
+E2: hábleme un poco de lo de la carne, cómo… 
+",La provincia a la que pertenecen los informadores es Cantabria.
+"Dime la provincia del siguiente texto: E1: T1 ¿Nunca ha criado cerdos con…? 
+I1: Aquí… Se crían los cerdos, paren las cerdas y se crían. Les da de mamar hasta un mes, después se les echa de comer, a los dos meses se venden… 
+E2: Y después ya, la matanza. 
+I1: Y se deja uno para, para casa. …? Y al año, se le va engordando; al año se lo mata. 
+E2: Pero ¿cómo se mata al cerdo? 
+I1:  ¿Cómo se mata al cerdo? Es que yo no sé cómo se mata, yo no le mato, me le mata un señor. 
+E2: O sea que… 
+I1:  un matazán. 
+E2: . Bueno, pero cuando tenemos el cerdo ya muerto, después, ¿lo primero que hace…? 
+I1: Lo primero que hace, se abre el ce-, se… limpia el cerdo, se mata al cerdo, se limpia, se le abre, se le saca el vientre, se le deja enfriar, a otro día se le estaza , se…, se adoba la carne, se hacen los chorizos, el tocino se echa en sal, y los huesos. Los chorizos se cuelgan a curar, y después que están curaos
+E2: hábleme un poco de lo de la carne, cómo… 
+",La provincia a la que pertenecen los informadores es Cantabria.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T1 ¿Nunca ha criado cerdos con…? 
+I1: Aquí… Se crían los cerdos, paren las cerdas y se crían. Les da de mamar hasta un mes, después se les echa de comer, a los dos meses se venden… 
+E2: Y después ya, la matanza. 
+I1: Y se deja uno para, para casa. …? Y al año, se le va engordando; al año se lo mata. 
+E2: Pero ¿cómo se mata al cerdo? 
+I1:  ¿Cómo se mata al cerdo? Es que yo no sé cómo se mata, yo no le mato, me le mata un señor. 
+E2: O sea que… 
+I1:  un matazán. 
+E2: . Bueno, pero cuando tenemos el cerdo ya muerto, después, ¿lo primero que hace…? 
+I1: Lo primero que hace, se abre el ce-, se… limpia el cerdo, se mata al cerdo, se limpia, se le abre, se le saca el vientre, se le deja enfriar, a otro día se le estaza , se…, se adoba la carne, se hacen los chorizos, el tocino se echa en sal, y los huesos. Los chorizos se cuelgan a curar, y después que están curaos
+E2: hábleme un poco de lo de la carne, cómo… 
+",La provincia a la que pertenecen los informadores es Cantabria.
+"Dime de qué lugar es el siguiente texto:  E1: T1 ¿Nunca ha criado cerdos con…? 
+I1: Aquí… Se crían los cerdos, paren las cerdas y se crían. Les da de mamar hasta un mes, después se les echa de comer, a los dos meses se venden… 
+E2: Y después ya, la matanza. 
+I1: Y se deja uno para, para casa. …? Y al año, se le va engordando; al año se lo mata. 
+E2: Pero ¿cómo se mata al cerdo? 
+I1:  ¿Cómo se mata al cerdo? Es que yo no sé cómo se mata, yo no le mato, me le mata un señor. 
+E2: O sea que… 
+I1:  un matazán. 
+E2: . Bueno, pero cuando tenemos el cerdo ya muerto, después, ¿lo primero que hace…? 
+I1: Lo primero que hace, se abre el ce-, se… limpia el cerdo, se mata al cerdo, se limpia, se le abre, se le saca el vientre, se le deja enfriar, a otro día se le estaza , se…, se adoba la carne, se hacen los chorizos, el tocino se echa en sal, y los huesos. Los chorizos se cuelgan a curar, y después que están curaos
+E2: hábleme un poco de lo de la carne, cómo… 
+",La provincia a la que pertenecen los informadores es Cantabria.

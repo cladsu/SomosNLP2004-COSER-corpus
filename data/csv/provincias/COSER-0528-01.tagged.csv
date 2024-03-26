@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: ¿No le importa?, ¿le apetece? Sería un rato. Es contarnos cómo se vivía antes aquí, cómo se cuidaban los animales… 
+I1: Ah, yo… TOS Bueno, yo fui de otro pueblo de allá del Valle, yo viní a vivir aquí.
+E1: . ¿Y está muy lejos ese pueblo? 
+I1: Sí, bueno, pa arriba. 
+E2: A unos kilómetros, ¿no? 
+I1: Sí, sí, pa allá pa…, nada, yo cuando era pequeña, bueno, pues a la…, a la hierba, a ordeñar las vacas. .
+E1: Y…,  bueno, es que tendríamos que… 
+I1: Bueno, yo me acuerdo de, de lo que mi buelo hablaba que pasaba mucha hambre. Antiguamente pasaban trabajaban todos y pasaban mucha hambre.
+E1: ¿Y cómo se llama el pueblo del que es usted? 
+I1: El Valle,  El Valle. 
+E1: ¿Y a, a qué edad se vino aquí?  ¿A qué…? 
+",La provincia a la que pertenecen los informadores es Asturias.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: ¿No le importa?, ¿le apetece? Sería un rato. Es contarnos cómo se vivía antes aquí, cómo se cuidaban los animales… 
+I1: Ah, yo… TOS Bueno, yo fui de otro pueblo de allá del Valle, yo viní a vivir aquí.
+E1: . ¿Y está muy lejos ese pueblo? 
+I1: Sí, bueno, pa arriba. 
+E2: A unos kilómetros, ¿no? 
+I1: Sí, sí, pa allá pa…, nada, yo cuando era pequeña, bueno, pues a la…, a la hierba, a ordeñar las vacas. .
+E1: Y…,  bueno, es que tendríamos que… 
+I1: Bueno, yo me acuerdo de, de lo que mi buelo hablaba que pasaba mucha hambre. Antiguamente pasaban trabajaban todos y pasaban mucha hambre.
+E1: ¿Y cómo se llama el pueblo del que es usted? 
+I1: El Valle,  El Valle. 
+E1: ¿Y a, a qué edad se vino aquí?  ¿A qué…? 
+",La provincia a la que pertenecen los informadores es Asturias.
+"Dime la provincia del siguiente texto: E1: ¿No le importa?, ¿le apetece? Sería un rato. Es contarnos cómo se vivía antes aquí, cómo se cuidaban los animales… 
+I1: Ah, yo… TOS Bueno, yo fui de otro pueblo de allá del Valle, yo viní a vivir aquí.
+E1: . ¿Y está muy lejos ese pueblo? 
+I1: Sí, bueno, pa arriba. 
+E2: A unos kilómetros, ¿no? 
+I1: Sí, sí, pa allá pa…, nada, yo cuando era pequeña, bueno, pues a la…, a la hierba, a ordeñar las vacas. .
+E1: Y…,  bueno, es que tendríamos que… 
+I1: Bueno, yo me acuerdo de, de lo que mi buelo hablaba que pasaba mucha hambre. Antiguamente pasaban trabajaban todos y pasaban mucha hambre.
+E1: ¿Y cómo se llama el pueblo del que es usted? 
+I1: El Valle,  El Valle. 
+E1: ¿Y a, a qué edad se vino aquí?  ¿A qué…? 
+",La provincia a la que pertenecen los informadores es Asturias.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: ¿No le importa?, ¿le apetece? Sería un rato. Es contarnos cómo se vivía antes aquí, cómo se cuidaban los animales… 
+I1: Ah, yo… TOS Bueno, yo fui de otro pueblo de allá del Valle, yo viní a vivir aquí.
+E1: . ¿Y está muy lejos ese pueblo? 
+I1: Sí, bueno, pa arriba. 
+E2: A unos kilómetros, ¿no? 
+I1: Sí, sí, pa allá pa…, nada, yo cuando era pequeña, bueno, pues a la…, a la hierba, a ordeñar las vacas. .
+E1: Y…,  bueno, es que tendríamos que… 
+I1: Bueno, yo me acuerdo de, de lo que mi buelo hablaba que pasaba mucha hambre. Antiguamente pasaban trabajaban todos y pasaban mucha hambre.
+E1: ¿Y cómo se llama el pueblo del que es usted? 
+I1: El Valle,  El Valle. 
+E1: ¿Y a, a qué edad se vino aquí?  ¿A qué…? 
+",La provincia a la que pertenecen los informadores es Asturias.
+"Dime de qué lugar es el siguiente texto:  E1: ¿No le importa?, ¿le apetece? Sería un rato. Es contarnos cómo se vivía antes aquí, cómo se cuidaban los animales… 
+I1: Ah, yo… TOS Bueno, yo fui de otro pueblo de allá del Valle, yo viní a vivir aquí.
+E1: . ¿Y está muy lejos ese pueblo? 
+I1: Sí, bueno, pa arriba. 
+E2: A unos kilómetros, ¿no? 
+I1: Sí, sí, pa allá pa…, nada, yo cuando era pequeña, bueno, pues a la…, a la hierba, a ordeñar las vacas. .
+E1: Y…,  bueno, es que tendríamos que… 
+I1: Bueno, yo me acuerdo de, de lo que mi buelo hablaba que pasaba mucha hambre. Antiguamente pasaban trabajaban todos y pasaban mucha hambre.
+E1: ¿Y cómo se llama el pueblo del que es usted? 
+I1: El Valle,  El Valle. 
+E1: ¿Y a, a qué edad se vino aquí?  ¿A qué…? 
+",La provincia a la que pertenecen los informadores es Asturias.

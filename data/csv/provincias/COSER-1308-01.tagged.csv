@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: En algún sitio que fuera un, un banco o cualquier cosa y, y le preguntamos. 
+I2: Está allá hay un… . 
+E1: O un bar le invitamos a tomar algo, vamos, un… 
+I1: No, no, yo no puedo tomar nada de nada. 
+E1: ¿Un agua o una…? 
+I1: No, nada  no, nada. 
+E1: Bueno, ¿nos, o nos…? 
+I1: A un bar…, al bar yo no. 
+E1: ¿No? 
+I1: No voy a ningún bar, no puedo tomar  nada en ningún bar. 
+E1: Bueno, ¿dónde nos, dónde nos podríamos sentar? O no sé, ah, bueno, igual nos podemos sentar en el bar y nos tomamos nosotros algo.  
+",La provincia a la que pertenecen los informadores es Castellón.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: En algún sitio que fuera un, un banco o cualquier cosa y, y le preguntamos. 
+I2: Está allá hay un… . 
+E1: O un bar le invitamos a tomar algo, vamos, un… 
+I1: No, no, yo no puedo tomar nada de nada. 
+E1: ¿Un agua o una…? 
+I1: No, nada  no, nada. 
+E1: Bueno, ¿nos, o nos…? 
+I1: A un bar…, al bar yo no. 
+E1: ¿No? 
+I1: No voy a ningún bar, no puedo tomar  nada en ningún bar. 
+E1: Bueno, ¿dónde nos, dónde nos podríamos sentar? O no sé, ah, bueno, igual nos podemos sentar en el bar y nos tomamos nosotros algo.  
+",La provincia a la que pertenecen los informadores es Castellón.
+"Dime la provincia del siguiente texto: E1: En algún sitio que fuera un, un banco o cualquier cosa y, y le preguntamos. 
+I2: Está allá hay un… . 
+E1: O un bar le invitamos a tomar algo, vamos, un… 
+I1: No, no, yo no puedo tomar nada de nada. 
+E1: ¿Un agua o una…? 
+I1: No, nada  no, nada. 
+E1: Bueno, ¿nos, o nos…? 
+I1: A un bar…, al bar yo no. 
+E1: ¿No? 
+I1: No voy a ningún bar, no puedo tomar  nada en ningún bar. 
+E1: Bueno, ¿dónde nos, dónde nos podríamos sentar? O no sé, ah, bueno, igual nos podemos sentar en el bar y nos tomamos nosotros algo.  
+",La provincia a la que pertenecen los informadores es Castellón.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: En algún sitio que fuera un, un banco o cualquier cosa y, y le preguntamos. 
+I2: Está allá hay un… . 
+E1: O un bar le invitamos a tomar algo, vamos, un… 
+I1: No, no, yo no puedo tomar nada de nada. 
+E1: ¿Un agua o una…? 
+I1: No, nada  no, nada. 
+E1: Bueno, ¿nos, o nos…? 
+I1: A un bar…, al bar yo no. 
+E1: ¿No? 
+I1: No voy a ningún bar, no puedo tomar  nada en ningún bar. 
+E1: Bueno, ¿dónde nos, dónde nos podríamos sentar? O no sé, ah, bueno, igual nos podemos sentar en el bar y nos tomamos nosotros algo.  
+",La provincia a la que pertenecen los informadores es Castellón.
+"Dime de qué lugar es el siguiente texto:  E1: En algún sitio que fuera un, un banco o cualquier cosa y, y le preguntamos. 
+I2: Está allá hay un… . 
+E1: O un bar le invitamos a tomar algo, vamos, un… 
+I1: No, no, yo no puedo tomar nada de nada. 
+E1: ¿Un agua o una…? 
+I1: No, nada  no, nada. 
+E1: Bueno, ¿nos, o nos…? 
+I1: A un bar…, al bar yo no. 
+E1: ¿No? 
+I1: No voy a ningún bar, no puedo tomar  nada en ningún bar. 
+E1: Bueno, ¿dónde nos, dónde nos podríamos sentar? O no sé, ah, bueno, igual nos podemos sentar en el bar y nos tomamos nosotros algo.  
+",La provincia a la que pertenecen los informadores es Castellón.

@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T1 Ento-…, en…, en…, entonces díganos usted, usted…, ¿aquí se hacían matanzas? ¿usted hace matanza todavía o…? 
+I:  I: Ya no se hacen, antes se hacían to los años se hacía la matanza poque como no había entonces… cuando yo era pequeña no había entonces como aquí hay ahora tiendas y carnicerías… Entonces no existía eso, cuando mira yo ánde
+E1: . 
+E2: ¿Cuándo vino usted aquí a Torrecera? 
+I1: Pues… yo no vine yo es que nací. 
+E2: Ah, usted nació aquí. 
+I1: Yo nací aquí. 
+E2: ¿Y cuántos eran entonces en el pueblo? 
+I1: T11 Pues entonces cuando el pueblo… nosotros vinimos aquí, mi padre vino aquí, eran dieciocho colonos. 
+E2: Dieciocho. 
+I1: Dieciocho, familias. 
+",La provincia a la que pertenecen los informadores es Cádiz.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T1 Ento-…, en…, en…, entonces díganos usted, usted…, ¿aquí se hacían matanzas? ¿usted hace matanza todavía o…? 
+I:  I: Ya no se hacen, antes se hacían to los años se hacía la matanza poque como no había entonces… cuando yo era pequeña no había entonces como aquí hay ahora tiendas y carnicerías… Entonces no existía eso, cuando mira yo ánde
+E1: . 
+E2: ¿Cuándo vino usted aquí a Torrecera? 
+I1: Pues… yo no vine yo es que nací. 
+E2: Ah, usted nació aquí. 
+I1: Yo nací aquí. 
+E2: ¿Y cuántos eran entonces en el pueblo? 
+I1: T11 Pues entonces cuando el pueblo… nosotros vinimos aquí, mi padre vino aquí, eran dieciocho colonos. 
+E2: Dieciocho. 
+I1: Dieciocho, familias. 
+",La provincia a la que pertenecen los informadores es Cádiz.
+"Dime la provincia del siguiente texto: E1: T1 Ento-…, en…, en…, entonces díganos usted, usted…, ¿aquí se hacían matanzas? ¿usted hace matanza todavía o…? 
+I:  I: Ya no se hacen, antes se hacían to los años se hacía la matanza poque como no había entonces… cuando yo era pequeña no había entonces como aquí hay ahora tiendas y carnicerías… Entonces no existía eso, cuando mira yo ánde
+E1: . 
+E2: ¿Cuándo vino usted aquí a Torrecera? 
+I1: Pues… yo no vine yo es que nací. 
+E2: Ah, usted nació aquí. 
+I1: Yo nací aquí. 
+E2: ¿Y cuántos eran entonces en el pueblo? 
+I1: T11 Pues entonces cuando el pueblo… nosotros vinimos aquí, mi padre vino aquí, eran dieciocho colonos. 
+E2: Dieciocho. 
+I1: Dieciocho, familias. 
+",La provincia a la que pertenecen los informadores es Cádiz.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T1 Ento-…, en…, en…, entonces díganos usted, usted…, ¿aquí se hacían matanzas? ¿usted hace matanza todavía o…? 
+I:  I: Ya no se hacen, antes se hacían to los años se hacía la matanza poque como no había entonces… cuando yo era pequeña no había entonces como aquí hay ahora tiendas y carnicerías… Entonces no existía eso, cuando mira yo ánde
+E1: . 
+E2: ¿Cuándo vino usted aquí a Torrecera? 
+I1: Pues… yo no vine yo es que nací. 
+E2: Ah, usted nació aquí. 
+I1: Yo nací aquí. 
+E2: ¿Y cuántos eran entonces en el pueblo? 
+I1: T11 Pues entonces cuando el pueblo… nosotros vinimos aquí, mi padre vino aquí, eran dieciocho colonos. 
+E2: Dieciocho. 
+I1: Dieciocho, familias. 
+",La provincia a la que pertenecen los informadores es Cádiz.
+"Dime de qué lugar es el siguiente texto:  E1: T1 Ento-…, en…, en…, entonces díganos usted, usted…, ¿aquí se hacían matanzas? ¿usted hace matanza todavía o…? 
+I:  I: Ya no se hacen, antes se hacían to los años se hacía la matanza poque como no había entonces… cuando yo era pequeña no había entonces como aquí hay ahora tiendas y carnicerías… Entonces no existía eso, cuando mira yo ánde
+E1: . 
+E2: ¿Cuándo vino usted aquí a Torrecera? 
+I1: Pues… yo no vine yo es que nací. 
+E2: Ah, usted nació aquí. 
+I1: Yo nací aquí. 
+E2: ¿Y cuántos eran entonces en el pueblo? 
+I1: T11 Pues entonces cuando el pueblo… nosotros vinimos aquí, mi padre vino aquí, eran dieciocho colonos. 
+E2: Dieciocho. 
+I1: Dieciocho, familias. 
+",La provincia a la que pertenecen los informadores es Cádiz.

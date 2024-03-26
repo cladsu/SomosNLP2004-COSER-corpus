@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: Que… ¿Cómo se llama usted? 
+I1: Anonimizado Ferré . 
+E1: Vale, ¿y qué edad tiene? 
+I1: Nací el ocho de agosto de 1924. Ahora, ah, pa agosto haré ochenta_y_cuatro.
+E1: Ochenta_y_cuatro… Vale, y… 
+E2: Y… ¿Dó-, dónde estamos, cómo se llama su pueblo? 
+I1: ¿Este? San_Mateo  de Gallégo . 
+E1: Y…, ¿usted a qué se ha dedicado? 
+I1: T6 ¿Yo? Al campo y y a última hora, como se ha  la construcción. 
+E1: ¿Y, qué, qué se cosecha por aquí? ¿Qué se cosechaba antes? 
+I1: Aquí to la vida… Lo que más ha habido, remolachas, y alfalfa y trigo y panizo también, pero antes aquí la fuerza era la remolacha. D'ande
+",La provincia a la que pertenecen los informadores es Zaragoza.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: Que… ¿Cómo se llama usted? 
+I1: Anonimizado Ferré . 
+E1: Vale, ¿y qué edad tiene? 
+I1: Nací el ocho de agosto de 1924. Ahora, ah, pa agosto haré ochenta_y_cuatro.
+E1: Ochenta_y_cuatro… Vale, y… 
+E2: Y… ¿Dó-, dónde estamos, cómo se llama su pueblo? 
+I1: ¿Este? San_Mateo  de Gallégo . 
+E1: Y…, ¿usted a qué se ha dedicado? 
+I1: T6 ¿Yo? Al campo y y a última hora, como se ha  la construcción. 
+E1: ¿Y, qué, qué se cosecha por aquí? ¿Qué se cosechaba antes? 
+I1: Aquí to la vida… Lo que más ha habido, remolachas, y alfalfa y trigo y panizo también, pero antes aquí la fuerza era la remolacha. D'ande
+",La provincia a la que pertenecen los informadores es Zaragoza.
+"Dime la provincia del siguiente texto: E1: Que… ¿Cómo se llama usted? 
+I1: Anonimizado Ferré . 
+E1: Vale, ¿y qué edad tiene? 
+I1: Nací el ocho de agosto de 1924. Ahora, ah, pa agosto haré ochenta_y_cuatro.
+E1: Ochenta_y_cuatro… Vale, y… 
+E2: Y… ¿Dó-, dónde estamos, cómo se llama su pueblo? 
+I1: ¿Este? San_Mateo  de Gallégo . 
+E1: Y…, ¿usted a qué se ha dedicado? 
+I1: T6 ¿Yo? Al campo y y a última hora, como se ha  la construcción. 
+E1: ¿Y, qué, qué se cosecha por aquí? ¿Qué se cosechaba antes? 
+I1: Aquí to la vida… Lo que más ha habido, remolachas, y alfalfa y trigo y panizo también, pero antes aquí la fuerza era la remolacha. D'ande
+",La provincia a la que pertenecen los informadores es Zaragoza.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: Que… ¿Cómo se llama usted? 
+I1: Anonimizado Ferré . 
+E1: Vale, ¿y qué edad tiene? 
+I1: Nací el ocho de agosto de 1924. Ahora, ah, pa agosto haré ochenta_y_cuatro.
+E1: Ochenta_y_cuatro… Vale, y… 
+E2: Y… ¿Dó-, dónde estamos, cómo se llama su pueblo? 
+I1: ¿Este? San_Mateo  de Gallégo . 
+E1: Y…, ¿usted a qué se ha dedicado? 
+I1: T6 ¿Yo? Al campo y y a última hora, como se ha  la construcción. 
+E1: ¿Y, qué, qué se cosecha por aquí? ¿Qué se cosechaba antes? 
+I1: Aquí to la vida… Lo que más ha habido, remolachas, y alfalfa y trigo y panizo también, pero antes aquí la fuerza era la remolacha. D'ande
+",La provincia a la que pertenecen los informadores es Zaragoza.
+"Dime de qué lugar es el siguiente texto:  E1: Que… ¿Cómo se llama usted? 
+I1: Anonimizado Ferré . 
+E1: Vale, ¿y qué edad tiene? 
+I1: Nací el ocho de agosto de 1924. Ahora, ah, pa agosto haré ochenta_y_cuatro.
+E1: Ochenta_y_cuatro… Vale, y… 
+E2: Y… ¿Dó-, dónde estamos, cómo se llama su pueblo? 
+I1: ¿Este? San_Mateo  de Gallégo . 
+E1: Y…, ¿usted a qué se ha dedicado? 
+I1: T6 ¿Yo? Al campo y y a última hora, como se ha  la construcción. 
+E1: ¿Y, qué, qué se cosecha por aquí? ¿Qué se cosechaba antes? 
+I1: Aquí to la vida… Lo que más ha habido, remolachas, y alfalfa y trigo y panizo también, pero antes aquí la fuerza era la remolacha. D'ande
+",La provincia a la que pertenecen los informadores es Zaragoza.

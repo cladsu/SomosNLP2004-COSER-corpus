@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1:  Buenas. 
+E1: Hola, buenos días.  ¿Anonimizado? 
+IE:  IE: HCruz:Abuela, explícales qué fue a estos chicos cómo era la vida antes, que van a hacé un trabajo pa la universidá
+I1: Ay, yo qué sé decirte, bueno…  Yo esto-, yo estoy… sesenta años aquí, sesenta_y_uno, estoy. 
+E1: Sí. 
+E2: T21¿Y usted nació aquí?   
+E1: ¿Nació en el pueblo? 
+I1: No señor, yo soy de la provincia Albacete. Yo soy, , usté que sabe, ¿Casas_del_Río?
+E1: Casas_del_Río. ¿Está cerca de aquí? No. 
+I1: Pues no… Aún está lejos. 
+E1: ¿A cuántos kilómetros más o menos? ¿Sabe? 
+",La provincia a la que pertenecen los informadores es Valencia.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1:  Buenas. 
+E1: Hola, buenos días.  ¿Anonimizado? 
+IE:  IE: HCruz:Abuela, explícales qué fue a estos chicos cómo era la vida antes, que van a hacé un trabajo pa la universidá
+I1: Ay, yo qué sé decirte, bueno…  Yo esto-, yo estoy… sesenta años aquí, sesenta_y_uno, estoy. 
+E1: Sí. 
+E2: T21¿Y usted nació aquí?   
+E1: ¿Nació en el pueblo? 
+I1: No señor, yo soy de la provincia Albacete. Yo soy, , usté que sabe, ¿Casas_del_Río?
+E1: Casas_del_Río. ¿Está cerca de aquí? No. 
+I1: Pues no… Aún está lejos. 
+E1: ¿A cuántos kilómetros más o menos? ¿Sabe? 
+",La provincia a la que pertenecen los informadores es Valencia.
+"Dime la provincia del siguiente texto: I1:  Buenas. 
+E1: Hola, buenos días.  ¿Anonimizado? 
+IE:  IE: HCruz:Abuela, explícales qué fue a estos chicos cómo era la vida antes, que van a hacé un trabajo pa la universidá
+I1: Ay, yo qué sé decirte, bueno…  Yo esto-, yo estoy… sesenta años aquí, sesenta_y_uno, estoy. 
+E1: Sí. 
+E2: T21¿Y usted nació aquí?   
+E1: ¿Nació en el pueblo? 
+I1: No señor, yo soy de la provincia Albacete. Yo soy, , usté que sabe, ¿Casas_del_Río?
+E1: Casas_del_Río. ¿Está cerca de aquí? No. 
+I1: Pues no… Aún está lejos. 
+E1: ¿A cuántos kilómetros más o menos? ¿Sabe? 
+",La provincia a la que pertenecen los informadores es Valencia.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1:  Buenas. 
+E1: Hola, buenos días.  ¿Anonimizado? 
+IE:  IE: HCruz:Abuela, explícales qué fue a estos chicos cómo era la vida antes, que van a hacé un trabajo pa la universidá
+I1: Ay, yo qué sé decirte, bueno…  Yo esto-, yo estoy… sesenta años aquí, sesenta_y_uno, estoy. 
+E1: Sí. 
+E2: T21¿Y usted nació aquí?   
+E1: ¿Nació en el pueblo? 
+I1: No señor, yo soy de la provincia Albacete. Yo soy, , usté que sabe, ¿Casas_del_Río?
+E1: Casas_del_Río. ¿Está cerca de aquí? No. 
+I1: Pues no… Aún está lejos. 
+E1: ¿A cuántos kilómetros más o menos? ¿Sabe? 
+",La provincia a la que pertenecen los informadores es Valencia.
+"Dime de qué lugar es el siguiente texto:  I1:  Buenas. 
+E1: Hola, buenos días.  ¿Anonimizado? 
+IE:  IE: HCruz:Abuela, explícales qué fue a estos chicos cómo era la vida antes, que van a hacé un trabajo pa la universidá
+I1: Ay, yo qué sé decirte, bueno…  Yo esto-, yo estoy… sesenta años aquí, sesenta_y_uno, estoy. 
+E1: Sí. 
+E2: T21¿Y usted nació aquí?   
+E1: ¿Nació en el pueblo? 
+I1: No señor, yo soy de la provincia Albacete. Yo soy, , usté que sabe, ¿Casas_del_Río?
+E1: Casas_del_Río. ¿Está cerca de aquí? No. 
+I1: Pues no… Aún está lejos. 
+E1: ¿A cuántos kilómetros más o menos? ¿Sabe? 
+",La provincia a la que pertenecen los informadores es Valencia.

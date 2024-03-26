@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T12 Bueno, Anonimizado,  sí.  Cuéntanos un poco cómo…, cómo era tu infancia, a qué te dedicaste, si fuiste al colegio… 
+I1: Fui al colegio, pero no me valió para nada, porque se ve que era muy torpe. 
+E1: ¿Cuántos años? 
+I1: ¿De años? Po-, po-, L-Otra:potser cuatro, L-Otra:potser cinco, pero… una maestra para todas las niñas del pueblo y un maestro para todos los niños del pueblo. Así es que yo, dos letras juntas me estorbaban.  Digo la verdá Ahora, que para hacer un jersey, para ver un vestido si está mal hecho, si va mal, esto lo L-Otra:guipo, pero leer y escribir he sido muy burra. Pero bueno, me ha tocado así. Y a jugar, a aquello que hacía rayas… y con un pie saltabas del uno al otro.
+E1: Rayuela. 
+I1: Se ha saltar por las L-Otra:séquias, o no sé cómo decir, o brazales, cosas de agua,  cosas de…, pues de…, pues de, ya nos hicimos un poco más grandes, y nos cogieron a envasar frute . Íbamos a embalar fruta, . que este pueblo es muy frutero el verano, mucho. . Íbamos a…
+E1: ¿Las mujeres? 
+I1:  Las mujeres, y algún hombre, algún chico, te… venía, te sacaba las cajas, te las ponía…, que decías: «Caja fuera». Pos…, porque después, no eran las máquinas estas que veis ahora que dan vueltas a la fruta, que después era a montones, todo a montones… No sé qué os tengo que decir; pues mira, si hacían baile, íbamos al baile… 
+E1: T15 ¿Qué fiestas hay aquí, en el pueblo? 
+I1:  Ahora nada, ahora los borrachitos, ahora los borrachitos, solo los bo-…  Antes, mira, venía la pascua, de la mona, que no sé vosotros si la conocéis esta pascua. 
+E1: No.  
+",La provincia a la que pertenecen los informadores es Lérida.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T12 Bueno, Anonimizado,  sí.  Cuéntanos un poco cómo…, cómo era tu infancia, a qué te dedicaste, si fuiste al colegio… 
+I1: Fui al colegio, pero no me valió para nada, porque se ve que era muy torpe. 
+E1: ¿Cuántos años? 
+I1: ¿De años? Po-, po-, L-Otra:potser cuatro, L-Otra:potser cinco, pero… una maestra para todas las niñas del pueblo y un maestro para todos los niños del pueblo. Así es que yo, dos letras juntas me estorbaban.  Digo la verdá Ahora, que para hacer un jersey, para ver un vestido si está mal hecho, si va mal, esto lo L-Otra:guipo, pero leer y escribir he sido muy burra. Pero bueno, me ha tocado así. Y a jugar, a aquello que hacía rayas… y con un pie saltabas del uno al otro.
+E1: Rayuela. 
+I1: Se ha saltar por las L-Otra:séquias, o no sé cómo decir, o brazales, cosas de agua,  cosas de…, pues de…, pues de, ya nos hicimos un poco más grandes, y nos cogieron a envasar frute . Íbamos a embalar fruta, . que este pueblo es muy frutero el verano, mucho. . Íbamos a…
+E1: ¿Las mujeres? 
+I1:  Las mujeres, y algún hombre, algún chico, te… venía, te sacaba las cajas, te las ponía…, que decías: «Caja fuera». Pos…, porque después, no eran las máquinas estas que veis ahora que dan vueltas a la fruta, que después era a montones, todo a montones… No sé qué os tengo que decir; pues mira, si hacían baile, íbamos al baile… 
+E1: T15 ¿Qué fiestas hay aquí, en el pueblo? 
+I1:  Ahora nada, ahora los borrachitos, ahora los borrachitos, solo los bo-…  Antes, mira, venía la pascua, de la mona, que no sé vosotros si la conocéis esta pascua. 
+E1: No.  
+",La provincia a la que pertenecen los informadores es Lérida.
+"Dime la provincia del siguiente texto: E1: T12 Bueno, Anonimizado,  sí.  Cuéntanos un poco cómo…, cómo era tu infancia, a qué te dedicaste, si fuiste al colegio… 
+I1: Fui al colegio, pero no me valió para nada, porque se ve que era muy torpe. 
+E1: ¿Cuántos años? 
+I1: ¿De años? Po-, po-, L-Otra:potser cuatro, L-Otra:potser cinco, pero… una maestra para todas las niñas del pueblo y un maestro para todos los niños del pueblo. Así es que yo, dos letras juntas me estorbaban.  Digo la verdá Ahora, que para hacer un jersey, para ver un vestido si está mal hecho, si va mal, esto lo L-Otra:guipo, pero leer y escribir he sido muy burra. Pero bueno, me ha tocado así. Y a jugar, a aquello que hacía rayas… y con un pie saltabas del uno al otro.
+E1: Rayuela. 
+I1: Se ha saltar por las L-Otra:séquias, o no sé cómo decir, o brazales, cosas de agua,  cosas de…, pues de…, pues de, ya nos hicimos un poco más grandes, y nos cogieron a envasar frute . Íbamos a embalar fruta, . que este pueblo es muy frutero el verano, mucho. . Íbamos a…
+E1: ¿Las mujeres? 
+I1:  Las mujeres, y algún hombre, algún chico, te… venía, te sacaba las cajas, te las ponía…, que decías: «Caja fuera». Pos…, porque después, no eran las máquinas estas que veis ahora que dan vueltas a la fruta, que después era a montones, todo a montones… No sé qué os tengo que decir; pues mira, si hacían baile, íbamos al baile… 
+E1: T15 ¿Qué fiestas hay aquí, en el pueblo? 
+I1:  Ahora nada, ahora los borrachitos, ahora los borrachitos, solo los bo-…  Antes, mira, venía la pascua, de la mona, que no sé vosotros si la conocéis esta pascua. 
+E1: No.  
+",La provincia a la que pertenecen los informadores es Lérida.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T12 Bueno, Anonimizado,  sí.  Cuéntanos un poco cómo…, cómo era tu infancia, a qué te dedicaste, si fuiste al colegio… 
+I1: Fui al colegio, pero no me valió para nada, porque se ve que era muy torpe. 
+E1: ¿Cuántos años? 
+I1: ¿De años? Po-, po-, L-Otra:potser cuatro, L-Otra:potser cinco, pero… una maestra para todas las niñas del pueblo y un maestro para todos los niños del pueblo. Así es que yo, dos letras juntas me estorbaban.  Digo la verdá Ahora, que para hacer un jersey, para ver un vestido si está mal hecho, si va mal, esto lo L-Otra:guipo, pero leer y escribir he sido muy burra. Pero bueno, me ha tocado así. Y a jugar, a aquello que hacía rayas… y con un pie saltabas del uno al otro.
+E1: Rayuela. 
+I1: Se ha saltar por las L-Otra:séquias, o no sé cómo decir, o brazales, cosas de agua,  cosas de…, pues de…, pues de, ya nos hicimos un poco más grandes, y nos cogieron a envasar frute . Íbamos a embalar fruta, . que este pueblo es muy frutero el verano, mucho. . Íbamos a…
+E1: ¿Las mujeres? 
+I1:  Las mujeres, y algún hombre, algún chico, te… venía, te sacaba las cajas, te las ponía…, que decías: «Caja fuera». Pos…, porque después, no eran las máquinas estas que veis ahora que dan vueltas a la fruta, que después era a montones, todo a montones… No sé qué os tengo que decir; pues mira, si hacían baile, íbamos al baile… 
+E1: T15 ¿Qué fiestas hay aquí, en el pueblo? 
+I1:  Ahora nada, ahora los borrachitos, ahora los borrachitos, solo los bo-…  Antes, mira, venía la pascua, de la mona, que no sé vosotros si la conocéis esta pascua. 
+E1: No.  
+",La provincia a la que pertenecen los informadores es Lérida.
+"Dime de qué lugar es el siguiente texto:  E1: T12 Bueno, Anonimizado,  sí.  Cuéntanos un poco cómo…, cómo era tu infancia, a qué te dedicaste, si fuiste al colegio… 
+I1: Fui al colegio, pero no me valió para nada, porque se ve que era muy torpe. 
+E1: ¿Cuántos años? 
+I1: ¿De años? Po-, po-, L-Otra:potser cuatro, L-Otra:potser cinco, pero… una maestra para todas las niñas del pueblo y un maestro para todos los niños del pueblo. Así es que yo, dos letras juntas me estorbaban.  Digo la verdá Ahora, que para hacer un jersey, para ver un vestido si está mal hecho, si va mal, esto lo L-Otra:guipo, pero leer y escribir he sido muy burra. Pero bueno, me ha tocado así. Y a jugar, a aquello que hacía rayas… y con un pie saltabas del uno al otro.
+E1: Rayuela. 
+I1: Se ha saltar por las L-Otra:séquias, o no sé cómo decir, o brazales, cosas de agua,  cosas de…, pues de…, pues de, ya nos hicimos un poco más grandes, y nos cogieron a envasar frute . Íbamos a embalar fruta, . que este pueblo es muy frutero el verano, mucho. . Íbamos a…
+E1: ¿Las mujeres? 
+I1:  Las mujeres, y algún hombre, algún chico, te… venía, te sacaba las cajas, te las ponía…, que decías: «Caja fuera». Pos…, porque después, no eran las máquinas estas que veis ahora que dan vueltas a la fruta, que después era a montones, todo a montones… No sé qué os tengo que decir; pues mira, si hacían baile, íbamos al baile… 
+E1: T15 ¿Qué fiestas hay aquí, en el pueblo? 
+I1:  Ahora nada, ahora los borrachitos, ahora los borrachitos, solo los bo-…  Antes, mira, venía la pascua, de la mona, que no sé vosotros si la conocéis esta pascua. 
+E1: No.  
+",La provincia a la que pertenecen los informadores es Lérida.

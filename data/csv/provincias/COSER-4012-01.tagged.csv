@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: V-Sml Músicas… pero, respectamos todo lo que se hace en las músicas, pero normalmente las tradiciones,  normalmente son las mismas porque, por ejemplo, eso de los toros, de las vaquillas que se hacen aquí, esto es una cosa ancestral ya de, de tiempos inmemoriales, los abielos , los hijos, los nietos ya, ya vas… Las vaquillas que en las fiestas se sueltan por el pueblo, cierran el pueblo y las vaquillas van por el pueblo. No se les toca na
+E1: T15 Bien, la… ¿Cuántas fiestas hay aquí en el pueblo, al año? 
+I1:  Que sean de las tradicionales, dos,  que son las de san Jaime para julio, el veinticinco de julio, y después san Martín… Que las fiestas de san Martín no eran preci-, se hicieran a, a raíz de doscientos años o doscientos_cincuenta, que hubo una gran riada en el pueblo. Aquí arriba del pueblo había una ermita y se llamaba la ermita de san Martín y había la devoción, había la devoción de ir a… hacer el, la…, a la fiesta de San_Martín iba la gente en romería . Y cuando vino una gran riada en el año 1787  o por ahí y llegó, todo el pueblo quedó inundao . La gente salió en procesión a la ermita y bajaron al santo y… devoción o no, o sea que… la gente…, las aguas volvieron a su cauce y desde entonces el ayuntamiento acordaron que las fiestas mayores, las mayores serían el once de noviembre, que no lo eran.
+E1: Entonces, ¿hay una, hay una procesión desde la ermita al santo?  
+I1: Bueno, otra cosa . cuando la guerra, cuando la guerra, cuando la guerra de la Independencia, los franceses, que ocuparon Xerta, la destruyeron.  Y esta ermita está a un ki-, un kilómetro y medio del pueblo, a un altozano que hay y aún quedan algunos restos de la que había. 
+E1: Entonces, ahora el santo, ¿dónde…?  
+I2: El santo ahora está en la iglesia. Está en la iglesia.  
+E1: ¿Y hacen alguna procesión por el pueblo? 
+I1: Sí, el día de la fiesta mayor… 
+I2: El día del a fiesta mayor,  una procesión por todo el pueblo, sí.  
+E1: T19 Y ahora, vamos a hablar ahora del, del baile, del tradicional baile. Las orquestas, ¿había en aquella época?, ¿o era gente del pueblo con instrumentos?   
+",La provincia a la que pertenecen los informadores es Tarragona.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: V-Sml Músicas… pero, respectamos todo lo que se hace en las músicas, pero normalmente las tradiciones,  normalmente son las mismas porque, por ejemplo, eso de los toros, de las vaquillas que se hacen aquí, esto es una cosa ancestral ya de, de tiempos inmemoriales, los abielos , los hijos, los nietos ya, ya vas… Las vaquillas que en las fiestas se sueltan por el pueblo, cierran el pueblo y las vaquillas van por el pueblo. No se les toca na
+E1: T15 Bien, la… ¿Cuántas fiestas hay aquí en el pueblo, al año? 
+I1:  Que sean de las tradicionales, dos,  que son las de san Jaime para julio, el veinticinco de julio, y después san Martín… Que las fiestas de san Martín no eran preci-, se hicieran a, a raíz de doscientos años o doscientos_cincuenta, que hubo una gran riada en el pueblo. Aquí arriba del pueblo había una ermita y se llamaba la ermita de san Martín y había la devoción, había la devoción de ir a… hacer el, la…, a la fiesta de San_Martín iba la gente en romería . Y cuando vino una gran riada en el año 1787  o por ahí y llegó, todo el pueblo quedó inundao . La gente salió en procesión a la ermita y bajaron al santo y… devoción o no, o sea que… la gente…, las aguas volvieron a su cauce y desde entonces el ayuntamiento acordaron que las fiestas mayores, las mayores serían el once de noviembre, que no lo eran.
+E1: Entonces, ¿hay una, hay una procesión desde la ermita al santo?  
+I1: Bueno, otra cosa . cuando la guerra, cuando la guerra, cuando la guerra de la Independencia, los franceses, que ocuparon Xerta, la destruyeron.  Y esta ermita está a un ki-, un kilómetro y medio del pueblo, a un altozano que hay y aún quedan algunos restos de la que había. 
+E1: Entonces, ahora el santo, ¿dónde…?  
+I2: El santo ahora está en la iglesia. Está en la iglesia.  
+E1: ¿Y hacen alguna procesión por el pueblo? 
+I1: Sí, el día de la fiesta mayor… 
+I2: El día del a fiesta mayor,  una procesión por todo el pueblo, sí.  
+E1: T19 Y ahora, vamos a hablar ahora del, del baile, del tradicional baile. Las orquestas, ¿había en aquella época?, ¿o era gente del pueblo con instrumentos?   
+",La provincia a la que pertenecen los informadores es Tarragona.
+"Dime la provincia del siguiente texto: I1: V-Sml Músicas… pero, respectamos todo lo que se hace en las músicas, pero normalmente las tradiciones,  normalmente son las mismas porque, por ejemplo, eso de los toros, de las vaquillas que se hacen aquí, esto es una cosa ancestral ya de, de tiempos inmemoriales, los abielos , los hijos, los nietos ya, ya vas… Las vaquillas que en las fiestas se sueltan por el pueblo, cierran el pueblo y las vaquillas van por el pueblo. No se les toca na
+E1: T15 Bien, la… ¿Cuántas fiestas hay aquí en el pueblo, al año? 
+I1:  Que sean de las tradicionales, dos,  que son las de san Jaime para julio, el veinticinco de julio, y después san Martín… Que las fiestas de san Martín no eran preci-, se hicieran a, a raíz de doscientos años o doscientos_cincuenta, que hubo una gran riada en el pueblo. Aquí arriba del pueblo había una ermita y se llamaba la ermita de san Martín y había la devoción, había la devoción de ir a… hacer el, la…, a la fiesta de San_Martín iba la gente en romería . Y cuando vino una gran riada en el año 1787  o por ahí y llegó, todo el pueblo quedó inundao . La gente salió en procesión a la ermita y bajaron al santo y… devoción o no, o sea que… la gente…, las aguas volvieron a su cauce y desde entonces el ayuntamiento acordaron que las fiestas mayores, las mayores serían el once de noviembre, que no lo eran.
+E1: Entonces, ¿hay una, hay una procesión desde la ermita al santo?  
+I1: Bueno, otra cosa . cuando la guerra, cuando la guerra, cuando la guerra de la Independencia, los franceses, que ocuparon Xerta, la destruyeron.  Y esta ermita está a un ki-, un kilómetro y medio del pueblo, a un altozano que hay y aún quedan algunos restos de la que había. 
+E1: Entonces, ahora el santo, ¿dónde…?  
+I2: El santo ahora está en la iglesia. Está en la iglesia.  
+E1: ¿Y hacen alguna procesión por el pueblo? 
+I1: Sí, el día de la fiesta mayor… 
+I2: El día del a fiesta mayor,  una procesión por todo el pueblo, sí.  
+E1: T19 Y ahora, vamos a hablar ahora del, del baile, del tradicional baile. Las orquestas, ¿había en aquella época?, ¿o era gente del pueblo con instrumentos?   
+",La provincia a la que pertenecen los informadores es Tarragona.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: V-Sml Músicas… pero, respectamos todo lo que se hace en las músicas, pero normalmente las tradiciones,  normalmente son las mismas porque, por ejemplo, eso de los toros, de las vaquillas que se hacen aquí, esto es una cosa ancestral ya de, de tiempos inmemoriales, los abielos , los hijos, los nietos ya, ya vas… Las vaquillas que en las fiestas se sueltan por el pueblo, cierran el pueblo y las vaquillas van por el pueblo. No se les toca na
+E1: T15 Bien, la… ¿Cuántas fiestas hay aquí en el pueblo, al año? 
+I1:  Que sean de las tradicionales, dos,  que son las de san Jaime para julio, el veinticinco de julio, y después san Martín… Que las fiestas de san Martín no eran preci-, se hicieran a, a raíz de doscientos años o doscientos_cincuenta, que hubo una gran riada en el pueblo. Aquí arriba del pueblo había una ermita y se llamaba la ermita de san Martín y había la devoción, había la devoción de ir a… hacer el, la…, a la fiesta de San_Martín iba la gente en romería . Y cuando vino una gran riada en el año 1787  o por ahí y llegó, todo el pueblo quedó inundao . La gente salió en procesión a la ermita y bajaron al santo y… devoción o no, o sea que… la gente…, las aguas volvieron a su cauce y desde entonces el ayuntamiento acordaron que las fiestas mayores, las mayores serían el once de noviembre, que no lo eran.
+E1: Entonces, ¿hay una, hay una procesión desde la ermita al santo?  
+I1: Bueno, otra cosa . cuando la guerra, cuando la guerra, cuando la guerra de la Independencia, los franceses, que ocuparon Xerta, la destruyeron.  Y esta ermita está a un ki-, un kilómetro y medio del pueblo, a un altozano que hay y aún quedan algunos restos de la que había. 
+E1: Entonces, ahora el santo, ¿dónde…?  
+I2: El santo ahora está en la iglesia. Está en la iglesia.  
+E1: ¿Y hacen alguna procesión por el pueblo? 
+I1: Sí, el día de la fiesta mayor… 
+I2: El día del a fiesta mayor,  una procesión por todo el pueblo, sí.  
+E1: T19 Y ahora, vamos a hablar ahora del, del baile, del tradicional baile. Las orquestas, ¿había en aquella época?, ¿o era gente del pueblo con instrumentos?   
+",La provincia a la que pertenecen los informadores es Tarragona.
+"Dime de qué lugar es el siguiente texto:  I1: V-Sml Músicas… pero, respectamos todo lo que se hace en las músicas, pero normalmente las tradiciones,  normalmente son las mismas porque, por ejemplo, eso de los toros, de las vaquillas que se hacen aquí, esto es una cosa ancestral ya de, de tiempos inmemoriales, los abielos , los hijos, los nietos ya, ya vas… Las vaquillas que en las fiestas se sueltan por el pueblo, cierran el pueblo y las vaquillas van por el pueblo. No se les toca na
+E1: T15 Bien, la… ¿Cuántas fiestas hay aquí en el pueblo, al año? 
+I1:  Que sean de las tradicionales, dos,  que son las de san Jaime para julio, el veinticinco de julio, y después san Martín… Que las fiestas de san Martín no eran preci-, se hicieran a, a raíz de doscientos años o doscientos_cincuenta, que hubo una gran riada en el pueblo. Aquí arriba del pueblo había una ermita y se llamaba la ermita de san Martín y había la devoción, había la devoción de ir a… hacer el, la…, a la fiesta de San_Martín iba la gente en romería . Y cuando vino una gran riada en el año 1787  o por ahí y llegó, todo el pueblo quedó inundao . La gente salió en procesión a la ermita y bajaron al santo y… devoción o no, o sea que… la gente…, las aguas volvieron a su cauce y desde entonces el ayuntamiento acordaron que las fiestas mayores, las mayores serían el once de noviembre, que no lo eran.
+E1: Entonces, ¿hay una, hay una procesión desde la ermita al santo?  
+I1: Bueno, otra cosa . cuando la guerra, cuando la guerra, cuando la guerra de la Independencia, los franceses, que ocuparon Xerta, la destruyeron.  Y esta ermita está a un ki-, un kilómetro y medio del pueblo, a un altozano que hay y aún quedan algunos restos de la que había. 
+E1: Entonces, ahora el santo, ¿dónde…?  
+I2: El santo ahora está en la iglesia. Está en la iglesia.  
+E1: ¿Y hacen alguna procesión por el pueblo? 
+I1: Sí, el día de la fiesta mayor… 
+I2: El día del a fiesta mayor,  una procesión por todo el pueblo, sí.  
+E1: T19 Y ahora, vamos a hablar ahora del, del baile, del tradicional baile. Las orquestas, ¿había en aquella época?, ¿o era gente del pueblo con instrumentos?   
+",La provincia a la que pertenecen los informadores es Tarragona.

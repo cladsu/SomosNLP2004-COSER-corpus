@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T11 Pues nos gustaría así… que nos contara un poco si usted nació en este pueblo, y cómo era… o sea, qué es lo que recuerda usted, sobre todo de cómo era, de cuando era pequeña. Sobre todo, claro, teniendo en cuenta que… que el mundo ha cambiao mucho, es decir que… 
+I1: Ha cambiao más a la cuenta, porque cuan-, . cuando yo… era pequeña, no, era una vía
+E1: . 
+I1: Desde luego, porque no, no se parece a… a cuando yo me crie. . Porque… la verdá , nosotros sí le voy a decir, nos, los
+E1: ¿En cuevas?  
+I1: En cuevas los criamos.
+E1: ¿Dentro del mismo pueblo? O sea, ¿en la zona en la que estamos? 
+I1: Sí,  esto, aquí le dicen el Molino_del_Viento, . y donde yo me crie le decían las Tierras_de_Mesa. . Pues entonces estábamos ahí, . un montón de hermanos, . que mi madre tuvo dieciséis hijos. 
+E1:  ¡Dieciséis!   
+I1: Bautizó quince. 
+E1: .   
+",La provincia a la que pertenecen los informadores es Santa Cruz de Tenerife.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T11 Pues nos gustaría así… que nos contara un poco si usted nació en este pueblo, y cómo era… o sea, qué es lo que recuerda usted, sobre todo de cómo era, de cuando era pequeña. Sobre todo, claro, teniendo en cuenta que… que el mundo ha cambiao mucho, es decir que… 
+I1: Ha cambiao más a la cuenta, porque cuan-, . cuando yo… era pequeña, no, era una vía
+E1: . 
+I1: Desde luego, porque no, no se parece a… a cuando yo me crie. . Porque… la verdá , nosotros sí le voy a decir, nos, los
+E1: ¿En cuevas?  
+I1: En cuevas los criamos.
+E1: ¿Dentro del mismo pueblo? O sea, ¿en la zona en la que estamos? 
+I1: Sí,  esto, aquí le dicen el Molino_del_Viento, . y donde yo me crie le decían las Tierras_de_Mesa. . Pues entonces estábamos ahí, . un montón de hermanos, . que mi madre tuvo dieciséis hijos. 
+E1:  ¡Dieciséis!   
+I1: Bautizó quince. 
+E1: .   
+",La provincia a la que pertenecen los informadores es Santa Cruz de Tenerife.
+"Dime la provincia del siguiente texto: E1: T11 Pues nos gustaría así… que nos contara un poco si usted nació en este pueblo, y cómo era… o sea, qué es lo que recuerda usted, sobre todo de cómo era, de cuando era pequeña. Sobre todo, claro, teniendo en cuenta que… que el mundo ha cambiao mucho, es decir que… 
+I1: Ha cambiao más a la cuenta, porque cuan-, . cuando yo… era pequeña, no, era una vía
+E1: . 
+I1: Desde luego, porque no, no se parece a… a cuando yo me crie. . Porque… la verdá , nosotros sí le voy a decir, nos, los
+E1: ¿En cuevas?  
+I1: En cuevas los criamos.
+E1: ¿Dentro del mismo pueblo? O sea, ¿en la zona en la que estamos? 
+I1: Sí,  esto, aquí le dicen el Molino_del_Viento, . y donde yo me crie le decían las Tierras_de_Mesa. . Pues entonces estábamos ahí, . un montón de hermanos, . que mi madre tuvo dieciséis hijos. 
+E1:  ¡Dieciséis!   
+I1: Bautizó quince. 
+E1: .   
+",La provincia a la que pertenecen los informadores es Santa Cruz de Tenerife.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T11 Pues nos gustaría así… que nos contara un poco si usted nació en este pueblo, y cómo era… o sea, qué es lo que recuerda usted, sobre todo de cómo era, de cuando era pequeña. Sobre todo, claro, teniendo en cuenta que… que el mundo ha cambiao mucho, es decir que… 
+I1: Ha cambiao más a la cuenta, porque cuan-, . cuando yo… era pequeña, no, era una vía
+E1: . 
+I1: Desde luego, porque no, no se parece a… a cuando yo me crie. . Porque… la verdá , nosotros sí le voy a decir, nos, los
+E1: ¿En cuevas?  
+I1: En cuevas los criamos.
+E1: ¿Dentro del mismo pueblo? O sea, ¿en la zona en la que estamos? 
+I1: Sí,  esto, aquí le dicen el Molino_del_Viento, . y donde yo me crie le decían las Tierras_de_Mesa. . Pues entonces estábamos ahí, . un montón de hermanos, . que mi madre tuvo dieciséis hijos. 
+E1:  ¡Dieciséis!   
+I1: Bautizó quince. 
+E1: .   
+",La provincia a la que pertenecen los informadores es Santa Cruz de Tenerife.
+"Dime de qué lugar es el siguiente texto:  E1: T11 Pues nos gustaría así… que nos contara un poco si usted nació en este pueblo, y cómo era… o sea, qué es lo que recuerda usted, sobre todo de cómo era, de cuando era pequeña. Sobre todo, claro, teniendo en cuenta que… que el mundo ha cambiao mucho, es decir que… 
+I1: Ha cambiao más a la cuenta, porque cuan-, . cuando yo… era pequeña, no, era una vía
+E1: . 
+I1: Desde luego, porque no, no se parece a… a cuando yo me crie. . Porque… la verdá , nosotros sí le voy a decir, nos, los
+E1: ¿En cuevas?  
+I1: En cuevas los criamos.
+E1: ¿Dentro del mismo pueblo? O sea, ¿en la zona en la que estamos? 
+I1: Sí,  esto, aquí le dicen el Molino_del_Viento, . y donde yo me crie le decían las Tierras_de_Mesa. . Pues entonces estábamos ahí, . un montón de hermanos, . que mi madre tuvo dieciséis hijos. 
+E1:  ¡Dieciséis!   
+I1: Bautizó quince. 
+E1: .   
+",La provincia a la que pertenecen los informadores es Santa Cruz de Tenerife.

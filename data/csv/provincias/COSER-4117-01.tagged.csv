@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: En, en Teruel. Y, después, una semana cada una nos han hecho la comida a mi marido y a mí, que el marido mío es ese que iba agora con la bicicleta, que le he dicho que fuera a traeme verde pa echarle pa la noche. Que yo me hago una cazolica sopa y a él le gusta el verde.
+E1: T1 A ver, ¿usted ha hecho matanza? 
+I1: Yo no. Hace siete u ocho años que no hago porque hacen mis hijas y es suficiente pa colgar en el granero de mi casa y, cuando bajan de ahí arriba, siempre me dejan en la mesa.  Pero siempre he matao , siempre. Hasta cinco o seis he matao
+E1: ¿Cómo se mata un cerdo? 
+I1: Pues co-, se, se cuida todo el año. 
+E1: ¿Un año entero? 
+I1: El año entero. Ya antes el año entero, agora a lo mejor les echan harinas compuestas y los crían antes, pero como lo natural no hay nada. Que ya antes se criaban con lo que se cogía en casa y alface verde que les echabas por la tarde, y se hacían buenos también, pero les costaba más que con la harina, que con la harina compuesta porque, como la harina compuesta lleva de tantas cosas, pues lo crían antes, pero lo natural es los que se crían al cabo del año. Que de antes se dejaban a lo mejor pa Todos_Santos y hasta el otro año que se solían matar en noviembre y en diciembre pues estaban haciéndose poco a poco gordos, sin echarles mucho de una vez. Y así pues salían más, más grosos y todo.
+E1: ¿Cómo llaman ustedes a los cerdos? ¿Los llaman cerdos, gorrinos? 
+I1: Huy, de todo. Y puercos, sí. 
+E1: Y la matanza, ¿dicen matanza o…? 
+I1: Matanza, sí. 
+",La provincia a la que pertenecen los informadores es Teruel.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: En, en Teruel. Y, después, una semana cada una nos han hecho la comida a mi marido y a mí, que el marido mío es ese que iba agora con la bicicleta, que le he dicho que fuera a traeme verde pa echarle pa la noche. Que yo me hago una cazolica sopa y a él le gusta el verde.
+E1: T1 A ver, ¿usted ha hecho matanza? 
+I1: Yo no. Hace siete u ocho años que no hago porque hacen mis hijas y es suficiente pa colgar en el granero de mi casa y, cuando bajan de ahí arriba, siempre me dejan en la mesa.  Pero siempre he matao , siempre. Hasta cinco o seis he matao
+E1: ¿Cómo se mata un cerdo? 
+I1: Pues co-, se, se cuida todo el año. 
+E1: ¿Un año entero? 
+I1: El año entero. Ya antes el año entero, agora a lo mejor les echan harinas compuestas y los crían antes, pero como lo natural no hay nada. Que ya antes se criaban con lo que se cogía en casa y alface verde que les echabas por la tarde, y se hacían buenos también, pero les costaba más que con la harina, que con la harina compuesta porque, como la harina compuesta lleva de tantas cosas, pues lo crían antes, pero lo natural es los que se crían al cabo del año. Que de antes se dejaban a lo mejor pa Todos_Santos y hasta el otro año que se solían matar en noviembre y en diciembre pues estaban haciéndose poco a poco gordos, sin echarles mucho de una vez. Y así pues salían más, más grosos y todo.
+E1: ¿Cómo llaman ustedes a los cerdos? ¿Los llaman cerdos, gorrinos? 
+I1: Huy, de todo. Y puercos, sí. 
+E1: Y la matanza, ¿dicen matanza o…? 
+I1: Matanza, sí. 
+",La provincia a la que pertenecen los informadores es Teruel.
+"Dime la provincia del siguiente texto: I1: En, en Teruel. Y, después, una semana cada una nos han hecho la comida a mi marido y a mí, que el marido mío es ese que iba agora con la bicicleta, que le he dicho que fuera a traeme verde pa echarle pa la noche. Que yo me hago una cazolica sopa y a él le gusta el verde.
+E1: T1 A ver, ¿usted ha hecho matanza? 
+I1: Yo no. Hace siete u ocho años que no hago porque hacen mis hijas y es suficiente pa colgar en el granero de mi casa y, cuando bajan de ahí arriba, siempre me dejan en la mesa.  Pero siempre he matao , siempre. Hasta cinco o seis he matao
+E1: ¿Cómo se mata un cerdo? 
+I1: Pues co-, se, se cuida todo el año. 
+E1: ¿Un año entero? 
+I1: El año entero. Ya antes el año entero, agora a lo mejor les echan harinas compuestas y los crían antes, pero como lo natural no hay nada. Que ya antes se criaban con lo que se cogía en casa y alface verde que les echabas por la tarde, y se hacían buenos también, pero les costaba más que con la harina, que con la harina compuesta porque, como la harina compuesta lleva de tantas cosas, pues lo crían antes, pero lo natural es los que se crían al cabo del año. Que de antes se dejaban a lo mejor pa Todos_Santos y hasta el otro año que se solían matar en noviembre y en diciembre pues estaban haciéndose poco a poco gordos, sin echarles mucho de una vez. Y así pues salían más, más grosos y todo.
+E1: ¿Cómo llaman ustedes a los cerdos? ¿Los llaman cerdos, gorrinos? 
+I1: Huy, de todo. Y puercos, sí. 
+E1: Y la matanza, ¿dicen matanza o…? 
+I1: Matanza, sí. 
+",La provincia a la que pertenecen los informadores es Teruel.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: En, en Teruel. Y, después, una semana cada una nos han hecho la comida a mi marido y a mí, que el marido mío es ese que iba agora con la bicicleta, que le he dicho que fuera a traeme verde pa echarle pa la noche. Que yo me hago una cazolica sopa y a él le gusta el verde.
+E1: T1 A ver, ¿usted ha hecho matanza? 
+I1: Yo no. Hace siete u ocho años que no hago porque hacen mis hijas y es suficiente pa colgar en el granero de mi casa y, cuando bajan de ahí arriba, siempre me dejan en la mesa.  Pero siempre he matao , siempre. Hasta cinco o seis he matao
+E1: ¿Cómo se mata un cerdo? 
+I1: Pues co-, se, se cuida todo el año. 
+E1: ¿Un año entero? 
+I1: El año entero. Ya antes el año entero, agora a lo mejor les echan harinas compuestas y los crían antes, pero como lo natural no hay nada. Que ya antes se criaban con lo que se cogía en casa y alface verde que les echabas por la tarde, y se hacían buenos también, pero les costaba más que con la harina, que con la harina compuesta porque, como la harina compuesta lleva de tantas cosas, pues lo crían antes, pero lo natural es los que se crían al cabo del año. Que de antes se dejaban a lo mejor pa Todos_Santos y hasta el otro año que se solían matar en noviembre y en diciembre pues estaban haciéndose poco a poco gordos, sin echarles mucho de una vez. Y así pues salían más, más grosos y todo.
+E1: ¿Cómo llaman ustedes a los cerdos? ¿Los llaman cerdos, gorrinos? 
+I1: Huy, de todo. Y puercos, sí. 
+E1: Y la matanza, ¿dicen matanza o…? 
+I1: Matanza, sí. 
+",La provincia a la que pertenecen los informadores es Teruel.
+"Dime de qué lugar es el siguiente texto:  I1: En, en Teruel. Y, después, una semana cada una nos han hecho la comida a mi marido y a mí, que el marido mío es ese que iba agora con la bicicleta, que le he dicho que fuera a traeme verde pa echarle pa la noche. Que yo me hago una cazolica sopa y a él le gusta el verde.
+E1: T1 A ver, ¿usted ha hecho matanza? 
+I1: Yo no. Hace siete u ocho años que no hago porque hacen mis hijas y es suficiente pa colgar en el granero de mi casa y, cuando bajan de ahí arriba, siempre me dejan en la mesa.  Pero siempre he matao , siempre. Hasta cinco o seis he matao
+E1: ¿Cómo se mata un cerdo? 
+I1: Pues co-, se, se cuida todo el año. 
+E1: ¿Un año entero? 
+I1: El año entero. Ya antes el año entero, agora a lo mejor les echan harinas compuestas y los crían antes, pero como lo natural no hay nada. Que ya antes se criaban con lo que se cogía en casa y alface verde que les echabas por la tarde, y se hacían buenos también, pero les costaba más que con la harina, que con la harina compuesta porque, como la harina compuesta lleva de tantas cosas, pues lo crían antes, pero lo natural es los que se crían al cabo del año. Que de antes se dejaban a lo mejor pa Todos_Santos y hasta el otro año que se solían matar en noviembre y en diciembre pues estaban haciéndose poco a poco gordos, sin echarles mucho de una vez. Y así pues salían más, más grosos y todo.
+E1: ¿Cómo llaman ustedes a los cerdos? ¿Los llaman cerdos, gorrinos? 
+I1: Huy, de todo. Y puercos, sí. 
+E1: Y la matanza, ¿dicen matanza o…? 
+I1: Matanza, sí. 
+",La provincia a la que pertenecen los informadores es Teruel.

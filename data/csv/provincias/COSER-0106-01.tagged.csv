@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: Y… y… qué le iba a decir…  
+I1: mis hijos, mi marido, mis abuelos… Así que mira si tengo historia en este pueblo,  ¿eh? 
+E1: T1 Y… ¿qué le iba a decir? ¿Usted conocía han hecho matanza aquí en el pueblo? 
+I1: Sí. 
+E:  E: Se ha-, ¿Y sabe usted cómo se ha-?  ¿Sí? ¿Y cómo se hace? ¿Cómo se hacía, mejor dicho? 
+I1: Bueno, y se sigue con la misma tradición, ¿eh? . Sí, sí. Se sacrifica el cerdo, se mata, se achucarra con unos halechos
+E1: Pero, pero… ¿el cerdo dónde está? 
+I1: El cerdo, hay gente, an-, hasta ahora se han criao en el pueblo, y todavía hay gente que los cría, ¿eh?, para su sacrificio, pero nosotros los traemos de fuera, de una granja solemos traer, y el año, este año mismo, un chico de La_Guardia que era amigo de mi hijo, porque mi hijo también los mata él, . que era el único que, que bueno, dos, que los mataba y entonces, pues nada, los… sí, los matan.
+E1: Ya, pero antiguamente, ¿dónde estaban? 
+I1: En…, en las casas, sencillamente: se, había unos pequeños chamizos donde los cerdos se criaban en la casa, como las vacas, y todo. 
+E1: ¿Y qué comían o…? 
+",La provincia a la que pertenecen los informadores es Álava.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: Y… y… qué le iba a decir…  
+I1: mis hijos, mi marido, mis abuelos… Así que mira si tengo historia en este pueblo,  ¿eh? 
+E1: T1 Y… ¿qué le iba a decir? ¿Usted conocía han hecho matanza aquí en el pueblo? 
+I1: Sí. 
+E:  E: Se ha-, ¿Y sabe usted cómo se ha-?  ¿Sí? ¿Y cómo se hace? ¿Cómo se hacía, mejor dicho? 
+I1: Bueno, y se sigue con la misma tradición, ¿eh? . Sí, sí. Se sacrifica el cerdo, se mata, se achucarra con unos halechos
+E1: Pero, pero… ¿el cerdo dónde está? 
+I1: El cerdo, hay gente, an-, hasta ahora se han criao en el pueblo, y todavía hay gente que los cría, ¿eh?, para su sacrificio, pero nosotros los traemos de fuera, de una granja solemos traer, y el año, este año mismo, un chico de La_Guardia que era amigo de mi hijo, porque mi hijo también los mata él, . que era el único que, que bueno, dos, que los mataba y entonces, pues nada, los… sí, los matan.
+E1: Ya, pero antiguamente, ¿dónde estaban? 
+I1: En…, en las casas, sencillamente: se, había unos pequeños chamizos donde los cerdos se criaban en la casa, como las vacas, y todo. 
+E1: ¿Y qué comían o…? 
+",La provincia a la que pertenecen los informadores es Álava.
+"Dime la provincia del siguiente texto: E1: Y… y… qué le iba a decir…  
+I1: mis hijos, mi marido, mis abuelos… Así que mira si tengo historia en este pueblo,  ¿eh? 
+E1: T1 Y… ¿qué le iba a decir? ¿Usted conocía han hecho matanza aquí en el pueblo? 
+I1: Sí. 
+E:  E: Se ha-, ¿Y sabe usted cómo se ha-?  ¿Sí? ¿Y cómo se hace? ¿Cómo se hacía, mejor dicho? 
+I1: Bueno, y se sigue con la misma tradición, ¿eh? . Sí, sí. Se sacrifica el cerdo, se mata, se achucarra con unos halechos
+E1: Pero, pero… ¿el cerdo dónde está? 
+I1: El cerdo, hay gente, an-, hasta ahora se han criao en el pueblo, y todavía hay gente que los cría, ¿eh?, para su sacrificio, pero nosotros los traemos de fuera, de una granja solemos traer, y el año, este año mismo, un chico de La_Guardia que era amigo de mi hijo, porque mi hijo también los mata él, . que era el único que, que bueno, dos, que los mataba y entonces, pues nada, los… sí, los matan.
+E1: Ya, pero antiguamente, ¿dónde estaban? 
+I1: En…, en las casas, sencillamente: se, había unos pequeños chamizos donde los cerdos se criaban en la casa, como las vacas, y todo. 
+E1: ¿Y qué comían o…? 
+",La provincia a la que pertenecen los informadores es Álava.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: Y… y… qué le iba a decir…  
+I1: mis hijos, mi marido, mis abuelos… Así que mira si tengo historia en este pueblo,  ¿eh? 
+E1: T1 Y… ¿qué le iba a decir? ¿Usted conocía han hecho matanza aquí en el pueblo? 
+I1: Sí. 
+E:  E: Se ha-, ¿Y sabe usted cómo se ha-?  ¿Sí? ¿Y cómo se hace? ¿Cómo se hacía, mejor dicho? 
+I1: Bueno, y se sigue con la misma tradición, ¿eh? . Sí, sí. Se sacrifica el cerdo, se mata, se achucarra con unos halechos
+E1: Pero, pero… ¿el cerdo dónde está? 
+I1: El cerdo, hay gente, an-, hasta ahora se han criao en el pueblo, y todavía hay gente que los cría, ¿eh?, para su sacrificio, pero nosotros los traemos de fuera, de una granja solemos traer, y el año, este año mismo, un chico de La_Guardia que era amigo de mi hijo, porque mi hijo también los mata él, . que era el único que, que bueno, dos, que los mataba y entonces, pues nada, los… sí, los matan.
+E1: Ya, pero antiguamente, ¿dónde estaban? 
+I1: En…, en las casas, sencillamente: se, había unos pequeños chamizos donde los cerdos se criaban en la casa, como las vacas, y todo. 
+E1: ¿Y qué comían o…? 
+",La provincia a la que pertenecen los informadores es Álava.
+"Dime de qué lugar es el siguiente texto:  E1: Y… y… qué le iba a decir…  
+I1: mis hijos, mi marido, mis abuelos… Así que mira si tengo historia en este pueblo,  ¿eh? 
+E1: T1 Y… ¿qué le iba a decir? ¿Usted conocía han hecho matanza aquí en el pueblo? 
+I1: Sí. 
+E:  E: Se ha-, ¿Y sabe usted cómo se ha-?  ¿Sí? ¿Y cómo se hace? ¿Cómo se hacía, mejor dicho? 
+I1: Bueno, y se sigue con la misma tradición, ¿eh? . Sí, sí. Se sacrifica el cerdo, se mata, se achucarra con unos halechos
+E1: Pero, pero… ¿el cerdo dónde está? 
+I1: El cerdo, hay gente, an-, hasta ahora se han criao en el pueblo, y todavía hay gente que los cría, ¿eh?, para su sacrificio, pero nosotros los traemos de fuera, de una granja solemos traer, y el año, este año mismo, un chico de La_Guardia que era amigo de mi hijo, porque mi hijo también los mata él, . que era el único que, que bueno, dos, que los mataba y entonces, pues nada, los… sí, los matan.
+E1: Ya, pero antiguamente, ¿dónde estaban? 
+I1: En…, en las casas, sencillamente: se, había unos pequeños chamizos donde los cerdos se criaban en la casa, como las vacas, y todo. 
+E1: ¿Y qué comían o…? 
+",La provincia a la que pertenecen los informadores es Álava.

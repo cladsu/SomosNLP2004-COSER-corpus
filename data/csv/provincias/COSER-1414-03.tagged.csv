@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T1 Nos podía hablar, hablar un poco de… 
+I1: Ya, pero poco, ¿eh? Porque yo es que no estoy pa hablar mucho. Matanza se hacía antiguamente aquí en este pueblo de Malagón y… ¿Qué me preguntáis más?
+E1: Pues, eh, por ejemplo, cómo…, cómo… ¿El cerdo dónde estaba? 
+I1: Yo aquí en Malagón. 
+E1: No, pero digo el cerdo, ¿estaba en casa o…? 
+I1: En casa, en una cuadra atao con las mulas. 
+E1:  Y ¿qué com-, y qué, qué le daban de comer? 
+I1: Pues patatas cocías y harina cebá
+I2: Cosas del campo. 
+I1: Pepinos, melones, sandía, toas esas cosas, ¿pa qué? 
+E1: Y ¿cuántas veces daban de comer a…? 
+",La provincia a la que pertenecen los informadores es Ciudad Real.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T1 Nos podía hablar, hablar un poco de… 
+I1: Ya, pero poco, ¿eh? Porque yo es que no estoy pa hablar mucho. Matanza se hacía antiguamente aquí en este pueblo de Malagón y… ¿Qué me preguntáis más?
+E1: Pues, eh, por ejemplo, cómo…, cómo… ¿El cerdo dónde estaba? 
+I1: Yo aquí en Malagón. 
+E1: No, pero digo el cerdo, ¿estaba en casa o…? 
+I1: En casa, en una cuadra atao con las mulas. 
+E1:  Y ¿qué com-, y qué, qué le daban de comer? 
+I1: Pues patatas cocías y harina cebá
+I2: Cosas del campo. 
+I1: Pepinos, melones, sandía, toas esas cosas, ¿pa qué? 
+E1: Y ¿cuántas veces daban de comer a…? 
+",La provincia a la que pertenecen los informadores es Ciudad Real.
+"Dime la provincia del siguiente texto: E1: T1 Nos podía hablar, hablar un poco de… 
+I1: Ya, pero poco, ¿eh? Porque yo es que no estoy pa hablar mucho. Matanza se hacía antiguamente aquí en este pueblo de Malagón y… ¿Qué me preguntáis más?
+E1: Pues, eh, por ejemplo, cómo…, cómo… ¿El cerdo dónde estaba? 
+I1: Yo aquí en Malagón. 
+E1: No, pero digo el cerdo, ¿estaba en casa o…? 
+I1: En casa, en una cuadra atao con las mulas. 
+E1:  Y ¿qué com-, y qué, qué le daban de comer? 
+I1: Pues patatas cocías y harina cebá
+I2: Cosas del campo. 
+I1: Pepinos, melones, sandía, toas esas cosas, ¿pa qué? 
+E1: Y ¿cuántas veces daban de comer a…? 
+",La provincia a la que pertenecen los informadores es Ciudad Real.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T1 Nos podía hablar, hablar un poco de… 
+I1: Ya, pero poco, ¿eh? Porque yo es que no estoy pa hablar mucho. Matanza se hacía antiguamente aquí en este pueblo de Malagón y… ¿Qué me preguntáis más?
+E1: Pues, eh, por ejemplo, cómo…, cómo… ¿El cerdo dónde estaba? 
+I1: Yo aquí en Malagón. 
+E1: No, pero digo el cerdo, ¿estaba en casa o…? 
+I1: En casa, en una cuadra atao con las mulas. 
+E1:  Y ¿qué com-, y qué, qué le daban de comer? 
+I1: Pues patatas cocías y harina cebá
+I2: Cosas del campo. 
+I1: Pepinos, melones, sandía, toas esas cosas, ¿pa qué? 
+E1: Y ¿cuántas veces daban de comer a…? 
+",La provincia a la que pertenecen los informadores es Ciudad Real.
+"Dime de qué lugar es el siguiente texto:  E1: T1 Nos podía hablar, hablar un poco de… 
+I1: Ya, pero poco, ¿eh? Porque yo es que no estoy pa hablar mucho. Matanza se hacía antiguamente aquí en este pueblo de Malagón y… ¿Qué me preguntáis más?
+E1: Pues, eh, por ejemplo, cómo…, cómo… ¿El cerdo dónde estaba? 
+I1: Yo aquí en Malagón. 
+E1: No, pero digo el cerdo, ¿estaba en casa o…? 
+I1: En casa, en una cuadra atao con las mulas. 
+E1:  Y ¿qué com-, y qué, qué le daban de comer? 
+I1: Pues patatas cocías y harina cebá
+I2: Cosas del campo. 
+I1: Pepinos, melones, sandía, toas esas cosas, ¿pa qué? 
+E1: Y ¿cuántas veces daban de comer a…? 
+",La provincia a la que pertenecen los informadores es Ciudad Real.

@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: Bueno, pues entonces empiécenos a contar. Usted nació,  nació en este pueblo. 
+E:  E: Le vamos a poner un micrófono. 
+I1: No, yo no nací aquí. 
+E1:  ¡Ah!, ¿no? 
+I1: Yo no. 
+E1: Le ponemos un microfonito para que se le oiga bien, ¿vale?  Le vamos a grabar, pero, vamos, solo es para que…,  pa que luego nos… Yo ni veo. V-Sml 
+I1: Ya, se la quedando uno la vista y to Con los añillos ya van pasan-…, ya vamos pa atrás y no nos damos cuenta, pero…
+E1: Bueno,  pues entonces ¿dónde nació usted? 
+I1: ¿Eh? Yo no he nacío aquí.
+E1: ¿No? 
+I1: He nacío en El_Chorro, vamos. 
+",La provincia a la que pertenecen los informadores es Málaga.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: Bueno, pues entonces empiécenos a contar. Usted nació,  nació en este pueblo. 
+E:  E: Le vamos a poner un micrófono. 
+I1: No, yo no nací aquí. 
+E1:  ¡Ah!, ¿no? 
+I1: Yo no. 
+E1: Le ponemos un microfonito para que se le oiga bien, ¿vale?  Le vamos a grabar, pero, vamos, solo es para que…,  pa que luego nos… Yo ni veo. V-Sml 
+I1: Ya, se la quedando uno la vista y to Con los añillos ya van pasan-…, ya vamos pa atrás y no nos damos cuenta, pero…
+E1: Bueno,  pues entonces ¿dónde nació usted? 
+I1: ¿Eh? Yo no he nacío aquí.
+E1: ¿No? 
+I1: He nacío en El_Chorro, vamos. 
+",La provincia a la que pertenecen los informadores es Málaga.
+"Dime la provincia del siguiente texto: E1: Bueno, pues entonces empiécenos a contar. Usted nació,  nació en este pueblo. 
+E:  E: Le vamos a poner un micrófono. 
+I1: No, yo no nací aquí. 
+E1:  ¡Ah!, ¿no? 
+I1: Yo no. 
+E1: Le ponemos un microfonito para que se le oiga bien, ¿vale?  Le vamos a grabar, pero, vamos, solo es para que…,  pa que luego nos… Yo ni veo. V-Sml 
+I1: Ya, se la quedando uno la vista y to Con los añillos ya van pasan-…, ya vamos pa atrás y no nos damos cuenta, pero…
+E1: Bueno,  pues entonces ¿dónde nació usted? 
+I1: ¿Eh? Yo no he nacío aquí.
+E1: ¿No? 
+I1: He nacío en El_Chorro, vamos. 
+",La provincia a la que pertenecen los informadores es Málaga.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: Bueno, pues entonces empiécenos a contar. Usted nació,  nació en este pueblo. 
+E:  E: Le vamos a poner un micrófono. 
+I1: No, yo no nací aquí. 
+E1:  ¡Ah!, ¿no? 
+I1: Yo no. 
+E1: Le ponemos un microfonito para que se le oiga bien, ¿vale?  Le vamos a grabar, pero, vamos, solo es para que…,  pa que luego nos… Yo ni veo. V-Sml 
+I1: Ya, se la quedando uno la vista y to Con los añillos ya van pasan-…, ya vamos pa atrás y no nos damos cuenta, pero…
+E1: Bueno,  pues entonces ¿dónde nació usted? 
+I1: ¿Eh? Yo no he nacío aquí.
+E1: ¿No? 
+I1: He nacío en El_Chorro, vamos. 
+",La provincia a la que pertenecen los informadores es Málaga.
+"Dime de qué lugar es el siguiente texto:  E1: Bueno, pues entonces empiécenos a contar. Usted nació,  nació en este pueblo. 
+E:  E: Le vamos a poner un micrófono. 
+I1: No, yo no nací aquí. 
+E1:  ¡Ah!, ¿no? 
+I1: Yo no. 
+E1: Le ponemos un microfonito para que se le oiga bien, ¿vale?  Le vamos a grabar, pero, vamos, solo es para que…,  pa que luego nos… Yo ni veo. V-Sml 
+I1: Ya, se la quedando uno la vista y to Con los añillos ya van pasan-…, ya vamos pa atrás y no nos damos cuenta, pero…
+E1: Bueno,  pues entonces ¿dónde nació usted? 
+I1: ¿Eh? Yo no he nacío aquí.
+E1: ¿No? 
+I1: He nacío en El_Chorro, vamos. 
+",La provincia a la que pertenecen los informadores es Málaga.

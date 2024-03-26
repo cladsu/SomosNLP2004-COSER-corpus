@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T12 Y na, pues las costumbres que hay aquí. ¿Qué hacían así, de jóvenes y todo eso? Por ejemplo, ¿iban a la escuela? 
+I1: Sí. Aquí cuando yo tenía, por ejemplo diez, diez años, desde los sí, aquí, entonces, se empezaba la escuela a los seis años. Había una maestra, que se llamaba doña Anonimizado y la escuela era mixta. Seríamos aproximadamente unos cuaren-, unos cuarenta o así, eh, y, claro, entonces, se iba a la escuela hasta los doce años o aproximadamente hasta los doce años, doce años o así. Y algunos, como por ejemplo es el caso mío, cuando dejábamos esto a los once o doce años, pues íbamos a la escuela, a los, a los maristas de Beasain, a los de la a los, ¿cómo se llama? Sí, a los, a los, a los del babero. 
+E1: Ah. 
+I1: ¿Eh? 
+E1: Sí. 
+I2: Maristas. 
+I1: Maristas. Maristas le llamábamos todavía, un colegio de… y, y, sigue estando en Beasain, que está, Beasain, está a unos seiscien-…  Los de la Salle, exacto, los de la Salle. Y que está a unos, Beasain está a unos seis, siete kilómetros de aquí. Entonces, como no había, no había otro medio, solíamos ir en bicicleta. Te estoy hablando de los años,  un poco antes de la guerra, los treinta y… Yo nací en veinticinco, te estoy hablando de los años treinta_y_cinco, treinta_y_siete o así, treinta_y_cinco, treinta_y_siete. . ¿Después de la guerra? Pues también, sí, sí. Sí. Y ese era el comienzo del, de la, de la cultura de aquí, vamos a ver, de la cultura, o por lo menos de la esto, ¿no? Ese era el comienzo, generalmente. Otros se quedaban solamente con las, con lo que aprendían aquí, con los de, vamos, con el, cuando se quedaban a los once, once o doce años, se, se quedaban con aquello. La mayoría, la mayoría, se queaba con aquello.
+E1: Y de la gente que estudiaba, por ejemplo, ¿quién, quién era el alcalde? ¿Quién…? 
+I1: Bueno, aquí, el alcalde, el, el, el, aquí mismo no hay alcalde. Gabiria está situao allí arriba, en el monte este. Ese pueblo, muy bonito, aemás
+I2: Pero el alcalde de .  
+I1: Sí, claro, entonces, . Morir, y olvidar y todo. 
+",La provincia a la que pertenecen los informadores es Guipúzcoa.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T12 Y na, pues las costumbres que hay aquí. ¿Qué hacían así, de jóvenes y todo eso? Por ejemplo, ¿iban a la escuela? 
+I1: Sí. Aquí cuando yo tenía, por ejemplo diez, diez años, desde los sí, aquí, entonces, se empezaba la escuela a los seis años. Había una maestra, que se llamaba doña Anonimizado y la escuela era mixta. Seríamos aproximadamente unos cuaren-, unos cuarenta o así, eh, y, claro, entonces, se iba a la escuela hasta los doce años o aproximadamente hasta los doce años, doce años o así. Y algunos, como por ejemplo es el caso mío, cuando dejábamos esto a los once o doce años, pues íbamos a la escuela, a los, a los maristas de Beasain, a los de la a los, ¿cómo se llama? Sí, a los, a los, a los del babero. 
+E1: Ah. 
+I1: ¿Eh? 
+E1: Sí. 
+I2: Maristas. 
+I1: Maristas. Maristas le llamábamos todavía, un colegio de… y, y, sigue estando en Beasain, que está, Beasain, está a unos seiscien-…  Los de la Salle, exacto, los de la Salle. Y que está a unos, Beasain está a unos seis, siete kilómetros de aquí. Entonces, como no había, no había otro medio, solíamos ir en bicicleta. Te estoy hablando de los años,  un poco antes de la guerra, los treinta y… Yo nací en veinticinco, te estoy hablando de los años treinta_y_cinco, treinta_y_siete o así, treinta_y_cinco, treinta_y_siete. . ¿Después de la guerra? Pues también, sí, sí. Sí. Y ese era el comienzo del, de la, de la cultura de aquí, vamos a ver, de la cultura, o por lo menos de la esto, ¿no? Ese era el comienzo, generalmente. Otros se quedaban solamente con las, con lo que aprendían aquí, con los de, vamos, con el, cuando se quedaban a los once, once o doce años, se, se quedaban con aquello. La mayoría, la mayoría, se queaba con aquello.
+E1: Y de la gente que estudiaba, por ejemplo, ¿quién, quién era el alcalde? ¿Quién…? 
+I1: Bueno, aquí, el alcalde, el, el, el, aquí mismo no hay alcalde. Gabiria está situao allí arriba, en el monte este. Ese pueblo, muy bonito, aemás
+I2: Pero el alcalde de .  
+I1: Sí, claro, entonces, . Morir, y olvidar y todo. 
+",La provincia a la que pertenecen los informadores es Guipúzcoa.
+"Dime la provincia del siguiente texto: E1: T12 Y na, pues las costumbres que hay aquí. ¿Qué hacían así, de jóvenes y todo eso? Por ejemplo, ¿iban a la escuela? 
+I1: Sí. Aquí cuando yo tenía, por ejemplo diez, diez años, desde los sí, aquí, entonces, se empezaba la escuela a los seis años. Había una maestra, que se llamaba doña Anonimizado y la escuela era mixta. Seríamos aproximadamente unos cuaren-, unos cuarenta o así, eh, y, claro, entonces, se iba a la escuela hasta los doce años o aproximadamente hasta los doce años, doce años o así. Y algunos, como por ejemplo es el caso mío, cuando dejábamos esto a los once o doce años, pues íbamos a la escuela, a los, a los maristas de Beasain, a los de la a los, ¿cómo se llama? Sí, a los, a los, a los del babero. 
+E1: Ah. 
+I1: ¿Eh? 
+E1: Sí. 
+I2: Maristas. 
+I1: Maristas. Maristas le llamábamos todavía, un colegio de… y, y, sigue estando en Beasain, que está, Beasain, está a unos seiscien-…  Los de la Salle, exacto, los de la Salle. Y que está a unos, Beasain está a unos seis, siete kilómetros de aquí. Entonces, como no había, no había otro medio, solíamos ir en bicicleta. Te estoy hablando de los años,  un poco antes de la guerra, los treinta y… Yo nací en veinticinco, te estoy hablando de los años treinta_y_cinco, treinta_y_siete o así, treinta_y_cinco, treinta_y_siete. . ¿Después de la guerra? Pues también, sí, sí. Sí. Y ese era el comienzo del, de la, de la cultura de aquí, vamos a ver, de la cultura, o por lo menos de la esto, ¿no? Ese era el comienzo, generalmente. Otros se quedaban solamente con las, con lo que aprendían aquí, con los de, vamos, con el, cuando se quedaban a los once, once o doce años, se, se quedaban con aquello. La mayoría, la mayoría, se queaba con aquello.
+E1: Y de la gente que estudiaba, por ejemplo, ¿quién, quién era el alcalde? ¿Quién…? 
+I1: Bueno, aquí, el alcalde, el, el, el, aquí mismo no hay alcalde. Gabiria está situao allí arriba, en el monte este. Ese pueblo, muy bonito, aemás
+I2: Pero el alcalde de .  
+I1: Sí, claro, entonces, . Morir, y olvidar y todo. 
+",La provincia a la que pertenecen los informadores es Guipúzcoa.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T12 Y na, pues las costumbres que hay aquí. ¿Qué hacían así, de jóvenes y todo eso? Por ejemplo, ¿iban a la escuela? 
+I1: Sí. Aquí cuando yo tenía, por ejemplo diez, diez años, desde los sí, aquí, entonces, se empezaba la escuela a los seis años. Había una maestra, que se llamaba doña Anonimizado y la escuela era mixta. Seríamos aproximadamente unos cuaren-, unos cuarenta o así, eh, y, claro, entonces, se iba a la escuela hasta los doce años o aproximadamente hasta los doce años, doce años o así. Y algunos, como por ejemplo es el caso mío, cuando dejábamos esto a los once o doce años, pues íbamos a la escuela, a los, a los maristas de Beasain, a los de la a los, ¿cómo se llama? Sí, a los, a los, a los del babero. 
+E1: Ah. 
+I1: ¿Eh? 
+E1: Sí. 
+I2: Maristas. 
+I1: Maristas. Maristas le llamábamos todavía, un colegio de… y, y, sigue estando en Beasain, que está, Beasain, está a unos seiscien-…  Los de la Salle, exacto, los de la Salle. Y que está a unos, Beasain está a unos seis, siete kilómetros de aquí. Entonces, como no había, no había otro medio, solíamos ir en bicicleta. Te estoy hablando de los años,  un poco antes de la guerra, los treinta y… Yo nací en veinticinco, te estoy hablando de los años treinta_y_cinco, treinta_y_siete o así, treinta_y_cinco, treinta_y_siete. . ¿Después de la guerra? Pues también, sí, sí. Sí. Y ese era el comienzo del, de la, de la cultura de aquí, vamos a ver, de la cultura, o por lo menos de la esto, ¿no? Ese era el comienzo, generalmente. Otros se quedaban solamente con las, con lo que aprendían aquí, con los de, vamos, con el, cuando se quedaban a los once, once o doce años, se, se quedaban con aquello. La mayoría, la mayoría, se queaba con aquello.
+E1: Y de la gente que estudiaba, por ejemplo, ¿quién, quién era el alcalde? ¿Quién…? 
+I1: Bueno, aquí, el alcalde, el, el, el, aquí mismo no hay alcalde. Gabiria está situao allí arriba, en el monte este. Ese pueblo, muy bonito, aemás
+I2: Pero el alcalde de .  
+I1: Sí, claro, entonces, . Morir, y olvidar y todo. 
+",La provincia a la que pertenecen los informadores es Guipúzcoa.
+"Dime de qué lugar es el siguiente texto:  E1: T12 Y na, pues las costumbres que hay aquí. ¿Qué hacían así, de jóvenes y todo eso? Por ejemplo, ¿iban a la escuela? 
+I1: Sí. Aquí cuando yo tenía, por ejemplo diez, diez años, desde los sí, aquí, entonces, se empezaba la escuela a los seis años. Había una maestra, que se llamaba doña Anonimizado y la escuela era mixta. Seríamos aproximadamente unos cuaren-, unos cuarenta o así, eh, y, claro, entonces, se iba a la escuela hasta los doce años o aproximadamente hasta los doce años, doce años o así. Y algunos, como por ejemplo es el caso mío, cuando dejábamos esto a los once o doce años, pues íbamos a la escuela, a los, a los maristas de Beasain, a los de la a los, ¿cómo se llama? Sí, a los, a los, a los del babero. 
+E1: Ah. 
+I1: ¿Eh? 
+E1: Sí. 
+I2: Maristas. 
+I1: Maristas. Maristas le llamábamos todavía, un colegio de… y, y, sigue estando en Beasain, que está, Beasain, está a unos seiscien-…  Los de la Salle, exacto, los de la Salle. Y que está a unos, Beasain está a unos seis, siete kilómetros de aquí. Entonces, como no había, no había otro medio, solíamos ir en bicicleta. Te estoy hablando de los años,  un poco antes de la guerra, los treinta y… Yo nací en veinticinco, te estoy hablando de los años treinta_y_cinco, treinta_y_siete o así, treinta_y_cinco, treinta_y_siete. . ¿Después de la guerra? Pues también, sí, sí. Sí. Y ese era el comienzo del, de la, de la cultura de aquí, vamos a ver, de la cultura, o por lo menos de la esto, ¿no? Ese era el comienzo, generalmente. Otros se quedaban solamente con las, con lo que aprendían aquí, con los de, vamos, con el, cuando se quedaban a los once, once o doce años, se, se quedaban con aquello. La mayoría, la mayoría, se queaba con aquello.
+E1: Y de la gente que estudiaba, por ejemplo, ¿quién, quién era el alcalde? ¿Quién…? 
+I1: Bueno, aquí, el alcalde, el, el, el, aquí mismo no hay alcalde. Gabiria está situao allí arriba, en el monte este. Ese pueblo, muy bonito, aemás
+I2: Pero el alcalde de .  
+I1: Sí, claro, entonces, . Morir, y olvidar y todo. 
+",La provincia a la que pertenecen los informadores es Guipúzcoa.

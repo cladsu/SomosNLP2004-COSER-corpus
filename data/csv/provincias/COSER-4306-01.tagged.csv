@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: Siéntese usted dónde se esté más cómodo. 
+I1: ¿Yo? Me siento aquí porque…  siempre me siento aquí. 
+E1: Perfecto. V-Sml 
+I1: A ver… Ah, ¿pero van a grabarme y todo? 
+E2: Si no le…  No le, no le va a ver nadie.  Es que vamos tomando notas…  No, no,  esto no va a la tele. No le vamos a hacer famoso.   Esto son materiales para nosotros, pero no tenemos permiso esto para difundirlo ni para sacarlo en ningún lado. 
+I1: Entonces, ¿ustedes trabajan en la universidad? 
+E1:  Trabajamos en distintas universidades. Estas chicas son estudiantes…  
+I1: que ahora no está en la , también trabaja en la universidad. 
+E1: ¿Aquí, en la Universidad_de_Valencia?  Ajá.¡Ah!, en la Politécnica_de_Valencia.  Ah, bueno.  
+I1: Es becario.  Sí, sí, pero bien, pero bien. Con cinco años, terminó la carrera de Ingeniero_Superior, Telecomunicaciones y Robótica, y además, hizo el proyecto. Ya lleva tres o cuatro años de… para quedarse, ¿cómo se llama eso? 
+E1: V-Mrm ¿Tres o cuatro años?  Haciendo la tesis estará. 
+",La provincia a la que pertenecen los informadores es Valencia.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: Siéntese usted dónde se esté más cómodo. 
+I1: ¿Yo? Me siento aquí porque…  siempre me siento aquí. 
+E1: Perfecto. V-Sml 
+I1: A ver… Ah, ¿pero van a grabarme y todo? 
+E2: Si no le…  No le, no le va a ver nadie.  Es que vamos tomando notas…  No, no,  esto no va a la tele. No le vamos a hacer famoso.   Esto son materiales para nosotros, pero no tenemos permiso esto para difundirlo ni para sacarlo en ningún lado. 
+I1: Entonces, ¿ustedes trabajan en la universidad? 
+E1:  Trabajamos en distintas universidades. Estas chicas son estudiantes…  
+I1: que ahora no está en la , también trabaja en la universidad. 
+E1: ¿Aquí, en la Universidad_de_Valencia?  Ajá.¡Ah!, en la Politécnica_de_Valencia.  Ah, bueno.  
+I1: Es becario.  Sí, sí, pero bien, pero bien. Con cinco años, terminó la carrera de Ingeniero_Superior, Telecomunicaciones y Robótica, y además, hizo el proyecto. Ya lleva tres o cuatro años de… para quedarse, ¿cómo se llama eso? 
+E1: V-Mrm ¿Tres o cuatro años?  Haciendo la tesis estará. 
+",La provincia a la que pertenecen los informadores es Valencia.
+"Dime la provincia del siguiente texto: E1: Siéntese usted dónde se esté más cómodo. 
+I1: ¿Yo? Me siento aquí porque…  siempre me siento aquí. 
+E1: Perfecto. V-Sml 
+I1: A ver… Ah, ¿pero van a grabarme y todo? 
+E2: Si no le…  No le, no le va a ver nadie.  Es que vamos tomando notas…  No, no,  esto no va a la tele. No le vamos a hacer famoso.   Esto son materiales para nosotros, pero no tenemos permiso esto para difundirlo ni para sacarlo en ningún lado. 
+I1: Entonces, ¿ustedes trabajan en la universidad? 
+E1:  Trabajamos en distintas universidades. Estas chicas son estudiantes…  
+I1: que ahora no está en la , también trabaja en la universidad. 
+E1: ¿Aquí, en la Universidad_de_Valencia?  Ajá.¡Ah!, en la Politécnica_de_Valencia.  Ah, bueno.  
+I1: Es becario.  Sí, sí, pero bien, pero bien. Con cinco años, terminó la carrera de Ingeniero_Superior, Telecomunicaciones y Robótica, y además, hizo el proyecto. Ya lleva tres o cuatro años de… para quedarse, ¿cómo se llama eso? 
+E1: V-Mrm ¿Tres o cuatro años?  Haciendo la tesis estará. 
+",La provincia a la que pertenecen los informadores es Valencia.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: Siéntese usted dónde se esté más cómodo. 
+I1: ¿Yo? Me siento aquí porque…  siempre me siento aquí. 
+E1: Perfecto. V-Sml 
+I1: A ver… Ah, ¿pero van a grabarme y todo? 
+E2: Si no le…  No le, no le va a ver nadie.  Es que vamos tomando notas…  No, no,  esto no va a la tele. No le vamos a hacer famoso.   Esto son materiales para nosotros, pero no tenemos permiso esto para difundirlo ni para sacarlo en ningún lado. 
+I1: Entonces, ¿ustedes trabajan en la universidad? 
+E1:  Trabajamos en distintas universidades. Estas chicas son estudiantes…  
+I1: que ahora no está en la , también trabaja en la universidad. 
+E1: ¿Aquí, en la Universidad_de_Valencia?  Ajá.¡Ah!, en la Politécnica_de_Valencia.  Ah, bueno.  
+I1: Es becario.  Sí, sí, pero bien, pero bien. Con cinco años, terminó la carrera de Ingeniero_Superior, Telecomunicaciones y Robótica, y además, hizo el proyecto. Ya lleva tres o cuatro años de… para quedarse, ¿cómo se llama eso? 
+E1: V-Mrm ¿Tres o cuatro años?  Haciendo la tesis estará. 
+",La provincia a la que pertenecen los informadores es Valencia.
+"Dime de qué lugar es el siguiente texto:  E1: Siéntese usted dónde se esté más cómodo. 
+I1: ¿Yo? Me siento aquí porque…  siempre me siento aquí. 
+E1: Perfecto. V-Sml 
+I1: A ver… Ah, ¿pero van a grabarme y todo? 
+E2: Si no le…  No le, no le va a ver nadie.  Es que vamos tomando notas…  No, no,  esto no va a la tele. No le vamos a hacer famoso.   Esto son materiales para nosotros, pero no tenemos permiso esto para difundirlo ni para sacarlo en ningún lado. 
+I1: Entonces, ¿ustedes trabajan en la universidad? 
+E1:  Trabajamos en distintas universidades. Estas chicas son estudiantes…  
+I1: que ahora no está en la , también trabaja en la universidad. 
+E1: ¿Aquí, en la Universidad_de_Valencia?  Ajá.¡Ah!, en la Politécnica_de_Valencia.  Ah, bueno.  
+I1: Es becario.  Sí, sí, pero bien, pero bien. Con cinco años, terminó la carrera de Ingeniero_Superior, Telecomunicaciones y Robótica, y además, hizo el proyecto. Ya lleva tres o cuatro años de… para quedarse, ¿cómo se llama eso? 
+E1: V-Mrm ¿Tres o cuatro años?  Haciendo la tesis estará. 
+",La provincia a la que pertenecen los informadores es Valencia.

@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E2:  estar con ustedes. . V-Sml  Le vamos a grabar porque no podemos copiar todo lo que usté diga, si no le importa.
+I1: Bien, bien, bien.  Lo que queráis, lo que queráis. 
+E1: T1 Bueno, pues la matanza, ¿qué, qué hacían con el cerdo?, V-Sml ¿lo criaban ustedes o…? 
+I1: Sí, sí, desde luego, lo criábamos nosotros y les engordaban a base  de, de, como éramos labradores,  pues a base de,  de, de grano de, de cereales de los que cogiamós cebada, centeno. ¿Sabís lo que es el centeno?
+E1:  ¡Sí!, un cereal. 
+I1: ¿Qué es? 
+I2: Un cereal… 
+E1: Pues un V-Sml cereal, como el trigo y… 
+I1: Bueno, pues eso, iba teníamos que ir al molino pa molele
+I2: Y eran mejor que ahora. 
+I1: Eh, a lo m-, en, en la mitad del tiempo. Pero eran mejor aquellos, aquello era mejor para, para el consumo…Hace, hace unos cuatro años que no, que no matamos nosotros, pero dónde el que criamos. Pues y ahí terminaba yo, por no, por no, no comer, no comer porque tocino no tiene, que es lo que mejor puedo mascar, tocino, y lo demás es si…, el tocino no tienen, pero tienen mucho, mucho rendimiento para el carnicero, porque es magra, porque es todo, todo carne, no tiene gordo, no tiene ni grasa, entonces es muy bueno pa'l ' carnicero, pero sí, hoy hey
+",La provincia a la que pertenecen los informadores es Teruel.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E2:  estar con ustedes. . V-Sml  Le vamos a grabar porque no podemos copiar todo lo que usté diga, si no le importa.
+I1: Bien, bien, bien.  Lo que queráis, lo que queráis. 
+E1: T1 Bueno, pues la matanza, ¿qué, qué hacían con el cerdo?, V-Sml ¿lo criaban ustedes o…? 
+I1: Sí, sí, desde luego, lo criábamos nosotros y les engordaban a base  de, de, como éramos labradores,  pues a base de,  de, de grano de, de cereales de los que cogiamós cebada, centeno. ¿Sabís lo que es el centeno?
+E1:  ¡Sí!, un cereal. 
+I1: ¿Qué es? 
+I2: Un cereal… 
+E1: Pues un V-Sml cereal, como el trigo y… 
+I1: Bueno, pues eso, iba teníamos que ir al molino pa molele
+I2: Y eran mejor que ahora. 
+I1: Eh, a lo m-, en, en la mitad del tiempo. Pero eran mejor aquellos, aquello era mejor para, para el consumo…Hace, hace unos cuatro años que no, que no matamos nosotros, pero dónde el que criamos. Pues y ahí terminaba yo, por no, por no, no comer, no comer porque tocino no tiene, que es lo que mejor puedo mascar, tocino, y lo demás es si…, el tocino no tienen, pero tienen mucho, mucho rendimiento para el carnicero, porque es magra, porque es todo, todo carne, no tiene gordo, no tiene ni grasa, entonces es muy bueno pa'l ' carnicero, pero sí, hoy hey
+",La provincia a la que pertenecen los informadores es Teruel.
+"Dime la provincia del siguiente texto: E2:  estar con ustedes. . V-Sml  Le vamos a grabar porque no podemos copiar todo lo que usté diga, si no le importa.
+I1: Bien, bien, bien.  Lo que queráis, lo que queráis. 
+E1: T1 Bueno, pues la matanza, ¿qué, qué hacían con el cerdo?, V-Sml ¿lo criaban ustedes o…? 
+I1: Sí, sí, desde luego, lo criábamos nosotros y les engordaban a base  de, de, como éramos labradores,  pues a base de,  de, de grano de, de cereales de los que cogiamós cebada, centeno. ¿Sabís lo que es el centeno?
+E1:  ¡Sí!, un cereal. 
+I1: ¿Qué es? 
+I2: Un cereal… 
+E1: Pues un V-Sml cereal, como el trigo y… 
+I1: Bueno, pues eso, iba teníamos que ir al molino pa molele
+I2: Y eran mejor que ahora. 
+I1: Eh, a lo m-, en, en la mitad del tiempo. Pero eran mejor aquellos, aquello era mejor para, para el consumo…Hace, hace unos cuatro años que no, que no matamos nosotros, pero dónde el que criamos. Pues y ahí terminaba yo, por no, por no, no comer, no comer porque tocino no tiene, que es lo que mejor puedo mascar, tocino, y lo demás es si…, el tocino no tienen, pero tienen mucho, mucho rendimiento para el carnicero, porque es magra, porque es todo, todo carne, no tiene gordo, no tiene ni grasa, entonces es muy bueno pa'l ' carnicero, pero sí, hoy hey
+",La provincia a la que pertenecen los informadores es Teruel.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E2:  estar con ustedes. . V-Sml  Le vamos a grabar porque no podemos copiar todo lo que usté diga, si no le importa.
+I1: Bien, bien, bien.  Lo que queráis, lo que queráis. 
+E1: T1 Bueno, pues la matanza, ¿qué, qué hacían con el cerdo?, V-Sml ¿lo criaban ustedes o…? 
+I1: Sí, sí, desde luego, lo criábamos nosotros y les engordaban a base  de, de, como éramos labradores,  pues a base de,  de, de grano de, de cereales de los que cogiamós cebada, centeno. ¿Sabís lo que es el centeno?
+E1:  ¡Sí!, un cereal. 
+I1: ¿Qué es? 
+I2: Un cereal… 
+E1: Pues un V-Sml cereal, como el trigo y… 
+I1: Bueno, pues eso, iba teníamos que ir al molino pa molele
+I2: Y eran mejor que ahora. 
+I1: Eh, a lo m-, en, en la mitad del tiempo. Pero eran mejor aquellos, aquello era mejor para, para el consumo…Hace, hace unos cuatro años que no, que no matamos nosotros, pero dónde el que criamos. Pues y ahí terminaba yo, por no, por no, no comer, no comer porque tocino no tiene, que es lo que mejor puedo mascar, tocino, y lo demás es si…, el tocino no tienen, pero tienen mucho, mucho rendimiento para el carnicero, porque es magra, porque es todo, todo carne, no tiene gordo, no tiene ni grasa, entonces es muy bueno pa'l ' carnicero, pero sí, hoy hey
+",La provincia a la que pertenecen los informadores es Teruel.
+"Dime de qué lugar es el siguiente texto:  E2:  estar con ustedes. . V-Sml  Le vamos a grabar porque no podemos copiar todo lo que usté diga, si no le importa.
+I1: Bien, bien, bien.  Lo que queráis, lo que queráis. 
+E1: T1 Bueno, pues la matanza, ¿qué, qué hacían con el cerdo?, V-Sml ¿lo criaban ustedes o…? 
+I1: Sí, sí, desde luego, lo criábamos nosotros y les engordaban a base  de, de, como éramos labradores,  pues a base de,  de, de grano de, de cereales de los que cogiamós cebada, centeno. ¿Sabís lo que es el centeno?
+E1:  ¡Sí!, un cereal. 
+I1: ¿Qué es? 
+I2: Un cereal… 
+E1: Pues un V-Sml cereal, como el trigo y… 
+I1: Bueno, pues eso, iba teníamos que ir al molino pa molele
+I2: Y eran mejor que ahora. 
+I1: Eh, a lo m-, en, en la mitad del tiempo. Pero eran mejor aquellos, aquello era mejor para, para el consumo…Hace, hace unos cuatro años que no, que no matamos nosotros, pero dónde el que criamos. Pues y ahí terminaba yo, por no, por no, no comer, no comer porque tocino no tiene, que es lo que mejor puedo mascar, tocino, y lo demás es si…, el tocino no tienen, pero tienen mucho, mucho rendimiento para el carnicero, porque es magra, porque es todo, todo carne, no tiene gordo, no tiene ni grasa, entonces es muy bueno pa'l ' carnicero, pero sí, hoy hey
+",La provincia a la que pertenecen los informadores es Teruel.

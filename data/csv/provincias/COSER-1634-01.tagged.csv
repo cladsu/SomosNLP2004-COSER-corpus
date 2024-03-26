@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: Sí, sí, no les importe que lo grabemos. Es que si no, no nos da tiempo a apuntarlo todo. 
+I1: Es igual.  
+E1: pero no salís ni en la tele ni en ningún sitio,  es solo para la universidad que, que lo recogemos, que… 
+I1: Y qué, ¿de las aceituna? 
+E1: Bueno, de todo, de todo,  de todo. 
+I1: Ay, qué vamos a decir, pues que hemos pasao muchismos trabajos y mucha hambre y descalzos y así. Para poder sobrevivir. Ahora ha venío
+E2: ¿Y usted ha vivido aquí toda la vida? 
+I1: Toda la vida. Cuando estuvo en la mili. 
+I2: Y luego la mili, claro. Eso  falta del pueblo 
+I1: Falta del pueblo. Estuvo en, en la guerra y… en la mili. 
+I2: Diez años en la guerra, diez años, diez meses. En la guerra. 
+",La provincia a la que pertenecen los informadores es Cuenca.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: Sí, sí, no les importe que lo grabemos. Es que si no, no nos da tiempo a apuntarlo todo. 
+I1: Es igual.  
+E1: pero no salís ni en la tele ni en ningún sitio,  es solo para la universidad que, que lo recogemos, que… 
+I1: Y qué, ¿de las aceituna? 
+E1: Bueno, de todo, de todo,  de todo. 
+I1: Ay, qué vamos a decir, pues que hemos pasao muchismos trabajos y mucha hambre y descalzos y así. Para poder sobrevivir. Ahora ha venío
+E2: ¿Y usted ha vivido aquí toda la vida? 
+I1: Toda la vida. Cuando estuvo en la mili. 
+I2: Y luego la mili, claro. Eso  falta del pueblo 
+I1: Falta del pueblo. Estuvo en, en la guerra y… en la mili. 
+I2: Diez años en la guerra, diez años, diez meses. En la guerra. 
+",La provincia a la que pertenecen los informadores es Cuenca.
+"Dime la provincia del siguiente texto: E1: Sí, sí, no les importe que lo grabemos. Es que si no, no nos da tiempo a apuntarlo todo. 
+I1: Es igual.  
+E1: pero no salís ni en la tele ni en ningún sitio,  es solo para la universidad que, que lo recogemos, que… 
+I1: Y qué, ¿de las aceituna? 
+E1: Bueno, de todo, de todo,  de todo. 
+I1: Ay, qué vamos a decir, pues que hemos pasao muchismos trabajos y mucha hambre y descalzos y así. Para poder sobrevivir. Ahora ha venío
+E2: ¿Y usted ha vivido aquí toda la vida? 
+I1: Toda la vida. Cuando estuvo en la mili. 
+I2: Y luego la mili, claro. Eso  falta del pueblo 
+I1: Falta del pueblo. Estuvo en, en la guerra y… en la mili. 
+I2: Diez años en la guerra, diez años, diez meses. En la guerra. 
+",La provincia a la que pertenecen los informadores es Cuenca.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: Sí, sí, no les importe que lo grabemos. Es que si no, no nos da tiempo a apuntarlo todo. 
+I1: Es igual.  
+E1: pero no salís ni en la tele ni en ningún sitio,  es solo para la universidad que, que lo recogemos, que… 
+I1: Y qué, ¿de las aceituna? 
+E1: Bueno, de todo, de todo,  de todo. 
+I1: Ay, qué vamos a decir, pues que hemos pasao muchismos trabajos y mucha hambre y descalzos y así. Para poder sobrevivir. Ahora ha venío
+E2: ¿Y usted ha vivido aquí toda la vida? 
+I1: Toda la vida. Cuando estuvo en la mili. 
+I2: Y luego la mili, claro. Eso  falta del pueblo 
+I1: Falta del pueblo. Estuvo en, en la guerra y… en la mili. 
+I2: Diez años en la guerra, diez años, diez meses. En la guerra. 
+",La provincia a la que pertenecen los informadores es Cuenca.
+"Dime de qué lugar es el siguiente texto:  E1: Sí, sí, no les importe que lo grabemos. Es que si no, no nos da tiempo a apuntarlo todo. 
+I1: Es igual.  
+E1: pero no salís ni en la tele ni en ningún sitio,  es solo para la universidad que, que lo recogemos, que… 
+I1: Y qué, ¿de las aceituna? 
+E1: Bueno, de todo, de todo,  de todo. 
+I1: Ay, qué vamos a decir, pues que hemos pasao muchismos trabajos y mucha hambre y descalzos y así. Para poder sobrevivir. Ahora ha venío
+E2: ¿Y usted ha vivido aquí toda la vida? 
+I1: Toda la vida. Cuando estuvo en la mili. 
+I2: Y luego la mili, claro. Eso  falta del pueblo 
+I1: Falta del pueblo. Estuvo en, en la guerra y… en la mili. 
+I2: Diez años en la guerra, diez años, diez meses. En la guerra. 
+",La provincia a la que pertenecen los informadores es Cuenca.

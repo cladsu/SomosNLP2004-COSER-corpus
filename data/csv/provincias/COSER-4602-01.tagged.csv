@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: Usted nació aquí entonces. 
+I1: Sí, sí. Yo nací el año 22. 
+E1: Y… ¿le criaron a usted aquí? 
+I1: T17 ¿Que si me han criao a mí aquí…? Sí, sí. En una casa más pequeña que esta, mucho más pequeña. Una calle del camino de cabreros, nací yo. 
+E1: Pues a ver, ¿cómo era la casa? 
+I1: ¿La quiere ver? 
+E1: ¿Cómo eran las casas antiguas y todo eso? 
+I1: Ah,  os la enseño, si queréis. Si queréis vamos allí y os la enseño y sabéis cómo… V-Sml  Ah, bueno,   nada. Pues era una entradica así estrechina, así. 
+I2: y un cuarto en la cocina de mala muerte.
+I1: Un corralico que se llama, . un corralico pequeño luego hay una pocilguita, que se llamaba, pa meter un cerdo… y nada más. Y luego un cachico pajar que se metía allí la poca paja, cuatro manojos y… cosas de esas. 
+E1: ¿Cómo llamaban a la pocilguita, ha dicho? 
+",La provincia a la que pertenecen los informadores es Zamora.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: Usted nació aquí entonces. 
+I1: Sí, sí. Yo nací el año 22. 
+E1: Y… ¿le criaron a usted aquí? 
+I1: T17 ¿Que si me han criao a mí aquí…? Sí, sí. En una casa más pequeña que esta, mucho más pequeña. Una calle del camino de cabreros, nací yo. 
+E1: Pues a ver, ¿cómo era la casa? 
+I1: ¿La quiere ver? 
+E1: ¿Cómo eran las casas antiguas y todo eso? 
+I1: Ah,  os la enseño, si queréis. Si queréis vamos allí y os la enseño y sabéis cómo… V-Sml  Ah, bueno,   nada. Pues era una entradica así estrechina, así. 
+I2: y un cuarto en la cocina de mala muerte.
+I1: Un corralico que se llama, . un corralico pequeño luego hay una pocilguita, que se llamaba, pa meter un cerdo… y nada más. Y luego un cachico pajar que se metía allí la poca paja, cuatro manojos y… cosas de esas. 
+E1: ¿Cómo llamaban a la pocilguita, ha dicho? 
+",La provincia a la que pertenecen los informadores es Zamora.
+"Dime la provincia del siguiente texto: E1: Usted nació aquí entonces. 
+I1: Sí, sí. Yo nací el año 22. 
+E1: Y… ¿le criaron a usted aquí? 
+I1: T17 ¿Que si me han criao a mí aquí…? Sí, sí. En una casa más pequeña que esta, mucho más pequeña. Una calle del camino de cabreros, nací yo. 
+E1: Pues a ver, ¿cómo era la casa? 
+I1: ¿La quiere ver? 
+E1: ¿Cómo eran las casas antiguas y todo eso? 
+I1: Ah,  os la enseño, si queréis. Si queréis vamos allí y os la enseño y sabéis cómo… V-Sml  Ah, bueno,   nada. Pues era una entradica así estrechina, así. 
+I2: y un cuarto en la cocina de mala muerte.
+I1: Un corralico que se llama, . un corralico pequeño luego hay una pocilguita, que se llamaba, pa meter un cerdo… y nada más. Y luego un cachico pajar que se metía allí la poca paja, cuatro manojos y… cosas de esas. 
+E1: ¿Cómo llamaban a la pocilguita, ha dicho? 
+",La provincia a la que pertenecen los informadores es Zamora.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: Usted nació aquí entonces. 
+I1: Sí, sí. Yo nací el año 22. 
+E1: Y… ¿le criaron a usted aquí? 
+I1: T17 ¿Que si me han criao a mí aquí…? Sí, sí. En una casa más pequeña que esta, mucho más pequeña. Una calle del camino de cabreros, nací yo. 
+E1: Pues a ver, ¿cómo era la casa? 
+I1: ¿La quiere ver? 
+E1: ¿Cómo eran las casas antiguas y todo eso? 
+I1: Ah,  os la enseño, si queréis. Si queréis vamos allí y os la enseño y sabéis cómo… V-Sml  Ah, bueno,   nada. Pues era una entradica así estrechina, así. 
+I2: y un cuarto en la cocina de mala muerte.
+I1: Un corralico que se llama, . un corralico pequeño luego hay una pocilguita, que se llamaba, pa meter un cerdo… y nada más. Y luego un cachico pajar que se metía allí la poca paja, cuatro manojos y… cosas de esas. 
+E1: ¿Cómo llamaban a la pocilguita, ha dicho? 
+",La provincia a la que pertenecen los informadores es Zamora.
+"Dime de qué lugar es el siguiente texto:  E1: Usted nació aquí entonces. 
+I1: Sí, sí. Yo nací el año 22. 
+E1: Y… ¿le criaron a usted aquí? 
+I1: T17 ¿Que si me han criao a mí aquí…? Sí, sí. En una casa más pequeña que esta, mucho más pequeña. Una calle del camino de cabreros, nací yo. 
+E1: Pues a ver, ¿cómo era la casa? 
+I1: ¿La quiere ver? 
+E1: ¿Cómo eran las casas antiguas y todo eso? 
+I1: Ah,  os la enseño, si queréis. Si queréis vamos allí y os la enseño y sabéis cómo… V-Sml  Ah, bueno,   nada. Pues era una entradica así estrechina, así. 
+I2: y un cuarto en la cocina de mala muerte.
+I1: Un corralico que se llama, . un corralico pequeño luego hay una pocilguita, que se llamaba, pa meter un cerdo… y nada más. Y luego un cachico pajar que se metía allí la poca paja, cuatro manojos y… cosas de esas. 
+E1: ¿Cómo llamaban a la pocilguita, ha dicho? 
+",La provincia a la que pertenecen los informadores es Zamora.

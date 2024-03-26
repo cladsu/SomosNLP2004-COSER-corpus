@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: ¿Qué es? 
+E3: Le voy a poner el micrófono para que…, pa escuchar su voz.   
+I1:  ¡Madre mía,  madre mía, donde me están metiendo a mí esta gente tan joven…,  Rndo:esta gente joven.  V-Sml 
+E1: Bueno…,  las costumbres y todo eso. bueno,  ¿cómo se llama usted?  
+I1: Anonimizado.
+E1: Y, ¿cuántos años tiene? Bueno, si quiere decirlo.  
+I1: Sí, sí, yo te lo digo. El día veinticinco de este cumplo ochenta_y_tres años. 
+E1: ¿Ochenta_y_tres?  Pues qué bien está usted, ¿no?  
+E2: casi es mi cumple.  Yo cumplo el veintiocho. 
+I1: Y yo el veinticinco los cumplo. 
+E3: Y yo el cinco.  . No, el día cinco es mi cumple. V-Sml 
+",La provincia a la que pertenecen los informadores es Granada.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: ¿Qué es? 
+E3: Le voy a poner el micrófono para que…, pa escuchar su voz.   
+I1:  ¡Madre mía,  madre mía, donde me están metiendo a mí esta gente tan joven…,  Rndo:esta gente joven.  V-Sml 
+E1: Bueno…,  las costumbres y todo eso. bueno,  ¿cómo se llama usted?  
+I1: Anonimizado.
+E1: Y, ¿cuántos años tiene? Bueno, si quiere decirlo.  
+I1: Sí, sí, yo te lo digo. El día veinticinco de este cumplo ochenta_y_tres años. 
+E1: ¿Ochenta_y_tres?  Pues qué bien está usted, ¿no?  
+E2: casi es mi cumple.  Yo cumplo el veintiocho. 
+I1: Y yo el veinticinco los cumplo. 
+E3: Y yo el cinco.  . No, el día cinco es mi cumple. V-Sml 
+",La provincia a la que pertenecen los informadores es Granada.
+"Dime la provincia del siguiente texto: I1: ¿Qué es? 
+E3: Le voy a poner el micrófono para que…, pa escuchar su voz.   
+I1:  ¡Madre mía,  madre mía, donde me están metiendo a mí esta gente tan joven…,  Rndo:esta gente joven.  V-Sml 
+E1: Bueno…,  las costumbres y todo eso. bueno,  ¿cómo se llama usted?  
+I1: Anonimizado.
+E1: Y, ¿cuántos años tiene? Bueno, si quiere decirlo.  
+I1: Sí, sí, yo te lo digo. El día veinticinco de este cumplo ochenta_y_tres años. 
+E1: ¿Ochenta_y_tres?  Pues qué bien está usted, ¿no?  
+E2: casi es mi cumple.  Yo cumplo el veintiocho. 
+I1: Y yo el veinticinco los cumplo. 
+E3: Y yo el cinco.  . No, el día cinco es mi cumple. V-Sml 
+",La provincia a la que pertenecen los informadores es Granada.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: ¿Qué es? 
+E3: Le voy a poner el micrófono para que…, pa escuchar su voz.   
+I1:  ¡Madre mía,  madre mía, donde me están metiendo a mí esta gente tan joven…,  Rndo:esta gente joven.  V-Sml 
+E1: Bueno…,  las costumbres y todo eso. bueno,  ¿cómo se llama usted?  
+I1: Anonimizado.
+E1: Y, ¿cuántos años tiene? Bueno, si quiere decirlo.  
+I1: Sí, sí, yo te lo digo. El día veinticinco de este cumplo ochenta_y_tres años. 
+E1: ¿Ochenta_y_tres?  Pues qué bien está usted, ¿no?  
+E2: casi es mi cumple.  Yo cumplo el veintiocho. 
+I1: Y yo el veinticinco los cumplo. 
+E3: Y yo el cinco.  . No, el día cinco es mi cumple. V-Sml 
+",La provincia a la que pertenecen los informadores es Granada.
+"Dime de qué lugar es el siguiente texto:  I1: ¿Qué es? 
+E3: Le voy a poner el micrófono para que…, pa escuchar su voz.   
+I1:  ¡Madre mía,  madre mía, donde me están metiendo a mí esta gente tan joven…,  Rndo:esta gente joven.  V-Sml 
+E1: Bueno…,  las costumbres y todo eso. bueno,  ¿cómo se llama usted?  
+I1: Anonimizado.
+E1: Y, ¿cuántos años tiene? Bueno, si quiere decirlo.  
+I1: Sí, sí, yo te lo digo. El día veinticinco de este cumplo ochenta_y_tres años. 
+E1: ¿Ochenta_y_tres?  Pues qué bien está usted, ¿no?  
+E2: casi es mi cumple.  Yo cumplo el veintiocho. 
+I1: Y yo el veinticinco los cumplo. 
+E3: Y yo el cinco.  . No, el día cinco es mi cumple. V-Sml 
+",La provincia a la que pertenecen los informadores es Granada.

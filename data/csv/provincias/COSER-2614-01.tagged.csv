@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: T11 Lo que había en casa. No se compraba casi nada. 
+I2: Porque no había ni siquiera tiendas y… había que arreglarse con lo que había en casa. To'l mundo criábamos un cerdo, y teníamos cuatro gallinas y casi de ahí íbamos viviendo, ¿no? 
+I1: Se notaba… 
+E1: Pero se comía mejor. 
+I2: Y, claro…, mejor comidas que ahora, porque ahora… 
+E1: ¿Son de aquí  las tres? 
+I2: Las tres somos de aquí.  
+E1: ¿Nacidas y criadas aquí? 
+I2: Bueno, no. Esta era de Ríoseco,  la otra de Cuadros. Yo sí, yo era  de aquí. Pero si estos pueblos  son tos iguales. Eso to
+I1: ¿No sabe la Magdalena? 
+E1: ¿Cómo? 
+",La provincia a la que pertenecen los informadores es León.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: T11 Lo que había en casa. No se compraba casi nada. 
+I2: Porque no había ni siquiera tiendas y… había que arreglarse con lo que había en casa. To'l mundo criábamos un cerdo, y teníamos cuatro gallinas y casi de ahí íbamos viviendo, ¿no? 
+I1: Se notaba… 
+E1: Pero se comía mejor. 
+I2: Y, claro…, mejor comidas que ahora, porque ahora… 
+E1: ¿Son de aquí  las tres? 
+I2: Las tres somos de aquí.  
+E1: ¿Nacidas y criadas aquí? 
+I2: Bueno, no. Esta era de Ríoseco,  la otra de Cuadros. Yo sí, yo era  de aquí. Pero si estos pueblos  son tos iguales. Eso to
+I1: ¿No sabe la Magdalena? 
+E1: ¿Cómo? 
+",La provincia a la que pertenecen los informadores es León.
+"Dime la provincia del siguiente texto: I1: T11 Lo que había en casa. No se compraba casi nada. 
+I2: Porque no había ni siquiera tiendas y… había que arreglarse con lo que había en casa. To'l mundo criábamos un cerdo, y teníamos cuatro gallinas y casi de ahí íbamos viviendo, ¿no? 
+I1: Se notaba… 
+E1: Pero se comía mejor. 
+I2: Y, claro…, mejor comidas que ahora, porque ahora… 
+E1: ¿Son de aquí  las tres? 
+I2: Las tres somos de aquí.  
+E1: ¿Nacidas y criadas aquí? 
+I2: Bueno, no. Esta era de Ríoseco,  la otra de Cuadros. Yo sí, yo era  de aquí. Pero si estos pueblos  son tos iguales. Eso to
+I1: ¿No sabe la Magdalena? 
+E1: ¿Cómo? 
+",La provincia a la que pertenecen los informadores es León.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: T11 Lo que había en casa. No se compraba casi nada. 
+I2: Porque no había ni siquiera tiendas y… había que arreglarse con lo que había en casa. To'l mundo criábamos un cerdo, y teníamos cuatro gallinas y casi de ahí íbamos viviendo, ¿no? 
+I1: Se notaba… 
+E1: Pero se comía mejor. 
+I2: Y, claro…, mejor comidas que ahora, porque ahora… 
+E1: ¿Son de aquí  las tres? 
+I2: Las tres somos de aquí.  
+E1: ¿Nacidas y criadas aquí? 
+I2: Bueno, no. Esta era de Ríoseco,  la otra de Cuadros. Yo sí, yo era  de aquí. Pero si estos pueblos  son tos iguales. Eso to
+I1: ¿No sabe la Magdalena? 
+E1: ¿Cómo? 
+",La provincia a la que pertenecen los informadores es León.
+"Dime de qué lugar es el siguiente texto:  I1: T11 Lo que había en casa. No se compraba casi nada. 
+I2: Porque no había ni siquiera tiendas y… había que arreglarse con lo que había en casa. To'l mundo criábamos un cerdo, y teníamos cuatro gallinas y casi de ahí íbamos viviendo, ¿no? 
+I1: Se notaba… 
+E1: Pero se comía mejor. 
+I2: Y, claro…, mejor comidas que ahora, porque ahora… 
+E1: ¿Son de aquí  las tres? 
+I2: Las tres somos de aquí.  
+E1: ¿Nacidas y criadas aquí? 
+I2: Bueno, no. Esta era de Ríoseco,  la otra de Cuadros. Yo sí, yo era  de aquí. Pero si estos pueblos  son tos iguales. Eso to
+I1: ¿No sabe la Magdalena? 
+E1: ¿Cómo? 
+",La provincia a la que pertenecen los informadores es León.

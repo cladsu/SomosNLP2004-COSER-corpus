@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T1 Usted nos ha dicho que vivió en un cortijo, ¿no? ¿Y allí hacían matanza? ¿Y cómo se criaba a los guarros? 
+I1: ¿La matanza? 
+E1: Sí, ¿cómo era todo eso? 
+I1: Pues nada, cebábamos, le echábamos pienso, cebá , trigo, eso, y lo cebábamos, estaban allí un par meses, se cebaban, luego los matábamos y hacíamos la matanza, hacé
+E1: . ¿Y cómo mataban al…? 
+I1: Pues en lo alto de un banco le dábamos un navajazo y… echaban la sangre y se hacía la morcilla, los pelábamos con agua caliente, se pelaba y ya luego sa-, se colgábamos y se abrían, echábamos las tripas afuera y, y ya se, se enmierdajan como se suele decir.  Y ya lavaban las tripas y se hacía to el negocio.
+E1: . Y…, y qué le iba a decir, ¿cómo se hacen las morcillas? 
+I1: ¿Eh? 
+E1: ¿Cómo se hacen las morcillas? 
+I1: Las morcillas, pues en una, CARRASP en, CARRASP en una caldera, se echaba la sangre, se picaba la manteca, se picaba la manteca y se echaba la sangre, se revolvía, se le echaba cebolla . y ya se revolvía y se metían las tripas la morcilla, se metían las tripas y e-…, y echaban agua en una caldera y se cocía allí en, en y luego ya se sacaba y ya está. 
+E2: ¿Solo cebolla se le echaba aquí? 
+",La provincia a la que pertenecen los informadores es Granada.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T1 Usted nos ha dicho que vivió en un cortijo, ¿no? ¿Y allí hacían matanza? ¿Y cómo se criaba a los guarros? 
+I1: ¿La matanza? 
+E1: Sí, ¿cómo era todo eso? 
+I1: Pues nada, cebábamos, le echábamos pienso, cebá , trigo, eso, y lo cebábamos, estaban allí un par meses, se cebaban, luego los matábamos y hacíamos la matanza, hacé
+E1: . ¿Y cómo mataban al…? 
+I1: Pues en lo alto de un banco le dábamos un navajazo y… echaban la sangre y se hacía la morcilla, los pelábamos con agua caliente, se pelaba y ya luego sa-, se colgábamos y se abrían, echábamos las tripas afuera y, y ya se, se enmierdajan como se suele decir.  Y ya lavaban las tripas y se hacía to el negocio.
+E1: . Y…, y qué le iba a decir, ¿cómo se hacen las morcillas? 
+I1: ¿Eh? 
+E1: ¿Cómo se hacen las morcillas? 
+I1: Las morcillas, pues en una, CARRASP en, CARRASP en una caldera, se echaba la sangre, se picaba la manteca, se picaba la manteca y se echaba la sangre, se revolvía, se le echaba cebolla . y ya se revolvía y se metían las tripas la morcilla, se metían las tripas y e-…, y echaban agua en una caldera y se cocía allí en, en y luego ya se sacaba y ya está. 
+E2: ¿Solo cebolla se le echaba aquí? 
+",La provincia a la que pertenecen los informadores es Granada.
+"Dime la provincia del siguiente texto: E1: T1 Usted nos ha dicho que vivió en un cortijo, ¿no? ¿Y allí hacían matanza? ¿Y cómo se criaba a los guarros? 
+I1: ¿La matanza? 
+E1: Sí, ¿cómo era todo eso? 
+I1: Pues nada, cebábamos, le echábamos pienso, cebá , trigo, eso, y lo cebábamos, estaban allí un par meses, se cebaban, luego los matábamos y hacíamos la matanza, hacé
+E1: . ¿Y cómo mataban al…? 
+I1: Pues en lo alto de un banco le dábamos un navajazo y… echaban la sangre y se hacía la morcilla, los pelábamos con agua caliente, se pelaba y ya luego sa-, se colgábamos y se abrían, echábamos las tripas afuera y, y ya se, se enmierdajan como se suele decir.  Y ya lavaban las tripas y se hacía to el negocio.
+E1: . Y…, y qué le iba a decir, ¿cómo se hacen las morcillas? 
+I1: ¿Eh? 
+E1: ¿Cómo se hacen las morcillas? 
+I1: Las morcillas, pues en una, CARRASP en, CARRASP en una caldera, se echaba la sangre, se picaba la manteca, se picaba la manteca y se echaba la sangre, se revolvía, se le echaba cebolla . y ya se revolvía y se metían las tripas la morcilla, se metían las tripas y e-…, y echaban agua en una caldera y se cocía allí en, en y luego ya se sacaba y ya está. 
+E2: ¿Solo cebolla se le echaba aquí? 
+",La provincia a la que pertenecen los informadores es Granada.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T1 Usted nos ha dicho que vivió en un cortijo, ¿no? ¿Y allí hacían matanza? ¿Y cómo se criaba a los guarros? 
+I1: ¿La matanza? 
+E1: Sí, ¿cómo era todo eso? 
+I1: Pues nada, cebábamos, le echábamos pienso, cebá , trigo, eso, y lo cebábamos, estaban allí un par meses, se cebaban, luego los matábamos y hacíamos la matanza, hacé
+E1: . ¿Y cómo mataban al…? 
+I1: Pues en lo alto de un banco le dábamos un navajazo y… echaban la sangre y se hacía la morcilla, los pelábamos con agua caliente, se pelaba y ya luego sa-, se colgábamos y se abrían, echábamos las tripas afuera y, y ya se, se enmierdajan como se suele decir.  Y ya lavaban las tripas y se hacía to el negocio.
+E1: . Y…, y qué le iba a decir, ¿cómo se hacen las morcillas? 
+I1: ¿Eh? 
+E1: ¿Cómo se hacen las morcillas? 
+I1: Las morcillas, pues en una, CARRASP en, CARRASP en una caldera, se echaba la sangre, se picaba la manteca, se picaba la manteca y se echaba la sangre, se revolvía, se le echaba cebolla . y ya se revolvía y se metían las tripas la morcilla, se metían las tripas y e-…, y echaban agua en una caldera y se cocía allí en, en y luego ya se sacaba y ya está. 
+E2: ¿Solo cebolla se le echaba aquí? 
+",La provincia a la que pertenecen los informadores es Granada.
+"Dime de qué lugar es el siguiente texto:  E1: T1 Usted nos ha dicho que vivió en un cortijo, ¿no? ¿Y allí hacían matanza? ¿Y cómo se criaba a los guarros? 
+I1: ¿La matanza? 
+E1: Sí, ¿cómo era todo eso? 
+I1: Pues nada, cebábamos, le echábamos pienso, cebá , trigo, eso, y lo cebábamos, estaban allí un par meses, se cebaban, luego los matábamos y hacíamos la matanza, hacé
+E1: . ¿Y cómo mataban al…? 
+I1: Pues en lo alto de un banco le dábamos un navajazo y… echaban la sangre y se hacía la morcilla, los pelábamos con agua caliente, se pelaba y ya luego sa-, se colgábamos y se abrían, echábamos las tripas afuera y, y ya se, se enmierdajan como se suele decir.  Y ya lavaban las tripas y se hacía to el negocio.
+E1: . Y…, y qué le iba a decir, ¿cómo se hacen las morcillas? 
+I1: ¿Eh? 
+E1: ¿Cómo se hacen las morcillas? 
+I1: Las morcillas, pues en una, CARRASP en, CARRASP en una caldera, se echaba la sangre, se picaba la manteca, se picaba la manteca y se echaba la sangre, se revolvía, se le echaba cebolla . y ya se revolvía y se metían las tripas la morcilla, se metían las tripas y e-…, y echaban agua en una caldera y se cocía allí en, en y luego ya se sacaba y ya está. 
+E2: ¿Solo cebolla se le echaba aquí? 
+",La provincia a la que pertenecen los informadores es Granada.

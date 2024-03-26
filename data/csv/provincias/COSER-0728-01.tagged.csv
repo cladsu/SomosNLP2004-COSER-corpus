@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I:  I: ¿Dónde estudiáis vosotros? 
+E1: En Madrid. 
+I:  I: En Madrí , ah. Pero no sois de Madrí, ¿sois de otros pueblos por aquí o cómo? Porque pa ve-, pa vení
+E1:   Pero como estamos viendo las costumbres pues tenemos que desplazarnos, desde Madrid es un poco difícil. 
+I:  I: Si os sirve de algo, hija,  Dios lo quiera que os sirva. 
+E1: T1 Así que bueno, . vamos a empezar así. Empezamos con la matanza, a ver qué nos puede contar usted. ¿Cómo se hace la matanza, bueno, cómo se hacía antiguamente sobre todo…? 
+I:  I: Antiguamente y ahora igual, la hacemos igual nosotros. Hombre, ahora a lo mejó tenemos una máquina eléctrica, que picamos la carne con la máquina eléctrica; eso sí, pero otra cosa no. La, la máquina de llená , que es donde llenamos los chorizos, es la misma de siempre, de cuando yo me criaba que era chiquitita yo, así que imagínate.
+E1: ¿En su casa siempre han hecho  matanza? 
+I:  I: siempre la hemos hecho, sí. 
+E1: Entonces, bueno, cuéntenos un poco cómo se hacía, cuántas veces al año…  no sé. 
+I:  I: por regla generá , una vez al año es como se suele hacé
+",La provincia a la que pertenecen los informadores es Badajoz.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I:  I: ¿Dónde estudiáis vosotros? 
+E1: En Madrid. 
+I:  I: En Madrí , ah. Pero no sois de Madrí, ¿sois de otros pueblos por aquí o cómo? Porque pa ve-, pa vení
+E1:   Pero como estamos viendo las costumbres pues tenemos que desplazarnos, desde Madrid es un poco difícil. 
+I:  I: Si os sirve de algo, hija,  Dios lo quiera que os sirva. 
+E1: T1 Así que bueno, . vamos a empezar así. Empezamos con la matanza, a ver qué nos puede contar usted. ¿Cómo se hace la matanza, bueno, cómo se hacía antiguamente sobre todo…? 
+I:  I: Antiguamente y ahora igual, la hacemos igual nosotros. Hombre, ahora a lo mejó tenemos una máquina eléctrica, que picamos la carne con la máquina eléctrica; eso sí, pero otra cosa no. La, la máquina de llená , que es donde llenamos los chorizos, es la misma de siempre, de cuando yo me criaba que era chiquitita yo, así que imagínate.
+E1: ¿En su casa siempre han hecho  matanza? 
+I:  I: siempre la hemos hecho, sí. 
+E1: Entonces, bueno, cuéntenos un poco cómo se hacía, cuántas veces al año…  no sé. 
+I:  I: por regla generá , una vez al año es como se suele hacé
+",La provincia a la que pertenecen los informadores es Badajoz.
+"Dime la provincia del siguiente texto: I:  I: ¿Dónde estudiáis vosotros? 
+E1: En Madrid. 
+I:  I: En Madrí , ah. Pero no sois de Madrí, ¿sois de otros pueblos por aquí o cómo? Porque pa ve-, pa vení
+E1:   Pero como estamos viendo las costumbres pues tenemos que desplazarnos, desde Madrid es un poco difícil. 
+I:  I: Si os sirve de algo, hija,  Dios lo quiera que os sirva. 
+E1: T1 Así que bueno, . vamos a empezar así. Empezamos con la matanza, a ver qué nos puede contar usted. ¿Cómo se hace la matanza, bueno, cómo se hacía antiguamente sobre todo…? 
+I:  I: Antiguamente y ahora igual, la hacemos igual nosotros. Hombre, ahora a lo mejó tenemos una máquina eléctrica, que picamos la carne con la máquina eléctrica; eso sí, pero otra cosa no. La, la máquina de llená , que es donde llenamos los chorizos, es la misma de siempre, de cuando yo me criaba que era chiquitita yo, así que imagínate.
+E1: ¿En su casa siempre han hecho  matanza? 
+I:  I: siempre la hemos hecho, sí. 
+E1: Entonces, bueno, cuéntenos un poco cómo se hacía, cuántas veces al año…  no sé. 
+I:  I: por regla generá , una vez al año es como se suele hacé
+",La provincia a la que pertenecen los informadores es Badajoz.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I:  I: ¿Dónde estudiáis vosotros? 
+E1: En Madrid. 
+I:  I: En Madrí , ah. Pero no sois de Madrí, ¿sois de otros pueblos por aquí o cómo? Porque pa ve-, pa vení
+E1:   Pero como estamos viendo las costumbres pues tenemos que desplazarnos, desde Madrid es un poco difícil. 
+I:  I: Si os sirve de algo, hija,  Dios lo quiera que os sirva. 
+E1: T1 Así que bueno, . vamos a empezar así. Empezamos con la matanza, a ver qué nos puede contar usted. ¿Cómo se hace la matanza, bueno, cómo se hacía antiguamente sobre todo…? 
+I:  I: Antiguamente y ahora igual, la hacemos igual nosotros. Hombre, ahora a lo mejó tenemos una máquina eléctrica, que picamos la carne con la máquina eléctrica; eso sí, pero otra cosa no. La, la máquina de llená , que es donde llenamos los chorizos, es la misma de siempre, de cuando yo me criaba que era chiquitita yo, así que imagínate.
+E1: ¿En su casa siempre han hecho  matanza? 
+I:  I: siempre la hemos hecho, sí. 
+E1: Entonces, bueno, cuéntenos un poco cómo se hacía, cuántas veces al año…  no sé. 
+I:  I: por regla generá , una vez al año es como se suele hacé
+",La provincia a la que pertenecen los informadores es Badajoz.
+"Dime de qué lugar es el siguiente texto:  I:  I: ¿Dónde estudiáis vosotros? 
+E1: En Madrid. 
+I:  I: En Madrí , ah. Pero no sois de Madrí, ¿sois de otros pueblos por aquí o cómo? Porque pa ve-, pa vení
+E1:   Pero como estamos viendo las costumbres pues tenemos que desplazarnos, desde Madrid es un poco difícil. 
+I:  I: Si os sirve de algo, hija,  Dios lo quiera que os sirva. 
+E1: T1 Así que bueno, . vamos a empezar así. Empezamos con la matanza, a ver qué nos puede contar usted. ¿Cómo se hace la matanza, bueno, cómo se hacía antiguamente sobre todo…? 
+I:  I: Antiguamente y ahora igual, la hacemos igual nosotros. Hombre, ahora a lo mejó tenemos una máquina eléctrica, que picamos la carne con la máquina eléctrica; eso sí, pero otra cosa no. La, la máquina de llená , que es donde llenamos los chorizos, es la misma de siempre, de cuando yo me criaba que era chiquitita yo, así que imagínate.
+E1: ¿En su casa siempre han hecho  matanza? 
+I:  I: siempre la hemos hecho, sí. 
+E1: Entonces, bueno, cuéntenos un poco cómo se hacía, cuántas veces al año…  no sé. 
+I:  I: por regla generá , una vez al año es como se suele hacé
+",La provincia a la que pertenecen los informadores es Badajoz.

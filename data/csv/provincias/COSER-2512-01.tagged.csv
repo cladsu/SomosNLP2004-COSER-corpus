@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: T1 Ahora los chomarran en paja, pero el halecho
+I2: Y lo abrían. 
+I1: Ah, sí, lo abrían, sacaban la íntima, no sé si habréis oído la íntima del cerdo, lo de arriba. 
+I2: Sí. . 
+I1: Que luego adobadas, salía muy rica. 
+I2: Sí, está muy bueno. 
+I1: ¿Verdad? Sí. 
+E1: Yo hago matanza todavía, ¿eh?  
+I1: mira, la carne que más me gusta a mí es la de cerdo, hija, la demás no puedo. 
+I2: No te enrolles, cuenta. 
+I1: Ah, bien. 
+",La provincia a la que pertenecen los informadores es La Rioja.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: T1 Ahora los chomarran en paja, pero el halecho
+I2: Y lo abrían. 
+I1: Ah, sí, lo abrían, sacaban la íntima, no sé si habréis oído la íntima del cerdo, lo de arriba. 
+I2: Sí. . 
+I1: Que luego adobadas, salía muy rica. 
+I2: Sí, está muy bueno. 
+I1: ¿Verdad? Sí. 
+E1: Yo hago matanza todavía, ¿eh?  
+I1: mira, la carne que más me gusta a mí es la de cerdo, hija, la demás no puedo. 
+I2: No te enrolles, cuenta. 
+I1: Ah, bien. 
+",La provincia a la que pertenecen los informadores es La Rioja.
+"Dime la provincia del siguiente texto: I1: T1 Ahora los chomarran en paja, pero el halecho
+I2: Y lo abrían. 
+I1: Ah, sí, lo abrían, sacaban la íntima, no sé si habréis oído la íntima del cerdo, lo de arriba. 
+I2: Sí. . 
+I1: Que luego adobadas, salía muy rica. 
+I2: Sí, está muy bueno. 
+I1: ¿Verdad? Sí. 
+E1: Yo hago matanza todavía, ¿eh?  
+I1: mira, la carne que más me gusta a mí es la de cerdo, hija, la demás no puedo. 
+I2: No te enrolles, cuenta. 
+I1: Ah, bien. 
+",La provincia a la que pertenecen los informadores es La Rioja.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: T1 Ahora los chomarran en paja, pero el halecho
+I2: Y lo abrían. 
+I1: Ah, sí, lo abrían, sacaban la íntima, no sé si habréis oído la íntima del cerdo, lo de arriba. 
+I2: Sí. . 
+I1: Que luego adobadas, salía muy rica. 
+I2: Sí, está muy bueno. 
+I1: ¿Verdad? Sí. 
+E1: Yo hago matanza todavía, ¿eh?  
+I1: mira, la carne que más me gusta a mí es la de cerdo, hija, la demás no puedo. 
+I2: No te enrolles, cuenta. 
+I1: Ah, bien. 
+",La provincia a la que pertenecen los informadores es La Rioja.
+"Dime de qué lugar es el siguiente texto:  I1: T1 Ahora los chomarran en paja, pero el halecho
+I2: Y lo abrían. 
+I1: Ah, sí, lo abrían, sacaban la íntima, no sé si habréis oído la íntima del cerdo, lo de arriba. 
+I2: Sí. . 
+I1: Que luego adobadas, salía muy rica. 
+I2: Sí, está muy bueno. 
+I1: ¿Verdad? Sí. 
+E1: Yo hago matanza todavía, ¿eh?  
+I1: mira, la carne que más me gusta a mí es la de cerdo, hija, la demás no puedo. 
+I2: No te enrolles, cuenta. 
+I1: Ah, bien. 
+",La provincia a la que pertenecen los informadores es La Rioja.

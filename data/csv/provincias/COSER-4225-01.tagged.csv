@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1:  … demasiado y la están haciendo poco a poco. 
+I2: T15 Cada mes hace un poquito lo que se puede. Muy poco, pero… Ya os digo que no, no hay dinero. 
+I1: Es que otras hermandades tienen, CARRASP tienen más posibilidades, tienen las cintas y tienen cosas, pero esta no, hay muy pocos hermanos y tiene mu poco de… 
+I2: Pero tampoco consiste en que haya pocos hermanos, padre, porque…  no solo consiste en eso. Consiste en que es en una época que no…, que no da lugar a grandes cosas. Cuando…, cuando vienen las fiestas grandes de aquí, pues toda son en el verano…, bueno, son distintas porque… ya sabes que hay bailes y…, y da lugar a, a grandes procesiones y tal, pero ahora en este tiempo ya sabes que no, que no se pueden hacer porque pilla una noche mala y allí no para nadie. 
+I1: No, pero está muy bien porque, está muy bien porque hacen una luminaria mu grande y hay una cantidad de leña mu grande, tiran cohetes, tocan la música, asan patatas y reparten, claro, pues una limonada y… en la lumbre asan patatas y… reparten pues cosas…, patatas fritas, cacahué
+E1: . ¿Y quién se encarga de hacer las fiestas?  
+I1: Lo, la hermandad…  Nada, hay un hermano mayor y luego según los hermanos que sean, ¿cuántos hermanos habrá en esta hermandá ? 
+I2: Pues el otro día lo dijeron…, ciento… treinta, me parece… 
+I1: Esos pagan una cuota,  pero esa hermandad no tienen nada más que las cuotas que pagan  y la rifa, que hacen una rifa. Pero la otra,  las otras hermandades tienen más, tienen mucho y tien dinero, la mayoría de las hermandades tien
+E2: ¿Y qué son?, ¿qué son las cintas?  
+I1: Pues una cinta que al salir la procesión pues le ponen, antiguamente, eran unas cintas que…, que eran…  Que se lo ataban. . Ibas tú y querías llevar una cinta porque habías tenido un enfermo o por lo que sea, porque tenías… Y… ibas y decías: «Diez peseta por la cinta». Y iba y decía otro: «Veinte». Otro: «Veinticinco». Y subían mucho y se hacía dinero. Ahora eso ya se modificó y ahora le ponen diez cintas al lao… 
+",La provincia a la que pertenecen los informadores es Toledo.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1:  … demasiado y la están haciendo poco a poco. 
+I2: T15 Cada mes hace un poquito lo que se puede. Muy poco, pero… Ya os digo que no, no hay dinero. 
+I1: Es que otras hermandades tienen, CARRASP tienen más posibilidades, tienen las cintas y tienen cosas, pero esta no, hay muy pocos hermanos y tiene mu poco de… 
+I2: Pero tampoco consiste en que haya pocos hermanos, padre, porque…  no solo consiste en eso. Consiste en que es en una época que no…, que no da lugar a grandes cosas. Cuando…, cuando vienen las fiestas grandes de aquí, pues toda son en el verano…, bueno, son distintas porque… ya sabes que hay bailes y…, y da lugar a, a grandes procesiones y tal, pero ahora en este tiempo ya sabes que no, que no se pueden hacer porque pilla una noche mala y allí no para nadie. 
+I1: No, pero está muy bien porque, está muy bien porque hacen una luminaria mu grande y hay una cantidad de leña mu grande, tiran cohetes, tocan la música, asan patatas y reparten, claro, pues una limonada y… en la lumbre asan patatas y… reparten pues cosas…, patatas fritas, cacahué
+E1: . ¿Y quién se encarga de hacer las fiestas?  
+I1: Lo, la hermandad…  Nada, hay un hermano mayor y luego según los hermanos que sean, ¿cuántos hermanos habrá en esta hermandá ? 
+I2: Pues el otro día lo dijeron…, ciento… treinta, me parece… 
+I1: Esos pagan una cuota,  pero esa hermandad no tienen nada más que las cuotas que pagan  y la rifa, que hacen una rifa. Pero la otra,  las otras hermandades tienen más, tienen mucho y tien dinero, la mayoría de las hermandades tien
+E2: ¿Y qué son?, ¿qué son las cintas?  
+I1: Pues una cinta que al salir la procesión pues le ponen, antiguamente, eran unas cintas que…, que eran…  Que se lo ataban. . Ibas tú y querías llevar una cinta porque habías tenido un enfermo o por lo que sea, porque tenías… Y… ibas y decías: «Diez peseta por la cinta». Y iba y decía otro: «Veinte». Otro: «Veinticinco». Y subían mucho y se hacía dinero. Ahora eso ya se modificó y ahora le ponen diez cintas al lao… 
+",La provincia a la que pertenecen los informadores es Toledo.
+"Dime la provincia del siguiente texto: I1:  … demasiado y la están haciendo poco a poco. 
+I2: T15 Cada mes hace un poquito lo que se puede. Muy poco, pero… Ya os digo que no, no hay dinero. 
+I1: Es que otras hermandades tienen, CARRASP tienen más posibilidades, tienen las cintas y tienen cosas, pero esta no, hay muy pocos hermanos y tiene mu poco de… 
+I2: Pero tampoco consiste en que haya pocos hermanos, padre, porque…  no solo consiste en eso. Consiste en que es en una época que no…, que no da lugar a grandes cosas. Cuando…, cuando vienen las fiestas grandes de aquí, pues toda son en el verano…, bueno, son distintas porque… ya sabes que hay bailes y…, y da lugar a, a grandes procesiones y tal, pero ahora en este tiempo ya sabes que no, que no se pueden hacer porque pilla una noche mala y allí no para nadie. 
+I1: No, pero está muy bien porque, está muy bien porque hacen una luminaria mu grande y hay una cantidad de leña mu grande, tiran cohetes, tocan la música, asan patatas y reparten, claro, pues una limonada y… en la lumbre asan patatas y… reparten pues cosas…, patatas fritas, cacahué
+E1: . ¿Y quién se encarga de hacer las fiestas?  
+I1: Lo, la hermandad…  Nada, hay un hermano mayor y luego según los hermanos que sean, ¿cuántos hermanos habrá en esta hermandá ? 
+I2: Pues el otro día lo dijeron…, ciento… treinta, me parece… 
+I1: Esos pagan una cuota,  pero esa hermandad no tienen nada más que las cuotas que pagan  y la rifa, que hacen una rifa. Pero la otra,  las otras hermandades tienen más, tienen mucho y tien dinero, la mayoría de las hermandades tien
+E2: ¿Y qué son?, ¿qué son las cintas?  
+I1: Pues una cinta que al salir la procesión pues le ponen, antiguamente, eran unas cintas que…, que eran…  Que se lo ataban. . Ibas tú y querías llevar una cinta porque habías tenido un enfermo o por lo que sea, porque tenías… Y… ibas y decías: «Diez peseta por la cinta». Y iba y decía otro: «Veinte». Otro: «Veinticinco». Y subían mucho y se hacía dinero. Ahora eso ya se modificó y ahora le ponen diez cintas al lao… 
+",La provincia a la que pertenecen los informadores es Toledo.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1:  … demasiado y la están haciendo poco a poco. 
+I2: T15 Cada mes hace un poquito lo que se puede. Muy poco, pero… Ya os digo que no, no hay dinero. 
+I1: Es que otras hermandades tienen, CARRASP tienen más posibilidades, tienen las cintas y tienen cosas, pero esta no, hay muy pocos hermanos y tiene mu poco de… 
+I2: Pero tampoco consiste en que haya pocos hermanos, padre, porque…  no solo consiste en eso. Consiste en que es en una época que no…, que no da lugar a grandes cosas. Cuando…, cuando vienen las fiestas grandes de aquí, pues toda son en el verano…, bueno, son distintas porque… ya sabes que hay bailes y…, y da lugar a, a grandes procesiones y tal, pero ahora en este tiempo ya sabes que no, que no se pueden hacer porque pilla una noche mala y allí no para nadie. 
+I1: No, pero está muy bien porque, está muy bien porque hacen una luminaria mu grande y hay una cantidad de leña mu grande, tiran cohetes, tocan la música, asan patatas y reparten, claro, pues una limonada y… en la lumbre asan patatas y… reparten pues cosas…, patatas fritas, cacahué
+E1: . ¿Y quién se encarga de hacer las fiestas?  
+I1: Lo, la hermandad…  Nada, hay un hermano mayor y luego según los hermanos que sean, ¿cuántos hermanos habrá en esta hermandá ? 
+I2: Pues el otro día lo dijeron…, ciento… treinta, me parece… 
+I1: Esos pagan una cuota,  pero esa hermandad no tienen nada más que las cuotas que pagan  y la rifa, que hacen una rifa. Pero la otra,  las otras hermandades tienen más, tienen mucho y tien dinero, la mayoría de las hermandades tien
+E2: ¿Y qué son?, ¿qué son las cintas?  
+I1: Pues una cinta que al salir la procesión pues le ponen, antiguamente, eran unas cintas que…, que eran…  Que se lo ataban. . Ibas tú y querías llevar una cinta porque habías tenido un enfermo o por lo que sea, porque tenías… Y… ibas y decías: «Diez peseta por la cinta». Y iba y decía otro: «Veinte». Otro: «Veinticinco». Y subían mucho y se hacía dinero. Ahora eso ya se modificó y ahora le ponen diez cintas al lao… 
+",La provincia a la que pertenecen los informadores es Toledo.
+"Dime de qué lugar es el siguiente texto:  I1:  … demasiado y la están haciendo poco a poco. 
+I2: T15 Cada mes hace un poquito lo que se puede. Muy poco, pero… Ya os digo que no, no hay dinero. 
+I1: Es que otras hermandades tienen, CARRASP tienen más posibilidades, tienen las cintas y tienen cosas, pero esta no, hay muy pocos hermanos y tiene mu poco de… 
+I2: Pero tampoco consiste en que haya pocos hermanos, padre, porque…  no solo consiste en eso. Consiste en que es en una época que no…, que no da lugar a grandes cosas. Cuando…, cuando vienen las fiestas grandes de aquí, pues toda son en el verano…, bueno, son distintas porque… ya sabes que hay bailes y…, y da lugar a, a grandes procesiones y tal, pero ahora en este tiempo ya sabes que no, que no se pueden hacer porque pilla una noche mala y allí no para nadie. 
+I1: No, pero está muy bien porque, está muy bien porque hacen una luminaria mu grande y hay una cantidad de leña mu grande, tiran cohetes, tocan la música, asan patatas y reparten, claro, pues una limonada y… en la lumbre asan patatas y… reparten pues cosas…, patatas fritas, cacahué
+E1: . ¿Y quién se encarga de hacer las fiestas?  
+I1: Lo, la hermandad…  Nada, hay un hermano mayor y luego según los hermanos que sean, ¿cuántos hermanos habrá en esta hermandá ? 
+I2: Pues el otro día lo dijeron…, ciento… treinta, me parece… 
+I1: Esos pagan una cuota,  pero esa hermandad no tienen nada más que las cuotas que pagan  y la rifa, que hacen una rifa. Pero la otra,  las otras hermandades tienen más, tienen mucho y tien dinero, la mayoría de las hermandades tien
+E2: ¿Y qué son?, ¿qué son las cintas?  
+I1: Pues una cinta que al salir la procesión pues le ponen, antiguamente, eran unas cintas que…, que eran…  Que se lo ataban. . Ibas tú y querías llevar una cinta porque habías tenido un enfermo o por lo que sea, porque tenías… Y… ibas y decías: «Diez peseta por la cinta». Y iba y decía otro: «Veinte». Otro: «Veinticinco». Y subían mucho y se hacía dinero. Ahora eso ya se modificó y ahora le ponen diez cintas al lao… 
+",La provincia a la que pertenecen los informadores es Toledo.

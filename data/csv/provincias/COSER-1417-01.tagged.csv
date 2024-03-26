@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T1 V-Ljn Bueno, le, le pregunto un poco. A ver, aquí, aquí hacían matanza, ¿no? 
+I1: . 
+E1: Y, y usted ha hecho ¿hasta cuándo? ¿Hasta cuándo ha dejao de hacer? 
+I1: Pos que haga ocho o diez años que no la hago ya. 
+E1: . ¿Y por qué ha dejao de hacerla? Porque… 
+I1: Pos porque ya es mu cómodo, porque ahora mismo la gente joven no queréis engordar, . entonces el tocino no os gusta, los chorizos engordan mucho,  todo eso de la matanza la gente joven pasa de ello, y en realidá lo… hacías la matanza y la guardabas en ollas de barroy tenías para todo el verano, y ahora pues necesitas un chorizo, vas a la carnicería y le tienes fresco; . necesitas una morcilla, vas a la carnicería y la… lo tienes del día porque matan todos los días; y en fin, que es muy distinto a los tiempos de antes. . Y antes la gente pues los desperdicios de la casa se los echabas al gorrino, lo criabas con los desperdicios de la huerta, ibas sacando dos o tres guarros y ibas de merienda; te echaban en tu casa tus meriendas de chorizo, morcilla, el patatero y todo eso. Y de eso ya pos pasamos, total.
+E1: Ya no se come de eso, ¿no? 
+I1: Ya la gente de eso ya pasa total. 
+E1: ¿Y cómo era, cómo sujetaban al cerdo? ¿Cómo…  aquí cómo llaman donde están los cerdos? 
+I1: La cuadra. 
+E1: ¿Cuadra? 
+",La provincia a la que pertenecen los informadores es Ciudad Real.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T1 V-Ljn Bueno, le, le pregunto un poco. A ver, aquí, aquí hacían matanza, ¿no? 
+I1: . 
+E1: Y, y usted ha hecho ¿hasta cuándo? ¿Hasta cuándo ha dejao de hacer? 
+I1: Pos que haga ocho o diez años que no la hago ya. 
+E1: . ¿Y por qué ha dejao de hacerla? Porque… 
+I1: Pos porque ya es mu cómodo, porque ahora mismo la gente joven no queréis engordar, . entonces el tocino no os gusta, los chorizos engordan mucho,  todo eso de la matanza la gente joven pasa de ello, y en realidá lo… hacías la matanza y la guardabas en ollas de barroy tenías para todo el verano, y ahora pues necesitas un chorizo, vas a la carnicería y le tienes fresco; . necesitas una morcilla, vas a la carnicería y la… lo tienes del día porque matan todos los días; y en fin, que es muy distinto a los tiempos de antes. . Y antes la gente pues los desperdicios de la casa se los echabas al gorrino, lo criabas con los desperdicios de la huerta, ibas sacando dos o tres guarros y ibas de merienda; te echaban en tu casa tus meriendas de chorizo, morcilla, el patatero y todo eso. Y de eso ya pos pasamos, total.
+E1: Ya no se come de eso, ¿no? 
+I1: Ya la gente de eso ya pasa total. 
+E1: ¿Y cómo era, cómo sujetaban al cerdo? ¿Cómo…  aquí cómo llaman donde están los cerdos? 
+I1: La cuadra. 
+E1: ¿Cuadra? 
+",La provincia a la que pertenecen los informadores es Ciudad Real.
+"Dime la provincia del siguiente texto: E1: T1 V-Ljn Bueno, le, le pregunto un poco. A ver, aquí, aquí hacían matanza, ¿no? 
+I1: . 
+E1: Y, y usted ha hecho ¿hasta cuándo? ¿Hasta cuándo ha dejao de hacer? 
+I1: Pos que haga ocho o diez años que no la hago ya. 
+E1: . ¿Y por qué ha dejao de hacerla? Porque… 
+I1: Pos porque ya es mu cómodo, porque ahora mismo la gente joven no queréis engordar, . entonces el tocino no os gusta, los chorizos engordan mucho,  todo eso de la matanza la gente joven pasa de ello, y en realidá lo… hacías la matanza y la guardabas en ollas de barroy tenías para todo el verano, y ahora pues necesitas un chorizo, vas a la carnicería y le tienes fresco; . necesitas una morcilla, vas a la carnicería y la… lo tienes del día porque matan todos los días; y en fin, que es muy distinto a los tiempos de antes. . Y antes la gente pues los desperdicios de la casa se los echabas al gorrino, lo criabas con los desperdicios de la huerta, ibas sacando dos o tres guarros y ibas de merienda; te echaban en tu casa tus meriendas de chorizo, morcilla, el patatero y todo eso. Y de eso ya pos pasamos, total.
+E1: Ya no se come de eso, ¿no? 
+I1: Ya la gente de eso ya pasa total. 
+E1: ¿Y cómo era, cómo sujetaban al cerdo? ¿Cómo…  aquí cómo llaman donde están los cerdos? 
+I1: La cuadra. 
+E1: ¿Cuadra? 
+",La provincia a la que pertenecen los informadores es Ciudad Real.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T1 V-Ljn Bueno, le, le pregunto un poco. A ver, aquí, aquí hacían matanza, ¿no? 
+I1: . 
+E1: Y, y usted ha hecho ¿hasta cuándo? ¿Hasta cuándo ha dejao de hacer? 
+I1: Pos que haga ocho o diez años que no la hago ya. 
+E1: . ¿Y por qué ha dejao de hacerla? Porque… 
+I1: Pos porque ya es mu cómodo, porque ahora mismo la gente joven no queréis engordar, . entonces el tocino no os gusta, los chorizos engordan mucho,  todo eso de la matanza la gente joven pasa de ello, y en realidá lo… hacías la matanza y la guardabas en ollas de barroy tenías para todo el verano, y ahora pues necesitas un chorizo, vas a la carnicería y le tienes fresco; . necesitas una morcilla, vas a la carnicería y la… lo tienes del día porque matan todos los días; y en fin, que es muy distinto a los tiempos de antes. . Y antes la gente pues los desperdicios de la casa se los echabas al gorrino, lo criabas con los desperdicios de la huerta, ibas sacando dos o tres guarros y ibas de merienda; te echaban en tu casa tus meriendas de chorizo, morcilla, el patatero y todo eso. Y de eso ya pos pasamos, total.
+E1: Ya no se come de eso, ¿no? 
+I1: Ya la gente de eso ya pasa total. 
+E1: ¿Y cómo era, cómo sujetaban al cerdo? ¿Cómo…  aquí cómo llaman donde están los cerdos? 
+I1: La cuadra. 
+E1: ¿Cuadra? 
+",La provincia a la que pertenecen los informadores es Ciudad Real.
+"Dime de qué lugar es el siguiente texto:  E1: T1 V-Ljn Bueno, le, le pregunto un poco. A ver, aquí, aquí hacían matanza, ¿no? 
+I1: . 
+E1: Y, y usted ha hecho ¿hasta cuándo? ¿Hasta cuándo ha dejao de hacer? 
+I1: Pos que haga ocho o diez años que no la hago ya. 
+E1: . ¿Y por qué ha dejao de hacerla? Porque… 
+I1: Pos porque ya es mu cómodo, porque ahora mismo la gente joven no queréis engordar, . entonces el tocino no os gusta, los chorizos engordan mucho,  todo eso de la matanza la gente joven pasa de ello, y en realidá lo… hacías la matanza y la guardabas en ollas de barroy tenías para todo el verano, y ahora pues necesitas un chorizo, vas a la carnicería y le tienes fresco; . necesitas una morcilla, vas a la carnicería y la… lo tienes del día porque matan todos los días; y en fin, que es muy distinto a los tiempos de antes. . Y antes la gente pues los desperdicios de la casa se los echabas al gorrino, lo criabas con los desperdicios de la huerta, ibas sacando dos o tres guarros y ibas de merienda; te echaban en tu casa tus meriendas de chorizo, morcilla, el patatero y todo eso. Y de eso ya pos pasamos, total.
+E1: Ya no se come de eso, ¿no? 
+I1: Ya la gente de eso ya pasa total. 
+E1: ¿Y cómo era, cómo sujetaban al cerdo? ¿Cómo…  aquí cómo llaman donde están los cerdos? 
+I1: La cuadra. 
+E1: ¿Cuadra? 
+",La provincia a la que pertenecen los informadores es Ciudad Real.

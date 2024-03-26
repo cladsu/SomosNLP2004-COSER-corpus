@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: Sí, sí. Igual, más o menos. 
+I1: Venga, dime, pues a ver… 
+E1: T6 Pues a ver. Este pueblo, ¿de qué vive?, ¿de la agricultura? 
+I1: Sí, no…, casi todo de la agricultura. 
+E1: ¿Y qué cultiváis? 
+I1: Eh…, cebada lo que más, más que nada cebada, antes hacía trigo, pero ahoralo que más se hace es cebada. 
+E1: Y…, un, un, un momentito… a ver si para el coche,porque si no… 
+I1:  ¡Anonimizado! A-Crt 
+E1: Y más o menos el proceso así de cultivo, recolección, ¿cómo es la… durante el año?, ¿qué se hace? 
+I1: Bueno, pues se siembra, lo primero. 
+E1: Somos de capital y… 
+",La provincia a la que pertenecen los informadores es Teruel.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: Sí, sí. Igual, más o menos. 
+I1: Venga, dime, pues a ver… 
+E1: T6 Pues a ver. Este pueblo, ¿de qué vive?, ¿de la agricultura? 
+I1: Sí, no…, casi todo de la agricultura. 
+E1: ¿Y qué cultiváis? 
+I1: Eh…, cebada lo que más, más que nada cebada, antes hacía trigo, pero ahoralo que más se hace es cebada. 
+E1: Y…, un, un, un momentito… a ver si para el coche,porque si no… 
+I1:  ¡Anonimizado! A-Crt 
+E1: Y más o menos el proceso así de cultivo, recolección, ¿cómo es la… durante el año?, ¿qué se hace? 
+I1: Bueno, pues se siembra, lo primero. 
+E1: Somos de capital y… 
+",La provincia a la que pertenecen los informadores es Teruel.
+"Dime la provincia del siguiente texto: E1: Sí, sí. Igual, más o menos. 
+I1: Venga, dime, pues a ver… 
+E1: T6 Pues a ver. Este pueblo, ¿de qué vive?, ¿de la agricultura? 
+I1: Sí, no…, casi todo de la agricultura. 
+E1: ¿Y qué cultiváis? 
+I1: Eh…, cebada lo que más, más que nada cebada, antes hacía trigo, pero ahoralo que más se hace es cebada. 
+E1: Y…, un, un, un momentito… a ver si para el coche,porque si no… 
+I1:  ¡Anonimizado! A-Crt 
+E1: Y más o menos el proceso así de cultivo, recolección, ¿cómo es la… durante el año?, ¿qué se hace? 
+I1: Bueno, pues se siembra, lo primero. 
+E1: Somos de capital y… 
+",La provincia a la que pertenecen los informadores es Teruel.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: Sí, sí. Igual, más o menos. 
+I1: Venga, dime, pues a ver… 
+E1: T6 Pues a ver. Este pueblo, ¿de qué vive?, ¿de la agricultura? 
+I1: Sí, no…, casi todo de la agricultura. 
+E1: ¿Y qué cultiváis? 
+I1: Eh…, cebada lo que más, más que nada cebada, antes hacía trigo, pero ahoralo que más se hace es cebada. 
+E1: Y…, un, un, un momentito… a ver si para el coche,porque si no… 
+I1:  ¡Anonimizado! A-Crt 
+E1: Y más o menos el proceso así de cultivo, recolección, ¿cómo es la… durante el año?, ¿qué se hace? 
+I1: Bueno, pues se siembra, lo primero. 
+E1: Somos de capital y… 
+",La provincia a la que pertenecen los informadores es Teruel.
+"Dime de qué lugar es el siguiente texto:  E1: Sí, sí. Igual, más o menos. 
+I1: Venga, dime, pues a ver… 
+E1: T6 Pues a ver. Este pueblo, ¿de qué vive?, ¿de la agricultura? 
+I1: Sí, no…, casi todo de la agricultura. 
+E1: ¿Y qué cultiváis? 
+I1: Eh…, cebada lo que más, más que nada cebada, antes hacía trigo, pero ahoralo que más se hace es cebada. 
+E1: Y…, un, un, un momentito… a ver si para el coche,porque si no… 
+I1:  ¡Anonimizado! A-Crt 
+E1: Y más o menos el proceso así de cultivo, recolección, ¿cómo es la… durante el año?, ¿qué se hace? 
+I1: Bueno, pues se siembra, lo primero. 
+E1: Somos de capital y… 
+",La provincia a la que pertenecen los informadores es Teruel.

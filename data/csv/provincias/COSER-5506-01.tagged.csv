@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: Pero, sí, esos son los que pescan. 
+E1: Son los que pescan. Pero, usted, ¿ha sido pescador cuando  era más joven? 
+I1: a pescar algún día, pero cosa mía na más.
+E1: Sí. . Y, y, entonces, ¿usted es de aquí, de El_Remo, de toda la vida? 
+I1: No,  era de arriba de El_Charco, lo que luego me mudé pa aquí en…, en el sesenta_y_ocho me parece que fue. 
+E1: Pues, mire, le voy a contar. , venimos de la uni-, ¡uy! Venimos de la universidad y estamos haciendo un trabajo de investigación para ver cómo era la vida de antes en los pequeños pueblos de La_Palma. Y buscamos a gente, pues mayor, que haya vivido toda la vida y… y que nos pueda contar cómo se vivía aquí antes, pues qué se cultivaba, cómo se pescaba, los animales que había… Todo. Todo lo que se acuerde.  ¿Le podemos hacer las preguntas? 
+E4:  Lo que nosotros no sabemos y usted sabe. Usted sabe mucho más que nosotros,  ¿no? 
+I1:   Pues qué sé yo, pero… 
+E1: ¿No le importa? 
+I1:  Pues esto aquí, pero yo…  
+E1: podemos sentar y hacerle unas preguntitas? 
+",La provincia a la que pertenecen los informadores es La Palma.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: Pero, sí, esos son los que pescan. 
+E1: Son los que pescan. Pero, usted, ¿ha sido pescador cuando  era más joven? 
+I1: a pescar algún día, pero cosa mía na más.
+E1: Sí. . Y, y, entonces, ¿usted es de aquí, de El_Remo, de toda la vida? 
+I1: No,  era de arriba de El_Charco, lo que luego me mudé pa aquí en…, en el sesenta_y_ocho me parece que fue. 
+E1: Pues, mire, le voy a contar. , venimos de la uni-, ¡uy! Venimos de la universidad y estamos haciendo un trabajo de investigación para ver cómo era la vida de antes en los pequeños pueblos de La_Palma. Y buscamos a gente, pues mayor, que haya vivido toda la vida y… y que nos pueda contar cómo se vivía aquí antes, pues qué se cultivaba, cómo se pescaba, los animales que había… Todo. Todo lo que se acuerde.  ¿Le podemos hacer las preguntas? 
+E4:  Lo que nosotros no sabemos y usted sabe. Usted sabe mucho más que nosotros,  ¿no? 
+I1:   Pues qué sé yo, pero… 
+E1: ¿No le importa? 
+I1:  Pues esto aquí, pero yo…  
+E1: podemos sentar y hacerle unas preguntitas? 
+",La provincia a la que pertenecen los informadores es La Palma.
+"Dime la provincia del siguiente texto: I1: Pero, sí, esos son los que pescan. 
+E1: Son los que pescan. Pero, usted, ¿ha sido pescador cuando  era más joven? 
+I1: a pescar algún día, pero cosa mía na más.
+E1: Sí. . Y, y, entonces, ¿usted es de aquí, de El_Remo, de toda la vida? 
+I1: No,  era de arriba de El_Charco, lo que luego me mudé pa aquí en…, en el sesenta_y_ocho me parece que fue. 
+E1: Pues, mire, le voy a contar. , venimos de la uni-, ¡uy! Venimos de la universidad y estamos haciendo un trabajo de investigación para ver cómo era la vida de antes en los pequeños pueblos de La_Palma. Y buscamos a gente, pues mayor, que haya vivido toda la vida y… y que nos pueda contar cómo se vivía aquí antes, pues qué se cultivaba, cómo se pescaba, los animales que había… Todo. Todo lo que se acuerde.  ¿Le podemos hacer las preguntas? 
+E4:  Lo que nosotros no sabemos y usted sabe. Usted sabe mucho más que nosotros,  ¿no? 
+I1:   Pues qué sé yo, pero… 
+E1: ¿No le importa? 
+I1:  Pues esto aquí, pero yo…  
+E1: podemos sentar y hacerle unas preguntitas? 
+",La provincia a la que pertenecen los informadores es La Palma.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: Pero, sí, esos son los que pescan. 
+E1: Son los que pescan. Pero, usted, ¿ha sido pescador cuando  era más joven? 
+I1: a pescar algún día, pero cosa mía na más.
+E1: Sí. . Y, y, entonces, ¿usted es de aquí, de El_Remo, de toda la vida? 
+I1: No,  era de arriba de El_Charco, lo que luego me mudé pa aquí en…, en el sesenta_y_ocho me parece que fue. 
+E1: Pues, mire, le voy a contar. , venimos de la uni-, ¡uy! Venimos de la universidad y estamos haciendo un trabajo de investigación para ver cómo era la vida de antes en los pequeños pueblos de La_Palma. Y buscamos a gente, pues mayor, que haya vivido toda la vida y… y que nos pueda contar cómo se vivía aquí antes, pues qué se cultivaba, cómo se pescaba, los animales que había… Todo. Todo lo que se acuerde.  ¿Le podemos hacer las preguntas? 
+E4:  Lo que nosotros no sabemos y usted sabe. Usted sabe mucho más que nosotros,  ¿no? 
+I1:   Pues qué sé yo, pero… 
+E1: ¿No le importa? 
+I1:  Pues esto aquí, pero yo…  
+E1: podemos sentar y hacerle unas preguntitas? 
+",La provincia a la que pertenecen los informadores es La Palma.
+"Dime de qué lugar es el siguiente texto:  I1: Pero, sí, esos son los que pescan. 
+E1: Son los que pescan. Pero, usted, ¿ha sido pescador cuando  era más joven? 
+I1: a pescar algún día, pero cosa mía na más.
+E1: Sí. . Y, y, entonces, ¿usted es de aquí, de El_Remo, de toda la vida? 
+I1: No,  era de arriba de El_Charco, lo que luego me mudé pa aquí en…, en el sesenta_y_ocho me parece que fue. 
+E1: Pues, mire, le voy a contar. , venimos de la uni-, ¡uy! Venimos de la universidad y estamos haciendo un trabajo de investigación para ver cómo era la vida de antes en los pequeños pueblos de La_Palma. Y buscamos a gente, pues mayor, que haya vivido toda la vida y… y que nos pueda contar cómo se vivía aquí antes, pues qué se cultivaba, cómo se pescaba, los animales que había… Todo. Todo lo que se acuerde.  ¿Le podemos hacer las preguntas? 
+E4:  Lo que nosotros no sabemos y usted sabe. Usted sabe mucho más que nosotros,  ¿no? 
+I1:   Pues qué sé yo, pero… 
+E1: ¿No le importa? 
+I1:  Pues esto aquí, pero yo…  
+E1: podemos sentar y hacerle unas preguntitas? 
+",La provincia a la que pertenecen los informadores es La Palma.

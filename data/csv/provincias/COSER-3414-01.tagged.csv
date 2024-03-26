@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: Bueno, le pregunto ¿cómo, cómo se hacía la matanza? ¿Ustedes han hecho aquí matanza? 
+I:  I: Sí, sí, sí, sí, sí. 
+E1: ¿Y cómo, cómo…,  por ejemplo? 
+I:  I: años de…, o, o se-, o cincuenta o sesenta de…, de…, de matanza. 
+E1: ¿Y cómo hacían con el cerdo para…? 
+I:  I: Pues, pues, pues el cerdo, pues…, pues empezábamos, pues claro, comprar un cerdito pequeño, los cerdos pequeños, se les recriaba uno para todo el año, ¿eh? Los cerdos casi so-, solían tener un año cuando se les mataba. . L-, la-, después que se hacían ya grandes, grandes, grandes, pues, pues, pues en  el mes de diciembre o enero, que era lo más  idóneo, se, se mataban los cerdos. 
+E1: ¿Varios,  entonces? 
+I:  I: Sí, sí, vamos, depende de la familia. Entonces había familias bastante numerosas y entonces se mataba, en las familias grandes se solía matar dos cerdosy, encima, pues si se quería hacer más chorizos, pues se juntaban un, un señor o dos con mataban una vaca y entonces se envolvía la carne de cerdo… ¿Esto me lo está cogiendo? 
+E1: Sí… 
+I:  I: Cogían la carne de cerdo y lo envolvían con la carne de vaca con el, con el fin de hacer más cantidad de chorizos para, para todo el año, porque era,  era casi lo que más se ma-… lo que, lo que se comía casi todo el año, exceptuando si se recriaban algunos conejos o… en fin, al-, eh… algunos po-, gallos o pollos de aquellos que, que tenían casi un año también. En fin, era todo tradicional,todo eso. 
+E1: ¿Y qué carne era mejor para los chorizos? 
+",La provincia a la que pertenecen los informadores es Palencia.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: Bueno, le pregunto ¿cómo, cómo se hacía la matanza? ¿Ustedes han hecho aquí matanza? 
+I:  I: Sí, sí, sí, sí, sí. 
+E1: ¿Y cómo, cómo…,  por ejemplo? 
+I:  I: años de…, o, o se-, o cincuenta o sesenta de…, de…, de matanza. 
+E1: ¿Y cómo hacían con el cerdo para…? 
+I:  I: Pues, pues, pues el cerdo, pues…, pues empezábamos, pues claro, comprar un cerdito pequeño, los cerdos pequeños, se les recriaba uno para todo el año, ¿eh? Los cerdos casi so-, solían tener un año cuando se les mataba. . L-, la-, después que se hacían ya grandes, grandes, grandes, pues, pues, pues en  el mes de diciembre o enero, que era lo más  idóneo, se, se mataban los cerdos. 
+E1: ¿Varios,  entonces? 
+I:  I: Sí, sí, vamos, depende de la familia. Entonces había familias bastante numerosas y entonces se mataba, en las familias grandes se solía matar dos cerdosy, encima, pues si se quería hacer más chorizos, pues se juntaban un, un señor o dos con mataban una vaca y entonces se envolvía la carne de cerdo… ¿Esto me lo está cogiendo? 
+E1: Sí… 
+I:  I: Cogían la carne de cerdo y lo envolvían con la carne de vaca con el, con el fin de hacer más cantidad de chorizos para, para todo el año, porque era,  era casi lo que más se ma-… lo que, lo que se comía casi todo el año, exceptuando si se recriaban algunos conejos o… en fin, al-, eh… algunos po-, gallos o pollos de aquellos que, que tenían casi un año también. En fin, era todo tradicional,todo eso. 
+E1: ¿Y qué carne era mejor para los chorizos? 
+",La provincia a la que pertenecen los informadores es Palencia.
+"Dime la provincia del siguiente texto: E1: Bueno, le pregunto ¿cómo, cómo se hacía la matanza? ¿Ustedes han hecho aquí matanza? 
+I:  I: Sí, sí, sí, sí, sí. 
+E1: ¿Y cómo, cómo…,  por ejemplo? 
+I:  I: años de…, o, o se-, o cincuenta o sesenta de…, de…, de matanza. 
+E1: ¿Y cómo hacían con el cerdo para…? 
+I:  I: Pues, pues, pues el cerdo, pues…, pues empezábamos, pues claro, comprar un cerdito pequeño, los cerdos pequeños, se les recriaba uno para todo el año, ¿eh? Los cerdos casi so-, solían tener un año cuando se les mataba. . L-, la-, después que se hacían ya grandes, grandes, grandes, pues, pues, pues en  el mes de diciembre o enero, que era lo más  idóneo, se, se mataban los cerdos. 
+E1: ¿Varios,  entonces? 
+I:  I: Sí, sí, vamos, depende de la familia. Entonces había familias bastante numerosas y entonces se mataba, en las familias grandes se solía matar dos cerdosy, encima, pues si se quería hacer más chorizos, pues se juntaban un, un señor o dos con mataban una vaca y entonces se envolvía la carne de cerdo… ¿Esto me lo está cogiendo? 
+E1: Sí… 
+I:  I: Cogían la carne de cerdo y lo envolvían con la carne de vaca con el, con el fin de hacer más cantidad de chorizos para, para todo el año, porque era,  era casi lo que más se ma-… lo que, lo que se comía casi todo el año, exceptuando si se recriaban algunos conejos o… en fin, al-, eh… algunos po-, gallos o pollos de aquellos que, que tenían casi un año también. En fin, era todo tradicional,todo eso. 
+E1: ¿Y qué carne era mejor para los chorizos? 
+",La provincia a la que pertenecen los informadores es Palencia.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: Bueno, le pregunto ¿cómo, cómo se hacía la matanza? ¿Ustedes han hecho aquí matanza? 
+I:  I: Sí, sí, sí, sí, sí. 
+E1: ¿Y cómo, cómo…,  por ejemplo? 
+I:  I: años de…, o, o se-, o cincuenta o sesenta de…, de…, de matanza. 
+E1: ¿Y cómo hacían con el cerdo para…? 
+I:  I: Pues, pues, pues el cerdo, pues…, pues empezábamos, pues claro, comprar un cerdito pequeño, los cerdos pequeños, se les recriaba uno para todo el año, ¿eh? Los cerdos casi so-, solían tener un año cuando se les mataba. . L-, la-, después que se hacían ya grandes, grandes, grandes, pues, pues, pues en  el mes de diciembre o enero, que era lo más  idóneo, se, se mataban los cerdos. 
+E1: ¿Varios,  entonces? 
+I:  I: Sí, sí, vamos, depende de la familia. Entonces había familias bastante numerosas y entonces se mataba, en las familias grandes se solía matar dos cerdosy, encima, pues si se quería hacer más chorizos, pues se juntaban un, un señor o dos con mataban una vaca y entonces se envolvía la carne de cerdo… ¿Esto me lo está cogiendo? 
+E1: Sí… 
+I:  I: Cogían la carne de cerdo y lo envolvían con la carne de vaca con el, con el fin de hacer más cantidad de chorizos para, para todo el año, porque era,  era casi lo que más se ma-… lo que, lo que se comía casi todo el año, exceptuando si se recriaban algunos conejos o… en fin, al-, eh… algunos po-, gallos o pollos de aquellos que, que tenían casi un año también. En fin, era todo tradicional,todo eso. 
+E1: ¿Y qué carne era mejor para los chorizos? 
+",La provincia a la que pertenecen los informadores es Palencia.
+"Dime de qué lugar es el siguiente texto:  E1: Bueno, le pregunto ¿cómo, cómo se hacía la matanza? ¿Ustedes han hecho aquí matanza? 
+I:  I: Sí, sí, sí, sí, sí. 
+E1: ¿Y cómo, cómo…,  por ejemplo? 
+I:  I: años de…, o, o se-, o cincuenta o sesenta de…, de…, de matanza. 
+E1: ¿Y cómo hacían con el cerdo para…? 
+I:  I: Pues, pues, pues el cerdo, pues…, pues empezábamos, pues claro, comprar un cerdito pequeño, los cerdos pequeños, se les recriaba uno para todo el año, ¿eh? Los cerdos casi so-, solían tener un año cuando se les mataba. . L-, la-, después que se hacían ya grandes, grandes, grandes, pues, pues, pues en  el mes de diciembre o enero, que era lo más  idóneo, se, se mataban los cerdos. 
+E1: ¿Varios,  entonces? 
+I:  I: Sí, sí, vamos, depende de la familia. Entonces había familias bastante numerosas y entonces se mataba, en las familias grandes se solía matar dos cerdosy, encima, pues si se quería hacer más chorizos, pues se juntaban un, un señor o dos con mataban una vaca y entonces se envolvía la carne de cerdo… ¿Esto me lo está cogiendo? 
+E1: Sí… 
+I:  I: Cogían la carne de cerdo y lo envolvían con la carne de vaca con el, con el fin de hacer más cantidad de chorizos para, para todo el año, porque era,  era casi lo que más se ma-… lo que, lo que se comía casi todo el año, exceptuando si se recriaban algunos conejos o… en fin, al-, eh… algunos po-, gallos o pollos de aquellos que, que tenían casi un año también. En fin, era todo tradicional,todo eso. 
+E1: ¿Y qué carne era mejor para los chorizos? 
+",La provincia a la que pertenecen los informadores es Palencia.

@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: T11 La motico…, tengo allí una motico que voy a tos los sitios con ella.
+E1: Claro. 
+I1: Pero resulta que, que me da miedo de ir por la carretera, y sabes… 
+E1: ¿Por los coches? 
+I1: No… Porque no lleva matrícula… 
+E1:  ¡Ah! No lleva matrícula. 
+E2: Ah… 
+I1: No lleva matrícula. 
+E1: . Claro. 
+E2: . 
+I1: Y no me la quieren dar, y yo no sé el porqué. 
+",La provincia a la que pertenecen los informadores es Valencia.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: T11 La motico…, tengo allí una motico que voy a tos los sitios con ella.
+E1: Claro. 
+I1: Pero resulta que, que me da miedo de ir por la carretera, y sabes… 
+E1: ¿Por los coches? 
+I1: No… Porque no lleva matrícula… 
+E1:  ¡Ah! No lleva matrícula. 
+E2: Ah… 
+I1: No lleva matrícula. 
+E1: . Claro. 
+E2: . 
+I1: Y no me la quieren dar, y yo no sé el porqué. 
+",La provincia a la que pertenecen los informadores es Valencia.
+"Dime la provincia del siguiente texto: I1: T11 La motico…, tengo allí una motico que voy a tos los sitios con ella.
+E1: Claro. 
+I1: Pero resulta que, que me da miedo de ir por la carretera, y sabes… 
+E1: ¿Por los coches? 
+I1: No… Porque no lleva matrícula… 
+E1:  ¡Ah! No lleva matrícula. 
+E2: Ah… 
+I1: No lleva matrícula. 
+E1: . Claro. 
+E2: . 
+I1: Y no me la quieren dar, y yo no sé el porqué. 
+",La provincia a la que pertenecen los informadores es Valencia.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: T11 La motico…, tengo allí una motico que voy a tos los sitios con ella.
+E1: Claro. 
+I1: Pero resulta que, que me da miedo de ir por la carretera, y sabes… 
+E1: ¿Por los coches? 
+I1: No… Porque no lleva matrícula… 
+E1:  ¡Ah! No lleva matrícula. 
+E2: Ah… 
+I1: No lleva matrícula. 
+E1: . Claro. 
+E2: . 
+I1: Y no me la quieren dar, y yo no sé el porqué. 
+",La provincia a la que pertenecen los informadores es Valencia.
+"Dime de qué lugar es el siguiente texto:  I1: T11 La motico…, tengo allí una motico que voy a tos los sitios con ella.
+E1: Claro. 
+I1: Pero resulta que, que me da miedo de ir por la carretera, y sabes… 
+E1: ¿Por los coches? 
+I1: No… Porque no lleva matrícula… 
+E1:  ¡Ah! No lleva matrícula. 
+E2: Ah… 
+I1: No lleva matrícula. 
+E1: . Claro. 
+E2: . 
+I1: Y no me la quieren dar, y yo no sé el porqué. 
+",La provincia a la que pertenecen los informadores es Valencia.

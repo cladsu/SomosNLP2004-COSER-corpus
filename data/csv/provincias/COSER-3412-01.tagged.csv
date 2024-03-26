@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T1 Vamos a ver, ¿cómo, cómo…? ¿Usté ha matado algún cerdo?
+I1: Muchísimos. 
+E1: ¿Muchos? ¿Y cómo, cómo mataban a un cerdo antes? 
+I1: Pues un cerdo se mata en menguante, dicen que es mejor. Y pués pues aquí se le cogía entre tres o cuatro señores, se le echaba al tajo, se le sangraba…, luego después de sangrao, se le abría, . se sacaban las tripas…, se sacaban las tripas del cerdo, se sacaba la asadura, luego se arrascaba
+E1: ¿Y quemaban al cerdo? 
+I1:  ¡Ah! El cerdo se chamuscaba. Eso no os lo he dicho. 
+E1: ¿Con qué? 
+I1: Con paja, con paja. Con paja de lo que trillábamos en las tierras, . trillábamos en las eras. PS Con paja chamuscábamos al gocho. 
+E1: ¿Y con qué alimentaban al cerdo? 
+I1: Pues con… patatas, berza, cebada… y harina. Pues cebada y harina, eso. Con eso se alimentaba al gocho. 
+E1: . Y luego… cuando sangraban al cerdo, ¿qué hacían con la sangre? ¿tenían que…? 
+",La provincia a la que pertenecen los informadores es Palencia.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T1 Vamos a ver, ¿cómo, cómo…? ¿Usté ha matado algún cerdo?
+I1: Muchísimos. 
+E1: ¿Muchos? ¿Y cómo, cómo mataban a un cerdo antes? 
+I1: Pues un cerdo se mata en menguante, dicen que es mejor. Y pués pues aquí se le cogía entre tres o cuatro señores, se le echaba al tajo, se le sangraba…, luego después de sangrao, se le abría, . se sacaban las tripas…, se sacaban las tripas del cerdo, se sacaba la asadura, luego se arrascaba
+E1: ¿Y quemaban al cerdo? 
+I1:  ¡Ah! El cerdo se chamuscaba. Eso no os lo he dicho. 
+E1: ¿Con qué? 
+I1: Con paja, con paja. Con paja de lo que trillábamos en las tierras, . trillábamos en las eras. PS Con paja chamuscábamos al gocho. 
+E1: ¿Y con qué alimentaban al cerdo? 
+I1: Pues con… patatas, berza, cebada… y harina. Pues cebada y harina, eso. Con eso se alimentaba al gocho. 
+E1: . Y luego… cuando sangraban al cerdo, ¿qué hacían con la sangre? ¿tenían que…? 
+",La provincia a la que pertenecen los informadores es Palencia.
+"Dime la provincia del siguiente texto: E1: T1 Vamos a ver, ¿cómo, cómo…? ¿Usté ha matado algún cerdo?
+I1: Muchísimos. 
+E1: ¿Muchos? ¿Y cómo, cómo mataban a un cerdo antes? 
+I1: Pues un cerdo se mata en menguante, dicen que es mejor. Y pués pues aquí se le cogía entre tres o cuatro señores, se le echaba al tajo, se le sangraba…, luego después de sangrao, se le abría, . se sacaban las tripas…, se sacaban las tripas del cerdo, se sacaba la asadura, luego se arrascaba
+E1: ¿Y quemaban al cerdo? 
+I1:  ¡Ah! El cerdo se chamuscaba. Eso no os lo he dicho. 
+E1: ¿Con qué? 
+I1: Con paja, con paja. Con paja de lo que trillábamos en las tierras, . trillábamos en las eras. PS Con paja chamuscábamos al gocho. 
+E1: ¿Y con qué alimentaban al cerdo? 
+I1: Pues con… patatas, berza, cebada… y harina. Pues cebada y harina, eso. Con eso se alimentaba al gocho. 
+E1: . Y luego… cuando sangraban al cerdo, ¿qué hacían con la sangre? ¿tenían que…? 
+",La provincia a la que pertenecen los informadores es Palencia.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T1 Vamos a ver, ¿cómo, cómo…? ¿Usté ha matado algún cerdo?
+I1: Muchísimos. 
+E1: ¿Muchos? ¿Y cómo, cómo mataban a un cerdo antes? 
+I1: Pues un cerdo se mata en menguante, dicen que es mejor. Y pués pues aquí se le cogía entre tres o cuatro señores, se le echaba al tajo, se le sangraba…, luego después de sangrao, se le abría, . se sacaban las tripas…, se sacaban las tripas del cerdo, se sacaba la asadura, luego se arrascaba
+E1: ¿Y quemaban al cerdo? 
+I1:  ¡Ah! El cerdo se chamuscaba. Eso no os lo he dicho. 
+E1: ¿Con qué? 
+I1: Con paja, con paja. Con paja de lo que trillábamos en las tierras, . trillábamos en las eras. PS Con paja chamuscábamos al gocho. 
+E1: ¿Y con qué alimentaban al cerdo? 
+I1: Pues con… patatas, berza, cebada… y harina. Pues cebada y harina, eso. Con eso se alimentaba al gocho. 
+E1: . Y luego… cuando sangraban al cerdo, ¿qué hacían con la sangre? ¿tenían que…? 
+",La provincia a la que pertenecen los informadores es Palencia.
+"Dime de qué lugar es el siguiente texto:  E1: T1 Vamos a ver, ¿cómo, cómo…? ¿Usté ha matado algún cerdo?
+I1: Muchísimos. 
+E1: ¿Muchos? ¿Y cómo, cómo mataban a un cerdo antes? 
+I1: Pues un cerdo se mata en menguante, dicen que es mejor. Y pués pues aquí se le cogía entre tres o cuatro señores, se le echaba al tajo, se le sangraba…, luego después de sangrao, se le abría, . se sacaban las tripas…, se sacaban las tripas del cerdo, se sacaba la asadura, luego se arrascaba
+E1: ¿Y quemaban al cerdo? 
+I1:  ¡Ah! El cerdo se chamuscaba. Eso no os lo he dicho. 
+E1: ¿Con qué? 
+I1: Con paja, con paja. Con paja de lo que trillábamos en las tierras, . trillábamos en las eras. PS Con paja chamuscábamos al gocho. 
+E1: ¿Y con qué alimentaban al cerdo? 
+I1: Pues con… patatas, berza, cebada… y harina. Pues cebada y harina, eso. Con eso se alimentaba al gocho. 
+E1: . Y luego… cuando sangraban al cerdo, ¿qué hacían con la sangre? ¿tenían que…? 
+",La provincia a la que pertenecen los informadores es Palencia.

@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: Una chimenea bastante grande que había, se colgaban unas cañas, y allí se secaban hasta que…, hasta que  se podían poner para…, para comerla. 
+E1: Rndo:nos puede contar otra vez? Es que se me ha…¡No estaba grabando! Rndo:Me acabo de dar cuenta de que no estaba grabando.  
+IE:  IE:¡Por todo  lo que contaba! 
+I1:  ¡Todo lo que hemos hablao ha sío para nada! Rndo: ¡Mecachis!
+E1: Es que no estaba grabando…  
+I1:  ¡Mecachis en la mar!  
+E2: Yo te lo iba a decir pero, yo pensé, bueno, ella…¡lo sabe!  
+E1: No, no lo había mirado…  Lo acabo de mirar…  
+I1:  ¡Estas chicas, esta la chic-, dos chicas no son españolas!  ¿Lo ves? Se…, se…,  se…, se le nota, se le, se le ha notao, se le nota…¡Esta chica sí es española! ¿No?  De, de aquí eres, ¿o no? 
+E1: No, no, soy de Ávila. 
+I1: P-Slb: ¡Ostras! Yo he estao en Ávila, he estao estuve el año pasao en Ávila, sí…¡Precioso!  Segovia,¡preciosa!, sí… Muy bonita eh, muy bonita eh… 
+",La provincia a la que pertenecen los informadores es Córdoba.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: Una chimenea bastante grande que había, se colgaban unas cañas, y allí se secaban hasta que…, hasta que  se podían poner para…, para comerla. 
+E1: Rndo:nos puede contar otra vez? Es que se me ha…¡No estaba grabando! Rndo:Me acabo de dar cuenta de que no estaba grabando.  
+IE:  IE:¡Por todo  lo que contaba! 
+I1:  ¡Todo lo que hemos hablao ha sío para nada! Rndo: ¡Mecachis!
+E1: Es que no estaba grabando…  
+I1:  ¡Mecachis en la mar!  
+E2: Yo te lo iba a decir pero, yo pensé, bueno, ella…¡lo sabe!  
+E1: No, no lo había mirado…  Lo acabo de mirar…  
+I1:  ¡Estas chicas, esta la chic-, dos chicas no son españolas!  ¿Lo ves? Se…, se…,  se…, se le nota, se le, se le ha notao, se le nota…¡Esta chica sí es española! ¿No?  De, de aquí eres, ¿o no? 
+E1: No, no, soy de Ávila. 
+I1: P-Slb: ¡Ostras! Yo he estao en Ávila, he estao estuve el año pasao en Ávila, sí…¡Precioso!  Segovia,¡preciosa!, sí… Muy bonita eh, muy bonita eh… 
+",La provincia a la que pertenecen los informadores es Córdoba.
+"Dime la provincia del siguiente texto: I1: Una chimenea bastante grande que había, se colgaban unas cañas, y allí se secaban hasta que…, hasta que  se podían poner para…, para comerla. 
+E1: Rndo:nos puede contar otra vez? Es que se me ha…¡No estaba grabando! Rndo:Me acabo de dar cuenta de que no estaba grabando.  
+IE:  IE:¡Por todo  lo que contaba! 
+I1:  ¡Todo lo que hemos hablao ha sío para nada! Rndo: ¡Mecachis!
+E1: Es que no estaba grabando…  
+I1:  ¡Mecachis en la mar!  
+E2: Yo te lo iba a decir pero, yo pensé, bueno, ella…¡lo sabe!  
+E1: No, no lo había mirado…  Lo acabo de mirar…  
+I1:  ¡Estas chicas, esta la chic-, dos chicas no son españolas!  ¿Lo ves? Se…, se…,  se…, se le nota, se le, se le ha notao, se le nota…¡Esta chica sí es española! ¿No?  De, de aquí eres, ¿o no? 
+E1: No, no, soy de Ávila. 
+I1: P-Slb: ¡Ostras! Yo he estao en Ávila, he estao estuve el año pasao en Ávila, sí…¡Precioso!  Segovia,¡preciosa!, sí… Muy bonita eh, muy bonita eh… 
+",La provincia a la que pertenecen los informadores es Córdoba.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: Una chimenea bastante grande que había, se colgaban unas cañas, y allí se secaban hasta que…, hasta que  se podían poner para…, para comerla. 
+E1: Rndo:nos puede contar otra vez? Es que se me ha…¡No estaba grabando! Rndo:Me acabo de dar cuenta de que no estaba grabando.  
+IE:  IE:¡Por todo  lo que contaba! 
+I1:  ¡Todo lo que hemos hablao ha sío para nada! Rndo: ¡Mecachis!
+E1: Es que no estaba grabando…  
+I1:  ¡Mecachis en la mar!  
+E2: Yo te lo iba a decir pero, yo pensé, bueno, ella…¡lo sabe!  
+E1: No, no lo había mirado…  Lo acabo de mirar…  
+I1:  ¡Estas chicas, esta la chic-, dos chicas no son españolas!  ¿Lo ves? Se…, se…,  se…, se le nota, se le, se le ha notao, se le nota…¡Esta chica sí es española! ¿No?  De, de aquí eres, ¿o no? 
+E1: No, no, soy de Ávila. 
+I1: P-Slb: ¡Ostras! Yo he estao en Ávila, he estao estuve el año pasao en Ávila, sí…¡Precioso!  Segovia,¡preciosa!, sí… Muy bonita eh, muy bonita eh… 
+",La provincia a la que pertenecen los informadores es Córdoba.
+"Dime de qué lugar es el siguiente texto:  I1: Una chimenea bastante grande que había, se colgaban unas cañas, y allí se secaban hasta que…, hasta que  se podían poner para…, para comerla. 
+E1: Rndo:nos puede contar otra vez? Es que se me ha…¡No estaba grabando! Rndo:Me acabo de dar cuenta de que no estaba grabando.  
+IE:  IE:¡Por todo  lo que contaba! 
+I1:  ¡Todo lo que hemos hablao ha sío para nada! Rndo: ¡Mecachis!
+E1: Es que no estaba grabando…  
+I1:  ¡Mecachis en la mar!  
+E2: Yo te lo iba a decir pero, yo pensé, bueno, ella…¡lo sabe!  
+E1: No, no lo había mirado…  Lo acabo de mirar…  
+I1:  ¡Estas chicas, esta la chic-, dos chicas no son españolas!  ¿Lo ves? Se…, se…,  se…, se le nota, se le, se le ha notao, se le nota…¡Esta chica sí es española! ¿No?  De, de aquí eres, ¿o no? 
+E1: No, no, soy de Ávila. 
+I1: P-Slb: ¡Ostras! Yo he estao en Ávila, he estao estuve el año pasao en Ávila, sí…¡Precioso!  Segovia,¡preciosa!, sí… Muy bonita eh, muy bonita eh… 
+",La provincia a la que pertenecen los informadores es Córdoba.

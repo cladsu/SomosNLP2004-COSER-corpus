@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: ¿Lleva toda la vida aquí? 
+I1: Toda la vida. 
+E1: ¿No ha salido en ningún momento? 
+I1: Bueno, estuve en el ejército tres, tres años y medio. 
+E1: T18 ¿En el ejército tres años?  ¿Y dónde estuvo? 
+I1: Estuve año y medio en Guadalajara, medio en Zaragoza, o sea, seis meses. . Y luego estuve orilla del puerto de Rosas, Castelló_de_Ampurias y luego me trasladaron a Huesca, cuando los guerrilleros, que decían los maquis. . Sí. 
+E1: Los maquis que bajaban a los pueblos. 
+I1: Bueno, pues eran… 
+E1: ¿Cómo, cómo era eso? Es que… 
+I1: Pues eso era pues que… que no estaban conformes con, con lo de Franco, . pero, vamos, con nosotros, con los soldaos , no se metían para nada, no.
+E1: ¿Y usted en qué trabajaba, o a qué se ha dedicado durante su vida? 
+",La provincia a la que pertenecen los informadores es Guadalajara.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: ¿Lleva toda la vida aquí? 
+I1: Toda la vida. 
+E1: ¿No ha salido en ningún momento? 
+I1: Bueno, estuve en el ejército tres, tres años y medio. 
+E1: T18 ¿En el ejército tres años?  ¿Y dónde estuvo? 
+I1: Estuve año y medio en Guadalajara, medio en Zaragoza, o sea, seis meses. . Y luego estuve orilla del puerto de Rosas, Castelló_de_Ampurias y luego me trasladaron a Huesca, cuando los guerrilleros, que decían los maquis. . Sí. 
+E1: Los maquis que bajaban a los pueblos. 
+I1: Bueno, pues eran… 
+E1: ¿Cómo, cómo era eso? Es que… 
+I1: Pues eso era pues que… que no estaban conformes con, con lo de Franco, . pero, vamos, con nosotros, con los soldaos , no se metían para nada, no.
+E1: ¿Y usted en qué trabajaba, o a qué se ha dedicado durante su vida? 
+",La provincia a la que pertenecen los informadores es Guadalajara.
+"Dime la provincia del siguiente texto: E1: ¿Lleva toda la vida aquí? 
+I1: Toda la vida. 
+E1: ¿No ha salido en ningún momento? 
+I1: Bueno, estuve en el ejército tres, tres años y medio. 
+E1: T18 ¿En el ejército tres años?  ¿Y dónde estuvo? 
+I1: Estuve año y medio en Guadalajara, medio en Zaragoza, o sea, seis meses. . Y luego estuve orilla del puerto de Rosas, Castelló_de_Ampurias y luego me trasladaron a Huesca, cuando los guerrilleros, que decían los maquis. . Sí. 
+E1: Los maquis que bajaban a los pueblos. 
+I1: Bueno, pues eran… 
+E1: ¿Cómo, cómo era eso? Es que… 
+I1: Pues eso era pues que… que no estaban conformes con, con lo de Franco, . pero, vamos, con nosotros, con los soldaos , no se metían para nada, no.
+E1: ¿Y usted en qué trabajaba, o a qué se ha dedicado durante su vida? 
+",La provincia a la que pertenecen los informadores es Guadalajara.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: ¿Lleva toda la vida aquí? 
+I1: Toda la vida. 
+E1: ¿No ha salido en ningún momento? 
+I1: Bueno, estuve en el ejército tres, tres años y medio. 
+E1: T18 ¿En el ejército tres años?  ¿Y dónde estuvo? 
+I1: Estuve año y medio en Guadalajara, medio en Zaragoza, o sea, seis meses. . Y luego estuve orilla del puerto de Rosas, Castelló_de_Ampurias y luego me trasladaron a Huesca, cuando los guerrilleros, que decían los maquis. . Sí. 
+E1: Los maquis que bajaban a los pueblos. 
+I1: Bueno, pues eran… 
+E1: ¿Cómo, cómo era eso? Es que… 
+I1: Pues eso era pues que… que no estaban conformes con, con lo de Franco, . pero, vamos, con nosotros, con los soldaos , no se metían para nada, no.
+E1: ¿Y usted en qué trabajaba, o a qué se ha dedicado durante su vida? 
+",La provincia a la que pertenecen los informadores es Guadalajara.
+"Dime de qué lugar es el siguiente texto:  E1: ¿Lleva toda la vida aquí? 
+I1: Toda la vida. 
+E1: ¿No ha salido en ningún momento? 
+I1: Bueno, estuve en el ejército tres, tres años y medio. 
+E1: T18 ¿En el ejército tres años?  ¿Y dónde estuvo? 
+I1: Estuve año y medio en Guadalajara, medio en Zaragoza, o sea, seis meses. . Y luego estuve orilla del puerto de Rosas, Castelló_de_Ampurias y luego me trasladaron a Huesca, cuando los guerrilleros, que decían los maquis. . Sí. 
+E1: Los maquis que bajaban a los pueblos. 
+I1: Bueno, pues eran… 
+E1: ¿Cómo, cómo era eso? Es que… 
+I1: Pues eso era pues que… que no estaban conformes con, con lo de Franco, . pero, vamos, con nosotros, con los soldaos , no se metían para nada, no.
+E1: ¿Y usted en qué trabajaba, o a qué se ha dedicado durante su vida? 
+",La provincia a la que pertenecen los informadores es Guadalajara.

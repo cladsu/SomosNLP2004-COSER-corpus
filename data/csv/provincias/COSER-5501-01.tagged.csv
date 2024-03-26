@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: Siéntese, siéntese. 
+E1: V-Ljn Muchas gracias. Porque ustedes son de aquí de siempre, ¿verdad? 
+I1: Yo sí, de aquí de siempre.  Buenas. 
+E1: Muy buenas. ¿Y le parece…? Lo único que le queremos preguntar, porque lo grabamos, porque no nos da tiempo a tomar notas de todo. Esto…  
+I1: . Siéntese, siéntese. 
+E1: Nos sentamos aquí. Le voy a poner esto aquí, si le parece.  
+E2: V-Mrm ¿Me puedo sentar?  
+I1: Sí, sí, sí.Pasa, pasa. 
+E2: Yo me siento, yo me siento en este… V-Sml 
+I1: Las cajas o ahí. Donde quieras. 
+E1: T7Yo me siento ahí también. Me siento ahí. Sí ¿Te pones tú ahí…?PS V-Mrm  Pues, mire, lo que… Nos interesa un poco toda la vida de cómo era antes. Por ejemplo, aquí, ¿qué animales tenían? 
+",La provincia a la que pertenecen los informadores es La Palma.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: Siéntese, siéntese. 
+E1: V-Ljn Muchas gracias. Porque ustedes son de aquí de siempre, ¿verdad? 
+I1: Yo sí, de aquí de siempre.  Buenas. 
+E1: Muy buenas. ¿Y le parece…? Lo único que le queremos preguntar, porque lo grabamos, porque no nos da tiempo a tomar notas de todo. Esto…  
+I1: . Siéntese, siéntese. 
+E1: Nos sentamos aquí. Le voy a poner esto aquí, si le parece.  
+E2: V-Mrm ¿Me puedo sentar?  
+I1: Sí, sí, sí.Pasa, pasa. 
+E2: Yo me siento, yo me siento en este… V-Sml 
+I1: Las cajas o ahí. Donde quieras. 
+E1: T7Yo me siento ahí también. Me siento ahí. Sí ¿Te pones tú ahí…?PS V-Mrm  Pues, mire, lo que… Nos interesa un poco toda la vida de cómo era antes. Por ejemplo, aquí, ¿qué animales tenían? 
+",La provincia a la que pertenecen los informadores es La Palma.
+"Dime la provincia del siguiente texto: I1: Siéntese, siéntese. 
+E1: V-Ljn Muchas gracias. Porque ustedes son de aquí de siempre, ¿verdad? 
+I1: Yo sí, de aquí de siempre.  Buenas. 
+E1: Muy buenas. ¿Y le parece…? Lo único que le queremos preguntar, porque lo grabamos, porque no nos da tiempo a tomar notas de todo. Esto…  
+I1: . Siéntese, siéntese. 
+E1: Nos sentamos aquí. Le voy a poner esto aquí, si le parece.  
+E2: V-Mrm ¿Me puedo sentar?  
+I1: Sí, sí, sí.Pasa, pasa. 
+E2: Yo me siento, yo me siento en este… V-Sml 
+I1: Las cajas o ahí. Donde quieras. 
+E1: T7Yo me siento ahí también. Me siento ahí. Sí ¿Te pones tú ahí…?PS V-Mrm  Pues, mire, lo que… Nos interesa un poco toda la vida de cómo era antes. Por ejemplo, aquí, ¿qué animales tenían? 
+",La provincia a la que pertenecen los informadores es La Palma.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: Siéntese, siéntese. 
+E1: V-Ljn Muchas gracias. Porque ustedes son de aquí de siempre, ¿verdad? 
+I1: Yo sí, de aquí de siempre.  Buenas. 
+E1: Muy buenas. ¿Y le parece…? Lo único que le queremos preguntar, porque lo grabamos, porque no nos da tiempo a tomar notas de todo. Esto…  
+I1: . Siéntese, siéntese. 
+E1: Nos sentamos aquí. Le voy a poner esto aquí, si le parece.  
+E2: V-Mrm ¿Me puedo sentar?  
+I1: Sí, sí, sí.Pasa, pasa. 
+E2: Yo me siento, yo me siento en este… V-Sml 
+I1: Las cajas o ahí. Donde quieras. 
+E1: T7Yo me siento ahí también. Me siento ahí. Sí ¿Te pones tú ahí…?PS V-Mrm  Pues, mire, lo que… Nos interesa un poco toda la vida de cómo era antes. Por ejemplo, aquí, ¿qué animales tenían? 
+",La provincia a la que pertenecen los informadores es La Palma.
+"Dime de qué lugar es el siguiente texto:  I1: Siéntese, siéntese. 
+E1: V-Ljn Muchas gracias. Porque ustedes son de aquí de siempre, ¿verdad? 
+I1: Yo sí, de aquí de siempre.  Buenas. 
+E1: Muy buenas. ¿Y le parece…? Lo único que le queremos preguntar, porque lo grabamos, porque no nos da tiempo a tomar notas de todo. Esto…  
+I1: . Siéntese, siéntese. 
+E1: Nos sentamos aquí. Le voy a poner esto aquí, si le parece.  
+E2: V-Mrm ¿Me puedo sentar?  
+I1: Sí, sí, sí.Pasa, pasa. 
+E2: Yo me siento, yo me siento en este… V-Sml 
+I1: Las cajas o ahí. Donde quieras. 
+E1: T7Yo me siento ahí también. Me siento ahí. Sí ¿Te pones tú ahí…?PS V-Mrm  Pues, mire, lo que… Nos interesa un poco toda la vida de cómo era antes. Por ejemplo, aquí, ¿qué animales tenían? 
+",La provincia a la que pertenecen los informadores es La Palma.

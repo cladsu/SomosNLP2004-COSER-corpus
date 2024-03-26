@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: V-Sml Bueno, pues usted es Anonimizado, ¿no? 
+I1: Sí. 
+E1: T21 Bien. ¿Y ha vivido aquí siempre? 
+I1: Sí. 
+E1: . ¿Nunca ha salido de aquí? 
+I1:  Ya fui para Alemania y para Holanda. Viví de  un calvario.  Y ahora estoy aquí acabando con los días de la vida. 
+E1: T1 Bueno, eso nos toca a todos… Y aquí, aquí… aquí imagino que se hará matanza, claro. 
+I1: Aquí se hacía la matanza, pero ahora se hacen pocas. 
+E1: Se hacen pocas. ¿Y usted hace matanza? 
+I1: Sí. 
+E1: ¿Sí? ¿Y nos puede explicar cómo se hace la matanza? 
+",La provincia a la que pertenecen los informadores es Orense.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: V-Sml Bueno, pues usted es Anonimizado, ¿no? 
+I1: Sí. 
+E1: T21 Bien. ¿Y ha vivido aquí siempre? 
+I1: Sí. 
+E1: . ¿Nunca ha salido de aquí? 
+I1:  Ya fui para Alemania y para Holanda. Viví de  un calvario.  Y ahora estoy aquí acabando con los días de la vida. 
+E1: T1 Bueno, eso nos toca a todos… Y aquí, aquí… aquí imagino que se hará matanza, claro. 
+I1: Aquí se hacía la matanza, pero ahora se hacen pocas. 
+E1: Se hacen pocas. ¿Y usted hace matanza? 
+I1: Sí. 
+E1: ¿Sí? ¿Y nos puede explicar cómo se hace la matanza? 
+",La provincia a la que pertenecen los informadores es Orense.
+"Dime la provincia del siguiente texto: E1: V-Sml Bueno, pues usted es Anonimizado, ¿no? 
+I1: Sí. 
+E1: T21 Bien. ¿Y ha vivido aquí siempre? 
+I1: Sí. 
+E1: . ¿Nunca ha salido de aquí? 
+I1:  Ya fui para Alemania y para Holanda. Viví de  un calvario.  Y ahora estoy aquí acabando con los días de la vida. 
+E1: T1 Bueno, eso nos toca a todos… Y aquí, aquí… aquí imagino que se hará matanza, claro. 
+I1: Aquí se hacía la matanza, pero ahora se hacen pocas. 
+E1: Se hacen pocas. ¿Y usted hace matanza? 
+I1: Sí. 
+E1: ¿Sí? ¿Y nos puede explicar cómo se hace la matanza? 
+",La provincia a la que pertenecen los informadores es Orense.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: V-Sml Bueno, pues usted es Anonimizado, ¿no? 
+I1: Sí. 
+E1: T21 Bien. ¿Y ha vivido aquí siempre? 
+I1: Sí. 
+E1: . ¿Nunca ha salido de aquí? 
+I1:  Ya fui para Alemania y para Holanda. Viví de  un calvario.  Y ahora estoy aquí acabando con los días de la vida. 
+E1: T1 Bueno, eso nos toca a todos… Y aquí, aquí… aquí imagino que se hará matanza, claro. 
+I1: Aquí se hacía la matanza, pero ahora se hacen pocas. 
+E1: Se hacen pocas. ¿Y usted hace matanza? 
+I1: Sí. 
+E1: ¿Sí? ¿Y nos puede explicar cómo se hace la matanza? 
+",La provincia a la que pertenecen los informadores es Orense.
+"Dime de qué lugar es el siguiente texto:  E1: V-Sml Bueno, pues usted es Anonimizado, ¿no? 
+I1: Sí. 
+E1: T21 Bien. ¿Y ha vivido aquí siempre? 
+I1: Sí. 
+E1: . ¿Nunca ha salido de aquí? 
+I1:  Ya fui para Alemania y para Holanda. Viví de  un calvario.  Y ahora estoy aquí acabando con los días de la vida. 
+E1: T1 Bueno, eso nos toca a todos… Y aquí, aquí… aquí imagino que se hará matanza, claro. 
+I1: Aquí se hacía la matanza, pero ahora se hacen pocas. 
+E1: Se hacen pocas. ¿Y usted hace matanza? 
+I1: Sí. 
+E1: ¿Sí? ¿Y nos puede explicar cómo se hace la matanza? 
+",La provincia a la que pertenecen los informadores es Orense.

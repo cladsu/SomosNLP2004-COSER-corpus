@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T1 Entonces, ¿ustedes hacían matanza aquí, en este pueblo? 
+I1: Todos los años. 
+E1: ¿Todos los años? 
+I1: Todos los años. 
+E1: ¿Y nos puede contar…? 
+I1: Se mataba el cerdo  y se le mataba entero, los que podían, entero la L-Otra:txahala o la vaca, una vaca que había parido una vez, que es la mejor pa comer. 
+E1: ¿Es la mejor? 
+I1: La mejor, una vez de parir  de dos años, año y medio. 
+E1: Sí. 
+I1: Una ternera de esas… es la mejor. Sí. 
+E1: ¿Y, y qué hacían? 
+",La provincia a la que pertenecen los informadores es Vizcaya.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T1 Entonces, ¿ustedes hacían matanza aquí, en este pueblo? 
+I1: Todos los años. 
+E1: ¿Todos los años? 
+I1: Todos los años. 
+E1: ¿Y nos puede contar…? 
+I1: Se mataba el cerdo  y se le mataba entero, los que podían, entero la L-Otra:txahala o la vaca, una vaca que había parido una vez, que es la mejor pa comer. 
+E1: ¿Es la mejor? 
+I1: La mejor, una vez de parir  de dos años, año y medio. 
+E1: Sí. 
+I1: Una ternera de esas… es la mejor. Sí. 
+E1: ¿Y, y qué hacían? 
+",La provincia a la que pertenecen los informadores es Vizcaya.
+"Dime la provincia del siguiente texto: E1: T1 Entonces, ¿ustedes hacían matanza aquí, en este pueblo? 
+I1: Todos los años. 
+E1: ¿Todos los años? 
+I1: Todos los años. 
+E1: ¿Y nos puede contar…? 
+I1: Se mataba el cerdo  y se le mataba entero, los que podían, entero la L-Otra:txahala o la vaca, una vaca que había parido una vez, que es la mejor pa comer. 
+E1: ¿Es la mejor? 
+I1: La mejor, una vez de parir  de dos años, año y medio. 
+E1: Sí. 
+I1: Una ternera de esas… es la mejor. Sí. 
+E1: ¿Y, y qué hacían? 
+",La provincia a la que pertenecen los informadores es Vizcaya.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T1 Entonces, ¿ustedes hacían matanza aquí, en este pueblo? 
+I1: Todos los años. 
+E1: ¿Todos los años? 
+I1: Todos los años. 
+E1: ¿Y nos puede contar…? 
+I1: Se mataba el cerdo  y se le mataba entero, los que podían, entero la L-Otra:txahala o la vaca, una vaca que había parido una vez, que es la mejor pa comer. 
+E1: ¿Es la mejor? 
+I1: La mejor, una vez de parir  de dos años, año y medio. 
+E1: Sí. 
+I1: Una ternera de esas… es la mejor. Sí. 
+E1: ¿Y, y qué hacían? 
+",La provincia a la que pertenecen los informadores es Vizcaya.
+"Dime de qué lugar es el siguiente texto:  E1: T1 Entonces, ¿ustedes hacían matanza aquí, en este pueblo? 
+I1: Todos los años. 
+E1: ¿Todos los años? 
+I1: Todos los años. 
+E1: ¿Y nos puede contar…? 
+I1: Se mataba el cerdo  y se le mataba entero, los que podían, entero la L-Otra:txahala o la vaca, una vaca que había parido una vez, que es la mejor pa comer. 
+E1: ¿Es la mejor? 
+I1: La mejor, una vez de parir  de dos años, año y medio. 
+E1: Sí. 
+I1: Una ternera de esas… es la mejor. Sí. 
+E1: ¿Y, y qué hacían? 
+",La provincia a la que pertenecen los informadores es Vizcaya.

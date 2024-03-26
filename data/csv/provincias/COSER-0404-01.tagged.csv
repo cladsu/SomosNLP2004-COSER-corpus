@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E:  E:¡Hola! PS ¿Qué tal? 
+E4:  ¡Qué guapa se ha puesto! 
+E1: Ya se ha lavao la cabeza. Bueno, pues cuen-, cuéntenos. Le vamos a poner…   
+I1: Niños, nos vemos en la iglesia, ¿vale?, Anonimizado, muchas gracias por atenderlos. 
+I2: Venga, de nada. 
+E4: Bueno, gracias, Anonimizado.  Espera, esto nada. Esto es para que nosotros como no podemos escribir tan rápido… 
+E1: T1 Para que se oiga por si habla un poco bajo. Pues cuéntenos: usted, ¿ha, ha hecho matanza alguna vez? 
+E:  E:¡Vale! 
+I2: To los años.
+E1: Todo. 
+I2: Todos los años. Bueno, ahora ya llevamos unos años que no. Porque yo ya…, ya estoy muy mayó . Tengo ya, PS en el mes que viene cumplo setenta_y_ocho años.
+",La provincia a la que pertenecen los informadores es Almería.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E:  E:¡Hola! PS ¿Qué tal? 
+E4:  ¡Qué guapa se ha puesto! 
+E1: Ya se ha lavao la cabeza. Bueno, pues cuen-, cuéntenos. Le vamos a poner…   
+I1: Niños, nos vemos en la iglesia, ¿vale?, Anonimizado, muchas gracias por atenderlos. 
+I2: Venga, de nada. 
+E4: Bueno, gracias, Anonimizado.  Espera, esto nada. Esto es para que nosotros como no podemos escribir tan rápido… 
+E1: T1 Para que se oiga por si habla un poco bajo. Pues cuéntenos: usted, ¿ha, ha hecho matanza alguna vez? 
+E:  E:¡Vale! 
+I2: To los años.
+E1: Todo. 
+I2: Todos los años. Bueno, ahora ya llevamos unos años que no. Porque yo ya…, ya estoy muy mayó . Tengo ya, PS en el mes que viene cumplo setenta_y_ocho años.
+",La provincia a la que pertenecen los informadores es Almería.
+"Dime la provincia del siguiente texto: E:  E:¡Hola! PS ¿Qué tal? 
+E4:  ¡Qué guapa se ha puesto! 
+E1: Ya se ha lavao la cabeza. Bueno, pues cuen-, cuéntenos. Le vamos a poner…   
+I1: Niños, nos vemos en la iglesia, ¿vale?, Anonimizado, muchas gracias por atenderlos. 
+I2: Venga, de nada. 
+E4: Bueno, gracias, Anonimizado.  Espera, esto nada. Esto es para que nosotros como no podemos escribir tan rápido… 
+E1: T1 Para que se oiga por si habla un poco bajo. Pues cuéntenos: usted, ¿ha, ha hecho matanza alguna vez? 
+E:  E:¡Vale! 
+I2: To los años.
+E1: Todo. 
+I2: Todos los años. Bueno, ahora ya llevamos unos años que no. Porque yo ya…, ya estoy muy mayó . Tengo ya, PS en el mes que viene cumplo setenta_y_ocho años.
+",La provincia a la que pertenecen los informadores es Almería.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E:  E:¡Hola! PS ¿Qué tal? 
+E4:  ¡Qué guapa se ha puesto! 
+E1: Ya se ha lavao la cabeza. Bueno, pues cuen-, cuéntenos. Le vamos a poner…   
+I1: Niños, nos vemos en la iglesia, ¿vale?, Anonimizado, muchas gracias por atenderlos. 
+I2: Venga, de nada. 
+E4: Bueno, gracias, Anonimizado.  Espera, esto nada. Esto es para que nosotros como no podemos escribir tan rápido… 
+E1: T1 Para que se oiga por si habla un poco bajo. Pues cuéntenos: usted, ¿ha, ha hecho matanza alguna vez? 
+E:  E:¡Vale! 
+I2: To los años.
+E1: Todo. 
+I2: Todos los años. Bueno, ahora ya llevamos unos años que no. Porque yo ya…, ya estoy muy mayó . Tengo ya, PS en el mes que viene cumplo setenta_y_ocho años.
+",La provincia a la que pertenecen los informadores es Almería.
+"Dime de qué lugar es el siguiente texto:  E:  E:¡Hola! PS ¿Qué tal? 
+E4:  ¡Qué guapa se ha puesto! 
+E1: Ya se ha lavao la cabeza. Bueno, pues cuen-, cuéntenos. Le vamos a poner…   
+I1: Niños, nos vemos en la iglesia, ¿vale?, Anonimizado, muchas gracias por atenderlos. 
+I2: Venga, de nada. 
+E4: Bueno, gracias, Anonimizado.  Espera, esto nada. Esto es para que nosotros como no podemos escribir tan rápido… 
+E1: T1 Para que se oiga por si habla un poco bajo. Pues cuéntenos: usted, ¿ha, ha hecho matanza alguna vez? 
+E:  E:¡Vale! 
+I2: To los años.
+E1: Todo. 
+I2: Todos los años. Bueno, ahora ya llevamos unos años que no. Porque yo ya…, ya estoy muy mayó . Tengo ya, PS en el mes que viene cumplo setenta_y_ocho años.
+",La provincia a la que pertenecen los informadores es Almería.

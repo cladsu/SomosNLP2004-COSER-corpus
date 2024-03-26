@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: Señora, primero, ¿nos podría dar su nombre? 
+I2: Oh, sí, Anonimizado. 
+E1: Anonimizado. ¿Y usted tiene qué edad? 
+I2: Yo  sesenta_y_nueve.  
+E1: ¿Y es de aquí del pueblo? 
+I2: Sí,  sí. 
+E1: T21 ¿Y usted ha salido alguna vez fuera? 
+I2: Nada.  Nada. No hemos salido pa lao ninguno. A Ponferrada. O a Villablino. Na más.
+E1: T12 ¿Y ha estu-, y estudió aquí algo en el pueblo?  ¿Nada? 
+I2: vinimos un poco a la escuela, pero era antes . y no… Yo quedé sin padre de tres años y no… no nos mandaron muy poco.  Mi madre no podía mandanos . Teníamos el ganao
+E1: Nada más, vale.  Pues a partir de eso…  
+",La provincia a la que pertenecen los informadores es León.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: Señora, primero, ¿nos podría dar su nombre? 
+I2: Oh, sí, Anonimizado. 
+E1: Anonimizado. ¿Y usted tiene qué edad? 
+I2: Yo  sesenta_y_nueve.  
+E1: ¿Y es de aquí del pueblo? 
+I2: Sí,  sí. 
+E1: T21 ¿Y usted ha salido alguna vez fuera? 
+I2: Nada.  Nada. No hemos salido pa lao ninguno. A Ponferrada. O a Villablino. Na más.
+E1: T12 ¿Y ha estu-, y estudió aquí algo en el pueblo?  ¿Nada? 
+I2: vinimos un poco a la escuela, pero era antes . y no… Yo quedé sin padre de tres años y no… no nos mandaron muy poco.  Mi madre no podía mandanos . Teníamos el ganao
+E1: Nada más, vale.  Pues a partir de eso…  
+",La provincia a la que pertenecen los informadores es León.
+"Dime la provincia del siguiente texto: E1: Señora, primero, ¿nos podría dar su nombre? 
+I2: Oh, sí, Anonimizado. 
+E1: Anonimizado. ¿Y usted tiene qué edad? 
+I2: Yo  sesenta_y_nueve.  
+E1: ¿Y es de aquí del pueblo? 
+I2: Sí,  sí. 
+E1: T21 ¿Y usted ha salido alguna vez fuera? 
+I2: Nada.  Nada. No hemos salido pa lao ninguno. A Ponferrada. O a Villablino. Na más.
+E1: T12 ¿Y ha estu-, y estudió aquí algo en el pueblo?  ¿Nada? 
+I2: vinimos un poco a la escuela, pero era antes . y no… Yo quedé sin padre de tres años y no… no nos mandaron muy poco.  Mi madre no podía mandanos . Teníamos el ganao
+E1: Nada más, vale.  Pues a partir de eso…  
+",La provincia a la que pertenecen los informadores es León.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: Señora, primero, ¿nos podría dar su nombre? 
+I2: Oh, sí, Anonimizado. 
+E1: Anonimizado. ¿Y usted tiene qué edad? 
+I2: Yo  sesenta_y_nueve.  
+E1: ¿Y es de aquí del pueblo? 
+I2: Sí,  sí. 
+E1: T21 ¿Y usted ha salido alguna vez fuera? 
+I2: Nada.  Nada. No hemos salido pa lao ninguno. A Ponferrada. O a Villablino. Na más.
+E1: T12 ¿Y ha estu-, y estudió aquí algo en el pueblo?  ¿Nada? 
+I2: vinimos un poco a la escuela, pero era antes . y no… Yo quedé sin padre de tres años y no… no nos mandaron muy poco.  Mi madre no podía mandanos . Teníamos el ganao
+E1: Nada más, vale.  Pues a partir de eso…  
+",La provincia a la que pertenecen los informadores es León.
+"Dime de qué lugar es el siguiente texto:  E1: Señora, primero, ¿nos podría dar su nombre? 
+I2: Oh, sí, Anonimizado. 
+E1: Anonimizado. ¿Y usted tiene qué edad? 
+I2: Yo  sesenta_y_nueve.  
+E1: ¿Y es de aquí del pueblo? 
+I2: Sí,  sí. 
+E1: T21 ¿Y usted ha salido alguna vez fuera? 
+I2: Nada.  Nada. No hemos salido pa lao ninguno. A Ponferrada. O a Villablino. Na más.
+E1: T12 ¿Y ha estu-, y estudió aquí algo en el pueblo?  ¿Nada? 
+I2: vinimos un poco a la escuela, pero era antes . y no… Yo quedé sin padre de tres años y no… no nos mandaron muy poco.  Mi madre no podía mandanos . Teníamos el ganao
+E1: Nada más, vale.  Pues a partir de eso…  
+",La provincia a la que pertenecen los informadores es León.

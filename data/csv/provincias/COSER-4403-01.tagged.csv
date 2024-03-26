@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: Mi nombre es Anonimizado. 
+E1: Y más o menos… 
+I1: ¿De dónde sois? ¿De Valladolid? 
+E2: No, somos de Madrid. 
+I1: ¿Sí? 
+E1: Sí. Bueno, a ver, díganos usted… 
+I1: ¿En lo en el cuál? 
+E1: T14 No. ¿Cómo eran… las bodas de antes?
+I1: ¿Mi boda? 
+E1: Sí,  por ejemplo. 
+E2: por ejemplo. Usted se ha criao aquí toda la vida…  aquí pues una boda muy… ha vivido aquí toda la vida… 
+",La provincia a la que pertenecen los informadores es Valladolid.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: Mi nombre es Anonimizado. 
+E1: Y más o menos… 
+I1: ¿De dónde sois? ¿De Valladolid? 
+E2: No, somos de Madrid. 
+I1: ¿Sí? 
+E1: Sí. Bueno, a ver, díganos usted… 
+I1: ¿En lo en el cuál? 
+E1: T14 No. ¿Cómo eran… las bodas de antes?
+I1: ¿Mi boda? 
+E1: Sí,  por ejemplo. 
+E2: por ejemplo. Usted se ha criao aquí toda la vida…  aquí pues una boda muy… ha vivido aquí toda la vida… 
+",La provincia a la que pertenecen los informadores es Valladolid.
+"Dime la provincia del siguiente texto: I1: Mi nombre es Anonimizado. 
+E1: Y más o menos… 
+I1: ¿De dónde sois? ¿De Valladolid? 
+E2: No, somos de Madrid. 
+I1: ¿Sí? 
+E1: Sí. Bueno, a ver, díganos usted… 
+I1: ¿En lo en el cuál? 
+E1: T14 No. ¿Cómo eran… las bodas de antes?
+I1: ¿Mi boda? 
+E1: Sí,  por ejemplo. 
+E2: por ejemplo. Usted se ha criao aquí toda la vida…  aquí pues una boda muy… ha vivido aquí toda la vida… 
+",La provincia a la que pertenecen los informadores es Valladolid.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: Mi nombre es Anonimizado. 
+E1: Y más o menos… 
+I1: ¿De dónde sois? ¿De Valladolid? 
+E2: No, somos de Madrid. 
+I1: ¿Sí? 
+E1: Sí. Bueno, a ver, díganos usted… 
+I1: ¿En lo en el cuál? 
+E1: T14 No. ¿Cómo eran… las bodas de antes?
+I1: ¿Mi boda? 
+E1: Sí,  por ejemplo. 
+E2: por ejemplo. Usted se ha criao aquí toda la vida…  aquí pues una boda muy… ha vivido aquí toda la vida… 
+",La provincia a la que pertenecen los informadores es Valladolid.
+"Dime de qué lugar es el siguiente texto:  I1: Mi nombre es Anonimizado. 
+E1: Y más o menos… 
+I1: ¿De dónde sois? ¿De Valladolid? 
+E2: No, somos de Madrid. 
+I1: ¿Sí? 
+E1: Sí. Bueno, a ver, díganos usted… 
+I1: ¿En lo en el cuál? 
+E1: T14 No. ¿Cómo eran… las bodas de antes?
+I1: ¿Mi boda? 
+E1: Sí,  por ejemplo. 
+E2: por ejemplo. Usted se ha criao aquí toda la vida…  aquí pues una boda muy… ha vivido aquí toda la vida… 
+",La provincia a la que pertenecen los informadores es Valladolid.

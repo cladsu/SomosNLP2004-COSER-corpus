@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: T13 Pero mi abuela era la más lista del mundo, ¡Mire si sería lista, que por los dedos de mi abuela, hicieron los primeros cinco ministros de España!  Sí, es verdá , empezaron por este G-Mst y dicen: P-Enf:«Por este, ministro de higiene». «Pero ¿por qué?», dice. «Porque es el que, que, que…».
+I2: Sí, señor. 
+I1: Ministro de higiene, bien. P-Enf:El otro, ministro de estado. P-Enf:¿Por qué? Porque cuando se casan ustedes le ponen ahí el anillo, ministro de estado. P-Enf:¿El otro? como es el más largo, Rndo:ministro del interior V-Sml  cuando miraba a ver si tenía huevos la gallina llevaba… y le metían el dedo a ver si ponía.  Ministro del interior. Pues bien, este, G-Mst ministro de comunicaciones. PS Ministro de comunicaciones. P-Enf:¿Por qué? Ahora vienen ustedes y preguntan por¡señor Anonimizado!, ese, el… yo, Anonimizado, el de la luz, porque cuarenta_y_dos años electricista aquí, cobrador de la luz y de los médicos cuarenta_y_dos años, ministro de comunicaciones. ¿Por qué? Empiezan, dónde vive el señor Anonimizado, el de la lu-, empiezan con este dedo,  pues por aquí, por allí, por… El ministro de comunicación. 
+E2: . 
+I1: ¿Y este? P-Enf: ¡Ministro de gracia y justicia! Y dice mi abuela: «Pero ¿por qué?», dice. «Porque cuando me pica una pulga la cojo…». Fíjate. No se ría que es verdá , hicieron los cinco pri-, primeros ministros. Bueno.
+E1: Vamos a ver. Cuéntenos usted cosas sobre la cosecha. 
+I1: ¿Sobre la cosecha? 
+E2: ¿Qué tienen… aquí tienen mucho cereal? 
+E1: Y los cereales y todo. 
+I1: Pues es de lo que se vive. 
+E2: . 
+",La provincia a la que pertenecen los informadores es Zamora.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: T13 Pero mi abuela era la más lista del mundo, ¡Mire si sería lista, que por los dedos de mi abuela, hicieron los primeros cinco ministros de España!  Sí, es verdá , empezaron por este G-Mst y dicen: P-Enf:«Por este, ministro de higiene». «Pero ¿por qué?», dice. «Porque es el que, que, que…».
+I2: Sí, señor. 
+I1: Ministro de higiene, bien. P-Enf:El otro, ministro de estado. P-Enf:¿Por qué? Porque cuando se casan ustedes le ponen ahí el anillo, ministro de estado. P-Enf:¿El otro? como es el más largo, Rndo:ministro del interior V-Sml  cuando miraba a ver si tenía huevos la gallina llevaba… y le metían el dedo a ver si ponía.  Ministro del interior. Pues bien, este, G-Mst ministro de comunicaciones. PS Ministro de comunicaciones. P-Enf:¿Por qué? Ahora vienen ustedes y preguntan por¡señor Anonimizado!, ese, el… yo, Anonimizado, el de la luz, porque cuarenta_y_dos años electricista aquí, cobrador de la luz y de los médicos cuarenta_y_dos años, ministro de comunicaciones. ¿Por qué? Empiezan, dónde vive el señor Anonimizado, el de la lu-, empiezan con este dedo,  pues por aquí, por allí, por… El ministro de comunicación. 
+E2: . 
+I1: ¿Y este? P-Enf: ¡Ministro de gracia y justicia! Y dice mi abuela: «Pero ¿por qué?», dice. «Porque cuando me pica una pulga la cojo…». Fíjate. No se ría que es verdá , hicieron los cinco pri-, primeros ministros. Bueno.
+E1: Vamos a ver. Cuéntenos usted cosas sobre la cosecha. 
+I1: ¿Sobre la cosecha? 
+E2: ¿Qué tienen… aquí tienen mucho cereal? 
+E1: Y los cereales y todo. 
+I1: Pues es de lo que se vive. 
+E2: . 
+",La provincia a la que pertenecen los informadores es Zamora.
+"Dime la provincia del siguiente texto: I1: T13 Pero mi abuela era la más lista del mundo, ¡Mire si sería lista, que por los dedos de mi abuela, hicieron los primeros cinco ministros de España!  Sí, es verdá , empezaron por este G-Mst y dicen: P-Enf:«Por este, ministro de higiene». «Pero ¿por qué?», dice. «Porque es el que, que, que…».
+I2: Sí, señor. 
+I1: Ministro de higiene, bien. P-Enf:El otro, ministro de estado. P-Enf:¿Por qué? Porque cuando se casan ustedes le ponen ahí el anillo, ministro de estado. P-Enf:¿El otro? como es el más largo, Rndo:ministro del interior V-Sml  cuando miraba a ver si tenía huevos la gallina llevaba… y le metían el dedo a ver si ponía.  Ministro del interior. Pues bien, este, G-Mst ministro de comunicaciones. PS Ministro de comunicaciones. P-Enf:¿Por qué? Ahora vienen ustedes y preguntan por¡señor Anonimizado!, ese, el… yo, Anonimizado, el de la luz, porque cuarenta_y_dos años electricista aquí, cobrador de la luz y de los médicos cuarenta_y_dos años, ministro de comunicaciones. ¿Por qué? Empiezan, dónde vive el señor Anonimizado, el de la lu-, empiezan con este dedo,  pues por aquí, por allí, por… El ministro de comunicación. 
+E2: . 
+I1: ¿Y este? P-Enf: ¡Ministro de gracia y justicia! Y dice mi abuela: «Pero ¿por qué?», dice. «Porque cuando me pica una pulga la cojo…». Fíjate. No se ría que es verdá , hicieron los cinco pri-, primeros ministros. Bueno.
+E1: Vamos a ver. Cuéntenos usted cosas sobre la cosecha. 
+I1: ¿Sobre la cosecha? 
+E2: ¿Qué tienen… aquí tienen mucho cereal? 
+E1: Y los cereales y todo. 
+I1: Pues es de lo que se vive. 
+E2: . 
+",La provincia a la que pertenecen los informadores es Zamora.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: T13 Pero mi abuela era la más lista del mundo, ¡Mire si sería lista, que por los dedos de mi abuela, hicieron los primeros cinco ministros de España!  Sí, es verdá , empezaron por este G-Mst y dicen: P-Enf:«Por este, ministro de higiene». «Pero ¿por qué?», dice. «Porque es el que, que, que…».
+I2: Sí, señor. 
+I1: Ministro de higiene, bien. P-Enf:El otro, ministro de estado. P-Enf:¿Por qué? Porque cuando se casan ustedes le ponen ahí el anillo, ministro de estado. P-Enf:¿El otro? como es el más largo, Rndo:ministro del interior V-Sml  cuando miraba a ver si tenía huevos la gallina llevaba… y le metían el dedo a ver si ponía.  Ministro del interior. Pues bien, este, G-Mst ministro de comunicaciones. PS Ministro de comunicaciones. P-Enf:¿Por qué? Ahora vienen ustedes y preguntan por¡señor Anonimizado!, ese, el… yo, Anonimizado, el de la luz, porque cuarenta_y_dos años electricista aquí, cobrador de la luz y de los médicos cuarenta_y_dos años, ministro de comunicaciones. ¿Por qué? Empiezan, dónde vive el señor Anonimizado, el de la lu-, empiezan con este dedo,  pues por aquí, por allí, por… El ministro de comunicación. 
+E2: . 
+I1: ¿Y este? P-Enf: ¡Ministro de gracia y justicia! Y dice mi abuela: «Pero ¿por qué?», dice. «Porque cuando me pica una pulga la cojo…». Fíjate. No se ría que es verdá , hicieron los cinco pri-, primeros ministros. Bueno.
+E1: Vamos a ver. Cuéntenos usted cosas sobre la cosecha. 
+I1: ¿Sobre la cosecha? 
+E2: ¿Qué tienen… aquí tienen mucho cereal? 
+E1: Y los cereales y todo. 
+I1: Pues es de lo que se vive. 
+E2: . 
+",La provincia a la que pertenecen los informadores es Zamora.
+"Dime de qué lugar es el siguiente texto:  I1: T13 Pero mi abuela era la más lista del mundo, ¡Mire si sería lista, que por los dedos de mi abuela, hicieron los primeros cinco ministros de España!  Sí, es verdá , empezaron por este G-Mst y dicen: P-Enf:«Por este, ministro de higiene». «Pero ¿por qué?», dice. «Porque es el que, que, que…».
+I2: Sí, señor. 
+I1: Ministro de higiene, bien. P-Enf:El otro, ministro de estado. P-Enf:¿Por qué? Porque cuando se casan ustedes le ponen ahí el anillo, ministro de estado. P-Enf:¿El otro? como es el más largo, Rndo:ministro del interior V-Sml  cuando miraba a ver si tenía huevos la gallina llevaba… y le metían el dedo a ver si ponía.  Ministro del interior. Pues bien, este, G-Mst ministro de comunicaciones. PS Ministro de comunicaciones. P-Enf:¿Por qué? Ahora vienen ustedes y preguntan por¡señor Anonimizado!, ese, el… yo, Anonimizado, el de la luz, porque cuarenta_y_dos años electricista aquí, cobrador de la luz y de los médicos cuarenta_y_dos años, ministro de comunicaciones. ¿Por qué? Empiezan, dónde vive el señor Anonimizado, el de la lu-, empiezan con este dedo,  pues por aquí, por allí, por… El ministro de comunicación. 
+E2: . 
+I1: ¿Y este? P-Enf: ¡Ministro de gracia y justicia! Y dice mi abuela: «Pero ¿por qué?», dice. «Porque cuando me pica una pulga la cojo…». Fíjate. No se ría que es verdá , hicieron los cinco pri-, primeros ministros. Bueno.
+E1: Vamos a ver. Cuéntenos usted cosas sobre la cosecha. 
+I1: ¿Sobre la cosecha? 
+E2: ¿Qué tienen… aquí tienen mucho cereal? 
+E1: Y los cereales y todo. 
+I1: Pues es de lo que se vive. 
+E2: . 
+",La provincia a la que pertenecen los informadores es Zamora.

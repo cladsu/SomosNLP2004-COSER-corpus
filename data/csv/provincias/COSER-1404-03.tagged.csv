@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: Su nombre, por favor, ¿cuál es? 
+I1: Anonimizado. 
+E1: T15 De acuerdo. Pues ¿cómo, cómo…?  qué fiestas hay aquí… 
+I1: Pues las fiestas aquí, las patronales son las únicas fiestas que hay, sacao la… esta de san Isidro, que si no es fiesta pero algo es.
+E1: Me voy a poner aquí mejor. Sí. 
+I1: La fiesta de san Isidro y la patrona de Argamasilla_de_Alba que es en… en septiembre, que como aquí, lo de las ferias y fiestas. 
+E1: . . Y que, ¿hay una especie de…  una procesión? 
+I1: Hay… una procesión. 
+E1: Y en la procesión, ¿qué se hace?, ¿se llevan… ? 
+I1: Pues sí, se lleva la Virgen_de_Peñarroya que es la patrona, luego vienen cantos y danzas de varios, varias provincias. Luego estos les devuelven la visita… a ellos. Luego, pues, hay en la cueva… hay varios teatros que suelen hacer, que vienen de fuera, y poco más… 
+E2: ¿Y verbenas? ¿Y orquestas?  
+",La provincia a la que pertenecen los informadores es Ciudad Real.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: Su nombre, por favor, ¿cuál es? 
+I1: Anonimizado. 
+E1: T15 De acuerdo. Pues ¿cómo, cómo…?  qué fiestas hay aquí… 
+I1: Pues las fiestas aquí, las patronales son las únicas fiestas que hay, sacao la… esta de san Isidro, que si no es fiesta pero algo es.
+E1: Me voy a poner aquí mejor. Sí. 
+I1: La fiesta de san Isidro y la patrona de Argamasilla_de_Alba que es en… en septiembre, que como aquí, lo de las ferias y fiestas. 
+E1: . . Y que, ¿hay una especie de…  una procesión? 
+I1: Hay… una procesión. 
+E1: Y en la procesión, ¿qué se hace?, ¿se llevan… ? 
+I1: Pues sí, se lleva la Virgen_de_Peñarroya que es la patrona, luego vienen cantos y danzas de varios, varias provincias. Luego estos les devuelven la visita… a ellos. Luego, pues, hay en la cueva… hay varios teatros que suelen hacer, que vienen de fuera, y poco más… 
+E2: ¿Y verbenas? ¿Y orquestas?  
+",La provincia a la que pertenecen los informadores es Ciudad Real.
+"Dime la provincia del siguiente texto: E1: Su nombre, por favor, ¿cuál es? 
+I1: Anonimizado. 
+E1: T15 De acuerdo. Pues ¿cómo, cómo…?  qué fiestas hay aquí… 
+I1: Pues las fiestas aquí, las patronales son las únicas fiestas que hay, sacao la… esta de san Isidro, que si no es fiesta pero algo es.
+E1: Me voy a poner aquí mejor. Sí. 
+I1: La fiesta de san Isidro y la patrona de Argamasilla_de_Alba que es en… en septiembre, que como aquí, lo de las ferias y fiestas. 
+E1: . . Y que, ¿hay una especie de…  una procesión? 
+I1: Hay… una procesión. 
+E1: Y en la procesión, ¿qué se hace?, ¿se llevan… ? 
+I1: Pues sí, se lleva la Virgen_de_Peñarroya que es la patrona, luego vienen cantos y danzas de varios, varias provincias. Luego estos les devuelven la visita… a ellos. Luego, pues, hay en la cueva… hay varios teatros que suelen hacer, que vienen de fuera, y poco más… 
+E2: ¿Y verbenas? ¿Y orquestas?  
+",La provincia a la que pertenecen los informadores es Ciudad Real.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: Su nombre, por favor, ¿cuál es? 
+I1: Anonimizado. 
+E1: T15 De acuerdo. Pues ¿cómo, cómo…?  qué fiestas hay aquí… 
+I1: Pues las fiestas aquí, las patronales son las únicas fiestas que hay, sacao la… esta de san Isidro, que si no es fiesta pero algo es.
+E1: Me voy a poner aquí mejor. Sí. 
+I1: La fiesta de san Isidro y la patrona de Argamasilla_de_Alba que es en… en septiembre, que como aquí, lo de las ferias y fiestas. 
+E1: . . Y que, ¿hay una especie de…  una procesión? 
+I1: Hay… una procesión. 
+E1: Y en la procesión, ¿qué se hace?, ¿se llevan… ? 
+I1: Pues sí, se lleva la Virgen_de_Peñarroya que es la patrona, luego vienen cantos y danzas de varios, varias provincias. Luego estos les devuelven la visita… a ellos. Luego, pues, hay en la cueva… hay varios teatros que suelen hacer, que vienen de fuera, y poco más… 
+E2: ¿Y verbenas? ¿Y orquestas?  
+",La provincia a la que pertenecen los informadores es Ciudad Real.
+"Dime de qué lugar es el siguiente texto:  E1: Su nombre, por favor, ¿cuál es? 
+I1: Anonimizado. 
+E1: T15 De acuerdo. Pues ¿cómo, cómo…?  qué fiestas hay aquí… 
+I1: Pues las fiestas aquí, las patronales son las únicas fiestas que hay, sacao la… esta de san Isidro, que si no es fiesta pero algo es.
+E1: Me voy a poner aquí mejor. Sí. 
+I1: La fiesta de san Isidro y la patrona de Argamasilla_de_Alba que es en… en septiembre, que como aquí, lo de las ferias y fiestas. 
+E1: . . Y que, ¿hay una especie de…  una procesión? 
+I1: Hay… una procesión. 
+E1: Y en la procesión, ¿qué se hace?, ¿se llevan… ? 
+I1: Pues sí, se lleva la Virgen_de_Peñarroya que es la patrona, luego vienen cantos y danzas de varios, varias provincias. Luego estos les devuelven la visita… a ellos. Luego, pues, hay en la cueva… hay varios teatros que suelen hacer, que vienen de fuera, y poco más… 
+E2: ¿Y verbenas? ¿Y orquestas?  
+",La provincia a la que pertenecen los informadores es Ciudad Real.

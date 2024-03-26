@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: … aprenda. 
+E1: Sí, muchas gracias.  
+E2: a eso venimos, la verdad.   
+I1: eso es lo interesante,  porque yo tengo también nietos y bisnietos,y tengo de todo, entonces hay que ayudar a todo el mundo. 
+E1: Sí, muchas gracias, admiro, admiro, lo admiro su actitud.Me encanta la gente… 
+I1: Es que yo soy mayor, pero aquí estoy bien, ¿eh? 
+E1: A ver, en mi opinión, tú eres muy joven. 
+I1: Sí…, ochenta_y_cuatro na más. 
+E1: ¿En serio? 
+I1: No…  
+E1: Pensábamos…  sesenta máximo. 
+",La provincia a la que pertenecen los informadores es La Coruña.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: … aprenda. 
+E1: Sí, muchas gracias.  
+E2: a eso venimos, la verdad.   
+I1: eso es lo interesante,  porque yo tengo también nietos y bisnietos,y tengo de todo, entonces hay que ayudar a todo el mundo. 
+E1: Sí, muchas gracias, admiro, admiro, lo admiro su actitud.Me encanta la gente… 
+I1: Es que yo soy mayor, pero aquí estoy bien, ¿eh? 
+E1: A ver, en mi opinión, tú eres muy joven. 
+I1: Sí…, ochenta_y_cuatro na más. 
+E1: ¿En serio? 
+I1: No…  
+E1: Pensábamos…  sesenta máximo. 
+",La provincia a la que pertenecen los informadores es La Coruña.
+"Dime la provincia del siguiente texto: I1: … aprenda. 
+E1: Sí, muchas gracias.  
+E2: a eso venimos, la verdad.   
+I1: eso es lo interesante,  porque yo tengo también nietos y bisnietos,y tengo de todo, entonces hay que ayudar a todo el mundo. 
+E1: Sí, muchas gracias, admiro, admiro, lo admiro su actitud.Me encanta la gente… 
+I1: Es que yo soy mayor, pero aquí estoy bien, ¿eh? 
+E1: A ver, en mi opinión, tú eres muy joven. 
+I1: Sí…, ochenta_y_cuatro na más. 
+E1: ¿En serio? 
+I1: No…  
+E1: Pensábamos…  sesenta máximo. 
+",La provincia a la que pertenecen los informadores es La Coruña.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: … aprenda. 
+E1: Sí, muchas gracias.  
+E2: a eso venimos, la verdad.   
+I1: eso es lo interesante,  porque yo tengo también nietos y bisnietos,y tengo de todo, entonces hay que ayudar a todo el mundo. 
+E1: Sí, muchas gracias, admiro, admiro, lo admiro su actitud.Me encanta la gente… 
+I1: Es que yo soy mayor, pero aquí estoy bien, ¿eh? 
+E1: A ver, en mi opinión, tú eres muy joven. 
+I1: Sí…, ochenta_y_cuatro na más. 
+E1: ¿En serio? 
+I1: No…  
+E1: Pensábamos…  sesenta máximo. 
+",La provincia a la que pertenecen los informadores es La Coruña.
+"Dime de qué lugar es el siguiente texto:  I1: … aprenda. 
+E1: Sí, muchas gracias.  
+E2: a eso venimos, la verdad.   
+I1: eso es lo interesante,  porque yo tengo también nietos y bisnietos,y tengo de todo, entonces hay que ayudar a todo el mundo. 
+E1: Sí, muchas gracias, admiro, admiro, lo admiro su actitud.Me encanta la gente… 
+I1: Es que yo soy mayor, pero aquí estoy bien, ¿eh? 
+E1: A ver, en mi opinión, tú eres muy joven. 
+I1: Sí…, ochenta_y_cuatro na más. 
+E1: ¿En serio? 
+I1: No…  
+E1: Pensábamos…  sesenta máximo. 
+",La provincia a la que pertenecen los informadores es La Coruña.

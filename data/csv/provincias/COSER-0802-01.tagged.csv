@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: Y ahora vivo yo con mi madreque tiene ochenta_y_seis, ochenta_y_siete…  . 
+E1:  Sí, sí… Y usted, ¿su nombre era…? Que no . 
+I1: Anonimizado, Juan.
+E1: AnonimizadoJuan?, Juan. Vale. ¿Y qué más? Si no es indiscreción. No… 
+I1: ¿De apellidos? Anonimizado y, Pons_Varela. 
+E1:  AnonimizadoPons? 
+I1: Anonimizado. P, o, n, s Varela.  
+E1: T1 Anonimizado.  Pues muchísimas gracias por dedicarnos  este…, este tiempo  tan generoso. Bien, un tema que nos interesa mucho es, ¿usted conoce si en esta zona se hacía matanza? 
+I1: Sí…, ¿de, de animales? 
+E1: De cerdo, por ejemplo.  
+I1: sí. Una costumbre de siempre, de toas las casas…, que… se engordaba a un cerdo, se compraba… pequeñito… lechón… en marzo y… a finales de año… en, en la, en la luna llena de diciembre se tenía que sacrificar sí o sí. Porque… era cuando se…, la carne se conservaba y todo… Entoces
+",La provincia a la que pertenecen los informadores es Barcelona.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: Y ahora vivo yo con mi madreque tiene ochenta_y_seis, ochenta_y_siete…  . 
+E1:  Sí, sí… Y usted, ¿su nombre era…? Que no . 
+I1: Anonimizado, Juan.
+E1: AnonimizadoJuan?, Juan. Vale. ¿Y qué más? Si no es indiscreción. No… 
+I1: ¿De apellidos? Anonimizado y, Pons_Varela. 
+E1:  AnonimizadoPons? 
+I1: Anonimizado. P, o, n, s Varela.  
+E1: T1 Anonimizado.  Pues muchísimas gracias por dedicarnos  este…, este tiempo  tan generoso. Bien, un tema que nos interesa mucho es, ¿usted conoce si en esta zona se hacía matanza? 
+I1: Sí…, ¿de, de animales? 
+E1: De cerdo, por ejemplo.  
+I1: sí. Una costumbre de siempre, de toas las casas…, que… se engordaba a un cerdo, se compraba… pequeñito… lechón… en marzo y… a finales de año… en, en la, en la luna llena de diciembre se tenía que sacrificar sí o sí. Porque… era cuando se…, la carne se conservaba y todo… Entoces
+",La provincia a la que pertenecen los informadores es Barcelona.
+"Dime la provincia del siguiente texto: I1: Y ahora vivo yo con mi madreque tiene ochenta_y_seis, ochenta_y_siete…  . 
+E1:  Sí, sí… Y usted, ¿su nombre era…? Que no . 
+I1: Anonimizado, Juan.
+E1: AnonimizadoJuan?, Juan. Vale. ¿Y qué más? Si no es indiscreción. No… 
+I1: ¿De apellidos? Anonimizado y, Pons_Varela. 
+E1:  AnonimizadoPons? 
+I1: Anonimizado. P, o, n, s Varela.  
+E1: T1 Anonimizado.  Pues muchísimas gracias por dedicarnos  este…, este tiempo  tan generoso. Bien, un tema que nos interesa mucho es, ¿usted conoce si en esta zona se hacía matanza? 
+I1: Sí…, ¿de, de animales? 
+E1: De cerdo, por ejemplo.  
+I1: sí. Una costumbre de siempre, de toas las casas…, que… se engordaba a un cerdo, se compraba… pequeñito… lechón… en marzo y… a finales de año… en, en la, en la luna llena de diciembre se tenía que sacrificar sí o sí. Porque… era cuando se…, la carne se conservaba y todo… Entoces
+",La provincia a la que pertenecen los informadores es Barcelona.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: Y ahora vivo yo con mi madreque tiene ochenta_y_seis, ochenta_y_siete…  . 
+E1:  Sí, sí… Y usted, ¿su nombre era…? Que no . 
+I1: Anonimizado, Juan.
+E1: AnonimizadoJuan?, Juan. Vale. ¿Y qué más? Si no es indiscreción. No… 
+I1: ¿De apellidos? Anonimizado y, Pons_Varela. 
+E1:  AnonimizadoPons? 
+I1: Anonimizado. P, o, n, s Varela.  
+E1: T1 Anonimizado.  Pues muchísimas gracias por dedicarnos  este…, este tiempo  tan generoso. Bien, un tema que nos interesa mucho es, ¿usted conoce si en esta zona se hacía matanza? 
+I1: Sí…, ¿de, de animales? 
+E1: De cerdo, por ejemplo.  
+I1: sí. Una costumbre de siempre, de toas las casas…, que… se engordaba a un cerdo, se compraba… pequeñito… lechón… en marzo y… a finales de año… en, en la, en la luna llena de diciembre se tenía que sacrificar sí o sí. Porque… era cuando se…, la carne se conservaba y todo… Entoces
+",La provincia a la que pertenecen los informadores es Barcelona.
+"Dime de qué lugar es el siguiente texto:  I1: Y ahora vivo yo con mi madreque tiene ochenta_y_seis, ochenta_y_siete…  . 
+E1:  Sí, sí… Y usted, ¿su nombre era…? Que no . 
+I1: Anonimizado, Juan.
+E1: AnonimizadoJuan?, Juan. Vale. ¿Y qué más? Si no es indiscreción. No… 
+I1: ¿De apellidos? Anonimizado y, Pons_Varela. 
+E1:  AnonimizadoPons? 
+I1: Anonimizado. P, o, n, s Varela.  
+E1: T1 Anonimizado.  Pues muchísimas gracias por dedicarnos  este…, este tiempo  tan generoso. Bien, un tema que nos interesa mucho es, ¿usted conoce si en esta zona se hacía matanza? 
+I1: Sí…, ¿de, de animales? 
+E1: De cerdo, por ejemplo.  
+I1: sí. Una costumbre de siempre, de toas las casas…, que… se engordaba a un cerdo, se compraba… pequeñito… lechón… en marzo y… a finales de año… en, en la, en la luna llena de diciembre se tenía que sacrificar sí o sí. Porque… era cuando se…, la carne se conservaba y todo… Entoces
+",La provincia a la que pertenecen los informadores es Barcelona.

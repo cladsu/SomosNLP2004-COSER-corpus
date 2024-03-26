@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T1 ¿Entonces ustedes hacían matanza? 
+I1: Sí.
+E1: ¿Y cómo, con el cerdo? 
+I1: Con el cerdo. 
+E1: Y cómo hacían, ¿cómo lo alimentaban? 
+I1: Ah, pues con patata, remolacha, ¿no sé si sabéis lo que es  remolacha? Bueno, y harina…   y nada, de casa, de cebada, de maíz o trigo. 
+E2: Dejar dejen uno hablar porque si no no sale. Porque si hablan todos a la vez sale…  
+I1: De eso. De, de, se alimentaba con patata, remolacha, harina de trigo, de máiz y cebada. Eso era lo que se alimentaba.
+E1: Y, ¿cuánto tiempo lo tenían… al cerdo criando? 
+I1: Bueno, pues… 
+I3: Tres o cuatro meses. 
+",La provincia a la que pertenecen los informadores es Álava.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T1 ¿Entonces ustedes hacían matanza? 
+I1: Sí.
+E1: ¿Y cómo, con el cerdo? 
+I1: Con el cerdo. 
+E1: Y cómo hacían, ¿cómo lo alimentaban? 
+I1: Ah, pues con patata, remolacha, ¿no sé si sabéis lo que es  remolacha? Bueno, y harina…   y nada, de casa, de cebada, de maíz o trigo. 
+E2: Dejar dejen uno hablar porque si no no sale. Porque si hablan todos a la vez sale…  
+I1: De eso. De, de, se alimentaba con patata, remolacha, harina de trigo, de máiz y cebada. Eso era lo que se alimentaba.
+E1: Y, ¿cuánto tiempo lo tenían… al cerdo criando? 
+I1: Bueno, pues… 
+I3: Tres o cuatro meses. 
+",La provincia a la que pertenecen los informadores es Álava.
+"Dime la provincia del siguiente texto: E1: T1 ¿Entonces ustedes hacían matanza? 
+I1: Sí.
+E1: ¿Y cómo, con el cerdo? 
+I1: Con el cerdo. 
+E1: Y cómo hacían, ¿cómo lo alimentaban? 
+I1: Ah, pues con patata, remolacha, ¿no sé si sabéis lo que es  remolacha? Bueno, y harina…   y nada, de casa, de cebada, de maíz o trigo. 
+E2: Dejar dejen uno hablar porque si no no sale. Porque si hablan todos a la vez sale…  
+I1: De eso. De, de, se alimentaba con patata, remolacha, harina de trigo, de máiz y cebada. Eso era lo que se alimentaba.
+E1: Y, ¿cuánto tiempo lo tenían… al cerdo criando? 
+I1: Bueno, pues… 
+I3: Tres o cuatro meses. 
+",La provincia a la que pertenecen los informadores es Álava.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T1 ¿Entonces ustedes hacían matanza? 
+I1: Sí.
+E1: ¿Y cómo, con el cerdo? 
+I1: Con el cerdo. 
+E1: Y cómo hacían, ¿cómo lo alimentaban? 
+I1: Ah, pues con patata, remolacha, ¿no sé si sabéis lo que es  remolacha? Bueno, y harina…   y nada, de casa, de cebada, de maíz o trigo. 
+E2: Dejar dejen uno hablar porque si no no sale. Porque si hablan todos a la vez sale…  
+I1: De eso. De, de, se alimentaba con patata, remolacha, harina de trigo, de máiz y cebada. Eso era lo que se alimentaba.
+E1: Y, ¿cuánto tiempo lo tenían… al cerdo criando? 
+I1: Bueno, pues… 
+I3: Tres o cuatro meses. 
+",La provincia a la que pertenecen los informadores es Álava.
+"Dime de qué lugar es el siguiente texto:  E1: T1 ¿Entonces ustedes hacían matanza? 
+I1: Sí.
+E1: ¿Y cómo, con el cerdo? 
+I1: Con el cerdo. 
+E1: Y cómo hacían, ¿cómo lo alimentaban? 
+I1: Ah, pues con patata, remolacha, ¿no sé si sabéis lo que es  remolacha? Bueno, y harina…   y nada, de casa, de cebada, de maíz o trigo. 
+E2: Dejar dejen uno hablar porque si no no sale. Porque si hablan todos a la vez sale…  
+I1: De eso. De, de, se alimentaba con patata, remolacha, harina de trigo, de máiz y cebada. Eso era lo que se alimentaba.
+E1: Y, ¿cuánto tiempo lo tenían… al cerdo criando? 
+I1: Bueno, pues… 
+I3: Tres o cuatro meses. 
+",La provincia a la que pertenecen los informadores es Álava.

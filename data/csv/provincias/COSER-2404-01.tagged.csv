@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: Y los apellidos. 
+I1: Anonimizado. 
+E1: ¿Y qué edad tiene? Si no es indiscreción. 
+I1: Ochenta_y_dos años. 
+E1: Ochenta_y_dos años. 
+E2: Pues está usted muy bien, ¿eh? 
+I1: A ver, estoy muy bien fastidiao . 
+E2: de pueblo, que… 
+E1: T1 Mire, verá, queríamos preguntarle, por ejemplo, ¿usted ha hecho alguna vez matanza? 
+I1: Sí, sí. 
+E1: ¿Y nos puede contar? Es que nunca hemos visto nada… ni hemos visto cómo se hacía la matanza. ¿Cómo se hacía? 
+",La provincia a la que pertenecen los informadores es La Coruña.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: Y los apellidos. 
+I1: Anonimizado. 
+E1: ¿Y qué edad tiene? Si no es indiscreción. 
+I1: Ochenta_y_dos años. 
+E1: Ochenta_y_dos años. 
+E2: Pues está usted muy bien, ¿eh? 
+I1: A ver, estoy muy bien fastidiao . 
+E2: de pueblo, que… 
+E1: T1 Mire, verá, queríamos preguntarle, por ejemplo, ¿usted ha hecho alguna vez matanza? 
+I1: Sí, sí. 
+E1: ¿Y nos puede contar? Es que nunca hemos visto nada… ni hemos visto cómo se hacía la matanza. ¿Cómo se hacía? 
+",La provincia a la que pertenecen los informadores es La Coruña.
+"Dime la provincia del siguiente texto: E1: Y los apellidos. 
+I1: Anonimizado. 
+E1: ¿Y qué edad tiene? Si no es indiscreción. 
+I1: Ochenta_y_dos años. 
+E1: Ochenta_y_dos años. 
+E2: Pues está usted muy bien, ¿eh? 
+I1: A ver, estoy muy bien fastidiao . 
+E2: de pueblo, que… 
+E1: T1 Mire, verá, queríamos preguntarle, por ejemplo, ¿usted ha hecho alguna vez matanza? 
+I1: Sí, sí. 
+E1: ¿Y nos puede contar? Es que nunca hemos visto nada… ni hemos visto cómo se hacía la matanza. ¿Cómo se hacía? 
+",La provincia a la que pertenecen los informadores es La Coruña.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: Y los apellidos. 
+I1: Anonimizado. 
+E1: ¿Y qué edad tiene? Si no es indiscreción. 
+I1: Ochenta_y_dos años. 
+E1: Ochenta_y_dos años. 
+E2: Pues está usted muy bien, ¿eh? 
+I1: A ver, estoy muy bien fastidiao . 
+E2: de pueblo, que… 
+E1: T1 Mire, verá, queríamos preguntarle, por ejemplo, ¿usted ha hecho alguna vez matanza? 
+I1: Sí, sí. 
+E1: ¿Y nos puede contar? Es que nunca hemos visto nada… ni hemos visto cómo se hacía la matanza. ¿Cómo se hacía? 
+",La provincia a la que pertenecen los informadores es La Coruña.
+"Dime de qué lugar es el siguiente texto:  E1: Y los apellidos. 
+I1: Anonimizado. 
+E1: ¿Y qué edad tiene? Si no es indiscreción. 
+I1: Ochenta_y_dos años. 
+E1: Ochenta_y_dos años. 
+E2: Pues está usted muy bien, ¿eh? 
+I1: A ver, estoy muy bien fastidiao . 
+E2: de pueblo, que… 
+E1: T1 Mire, verá, queríamos preguntarle, por ejemplo, ¿usted ha hecho alguna vez matanza? 
+I1: Sí, sí. 
+E1: ¿Y nos puede contar? Es que nunca hemos visto nada… ni hemos visto cómo se hacía la matanza. ¿Cómo se hacía? 
+",La provincia a la que pertenecen los informadores es La Coruña.

@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1:  Nosotros, los de aquí, pos los que vivíamos, fuimos hemos nacido de aquí. 
+E1: Bueno, pues nos encontramos en Liétor. Vamos a hacer la primera entrevista. El equipo de trabajo son Gonzalo_Suárez_López… TOS 
+E2: Angela_Zampone… 
+E3: Sara_Luaces… 
+E4: E Igone_Regidor. 
+E1: Yo, Gonzalo, haré la entrevista y mis compañeras harán la…, tomarán las notas. Estamos a… veinticinco de abril. TOS  No, no se preocupe. 
+I1: Comed una, a ver si, a ver si los gusta. Siéntate, siéntate. Que hay allí sillas.
+E1: ¿Y usted tiene silla? 
+I1: Sí. Aquí hay sillas.  Ven·te pa acá. 
+E1: ¿Me traigo esta? 
+I1: Sí, tráetela, que A-Nul. Si por sillas no faltan, que tengo muchas. PS  
+",La provincia a la que pertenecen los informadores es Albacete.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1:  Nosotros, los de aquí, pos los que vivíamos, fuimos hemos nacido de aquí. 
+E1: Bueno, pues nos encontramos en Liétor. Vamos a hacer la primera entrevista. El equipo de trabajo son Gonzalo_Suárez_López… TOS 
+E2: Angela_Zampone… 
+E3: Sara_Luaces… 
+E4: E Igone_Regidor. 
+E1: Yo, Gonzalo, haré la entrevista y mis compañeras harán la…, tomarán las notas. Estamos a… veinticinco de abril. TOS  No, no se preocupe. 
+I1: Comed una, a ver si, a ver si los gusta. Siéntate, siéntate. Que hay allí sillas.
+E1: ¿Y usted tiene silla? 
+I1: Sí. Aquí hay sillas.  Ven·te pa acá. 
+E1: ¿Me traigo esta? 
+I1: Sí, tráetela, que A-Nul. Si por sillas no faltan, que tengo muchas. PS  
+",La provincia a la que pertenecen los informadores es Albacete.
+"Dime la provincia del siguiente texto: I1:  Nosotros, los de aquí, pos los que vivíamos, fuimos hemos nacido de aquí. 
+E1: Bueno, pues nos encontramos en Liétor. Vamos a hacer la primera entrevista. El equipo de trabajo son Gonzalo_Suárez_López… TOS 
+E2: Angela_Zampone… 
+E3: Sara_Luaces… 
+E4: E Igone_Regidor. 
+E1: Yo, Gonzalo, haré la entrevista y mis compañeras harán la…, tomarán las notas. Estamos a… veinticinco de abril. TOS  No, no se preocupe. 
+I1: Comed una, a ver si, a ver si los gusta. Siéntate, siéntate. Que hay allí sillas.
+E1: ¿Y usted tiene silla? 
+I1: Sí. Aquí hay sillas.  Ven·te pa acá. 
+E1: ¿Me traigo esta? 
+I1: Sí, tráetela, que A-Nul. Si por sillas no faltan, que tengo muchas. PS  
+",La provincia a la que pertenecen los informadores es Albacete.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1:  Nosotros, los de aquí, pos los que vivíamos, fuimos hemos nacido de aquí. 
+E1: Bueno, pues nos encontramos en Liétor. Vamos a hacer la primera entrevista. El equipo de trabajo son Gonzalo_Suárez_López… TOS 
+E2: Angela_Zampone… 
+E3: Sara_Luaces… 
+E4: E Igone_Regidor. 
+E1: Yo, Gonzalo, haré la entrevista y mis compañeras harán la…, tomarán las notas. Estamos a… veinticinco de abril. TOS  No, no se preocupe. 
+I1: Comed una, a ver si, a ver si los gusta. Siéntate, siéntate. Que hay allí sillas.
+E1: ¿Y usted tiene silla? 
+I1: Sí. Aquí hay sillas.  Ven·te pa acá. 
+E1: ¿Me traigo esta? 
+I1: Sí, tráetela, que A-Nul. Si por sillas no faltan, que tengo muchas. PS  
+",La provincia a la que pertenecen los informadores es Albacete.
+"Dime de qué lugar es el siguiente texto:  I1:  Nosotros, los de aquí, pos los que vivíamos, fuimos hemos nacido de aquí. 
+E1: Bueno, pues nos encontramos en Liétor. Vamos a hacer la primera entrevista. El equipo de trabajo son Gonzalo_Suárez_López… TOS 
+E2: Angela_Zampone… 
+E3: Sara_Luaces… 
+E4: E Igone_Regidor. 
+E1: Yo, Gonzalo, haré la entrevista y mis compañeras harán la…, tomarán las notas. Estamos a… veinticinco de abril. TOS  No, no se preocupe. 
+I1: Comed una, a ver si, a ver si los gusta. Siéntate, siéntate. Que hay allí sillas.
+E1: ¿Y usted tiene silla? 
+I1: Sí. Aquí hay sillas.  Ven·te pa acá. 
+E1: ¿Me traigo esta? 
+I1: Sí, tráetela, que A-Nul. Si por sillas no faltan, que tengo muchas. PS  
+",La provincia a la que pertenecen los informadores es Albacete.

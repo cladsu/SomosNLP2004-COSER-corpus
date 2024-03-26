@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T1 Que no nos da tiempo a coger todo. Pues a ver, cuéntenos: ¿cómo, cómo matan el cerdo? 
+I1: Bueno, pues el cerdo le matan, pues le tumban en un banco, y le meten el cuchillo así por donde la, la vena de alante y que sangra, y entón le chamuscan con cama y nada más. Y le abre y nada más. Una oveja, pues lo mismo, una oveja la sangran por, por el cuello, le quitan la piel, le sacan el vientre y muerta la oveja.
+E1: ¿Y… aprovechan el cerdo? 
+I1: Sí, mujer. ¿Dejarían de aprovecharle? Es que pa eso se crían los cerdos, pa aprovecharlos. Los animales todos son para, para el provecho de la persona, ¿eh? Todos, hay que sacrificalos pa eso, para el be-, para beneficio de la persona. Es que, si no, había animales. Porque cuando usté
+E1: ¿Se sigue haciendo aquí? 
+I1: Bueno, aquí sí sigue haciendo, sí. Aquí en los mataderos, en los mataderos antes se mataba antes,  l'han quitao. Ahora tienen que ir a matar, me parece que a Renedo, no sé aónde vana matar.  Pero sí, sigue haciéndolo. Ahí pues la mayorí-, parte la gente pues crían a los cerdos, cría uno o dos y les mata, pa'n ' casa, pa'l servicio de casa. Y hay, hay quien cría tres o cuatro y les vende a cualquier persona que llega, se les vende pa llevar.
+E1: ¿Y cómo hacen los chorizos aquí? 
+I1: Ah, pues los chorizos los hacen con los tentinos de cerdo. Los limpian y pican picadillo de, de la hebra de, del cerdo y, y les van haciendo así con un embudo grande.
+E1: . ¿Y morcillas? 
+I1: También. Las hacen de la sangre. De la sangre del cerdo lo aprovechan y después pues hacen picadillo de, de unto de cerdo y de cosas y…, y del cerdo y hacen las morcillas y, y, y además buenas que son las morcillas de cerdo. 
+E1: ¿Sí?  ¿Y…? 
+",La provincia a la que pertenecen los informadores es Cantabria.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T1 Que no nos da tiempo a coger todo. Pues a ver, cuéntenos: ¿cómo, cómo matan el cerdo? 
+I1: Bueno, pues el cerdo le matan, pues le tumban en un banco, y le meten el cuchillo así por donde la, la vena de alante y que sangra, y entón le chamuscan con cama y nada más. Y le abre y nada más. Una oveja, pues lo mismo, una oveja la sangran por, por el cuello, le quitan la piel, le sacan el vientre y muerta la oveja.
+E1: ¿Y… aprovechan el cerdo? 
+I1: Sí, mujer. ¿Dejarían de aprovecharle? Es que pa eso se crían los cerdos, pa aprovecharlos. Los animales todos son para, para el provecho de la persona, ¿eh? Todos, hay que sacrificalos pa eso, para el be-, para beneficio de la persona. Es que, si no, había animales. Porque cuando usté
+E1: ¿Se sigue haciendo aquí? 
+I1: Bueno, aquí sí sigue haciendo, sí. Aquí en los mataderos, en los mataderos antes se mataba antes,  l'han quitao. Ahora tienen que ir a matar, me parece que a Renedo, no sé aónde vana matar.  Pero sí, sigue haciéndolo. Ahí pues la mayorí-, parte la gente pues crían a los cerdos, cría uno o dos y les mata, pa'n ' casa, pa'l servicio de casa. Y hay, hay quien cría tres o cuatro y les vende a cualquier persona que llega, se les vende pa llevar.
+E1: ¿Y cómo hacen los chorizos aquí? 
+I1: Ah, pues los chorizos los hacen con los tentinos de cerdo. Los limpian y pican picadillo de, de la hebra de, del cerdo y, y les van haciendo así con un embudo grande.
+E1: . ¿Y morcillas? 
+I1: También. Las hacen de la sangre. De la sangre del cerdo lo aprovechan y después pues hacen picadillo de, de unto de cerdo y de cosas y…, y del cerdo y hacen las morcillas y, y, y además buenas que son las morcillas de cerdo. 
+E1: ¿Sí?  ¿Y…? 
+",La provincia a la que pertenecen los informadores es Cantabria.
+"Dime la provincia del siguiente texto: E1: T1 Que no nos da tiempo a coger todo. Pues a ver, cuéntenos: ¿cómo, cómo matan el cerdo? 
+I1: Bueno, pues el cerdo le matan, pues le tumban en un banco, y le meten el cuchillo así por donde la, la vena de alante y que sangra, y entón le chamuscan con cama y nada más. Y le abre y nada más. Una oveja, pues lo mismo, una oveja la sangran por, por el cuello, le quitan la piel, le sacan el vientre y muerta la oveja.
+E1: ¿Y… aprovechan el cerdo? 
+I1: Sí, mujer. ¿Dejarían de aprovecharle? Es que pa eso se crían los cerdos, pa aprovecharlos. Los animales todos son para, para el provecho de la persona, ¿eh? Todos, hay que sacrificalos pa eso, para el be-, para beneficio de la persona. Es que, si no, había animales. Porque cuando usté
+E1: ¿Se sigue haciendo aquí? 
+I1: Bueno, aquí sí sigue haciendo, sí. Aquí en los mataderos, en los mataderos antes se mataba antes,  l'han quitao. Ahora tienen que ir a matar, me parece que a Renedo, no sé aónde vana matar.  Pero sí, sigue haciéndolo. Ahí pues la mayorí-, parte la gente pues crían a los cerdos, cría uno o dos y les mata, pa'n ' casa, pa'l servicio de casa. Y hay, hay quien cría tres o cuatro y les vende a cualquier persona que llega, se les vende pa llevar.
+E1: ¿Y cómo hacen los chorizos aquí? 
+I1: Ah, pues los chorizos los hacen con los tentinos de cerdo. Los limpian y pican picadillo de, de la hebra de, del cerdo y, y les van haciendo así con un embudo grande.
+E1: . ¿Y morcillas? 
+I1: También. Las hacen de la sangre. De la sangre del cerdo lo aprovechan y después pues hacen picadillo de, de unto de cerdo y de cosas y…, y del cerdo y hacen las morcillas y, y, y además buenas que son las morcillas de cerdo. 
+E1: ¿Sí?  ¿Y…? 
+",La provincia a la que pertenecen los informadores es Cantabria.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T1 Que no nos da tiempo a coger todo. Pues a ver, cuéntenos: ¿cómo, cómo matan el cerdo? 
+I1: Bueno, pues el cerdo le matan, pues le tumban en un banco, y le meten el cuchillo así por donde la, la vena de alante y que sangra, y entón le chamuscan con cama y nada más. Y le abre y nada más. Una oveja, pues lo mismo, una oveja la sangran por, por el cuello, le quitan la piel, le sacan el vientre y muerta la oveja.
+E1: ¿Y… aprovechan el cerdo? 
+I1: Sí, mujer. ¿Dejarían de aprovecharle? Es que pa eso se crían los cerdos, pa aprovecharlos. Los animales todos son para, para el provecho de la persona, ¿eh? Todos, hay que sacrificalos pa eso, para el be-, para beneficio de la persona. Es que, si no, había animales. Porque cuando usté
+E1: ¿Se sigue haciendo aquí? 
+I1: Bueno, aquí sí sigue haciendo, sí. Aquí en los mataderos, en los mataderos antes se mataba antes,  l'han quitao. Ahora tienen que ir a matar, me parece que a Renedo, no sé aónde vana matar.  Pero sí, sigue haciéndolo. Ahí pues la mayorí-, parte la gente pues crían a los cerdos, cría uno o dos y les mata, pa'n ' casa, pa'l servicio de casa. Y hay, hay quien cría tres o cuatro y les vende a cualquier persona que llega, se les vende pa llevar.
+E1: ¿Y cómo hacen los chorizos aquí? 
+I1: Ah, pues los chorizos los hacen con los tentinos de cerdo. Los limpian y pican picadillo de, de la hebra de, del cerdo y, y les van haciendo así con un embudo grande.
+E1: . ¿Y morcillas? 
+I1: También. Las hacen de la sangre. De la sangre del cerdo lo aprovechan y después pues hacen picadillo de, de unto de cerdo y de cosas y…, y del cerdo y hacen las morcillas y, y, y además buenas que son las morcillas de cerdo. 
+E1: ¿Sí?  ¿Y…? 
+",La provincia a la que pertenecen los informadores es Cantabria.
+"Dime de qué lugar es el siguiente texto:  E1: T1 Que no nos da tiempo a coger todo. Pues a ver, cuéntenos: ¿cómo, cómo matan el cerdo? 
+I1: Bueno, pues el cerdo le matan, pues le tumban en un banco, y le meten el cuchillo así por donde la, la vena de alante y que sangra, y entón le chamuscan con cama y nada más. Y le abre y nada más. Una oveja, pues lo mismo, una oveja la sangran por, por el cuello, le quitan la piel, le sacan el vientre y muerta la oveja.
+E1: ¿Y… aprovechan el cerdo? 
+I1: Sí, mujer. ¿Dejarían de aprovecharle? Es que pa eso se crían los cerdos, pa aprovecharlos. Los animales todos son para, para el provecho de la persona, ¿eh? Todos, hay que sacrificalos pa eso, para el be-, para beneficio de la persona. Es que, si no, había animales. Porque cuando usté
+E1: ¿Se sigue haciendo aquí? 
+I1: Bueno, aquí sí sigue haciendo, sí. Aquí en los mataderos, en los mataderos antes se mataba antes,  l'han quitao. Ahora tienen que ir a matar, me parece que a Renedo, no sé aónde vana matar.  Pero sí, sigue haciéndolo. Ahí pues la mayorí-, parte la gente pues crían a los cerdos, cría uno o dos y les mata, pa'n ' casa, pa'l servicio de casa. Y hay, hay quien cría tres o cuatro y les vende a cualquier persona que llega, se les vende pa llevar.
+E1: ¿Y cómo hacen los chorizos aquí? 
+I1: Ah, pues los chorizos los hacen con los tentinos de cerdo. Los limpian y pican picadillo de, de la hebra de, del cerdo y, y les van haciendo así con un embudo grande.
+E1: . ¿Y morcillas? 
+I1: También. Las hacen de la sangre. De la sangre del cerdo lo aprovechan y después pues hacen picadillo de, de unto de cerdo y de cosas y…, y del cerdo y hacen las morcillas y, y, y además buenas que son las morcillas de cerdo. 
+E1: ¿Sí?  ¿Y…? 
+",La provincia a la que pertenecen los informadores es Cantabria.

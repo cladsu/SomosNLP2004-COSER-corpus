@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: Pero…,  pero, vamos preguntando un poco en cada zona,las tradiciones  nada el señor de las cosas de las mujeres…  pues por ejemplo esto del almidón, de las morcillas  de eso no  sabe Rndo:nada. 
+I2: Ahí nosotros también matábamos.
+E2: ¿El qué? 
+I2: Que también P-Enf:matábamos.  Ahora llevamos dos o tres años que ya no, porque ya no comemos esa grasa tan… 
+I1: Y que ya somos mayores y no estamos pa trabajá tanto.
+I2: Pero hacíamos con morcilla fresca, hacíamos de… esta del hígado, que decíamos de hígado, hacíamos chorizo,hacíamos morcilla patatera, hacíamos otras poquitas de calabaza y arroz… y luego hacíamos el adobo, echábamos los lomos, unos los hacíamos blancos y otros en rojo, hacías el adobo, echabas las orejas, V-Mrm las papas y to las cositas esas de… pa lugo
+E2: HCruz: ¡Hola! 
+IE:  IE: HCruz: ¡Hola! 
+I1: HCruz:Hola. 
+I2: HCruz:Así vas… ¿te vas a una boda? 
+IE:  IE: HCruz:Pero voy bien, ¿no? 
+",La provincia a la que pertenecen los informadores es Badajoz.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: Pero…,  pero, vamos preguntando un poco en cada zona,las tradiciones  nada el señor de las cosas de las mujeres…  pues por ejemplo esto del almidón, de las morcillas  de eso no  sabe Rndo:nada. 
+I2: Ahí nosotros también matábamos.
+E2: ¿El qué? 
+I2: Que también P-Enf:matábamos.  Ahora llevamos dos o tres años que ya no, porque ya no comemos esa grasa tan… 
+I1: Y que ya somos mayores y no estamos pa trabajá tanto.
+I2: Pero hacíamos con morcilla fresca, hacíamos de… esta del hígado, que decíamos de hígado, hacíamos chorizo,hacíamos morcilla patatera, hacíamos otras poquitas de calabaza y arroz… y luego hacíamos el adobo, echábamos los lomos, unos los hacíamos blancos y otros en rojo, hacías el adobo, echabas las orejas, V-Mrm las papas y to las cositas esas de… pa lugo
+E2: HCruz: ¡Hola! 
+IE:  IE: HCruz: ¡Hola! 
+I1: HCruz:Hola. 
+I2: HCruz:Así vas… ¿te vas a una boda? 
+IE:  IE: HCruz:Pero voy bien, ¿no? 
+",La provincia a la que pertenecen los informadores es Badajoz.
+"Dime la provincia del siguiente texto: E1: Pero…,  pero, vamos preguntando un poco en cada zona,las tradiciones  nada el señor de las cosas de las mujeres…  pues por ejemplo esto del almidón, de las morcillas  de eso no  sabe Rndo:nada. 
+I2: Ahí nosotros también matábamos.
+E2: ¿El qué? 
+I2: Que también P-Enf:matábamos.  Ahora llevamos dos o tres años que ya no, porque ya no comemos esa grasa tan… 
+I1: Y que ya somos mayores y no estamos pa trabajá tanto.
+I2: Pero hacíamos con morcilla fresca, hacíamos de… esta del hígado, que decíamos de hígado, hacíamos chorizo,hacíamos morcilla patatera, hacíamos otras poquitas de calabaza y arroz… y luego hacíamos el adobo, echábamos los lomos, unos los hacíamos blancos y otros en rojo, hacías el adobo, echabas las orejas, V-Mrm las papas y to las cositas esas de… pa lugo
+E2: HCruz: ¡Hola! 
+IE:  IE: HCruz: ¡Hola! 
+I1: HCruz:Hola. 
+I2: HCruz:Así vas… ¿te vas a una boda? 
+IE:  IE: HCruz:Pero voy bien, ¿no? 
+",La provincia a la que pertenecen los informadores es Badajoz.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: Pero…,  pero, vamos preguntando un poco en cada zona,las tradiciones  nada el señor de las cosas de las mujeres…  pues por ejemplo esto del almidón, de las morcillas  de eso no  sabe Rndo:nada. 
+I2: Ahí nosotros también matábamos.
+E2: ¿El qué? 
+I2: Que también P-Enf:matábamos.  Ahora llevamos dos o tres años que ya no, porque ya no comemos esa grasa tan… 
+I1: Y que ya somos mayores y no estamos pa trabajá tanto.
+I2: Pero hacíamos con morcilla fresca, hacíamos de… esta del hígado, que decíamos de hígado, hacíamos chorizo,hacíamos morcilla patatera, hacíamos otras poquitas de calabaza y arroz… y luego hacíamos el adobo, echábamos los lomos, unos los hacíamos blancos y otros en rojo, hacías el adobo, echabas las orejas, V-Mrm las papas y to las cositas esas de… pa lugo
+E2: HCruz: ¡Hola! 
+IE:  IE: HCruz: ¡Hola! 
+I1: HCruz:Hola. 
+I2: HCruz:Así vas… ¿te vas a una boda? 
+IE:  IE: HCruz:Pero voy bien, ¿no? 
+",La provincia a la que pertenecen los informadores es Badajoz.
+"Dime de qué lugar es el siguiente texto:  E1: Pero…,  pero, vamos preguntando un poco en cada zona,las tradiciones  nada el señor de las cosas de las mujeres…  pues por ejemplo esto del almidón, de las morcillas  de eso no  sabe Rndo:nada. 
+I2: Ahí nosotros también matábamos.
+E2: ¿El qué? 
+I2: Que también P-Enf:matábamos.  Ahora llevamos dos o tres años que ya no, porque ya no comemos esa grasa tan… 
+I1: Y que ya somos mayores y no estamos pa trabajá tanto.
+I2: Pero hacíamos con morcilla fresca, hacíamos de… esta del hígado, que decíamos de hígado, hacíamos chorizo,hacíamos morcilla patatera, hacíamos otras poquitas de calabaza y arroz… y luego hacíamos el adobo, echábamos los lomos, unos los hacíamos blancos y otros en rojo, hacías el adobo, echabas las orejas, V-Mrm las papas y to las cositas esas de… pa lugo
+E2: HCruz: ¡Hola! 
+IE:  IE: HCruz: ¡Hola! 
+I1: HCruz:Hola. 
+I2: HCruz:Así vas… ¿te vas a una boda? 
+IE:  IE: HCruz:Pero voy bien, ¿no? 
+",La provincia a la que pertenecen los informadores es Badajoz.

@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: No hagas preguntas comprometidas. 
+E1: No.  
+E2: Nada, nada, nada, no se preocupe que es… 
+E1: T1 Bueno, pues cuéntenos, ¿cómo se criaba el cerdo antes? 
+I1: ¿Eh? 
+E1: ¿Cómo se criaba…? 
+E2: Bueno, espera. ¿Cómo se llama usted… y…? Si quiere… 
+I1: Bueno, yo me llamo Anonimizado. Nací el año 1921, el siete de enero.Y el cerdo se criaba con los desperdicios de la casa. . Y… un poco de harina de cebá y maíz y eso, . que les echaban luego cuando ya estaban cerca de la matanza, . eso se hacía en las casas.
+E1: ¿Pero tenían una cerda o compraban? 
+I1: Unas veces se tenía y otras se compraba. . Había quien tenía una cerda, criaba una cría, . vendía algún cerdito, . y luego mataban la cerda, y así la reponían todos los años. 
+E1: Ya, ya, ya, ya. Y, ¿cuándo era la matanza, en que época?  ¿Ahora no? 
+",La provincia a la que pertenecen los informadores es Madrid.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: No hagas preguntas comprometidas. 
+E1: No.  
+E2: Nada, nada, nada, no se preocupe que es… 
+E1: T1 Bueno, pues cuéntenos, ¿cómo se criaba el cerdo antes? 
+I1: ¿Eh? 
+E1: ¿Cómo se criaba…? 
+E2: Bueno, espera. ¿Cómo se llama usted… y…? Si quiere… 
+I1: Bueno, yo me llamo Anonimizado. Nací el año 1921, el siete de enero.Y el cerdo se criaba con los desperdicios de la casa. . Y… un poco de harina de cebá y maíz y eso, . que les echaban luego cuando ya estaban cerca de la matanza, . eso se hacía en las casas.
+E1: ¿Pero tenían una cerda o compraban? 
+I1: Unas veces se tenía y otras se compraba. . Había quien tenía una cerda, criaba una cría, . vendía algún cerdito, . y luego mataban la cerda, y así la reponían todos los años. 
+E1: Ya, ya, ya, ya. Y, ¿cuándo era la matanza, en que época?  ¿Ahora no? 
+",La provincia a la que pertenecen los informadores es Madrid.
+"Dime la provincia del siguiente texto: I1: No hagas preguntas comprometidas. 
+E1: No.  
+E2: Nada, nada, nada, no se preocupe que es… 
+E1: T1 Bueno, pues cuéntenos, ¿cómo se criaba el cerdo antes? 
+I1: ¿Eh? 
+E1: ¿Cómo se criaba…? 
+E2: Bueno, espera. ¿Cómo se llama usted… y…? Si quiere… 
+I1: Bueno, yo me llamo Anonimizado. Nací el año 1921, el siete de enero.Y el cerdo se criaba con los desperdicios de la casa. . Y… un poco de harina de cebá y maíz y eso, . que les echaban luego cuando ya estaban cerca de la matanza, . eso se hacía en las casas.
+E1: ¿Pero tenían una cerda o compraban? 
+I1: Unas veces se tenía y otras se compraba. . Había quien tenía una cerda, criaba una cría, . vendía algún cerdito, . y luego mataban la cerda, y así la reponían todos los años. 
+E1: Ya, ya, ya, ya. Y, ¿cuándo era la matanza, en que época?  ¿Ahora no? 
+",La provincia a la que pertenecen los informadores es Madrid.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: No hagas preguntas comprometidas. 
+E1: No.  
+E2: Nada, nada, nada, no se preocupe que es… 
+E1: T1 Bueno, pues cuéntenos, ¿cómo se criaba el cerdo antes? 
+I1: ¿Eh? 
+E1: ¿Cómo se criaba…? 
+E2: Bueno, espera. ¿Cómo se llama usted… y…? Si quiere… 
+I1: Bueno, yo me llamo Anonimizado. Nací el año 1921, el siete de enero.Y el cerdo se criaba con los desperdicios de la casa. . Y… un poco de harina de cebá y maíz y eso, . que les echaban luego cuando ya estaban cerca de la matanza, . eso se hacía en las casas.
+E1: ¿Pero tenían una cerda o compraban? 
+I1: Unas veces se tenía y otras se compraba. . Había quien tenía una cerda, criaba una cría, . vendía algún cerdito, . y luego mataban la cerda, y así la reponían todos los años. 
+E1: Ya, ya, ya, ya. Y, ¿cuándo era la matanza, en que época?  ¿Ahora no? 
+",La provincia a la que pertenecen los informadores es Madrid.
+"Dime de qué lugar es el siguiente texto:  I1: No hagas preguntas comprometidas. 
+E1: No.  
+E2: Nada, nada, nada, no se preocupe que es… 
+E1: T1 Bueno, pues cuéntenos, ¿cómo se criaba el cerdo antes? 
+I1: ¿Eh? 
+E1: ¿Cómo se criaba…? 
+E2: Bueno, espera. ¿Cómo se llama usted… y…? Si quiere… 
+I1: Bueno, yo me llamo Anonimizado. Nací el año 1921, el siete de enero.Y el cerdo se criaba con los desperdicios de la casa. . Y… un poco de harina de cebá y maíz y eso, . que les echaban luego cuando ya estaban cerca de la matanza, . eso se hacía en las casas.
+E1: ¿Pero tenían una cerda o compraban? 
+I1: Unas veces se tenía y otras se compraba. . Había quien tenía una cerda, criaba una cría, . vendía algún cerdito, . y luego mataban la cerda, y así la reponían todos los años. 
+E1: Ya, ya, ya, ya. Y, ¿cuándo era la matanza, en que época?  ¿Ahora no? 
+",La provincia a la que pertenecen los informadores es Madrid.

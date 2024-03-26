@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: Bueno. 
+I1: A ver, ¿qué quieres que te diga? A ver. 
+E2: Es que si no, si no lo grabamos, no y no tomamos nota es muy difícil luego…  saber de to-… Sí.  a mí la memoria no, lo que pasa es que… 
+E1: T1 Pues si se acuerda, si se acuerda un poco de la matanza, y todo eso  Primero, bueno, ¿cómo se cogía al cerdo?, ¿cómo…? 
+I1: Entre… unos vecinos que se unían, le agarraban, le ponían en la mesa, lo metían el cuchillo, sale la sangre, se cogía en un barreño, después lo tendían en el suelo, se quemaba, . y eso sa-, con, con paja de aquí del campo, luego se raspaba bien raspaíto con un cuchillo, se lavaba bien lavadito, lo abrían, se iba al río a lavar las tripas, con todo así.
+E1: Pero ¿cómo se le mataba?, ¿se le clavaba algo? 
+I1: El cuchillo debajo, así debajo la nuez, se le clavaba el cuchillo. 
+E1: Sí, sí. 
+I1: El cerdo encima de la mesa, entonces debajo, le clavaban el cuchillo y la sangre se caía a chorro en un barreñito.  Que todo se aprovechaba, eh.  Esa sangre se hervía y todo eso es aprovecha. 
+E1: Sí, la sangre según nos han contado había que, había que mover… 
+I1: Bueno, si querías cogerlo para hacer morcillas,  pues lo tienes que mover para que eso no se coagule. . Pero lo que ibas a hervir, pues no importaba que lo, estuviera hecho un bloque. . Se echaba luego en el barreño y a cocerlo. 
+",La provincia a la que pertenecen los informadores es Ávila.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: Bueno. 
+I1: A ver, ¿qué quieres que te diga? A ver. 
+E2: Es que si no, si no lo grabamos, no y no tomamos nota es muy difícil luego…  saber de to-… Sí.  a mí la memoria no, lo que pasa es que… 
+E1: T1 Pues si se acuerda, si se acuerda un poco de la matanza, y todo eso  Primero, bueno, ¿cómo se cogía al cerdo?, ¿cómo…? 
+I1: Entre… unos vecinos que se unían, le agarraban, le ponían en la mesa, lo metían el cuchillo, sale la sangre, se cogía en un barreño, después lo tendían en el suelo, se quemaba, . y eso sa-, con, con paja de aquí del campo, luego se raspaba bien raspaíto con un cuchillo, se lavaba bien lavadito, lo abrían, se iba al río a lavar las tripas, con todo así.
+E1: Pero ¿cómo se le mataba?, ¿se le clavaba algo? 
+I1: El cuchillo debajo, así debajo la nuez, se le clavaba el cuchillo. 
+E1: Sí, sí. 
+I1: El cerdo encima de la mesa, entonces debajo, le clavaban el cuchillo y la sangre se caía a chorro en un barreñito.  Que todo se aprovechaba, eh.  Esa sangre se hervía y todo eso es aprovecha. 
+E1: Sí, la sangre según nos han contado había que, había que mover… 
+I1: Bueno, si querías cogerlo para hacer morcillas,  pues lo tienes que mover para que eso no se coagule. . Pero lo que ibas a hervir, pues no importaba que lo, estuviera hecho un bloque. . Se echaba luego en el barreño y a cocerlo. 
+",La provincia a la que pertenecen los informadores es Ávila.
+"Dime la provincia del siguiente texto: E1: Bueno. 
+I1: A ver, ¿qué quieres que te diga? A ver. 
+E2: Es que si no, si no lo grabamos, no y no tomamos nota es muy difícil luego…  saber de to-… Sí.  a mí la memoria no, lo que pasa es que… 
+E1: T1 Pues si se acuerda, si se acuerda un poco de la matanza, y todo eso  Primero, bueno, ¿cómo se cogía al cerdo?, ¿cómo…? 
+I1: Entre… unos vecinos que se unían, le agarraban, le ponían en la mesa, lo metían el cuchillo, sale la sangre, se cogía en un barreño, después lo tendían en el suelo, se quemaba, . y eso sa-, con, con paja de aquí del campo, luego se raspaba bien raspaíto con un cuchillo, se lavaba bien lavadito, lo abrían, se iba al río a lavar las tripas, con todo así.
+E1: Pero ¿cómo se le mataba?, ¿se le clavaba algo? 
+I1: El cuchillo debajo, así debajo la nuez, se le clavaba el cuchillo. 
+E1: Sí, sí. 
+I1: El cerdo encima de la mesa, entonces debajo, le clavaban el cuchillo y la sangre se caía a chorro en un barreñito.  Que todo se aprovechaba, eh.  Esa sangre se hervía y todo eso es aprovecha. 
+E1: Sí, la sangre según nos han contado había que, había que mover… 
+I1: Bueno, si querías cogerlo para hacer morcillas,  pues lo tienes que mover para que eso no se coagule. . Pero lo que ibas a hervir, pues no importaba que lo, estuviera hecho un bloque. . Se echaba luego en el barreño y a cocerlo. 
+",La provincia a la que pertenecen los informadores es Ávila.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: Bueno. 
+I1: A ver, ¿qué quieres que te diga? A ver. 
+E2: Es que si no, si no lo grabamos, no y no tomamos nota es muy difícil luego…  saber de to-… Sí.  a mí la memoria no, lo que pasa es que… 
+E1: T1 Pues si se acuerda, si se acuerda un poco de la matanza, y todo eso  Primero, bueno, ¿cómo se cogía al cerdo?, ¿cómo…? 
+I1: Entre… unos vecinos que se unían, le agarraban, le ponían en la mesa, lo metían el cuchillo, sale la sangre, se cogía en un barreño, después lo tendían en el suelo, se quemaba, . y eso sa-, con, con paja de aquí del campo, luego se raspaba bien raspaíto con un cuchillo, se lavaba bien lavadito, lo abrían, se iba al río a lavar las tripas, con todo así.
+E1: Pero ¿cómo se le mataba?, ¿se le clavaba algo? 
+I1: El cuchillo debajo, así debajo la nuez, se le clavaba el cuchillo. 
+E1: Sí, sí. 
+I1: El cerdo encima de la mesa, entonces debajo, le clavaban el cuchillo y la sangre se caía a chorro en un barreñito.  Que todo se aprovechaba, eh.  Esa sangre se hervía y todo eso es aprovecha. 
+E1: Sí, la sangre según nos han contado había que, había que mover… 
+I1: Bueno, si querías cogerlo para hacer morcillas,  pues lo tienes que mover para que eso no se coagule. . Pero lo que ibas a hervir, pues no importaba que lo, estuviera hecho un bloque. . Se echaba luego en el barreño y a cocerlo. 
+",La provincia a la que pertenecen los informadores es Ávila.
+"Dime de qué lugar es el siguiente texto:  E1: Bueno. 
+I1: A ver, ¿qué quieres que te diga? A ver. 
+E2: Es que si no, si no lo grabamos, no y no tomamos nota es muy difícil luego…  saber de to-… Sí.  a mí la memoria no, lo que pasa es que… 
+E1: T1 Pues si se acuerda, si se acuerda un poco de la matanza, y todo eso  Primero, bueno, ¿cómo se cogía al cerdo?, ¿cómo…? 
+I1: Entre… unos vecinos que se unían, le agarraban, le ponían en la mesa, lo metían el cuchillo, sale la sangre, se cogía en un barreño, después lo tendían en el suelo, se quemaba, . y eso sa-, con, con paja de aquí del campo, luego se raspaba bien raspaíto con un cuchillo, se lavaba bien lavadito, lo abrían, se iba al río a lavar las tripas, con todo así.
+E1: Pero ¿cómo se le mataba?, ¿se le clavaba algo? 
+I1: El cuchillo debajo, así debajo la nuez, se le clavaba el cuchillo. 
+E1: Sí, sí. 
+I1: El cerdo encima de la mesa, entonces debajo, le clavaban el cuchillo y la sangre se caía a chorro en un barreñito.  Que todo se aprovechaba, eh.  Esa sangre se hervía y todo eso es aprovecha. 
+E1: Sí, la sangre según nos han contado había que, había que mover… 
+I1: Bueno, si querías cogerlo para hacer morcillas,  pues lo tienes que mover para que eso no se coagule. . Pero lo que ibas a hervir, pues no importaba que lo, estuviera hecho un bloque. . Se echaba luego en el barreño y a cocerlo. 
+",La provincia a la que pertenecen los informadores es Ávila.

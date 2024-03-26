@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E2: Usted está aquí cómoda. Le voy a poner esto solo para que, cuando usted hable… PS 
+I1:  ¡Ah, sí! El… micro.  
+E2: El pinganillo. Estaba viendo la tele. Estaba… PS  ¿Y qué es lo que hacéis…?  
+E1: Es un trabajo para la universidad. 
+I1: Encuesta de… para la universidad. Sí…, yo tengo…, bueno, tres hijos. 
+E1: . 
+I1: Dos…, uno que hizo Magisterio en el Ave_María pero ese está allí. 
+E2: Voy a abrir un poco. 
+I1: Sí, sí, tira, tira. 
+E2: Que con esta vista…,¡qué maravilla! 
+I1: Sí…  En la universidad hizo Magisterio, pero ya… está ya mayó , ya está mayor.Y tengo la niña que es la alcaldesa de Órgiva. Sí, pero ella tiene… que cuando termine la alcaldía, vino la otra ella es directora del centro de día de salú
+",La provincia a la que pertenecen los informadores es Granada.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E2: Usted está aquí cómoda. Le voy a poner esto solo para que, cuando usted hable… PS 
+I1:  ¡Ah, sí! El… micro.  
+E2: El pinganillo. Estaba viendo la tele. Estaba… PS  ¿Y qué es lo que hacéis…?  
+E1: Es un trabajo para la universidad. 
+I1: Encuesta de… para la universidad. Sí…, yo tengo…, bueno, tres hijos. 
+E1: . 
+I1: Dos…, uno que hizo Magisterio en el Ave_María pero ese está allí. 
+E2: Voy a abrir un poco. 
+I1: Sí, sí, tira, tira. 
+E2: Que con esta vista…,¡qué maravilla! 
+I1: Sí…  En la universidad hizo Magisterio, pero ya… está ya mayó , ya está mayor.Y tengo la niña que es la alcaldesa de Órgiva. Sí, pero ella tiene… que cuando termine la alcaldía, vino la otra ella es directora del centro de día de salú
+",La provincia a la que pertenecen los informadores es Granada.
+"Dime la provincia del siguiente texto: E2: Usted está aquí cómoda. Le voy a poner esto solo para que, cuando usted hable… PS 
+I1:  ¡Ah, sí! El… micro.  
+E2: El pinganillo. Estaba viendo la tele. Estaba… PS  ¿Y qué es lo que hacéis…?  
+E1: Es un trabajo para la universidad. 
+I1: Encuesta de… para la universidad. Sí…, yo tengo…, bueno, tres hijos. 
+E1: . 
+I1: Dos…, uno que hizo Magisterio en el Ave_María pero ese está allí. 
+E2: Voy a abrir un poco. 
+I1: Sí, sí, tira, tira. 
+E2: Que con esta vista…,¡qué maravilla! 
+I1: Sí…  En la universidad hizo Magisterio, pero ya… está ya mayó , ya está mayor.Y tengo la niña que es la alcaldesa de Órgiva. Sí, pero ella tiene… que cuando termine la alcaldía, vino la otra ella es directora del centro de día de salú
+",La provincia a la que pertenecen los informadores es Granada.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E2: Usted está aquí cómoda. Le voy a poner esto solo para que, cuando usted hable… PS 
+I1:  ¡Ah, sí! El… micro.  
+E2: El pinganillo. Estaba viendo la tele. Estaba… PS  ¿Y qué es lo que hacéis…?  
+E1: Es un trabajo para la universidad. 
+I1: Encuesta de… para la universidad. Sí…, yo tengo…, bueno, tres hijos. 
+E1: . 
+I1: Dos…, uno que hizo Magisterio en el Ave_María pero ese está allí. 
+E2: Voy a abrir un poco. 
+I1: Sí, sí, tira, tira. 
+E2: Que con esta vista…,¡qué maravilla! 
+I1: Sí…  En la universidad hizo Magisterio, pero ya… está ya mayó , ya está mayor.Y tengo la niña que es la alcaldesa de Órgiva. Sí, pero ella tiene… que cuando termine la alcaldía, vino la otra ella es directora del centro de día de salú
+",La provincia a la que pertenecen los informadores es Granada.
+"Dime de qué lugar es el siguiente texto:  E2: Usted está aquí cómoda. Le voy a poner esto solo para que, cuando usted hable… PS 
+I1:  ¡Ah, sí! El… micro.  
+E2: El pinganillo. Estaba viendo la tele. Estaba… PS  ¿Y qué es lo que hacéis…?  
+E1: Es un trabajo para la universidad. 
+I1: Encuesta de… para la universidad. Sí…, yo tengo…, bueno, tres hijos. 
+E1: . 
+I1: Dos…, uno que hizo Magisterio en el Ave_María pero ese está allí. 
+E2: Voy a abrir un poco. 
+I1: Sí, sí, tira, tira. 
+E2: Que con esta vista…,¡qué maravilla! 
+I1: Sí…  En la universidad hizo Magisterio, pero ya… está ya mayó , ya está mayor.Y tengo la niña que es la alcaldesa de Órgiva. Sí, pero ella tiene… que cuando termine la alcaldía, vino la otra ella es directora del centro de día de salú
+",La provincia a la que pertenecen los informadores es Granada.

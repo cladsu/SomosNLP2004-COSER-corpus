@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: Setenta_y_ocho años. 
+I:  I: Setenta_y_ocho años cumplidos de diciembre. 
+E2: ¿Y cómo se llama? 
+I:  I: Anonimizado. 
+E2: Muy bien. Pues yo quisiera saber que… me contara algo de las… tradiciones de este pueblo, las costumbres… 
+I:  I: T6 Bueno, las costumbres, por ejemplo, en la primavera pues ya a… sembrar la tierra. Y luego… a-, arreglar por ejemplo lo que se siembra, que se llama sallar y reandar patates , maíz, y cosa de la huerta, todo, pero de todo s-, todo siembre. Ahora lo que pasa es que faltan más de la mitad de la gente del pueblo, , porque la juventud marchó casi todo y… viejos ya quedan pocos también. Y…, y luego… la hierba, ahora tamos
+E2: T8 Entonces estamos en un pueblo minero, ¿no? 
+I:  I: Sí, sí. Aquí la cuenca minera. Cerraron bastantes pozos, que aquí en Villoria, este pueblo que…, que pasasteis último, L-Otra:ye Villoria, se llama Villoria, y ahí había un pozo y ahí… trabajaron bastantes mi-, bastantes mineros, hasta que y dejaron L-Otra:yera
+E2: ¿Andar?  ¿Ni carros de caballos ni nada? 
+I:  I: No, no. Nada, nada. Los caballos utilizábanlos pa car-, pa la carga, por ejemplo, tenemos que dir a Villoria a buscar el carbón a ese pozo que se cerró y subilo
+E2: T11 Tengo una curiosidad muy grande. Antes, cuando no había electricidad, ¿cómo se iluminaban? 
+",La provincia a la que pertenecen los informadores es Asturias.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: Setenta_y_ocho años. 
+I:  I: Setenta_y_ocho años cumplidos de diciembre. 
+E2: ¿Y cómo se llama? 
+I:  I: Anonimizado. 
+E2: Muy bien. Pues yo quisiera saber que… me contara algo de las… tradiciones de este pueblo, las costumbres… 
+I:  I: T6 Bueno, las costumbres, por ejemplo, en la primavera pues ya a… sembrar la tierra. Y luego… a-, arreglar por ejemplo lo que se siembra, que se llama sallar y reandar patates , maíz, y cosa de la huerta, todo, pero de todo s-, todo siembre. Ahora lo que pasa es que faltan más de la mitad de la gente del pueblo, , porque la juventud marchó casi todo y… viejos ya quedan pocos también. Y…, y luego… la hierba, ahora tamos
+E2: T8 Entonces estamos en un pueblo minero, ¿no? 
+I:  I: Sí, sí. Aquí la cuenca minera. Cerraron bastantes pozos, que aquí en Villoria, este pueblo que…, que pasasteis último, L-Otra:ye Villoria, se llama Villoria, y ahí había un pozo y ahí… trabajaron bastantes mi-, bastantes mineros, hasta que y dejaron L-Otra:yera
+E2: ¿Andar?  ¿Ni carros de caballos ni nada? 
+I:  I: No, no. Nada, nada. Los caballos utilizábanlos pa car-, pa la carga, por ejemplo, tenemos que dir a Villoria a buscar el carbón a ese pozo que se cerró y subilo
+E2: T11 Tengo una curiosidad muy grande. Antes, cuando no había electricidad, ¿cómo se iluminaban? 
+",La provincia a la que pertenecen los informadores es Asturias.
+"Dime la provincia del siguiente texto: E1: Setenta_y_ocho años. 
+I:  I: Setenta_y_ocho años cumplidos de diciembre. 
+E2: ¿Y cómo se llama? 
+I:  I: Anonimizado. 
+E2: Muy bien. Pues yo quisiera saber que… me contara algo de las… tradiciones de este pueblo, las costumbres… 
+I:  I: T6 Bueno, las costumbres, por ejemplo, en la primavera pues ya a… sembrar la tierra. Y luego… a-, arreglar por ejemplo lo que se siembra, que se llama sallar y reandar patates , maíz, y cosa de la huerta, todo, pero de todo s-, todo siembre. Ahora lo que pasa es que faltan más de la mitad de la gente del pueblo, , porque la juventud marchó casi todo y… viejos ya quedan pocos también. Y…, y luego… la hierba, ahora tamos
+E2: T8 Entonces estamos en un pueblo minero, ¿no? 
+I:  I: Sí, sí. Aquí la cuenca minera. Cerraron bastantes pozos, que aquí en Villoria, este pueblo que…, que pasasteis último, L-Otra:ye Villoria, se llama Villoria, y ahí había un pozo y ahí… trabajaron bastantes mi-, bastantes mineros, hasta que y dejaron L-Otra:yera
+E2: ¿Andar?  ¿Ni carros de caballos ni nada? 
+I:  I: No, no. Nada, nada. Los caballos utilizábanlos pa car-, pa la carga, por ejemplo, tenemos que dir a Villoria a buscar el carbón a ese pozo que se cerró y subilo
+E2: T11 Tengo una curiosidad muy grande. Antes, cuando no había electricidad, ¿cómo se iluminaban? 
+",La provincia a la que pertenecen los informadores es Asturias.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: Setenta_y_ocho años. 
+I:  I: Setenta_y_ocho años cumplidos de diciembre. 
+E2: ¿Y cómo se llama? 
+I:  I: Anonimizado. 
+E2: Muy bien. Pues yo quisiera saber que… me contara algo de las… tradiciones de este pueblo, las costumbres… 
+I:  I: T6 Bueno, las costumbres, por ejemplo, en la primavera pues ya a… sembrar la tierra. Y luego… a-, arreglar por ejemplo lo que se siembra, que se llama sallar y reandar patates , maíz, y cosa de la huerta, todo, pero de todo s-, todo siembre. Ahora lo que pasa es que faltan más de la mitad de la gente del pueblo, , porque la juventud marchó casi todo y… viejos ya quedan pocos también. Y…, y luego… la hierba, ahora tamos
+E2: T8 Entonces estamos en un pueblo minero, ¿no? 
+I:  I: Sí, sí. Aquí la cuenca minera. Cerraron bastantes pozos, que aquí en Villoria, este pueblo que…, que pasasteis último, L-Otra:ye Villoria, se llama Villoria, y ahí había un pozo y ahí… trabajaron bastantes mi-, bastantes mineros, hasta que y dejaron L-Otra:yera
+E2: ¿Andar?  ¿Ni carros de caballos ni nada? 
+I:  I: No, no. Nada, nada. Los caballos utilizábanlos pa car-, pa la carga, por ejemplo, tenemos que dir a Villoria a buscar el carbón a ese pozo que se cerró y subilo
+E2: T11 Tengo una curiosidad muy grande. Antes, cuando no había electricidad, ¿cómo se iluminaban? 
+",La provincia a la que pertenecen los informadores es Asturias.
+"Dime de qué lugar es el siguiente texto:  E1: Setenta_y_ocho años. 
+I:  I: Setenta_y_ocho años cumplidos de diciembre. 
+E2: ¿Y cómo se llama? 
+I:  I: Anonimizado. 
+E2: Muy bien. Pues yo quisiera saber que… me contara algo de las… tradiciones de este pueblo, las costumbres… 
+I:  I: T6 Bueno, las costumbres, por ejemplo, en la primavera pues ya a… sembrar la tierra. Y luego… a-, arreglar por ejemplo lo que se siembra, que se llama sallar y reandar patates , maíz, y cosa de la huerta, todo, pero de todo s-, todo siembre. Ahora lo que pasa es que faltan más de la mitad de la gente del pueblo, , porque la juventud marchó casi todo y… viejos ya quedan pocos también. Y…, y luego… la hierba, ahora tamos
+E2: T8 Entonces estamos en un pueblo minero, ¿no? 
+I:  I: Sí, sí. Aquí la cuenca minera. Cerraron bastantes pozos, que aquí en Villoria, este pueblo que…, que pasasteis último, L-Otra:ye Villoria, se llama Villoria, y ahí había un pozo y ahí… trabajaron bastantes mi-, bastantes mineros, hasta que y dejaron L-Otra:yera
+E2: ¿Andar?  ¿Ni carros de caballos ni nada? 
+I:  I: No, no. Nada, nada. Los caballos utilizábanlos pa car-, pa la carga, por ejemplo, tenemos que dir a Villoria a buscar el carbón a ese pozo que se cerró y subilo
+E2: T11 Tengo una curiosidad muy grande. Antes, cuando no había electricidad, ¿cómo se iluminaban? 
+",La provincia a la que pertenecen los informadores es Asturias.

@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: T1 Se hace, pero hay gente que lo, lo sabe hacer, vamos. 
+E1: No, no, pero si no necesitamos a una persona así que…, ¿sabe? ¿Usted ha hecho matanza en su casa? 
+I1: Sí. 
+E1: ¿Sí? Pero ¿ten-, criaba cerdos o…? 
+I1: Sí, sí, los criaba yo. Ahora ya no, porque ya somos mayores, pero sí. Cuando eso, los criábamos y… los matábamos, hacíamos matanza, sí. 
+E1: ¿Y estaban en casa los cerdos o…? 
+I1: En casa, no. Teníamos una nave. 
+E1: Ah, una nave. 
+I1: Teníamos una nave, sí. Pero ahora no. Vamos, ahora ya estamos jubilaos , ya somos mayores, ya no…, ya no. Pero hay mucha gente que lo…, toavía
+E1:  ¿Y usted sabe cómo se hacían los chorizos? ¿Cómo se hacía eso?  ¿Sí? 
+I1: Sí, yo los hacía. 
+",La provincia a la que pertenecen los informadores es Zamora.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: T1 Se hace, pero hay gente que lo, lo sabe hacer, vamos. 
+E1: No, no, pero si no necesitamos a una persona así que…, ¿sabe? ¿Usted ha hecho matanza en su casa? 
+I1: Sí. 
+E1: ¿Sí? Pero ¿ten-, criaba cerdos o…? 
+I1: Sí, sí, los criaba yo. Ahora ya no, porque ya somos mayores, pero sí. Cuando eso, los criábamos y… los matábamos, hacíamos matanza, sí. 
+E1: ¿Y estaban en casa los cerdos o…? 
+I1: En casa, no. Teníamos una nave. 
+E1: Ah, una nave. 
+I1: Teníamos una nave, sí. Pero ahora no. Vamos, ahora ya estamos jubilaos , ya somos mayores, ya no…, ya no. Pero hay mucha gente que lo…, toavía
+E1:  ¿Y usted sabe cómo se hacían los chorizos? ¿Cómo se hacía eso?  ¿Sí? 
+I1: Sí, yo los hacía. 
+",La provincia a la que pertenecen los informadores es Zamora.
+"Dime la provincia del siguiente texto: I1: T1 Se hace, pero hay gente que lo, lo sabe hacer, vamos. 
+E1: No, no, pero si no necesitamos a una persona así que…, ¿sabe? ¿Usted ha hecho matanza en su casa? 
+I1: Sí. 
+E1: ¿Sí? Pero ¿ten-, criaba cerdos o…? 
+I1: Sí, sí, los criaba yo. Ahora ya no, porque ya somos mayores, pero sí. Cuando eso, los criábamos y… los matábamos, hacíamos matanza, sí. 
+E1: ¿Y estaban en casa los cerdos o…? 
+I1: En casa, no. Teníamos una nave. 
+E1: Ah, una nave. 
+I1: Teníamos una nave, sí. Pero ahora no. Vamos, ahora ya estamos jubilaos , ya somos mayores, ya no…, ya no. Pero hay mucha gente que lo…, toavía
+E1:  ¿Y usted sabe cómo se hacían los chorizos? ¿Cómo se hacía eso?  ¿Sí? 
+I1: Sí, yo los hacía. 
+",La provincia a la que pertenecen los informadores es Zamora.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: T1 Se hace, pero hay gente que lo, lo sabe hacer, vamos. 
+E1: No, no, pero si no necesitamos a una persona así que…, ¿sabe? ¿Usted ha hecho matanza en su casa? 
+I1: Sí. 
+E1: ¿Sí? Pero ¿ten-, criaba cerdos o…? 
+I1: Sí, sí, los criaba yo. Ahora ya no, porque ya somos mayores, pero sí. Cuando eso, los criábamos y… los matábamos, hacíamos matanza, sí. 
+E1: ¿Y estaban en casa los cerdos o…? 
+I1: En casa, no. Teníamos una nave. 
+E1: Ah, una nave. 
+I1: Teníamos una nave, sí. Pero ahora no. Vamos, ahora ya estamos jubilaos , ya somos mayores, ya no…, ya no. Pero hay mucha gente que lo…, toavía
+E1:  ¿Y usted sabe cómo se hacían los chorizos? ¿Cómo se hacía eso?  ¿Sí? 
+I1: Sí, yo los hacía. 
+",La provincia a la que pertenecen los informadores es Zamora.
+"Dime de qué lugar es el siguiente texto:  I1: T1 Se hace, pero hay gente que lo, lo sabe hacer, vamos. 
+E1: No, no, pero si no necesitamos a una persona así que…, ¿sabe? ¿Usted ha hecho matanza en su casa? 
+I1: Sí. 
+E1: ¿Sí? Pero ¿ten-, criaba cerdos o…? 
+I1: Sí, sí, los criaba yo. Ahora ya no, porque ya somos mayores, pero sí. Cuando eso, los criábamos y… los matábamos, hacíamos matanza, sí. 
+E1: ¿Y estaban en casa los cerdos o…? 
+I1: En casa, no. Teníamos una nave. 
+E1: Ah, una nave. 
+I1: Teníamos una nave, sí. Pero ahora no. Vamos, ahora ya estamos jubilaos , ya somos mayores, ya no…, ya no. Pero hay mucha gente que lo…, toavía
+E1:  ¿Y usted sabe cómo se hacían los chorizos? ¿Cómo se hacía eso?  ¿Sí? 
+I1: Sí, yo los hacía. 
+",La provincia a la que pertenecen los informadores es Zamora.

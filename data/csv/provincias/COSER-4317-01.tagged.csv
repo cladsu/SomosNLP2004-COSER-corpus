@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: T11¡Epa! No sé firmar a malas penas, ¡ojo!, ¿eh?,  y he sido un número uno en el España en industria, el número uno en madera. De España, ¿eh?¡Ojo!, yo he tenido, veinticinco años, doscientos trabajadores fijos, y me han arruinao. 
+E1: Vaya. 
+I1: Esto era mi casa, mira, de aquí a allá.Esto era un hostal. ¿Sabes lo que es un hostal? 
+E1: Sí,  pues un sitio de dormir, ¿no? 
+I1: Dormir y comer. TOS Mucha gente en España me conoce. A mí no, a mi padre. Yo ya me he hecho mayor, mi padre murió…, mis abuelos, esto era… Toda esta finca. En aquel entonces, ¿eh?,¡ojo! ¿Lo ves? To es mi casa. Vivo yo solo, ahí está mi cuñao que tiene… 
+E2: ¿Que es el de los ce-, el que tiene los cerdos?
+I1: No…, qué va, este tiene seguros, este…  El cerdo es otra cosa, tenemos otra…, otra finca.  Esto es pa los toros, y luego no lo quito porque tengo muchos millones… 
+E2: ¿Esto es para que no entren los toros? 
+I1: Sí, pero pongo otro barrote,  claro. Pero ahora resulta que lo tengo porque tengo muchos millones y atracan en los coches,dan un golpe, V-Sml clac ONOMAT, y entonces tengo la reserva.  Aquí tengo otra defensa personal, cuidao, ¿eh?, si muerden os matan.  P-Enf: ¡Cuidao, cuidao!  
+IE:  IE: HCruz: ¡Hola! 
+I1: HCruz: ¡Hola! 
+",La provincia a la que pertenecen los informadores es Valencia.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: T11¡Epa! No sé firmar a malas penas, ¡ojo!, ¿eh?,  y he sido un número uno en el España en industria, el número uno en madera. De España, ¿eh?¡Ojo!, yo he tenido, veinticinco años, doscientos trabajadores fijos, y me han arruinao. 
+E1: Vaya. 
+I1: Esto era mi casa, mira, de aquí a allá.Esto era un hostal. ¿Sabes lo que es un hostal? 
+E1: Sí,  pues un sitio de dormir, ¿no? 
+I1: Dormir y comer. TOS Mucha gente en España me conoce. A mí no, a mi padre. Yo ya me he hecho mayor, mi padre murió…, mis abuelos, esto era… Toda esta finca. En aquel entonces, ¿eh?,¡ojo! ¿Lo ves? To es mi casa. Vivo yo solo, ahí está mi cuñao que tiene… 
+E2: ¿Que es el de los ce-, el que tiene los cerdos?
+I1: No…, qué va, este tiene seguros, este…  El cerdo es otra cosa, tenemos otra…, otra finca.  Esto es pa los toros, y luego no lo quito porque tengo muchos millones… 
+E2: ¿Esto es para que no entren los toros? 
+I1: Sí, pero pongo otro barrote,  claro. Pero ahora resulta que lo tengo porque tengo muchos millones y atracan en los coches,dan un golpe, V-Sml clac ONOMAT, y entonces tengo la reserva.  Aquí tengo otra defensa personal, cuidao, ¿eh?, si muerden os matan.  P-Enf: ¡Cuidao, cuidao!  
+IE:  IE: HCruz: ¡Hola! 
+I1: HCruz: ¡Hola! 
+",La provincia a la que pertenecen los informadores es Valencia.
+"Dime la provincia del siguiente texto: I1: T11¡Epa! No sé firmar a malas penas, ¡ojo!, ¿eh?,  y he sido un número uno en el España en industria, el número uno en madera. De España, ¿eh?¡Ojo!, yo he tenido, veinticinco años, doscientos trabajadores fijos, y me han arruinao. 
+E1: Vaya. 
+I1: Esto era mi casa, mira, de aquí a allá.Esto era un hostal. ¿Sabes lo que es un hostal? 
+E1: Sí,  pues un sitio de dormir, ¿no? 
+I1: Dormir y comer. TOS Mucha gente en España me conoce. A mí no, a mi padre. Yo ya me he hecho mayor, mi padre murió…, mis abuelos, esto era… Toda esta finca. En aquel entonces, ¿eh?,¡ojo! ¿Lo ves? To es mi casa. Vivo yo solo, ahí está mi cuñao que tiene… 
+E2: ¿Que es el de los ce-, el que tiene los cerdos?
+I1: No…, qué va, este tiene seguros, este…  El cerdo es otra cosa, tenemos otra…, otra finca.  Esto es pa los toros, y luego no lo quito porque tengo muchos millones… 
+E2: ¿Esto es para que no entren los toros? 
+I1: Sí, pero pongo otro barrote,  claro. Pero ahora resulta que lo tengo porque tengo muchos millones y atracan en los coches,dan un golpe, V-Sml clac ONOMAT, y entonces tengo la reserva.  Aquí tengo otra defensa personal, cuidao, ¿eh?, si muerden os matan.  P-Enf: ¡Cuidao, cuidao!  
+IE:  IE: HCruz: ¡Hola! 
+I1: HCruz: ¡Hola! 
+",La provincia a la que pertenecen los informadores es Valencia.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: T11¡Epa! No sé firmar a malas penas, ¡ojo!, ¿eh?,  y he sido un número uno en el España en industria, el número uno en madera. De España, ¿eh?¡Ojo!, yo he tenido, veinticinco años, doscientos trabajadores fijos, y me han arruinao. 
+E1: Vaya. 
+I1: Esto era mi casa, mira, de aquí a allá.Esto era un hostal. ¿Sabes lo que es un hostal? 
+E1: Sí,  pues un sitio de dormir, ¿no? 
+I1: Dormir y comer. TOS Mucha gente en España me conoce. A mí no, a mi padre. Yo ya me he hecho mayor, mi padre murió…, mis abuelos, esto era… Toda esta finca. En aquel entonces, ¿eh?,¡ojo! ¿Lo ves? To es mi casa. Vivo yo solo, ahí está mi cuñao que tiene… 
+E2: ¿Que es el de los ce-, el que tiene los cerdos?
+I1: No…, qué va, este tiene seguros, este…  El cerdo es otra cosa, tenemos otra…, otra finca.  Esto es pa los toros, y luego no lo quito porque tengo muchos millones… 
+E2: ¿Esto es para que no entren los toros? 
+I1: Sí, pero pongo otro barrote,  claro. Pero ahora resulta que lo tengo porque tengo muchos millones y atracan en los coches,dan un golpe, V-Sml clac ONOMAT, y entonces tengo la reserva.  Aquí tengo otra defensa personal, cuidao, ¿eh?, si muerden os matan.  P-Enf: ¡Cuidao, cuidao!  
+IE:  IE: HCruz: ¡Hola! 
+I1: HCruz: ¡Hola! 
+",La provincia a la que pertenecen los informadores es Valencia.
+"Dime de qué lugar es el siguiente texto:  I1: T11¡Epa! No sé firmar a malas penas, ¡ojo!, ¿eh?,  y he sido un número uno en el España en industria, el número uno en madera. De España, ¿eh?¡Ojo!, yo he tenido, veinticinco años, doscientos trabajadores fijos, y me han arruinao. 
+E1: Vaya. 
+I1: Esto era mi casa, mira, de aquí a allá.Esto era un hostal. ¿Sabes lo que es un hostal? 
+E1: Sí,  pues un sitio de dormir, ¿no? 
+I1: Dormir y comer. TOS Mucha gente en España me conoce. A mí no, a mi padre. Yo ya me he hecho mayor, mi padre murió…, mis abuelos, esto era… Toda esta finca. En aquel entonces, ¿eh?,¡ojo! ¿Lo ves? To es mi casa. Vivo yo solo, ahí está mi cuñao que tiene… 
+E2: ¿Que es el de los ce-, el que tiene los cerdos?
+I1: No…, qué va, este tiene seguros, este…  El cerdo es otra cosa, tenemos otra…, otra finca.  Esto es pa los toros, y luego no lo quito porque tengo muchos millones… 
+E2: ¿Esto es para que no entren los toros? 
+I1: Sí, pero pongo otro barrote,  claro. Pero ahora resulta que lo tengo porque tengo muchos millones y atracan en los coches,dan un golpe, V-Sml clac ONOMAT, y entonces tengo la reserva.  Aquí tengo otra defensa personal, cuidao, ¿eh?, si muerden os matan.  P-Enf: ¡Cuidao, cuidao!  
+IE:  IE: HCruz: ¡Hola! 
+I1: HCruz: ¡Hola! 
+",La provincia a la que pertenecen los informadores es Valencia.

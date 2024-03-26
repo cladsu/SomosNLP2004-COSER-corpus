@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: Bueno, pues  ya le hemos dicho, queríamos saber cómo era la vida de antes. ¿Usted de qué ha trabajado? 
+I1: T6 Bueno, yo sobre todo ha trabajado en la agricultura y ganadería, . en pequeña escala, porque no ten-, he criado nunca cantidá
+E1: Pero, disculpe, ¿qué animales…?  
+I1: T7 al resto de las islas, Tenerife y Las_Palmas, y entonces el comerciante, dijéramos el dueño la tienda, le recogía a uno el más que le gustaba y el resto, quesos buenos, los rechazaba. Y antonces pues sobre todo… esto lo sufría la… mujeres de la casa, dijíeramos
+E1: Sí, para recoger eso, pero no se preocupe.  Cuando vuelva, nos avisará.  Sí, está fuera. Está fuera. 
+I1: No, perdonen, ya vuelvo.  La puerta…  no está bien cerrada. 
+E1: Vale.PS V-Mrm 
+I1: Pues… en aquel momento, . la gente  trabajaba y… y habían personas que se lo organizaban, y entonces vendían, sobre todo, una vaca o un novillo y… agarraban aquel dinero… junto, dijéramos. . Yo recuerdo eso… pero siempre ha pasado igual, y recuerdo, bueno, los años… 40 y pico, . próximos 50, una vaca valía mil pesetas. Eso no daba pa nada. Pero esas mil pesetas, su dueño al vender, al venderlo consideraba un ahorro y bueno, tenía que verse muy apurado para gastar esas mil pesetas. . Esas mil pesetas la ahorraba pos pa hacer una casita, con algo más que tal, y… una vaca, un novillo, o lo que fuera. . Y… igual que también el otro ahorro que tenían, no todas las personas, eso era sobre todo… en El_Pinar, . no, perdona, Frontera; Pinar era menos. En… en Frontera, . había gente que tendía
+E1: La, la puerta, esta… sí.  Era… ¿sí? ¿El dinero? 
+I1: La gente… en aquel momento, bueno,  ha-, habría, habría un momento que llegaban vendiendo pescado, vamos al caso, . y tenían… cien pesetas, . y iban a cambiá las cien pesetas pa comprar pescado. . Habían casas que eran… muy económicas, . que ahorraban su dinero, . y bueno, y otros gastaban más de lo que tenían, eh, que el mundo ha sido más o menos siempre igual.
+E1: T3 . ¿Y  qué tipo de animales tenían? 
+",La provincia a la que pertenecen los informadores es El Hierro.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: Bueno, pues  ya le hemos dicho, queríamos saber cómo era la vida de antes. ¿Usted de qué ha trabajado? 
+I1: T6 Bueno, yo sobre todo ha trabajado en la agricultura y ganadería, . en pequeña escala, porque no ten-, he criado nunca cantidá
+E1: Pero, disculpe, ¿qué animales…?  
+I1: T7 al resto de las islas, Tenerife y Las_Palmas, y entonces el comerciante, dijéramos el dueño la tienda, le recogía a uno el más que le gustaba y el resto, quesos buenos, los rechazaba. Y antonces pues sobre todo… esto lo sufría la… mujeres de la casa, dijíeramos
+E1: Sí, para recoger eso, pero no se preocupe.  Cuando vuelva, nos avisará.  Sí, está fuera. Está fuera. 
+I1: No, perdonen, ya vuelvo.  La puerta…  no está bien cerrada. 
+E1: Vale.PS V-Mrm 
+I1: Pues… en aquel momento, . la gente  trabajaba y… y habían personas que se lo organizaban, y entonces vendían, sobre todo, una vaca o un novillo y… agarraban aquel dinero… junto, dijéramos. . Yo recuerdo eso… pero siempre ha pasado igual, y recuerdo, bueno, los años… 40 y pico, . próximos 50, una vaca valía mil pesetas. Eso no daba pa nada. Pero esas mil pesetas, su dueño al vender, al venderlo consideraba un ahorro y bueno, tenía que verse muy apurado para gastar esas mil pesetas. . Esas mil pesetas la ahorraba pos pa hacer una casita, con algo más que tal, y… una vaca, un novillo, o lo que fuera. . Y… igual que también el otro ahorro que tenían, no todas las personas, eso era sobre todo… en El_Pinar, . no, perdona, Frontera; Pinar era menos. En… en Frontera, . había gente que tendía
+E1: La, la puerta, esta… sí.  Era… ¿sí? ¿El dinero? 
+I1: La gente… en aquel momento, bueno,  ha-, habría, habría un momento que llegaban vendiendo pescado, vamos al caso, . y tenían… cien pesetas, . y iban a cambiá las cien pesetas pa comprar pescado. . Habían casas que eran… muy económicas, . que ahorraban su dinero, . y bueno, y otros gastaban más de lo que tenían, eh, que el mundo ha sido más o menos siempre igual.
+E1: T3 . ¿Y  qué tipo de animales tenían? 
+",La provincia a la que pertenecen los informadores es El Hierro.
+"Dime la provincia del siguiente texto: E1: Bueno, pues  ya le hemos dicho, queríamos saber cómo era la vida de antes. ¿Usted de qué ha trabajado? 
+I1: T6 Bueno, yo sobre todo ha trabajado en la agricultura y ganadería, . en pequeña escala, porque no ten-, he criado nunca cantidá
+E1: Pero, disculpe, ¿qué animales…?  
+I1: T7 al resto de las islas, Tenerife y Las_Palmas, y entonces el comerciante, dijéramos el dueño la tienda, le recogía a uno el más que le gustaba y el resto, quesos buenos, los rechazaba. Y antonces pues sobre todo… esto lo sufría la… mujeres de la casa, dijíeramos
+E1: Sí, para recoger eso, pero no se preocupe.  Cuando vuelva, nos avisará.  Sí, está fuera. Está fuera. 
+I1: No, perdonen, ya vuelvo.  La puerta…  no está bien cerrada. 
+E1: Vale.PS V-Mrm 
+I1: Pues… en aquel momento, . la gente  trabajaba y… y habían personas que se lo organizaban, y entonces vendían, sobre todo, una vaca o un novillo y… agarraban aquel dinero… junto, dijéramos. . Yo recuerdo eso… pero siempre ha pasado igual, y recuerdo, bueno, los años… 40 y pico, . próximos 50, una vaca valía mil pesetas. Eso no daba pa nada. Pero esas mil pesetas, su dueño al vender, al venderlo consideraba un ahorro y bueno, tenía que verse muy apurado para gastar esas mil pesetas. . Esas mil pesetas la ahorraba pos pa hacer una casita, con algo más que tal, y… una vaca, un novillo, o lo que fuera. . Y… igual que también el otro ahorro que tenían, no todas las personas, eso era sobre todo… en El_Pinar, . no, perdona, Frontera; Pinar era menos. En… en Frontera, . había gente que tendía
+E1: La, la puerta, esta… sí.  Era… ¿sí? ¿El dinero? 
+I1: La gente… en aquel momento, bueno,  ha-, habría, habría un momento que llegaban vendiendo pescado, vamos al caso, . y tenían… cien pesetas, . y iban a cambiá las cien pesetas pa comprar pescado. . Habían casas que eran… muy económicas, . que ahorraban su dinero, . y bueno, y otros gastaban más de lo que tenían, eh, que el mundo ha sido más o menos siempre igual.
+E1: T3 . ¿Y  qué tipo de animales tenían? 
+",La provincia a la que pertenecen los informadores es El Hierro.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: Bueno, pues  ya le hemos dicho, queríamos saber cómo era la vida de antes. ¿Usted de qué ha trabajado? 
+I1: T6 Bueno, yo sobre todo ha trabajado en la agricultura y ganadería, . en pequeña escala, porque no ten-, he criado nunca cantidá
+E1: Pero, disculpe, ¿qué animales…?  
+I1: T7 al resto de las islas, Tenerife y Las_Palmas, y entonces el comerciante, dijéramos el dueño la tienda, le recogía a uno el más que le gustaba y el resto, quesos buenos, los rechazaba. Y antonces pues sobre todo… esto lo sufría la… mujeres de la casa, dijíeramos
+E1: Sí, para recoger eso, pero no se preocupe.  Cuando vuelva, nos avisará.  Sí, está fuera. Está fuera. 
+I1: No, perdonen, ya vuelvo.  La puerta…  no está bien cerrada. 
+E1: Vale.PS V-Mrm 
+I1: Pues… en aquel momento, . la gente  trabajaba y… y habían personas que se lo organizaban, y entonces vendían, sobre todo, una vaca o un novillo y… agarraban aquel dinero… junto, dijéramos. . Yo recuerdo eso… pero siempre ha pasado igual, y recuerdo, bueno, los años… 40 y pico, . próximos 50, una vaca valía mil pesetas. Eso no daba pa nada. Pero esas mil pesetas, su dueño al vender, al venderlo consideraba un ahorro y bueno, tenía que verse muy apurado para gastar esas mil pesetas. . Esas mil pesetas la ahorraba pos pa hacer una casita, con algo más que tal, y… una vaca, un novillo, o lo que fuera. . Y… igual que también el otro ahorro que tenían, no todas las personas, eso era sobre todo… en El_Pinar, . no, perdona, Frontera; Pinar era menos. En… en Frontera, . había gente que tendía
+E1: La, la puerta, esta… sí.  Era… ¿sí? ¿El dinero? 
+I1: La gente… en aquel momento, bueno,  ha-, habría, habría un momento que llegaban vendiendo pescado, vamos al caso, . y tenían… cien pesetas, . y iban a cambiá las cien pesetas pa comprar pescado. . Habían casas que eran… muy económicas, . que ahorraban su dinero, . y bueno, y otros gastaban más de lo que tenían, eh, que el mundo ha sido más o menos siempre igual.
+E1: T3 . ¿Y  qué tipo de animales tenían? 
+",La provincia a la que pertenecen los informadores es El Hierro.
+"Dime de qué lugar es el siguiente texto:  E1: Bueno, pues  ya le hemos dicho, queríamos saber cómo era la vida de antes. ¿Usted de qué ha trabajado? 
+I1: T6 Bueno, yo sobre todo ha trabajado en la agricultura y ganadería, . en pequeña escala, porque no ten-, he criado nunca cantidá
+E1: Pero, disculpe, ¿qué animales…?  
+I1: T7 al resto de las islas, Tenerife y Las_Palmas, y entonces el comerciante, dijéramos el dueño la tienda, le recogía a uno el más que le gustaba y el resto, quesos buenos, los rechazaba. Y antonces pues sobre todo… esto lo sufría la… mujeres de la casa, dijíeramos
+E1: Sí, para recoger eso, pero no se preocupe.  Cuando vuelva, nos avisará.  Sí, está fuera. Está fuera. 
+I1: No, perdonen, ya vuelvo.  La puerta…  no está bien cerrada. 
+E1: Vale.PS V-Mrm 
+I1: Pues… en aquel momento, . la gente  trabajaba y… y habían personas que se lo organizaban, y entonces vendían, sobre todo, una vaca o un novillo y… agarraban aquel dinero… junto, dijéramos. . Yo recuerdo eso… pero siempre ha pasado igual, y recuerdo, bueno, los años… 40 y pico, . próximos 50, una vaca valía mil pesetas. Eso no daba pa nada. Pero esas mil pesetas, su dueño al vender, al venderlo consideraba un ahorro y bueno, tenía que verse muy apurado para gastar esas mil pesetas. . Esas mil pesetas la ahorraba pos pa hacer una casita, con algo más que tal, y… una vaca, un novillo, o lo que fuera. . Y… igual que también el otro ahorro que tenían, no todas las personas, eso era sobre todo… en El_Pinar, . no, perdona, Frontera; Pinar era menos. En… en Frontera, . había gente que tendía
+E1: La, la puerta, esta… sí.  Era… ¿sí? ¿El dinero? 
+I1: La gente… en aquel momento, bueno,  ha-, habría, habría un momento que llegaban vendiendo pescado, vamos al caso, . y tenían… cien pesetas, . y iban a cambiá las cien pesetas pa comprar pescado. . Habían casas que eran… muy económicas, . que ahorraban su dinero, . y bueno, y otros gastaban más de lo que tenían, eh, que el mundo ha sido más o menos siempre igual.
+E1: T3 . ¿Y  qué tipo de animales tenían? 
+",La provincia a la que pertenecen los informadores es El Hierro.

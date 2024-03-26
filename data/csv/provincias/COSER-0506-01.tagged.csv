@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T1 Voy a ir preguntando, entonces, ¿o sea que aquí hacían matanza? 
+I1: Sí, sí… Sí, siempre, siempre. 
+E1: ¿Y cómo era la matanza, cómo, cómo…? 
+I1: Bueno, pues se compraba un cerdo pequeño . y se criaba. 
+E1: Sí. 
+I1: Hasta que pesaba, pues bueno, depende, unas veces más, otras veces menos, pero diez o doce arrobas que eran lo que solían matar aquí o a lo mejor había dos, y eran más pequeños, y eso, pues era pa la casa, ¿no…? Aquí se hacían los chorizos y las morcillas, se salaban los jamones y s-, eso, pues se comía, en casa, durante el año, pues se comía, . era lo que… 
+E1: ¿Y el cerdo cómo, cómo… llamaban aquí… gocho? 
+I1: Sí, gocho, el gocho. . El gochu. .  Que aquí se termina con la u, todas las palabres . . El gochu…
+E1: ¿Y, y, el, el gochu, lo, lo, lo, cómo sacaban del, de, cómo se llama aquí donde están los… gochus? 
+I1: El cubil. . El cubil se llama,  llamaba, sí… 
+E1: Y… entonces, ¿qué hacían con…? 
+",La provincia a la que pertenecen los informadores es Asturias.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T1 Voy a ir preguntando, entonces, ¿o sea que aquí hacían matanza? 
+I1: Sí, sí… Sí, siempre, siempre. 
+E1: ¿Y cómo era la matanza, cómo, cómo…? 
+I1: Bueno, pues se compraba un cerdo pequeño . y se criaba. 
+E1: Sí. 
+I1: Hasta que pesaba, pues bueno, depende, unas veces más, otras veces menos, pero diez o doce arrobas que eran lo que solían matar aquí o a lo mejor había dos, y eran más pequeños, y eso, pues era pa la casa, ¿no…? Aquí se hacían los chorizos y las morcillas, se salaban los jamones y s-, eso, pues se comía, en casa, durante el año, pues se comía, . era lo que… 
+E1: ¿Y el cerdo cómo, cómo… llamaban aquí… gocho? 
+I1: Sí, gocho, el gocho. . El gochu. .  Que aquí se termina con la u, todas las palabres . . El gochu…
+E1: ¿Y, y, el, el gochu, lo, lo, lo, cómo sacaban del, de, cómo se llama aquí donde están los… gochus? 
+I1: El cubil. . El cubil se llama,  llamaba, sí… 
+E1: Y… entonces, ¿qué hacían con…? 
+",La provincia a la que pertenecen los informadores es Asturias.
+"Dime la provincia del siguiente texto: E1: T1 Voy a ir preguntando, entonces, ¿o sea que aquí hacían matanza? 
+I1: Sí, sí… Sí, siempre, siempre. 
+E1: ¿Y cómo era la matanza, cómo, cómo…? 
+I1: Bueno, pues se compraba un cerdo pequeño . y se criaba. 
+E1: Sí. 
+I1: Hasta que pesaba, pues bueno, depende, unas veces más, otras veces menos, pero diez o doce arrobas que eran lo que solían matar aquí o a lo mejor había dos, y eran más pequeños, y eso, pues era pa la casa, ¿no…? Aquí se hacían los chorizos y las morcillas, se salaban los jamones y s-, eso, pues se comía, en casa, durante el año, pues se comía, . era lo que… 
+E1: ¿Y el cerdo cómo, cómo… llamaban aquí… gocho? 
+I1: Sí, gocho, el gocho. . El gochu. .  Que aquí se termina con la u, todas las palabres . . El gochu…
+E1: ¿Y, y, el, el gochu, lo, lo, lo, cómo sacaban del, de, cómo se llama aquí donde están los… gochus? 
+I1: El cubil. . El cubil se llama,  llamaba, sí… 
+E1: Y… entonces, ¿qué hacían con…? 
+",La provincia a la que pertenecen los informadores es Asturias.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T1 Voy a ir preguntando, entonces, ¿o sea que aquí hacían matanza? 
+I1: Sí, sí… Sí, siempre, siempre. 
+E1: ¿Y cómo era la matanza, cómo, cómo…? 
+I1: Bueno, pues se compraba un cerdo pequeño . y se criaba. 
+E1: Sí. 
+I1: Hasta que pesaba, pues bueno, depende, unas veces más, otras veces menos, pero diez o doce arrobas que eran lo que solían matar aquí o a lo mejor había dos, y eran más pequeños, y eso, pues era pa la casa, ¿no…? Aquí se hacían los chorizos y las morcillas, se salaban los jamones y s-, eso, pues se comía, en casa, durante el año, pues se comía, . era lo que… 
+E1: ¿Y el cerdo cómo, cómo… llamaban aquí… gocho? 
+I1: Sí, gocho, el gocho. . El gochu. .  Que aquí se termina con la u, todas las palabres . . El gochu…
+E1: ¿Y, y, el, el gochu, lo, lo, lo, cómo sacaban del, de, cómo se llama aquí donde están los… gochus? 
+I1: El cubil. . El cubil se llama,  llamaba, sí… 
+E1: Y… entonces, ¿qué hacían con…? 
+",La provincia a la que pertenecen los informadores es Asturias.
+"Dime de qué lugar es el siguiente texto:  E1: T1 Voy a ir preguntando, entonces, ¿o sea que aquí hacían matanza? 
+I1: Sí, sí… Sí, siempre, siempre. 
+E1: ¿Y cómo era la matanza, cómo, cómo…? 
+I1: Bueno, pues se compraba un cerdo pequeño . y se criaba. 
+E1: Sí. 
+I1: Hasta que pesaba, pues bueno, depende, unas veces más, otras veces menos, pero diez o doce arrobas que eran lo que solían matar aquí o a lo mejor había dos, y eran más pequeños, y eso, pues era pa la casa, ¿no…? Aquí se hacían los chorizos y las morcillas, se salaban los jamones y s-, eso, pues se comía, en casa, durante el año, pues se comía, . era lo que… 
+E1: ¿Y el cerdo cómo, cómo… llamaban aquí… gocho? 
+I1: Sí, gocho, el gocho. . El gochu. .  Que aquí se termina con la u, todas las palabres . . El gochu…
+E1: ¿Y, y, el, el gochu, lo, lo, lo, cómo sacaban del, de, cómo se llama aquí donde están los… gochus? 
+I1: El cubil. . El cubil se llama,  llamaba, sí… 
+E1: Y… entonces, ¿qué hacían con…? 
+",La provincia a la que pertenecen los informadores es Asturias.

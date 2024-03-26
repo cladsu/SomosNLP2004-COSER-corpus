@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: Culantzi,  o Dulantzi. Bueno, hemos encontrado un señor de… ¿Nos podría decir la edad y el nombre? 
+I1: Pues setenta_y_dos años, y Anonimizado. 
+E1: Anonimizado, muy bien. 
+E2: Cuéntenos un poquito, ¿a qué…, a qué se dedica el pueblo? 
+I1: Bue-, pues mayormente a la agricultura, a la agricultura. Bueno,  chalés que hay, esos viven en, trabajan en Vitoria, o esos chalés que han hecho estos tr-, dos o tres años, esos trabajan en Vitoria, no sé en qué trabajan. . Pero los demás, aquí los del pueblo, pues nada, agricultura. Antes había ganadería, pero ahora ya no hay apenas nada. 
+E1: T6 ¿Y qué se cultiva? 
+I1: Pues cebada, trigo, máiz , remolacha, girasol, . y… to eso. Patata. La mayormente cereal, trigo… Trigo y remolacha lo que más se cultiva; . algo de patata también y algo de maíz, pero la mayor es trigo y cebada y…remolacha.
+E1: ¿Es usted bilingüe?  O sea que no sabe hablar euskera.  
+I1: no, no, no. 
+E1: . 
+I1: No sé. 
+",La provincia a la que pertenecen los informadores es Álava.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: Culantzi,  o Dulantzi. Bueno, hemos encontrado un señor de… ¿Nos podría decir la edad y el nombre? 
+I1: Pues setenta_y_dos años, y Anonimizado. 
+E1: Anonimizado, muy bien. 
+E2: Cuéntenos un poquito, ¿a qué…, a qué se dedica el pueblo? 
+I1: Bue-, pues mayormente a la agricultura, a la agricultura. Bueno,  chalés que hay, esos viven en, trabajan en Vitoria, o esos chalés que han hecho estos tr-, dos o tres años, esos trabajan en Vitoria, no sé en qué trabajan. . Pero los demás, aquí los del pueblo, pues nada, agricultura. Antes había ganadería, pero ahora ya no hay apenas nada. 
+E1: T6 ¿Y qué se cultiva? 
+I1: Pues cebada, trigo, máiz , remolacha, girasol, . y… to eso. Patata. La mayormente cereal, trigo… Trigo y remolacha lo que más se cultiva; . algo de patata también y algo de maíz, pero la mayor es trigo y cebada y…remolacha.
+E1: ¿Es usted bilingüe?  O sea que no sabe hablar euskera.  
+I1: no, no, no. 
+E1: . 
+I1: No sé. 
+",La provincia a la que pertenecen los informadores es Álava.
+"Dime la provincia del siguiente texto: E1: Culantzi,  o Dulantzi. Bueno, hemos encontrado un señor de… ¿Nos podría decir la edad y el nombre? 
+I1: Pues setenta_y_dos años, y Anonimizado. 
+E1: Anonimizado, muy bien. 
+E2: Cuéntenos un poquito, ¿a qué…, a qué se dedica el pueblo? 
+I1: Bue-, pues mayormente a la agricultura, a la agricultura. Bueno,  chalés que hay, esos viven en, trabajan en Vitoria, o esos chalés que han hecho estos tr-, dos o tres años, esos trabajan en Vitoria, no sé en qué trabajan. . Pero los demás, aquí los del pueblo, pues nada, agricultura. Antes había ganadería, pero ahora ya no hay apenas nada. 
+E1: T6 ¿Y qué se cultiva? 
+I1: Pues cebada, trigo, máiz , remolacha, girasol, . y… to eso. Patata. La mayormente cereal, trigo… Trigo y remolacha lo que más se cultiva; . algo de patata también y algo de maíz, pero la mayor es trigo y cebada y…remolacha.
+E1: ¿Es usted bilingüe?  O sea que no sabe hablar euskera.  
+I1: no, no, no. 
+E1: . 
+I1: No sé. 
+",La provincia a la que pertenecen los informadores es Álava.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: Culantzi,  o Dulantzi. Bueno, hemos encontrado un señor de… ¿Nos podría decir la edad y el nombre? 
+I1: Pues setenta_y_dos años, y Anonimizado. 
+E1: Anonimizado, muy bien. 
+E2: Cuéntenos un poquito, ¿a qué…, a qué se dedica el pueblo? 
+I1: Bue-, pues mayormente a la agricultura, a la agricultura. Bueno,  chalés que hay, esos viven en, trabajan en Vitoria, o esos chalés que han hecho estos tr-, dos o tres años, esos trabajan en Vitoria, no sé en qué trabajan. . Pero los demás, aquí los del pueblo, pues nada, agricultura. Antes había ganadería, pero ahora ya no hay apenas nada. 
+E1: T6 ¿Y qué se cultiva? 
+I1: Pues cebada, trigo, máiz , remolacha, girasol, . y… to eso. Patata. La mayormente cereal, trigo… Trigo y remolacha lo que más se cultiva; . algo de patata también y algo de maíz, pero la mayor es trigo y cebada y…remolacha.
+E1: ¿Es usted bilingüe?  O sea que no sabe hablar euskera.  
+I1: no, no, no. 
+E1: . 
+I1: No sé. 
+",La provincia a la que pertenecen los informadores es Álava.
+"Dime de qué lugar es el siguiente texto:  E1: Culantzi,  o Dulantzi. Bueno, hemos encontrado un señor de… ¿Nos podría decir la edad y el nombre? 
+I1: Pues setenta_y_dos años, y Anonimizado. 
+E1: Anonimizado, muy bien. 
+E2: Cuéntenos un poquito, ¿a qué…, a qué se dedica el pueblo? 
+I1: Bue-, pues mayormente a la agricultura, a la agricultura. Bueno,  chalés que hay, esos viven en, trabajan en Vitoria, o esos chalés que han hecho estos tr-, dos o tres años, esos trabajan en Vitoria, no sé en qué trabajan. . Pero los demás, aquí los del pueblo, pues nada, agricultura. Antes había ganadería, pero ahora ya no hay apenas nada. 
+E1: T6 ¿Y qué se cultiva? 
+I1: Pues cebada, trigo, máiz , remolacha, girasol, . y… to eso. Patata. La mayormente cereal, trigo… Trigo y remolacha lo que más se cultiva; . algo de patata también y algo de maíz, pero la mayor es trigo y cebada y…remolacha.
+E1: ¿Es usted bilingüe?  O sea que no sabe hablar euskera.  
+I1: no, no, no. 
+E1: . 
+I1: No sé. 
+",La provincia a la que pertenecen los informadores es Álava.

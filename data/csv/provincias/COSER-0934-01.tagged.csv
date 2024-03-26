@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: Bueno, oye, si estamos, ya, ya te diremos… 
+E1: T1 Pues, pues queríamos saber si, si se hacía antes matanza aquí. 
+I1: Sí. 
+E1: ¿Sí? 
+I1: Hace poco tiempo se ha dejao . Lo que pasa es que como estamos muy pues eso, tenemos los hijos en Vitoria, y ya pues vienen y dicen: «Mira, mamá, es que es mejor que no matéis porque tenemos nosotros fresco». Y, total, para los dos, pues y por eso na más. Hasta hace dos años he matao yo.
+E1: Sí. 
+I1:  y muy bien, oye,  lo hacemos todo. 
+E1: y cómo era un día de matanza? 
+I1: ¿Un día de matanza? Pues nada, se mete se mata al cerdo, a la mañana, y luego TOS se churruma, se churruma pues con paja o con helechos, helechos. Y luego pues, nada, se abre el cerdo,  se limpia y luego se abre, se abre el cerdo y luego hay que lavar las tripas. Tiene que, se… del cerdo se consume todo. Se lavan las tripas . y luego pues, a hacer las morcillas. 
+E1: Y… 
+I1: Y chorizos. 
+",La provincia a la que pertenecen los informadores es Burgos.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: Bueno, oye, si estamos, ya, ya te diremos… 
+E1: T1 Pues, pues queríamos saber si, si se hacía antes matanza aquí. 
+I1: Sí. 
+E1: ¿Sí? 
+I1: Hace poco tiempo se ha dejao . Lo que pasa es que como estamos muy pues eso, tenemos los hijos en Vitoria, y ya pues vienen y dicen: «Mira, mamá, es que es mejor que no matéis porque tenemos nosotros fresco». Y, total, para los dos, pues y por eso na más. Hasta hace dos años he matao yo.
+E1: Sí. 
+I1:  y muy bien, oye,  lo hacemos todo. 
+E1: y cómo era un día de matanza? 
+I1: ¿Un día de matanza? Pues nada, se mete se mata al cerdo, a la mañana, y luego TOS se churruma, se churruma pues con paja o con helechos, helechos. Y luego pues, nada, se abre el cerdo,  se limpia y luego se abre, se abre el cerdo y luego hay que lavar las tripas. Tiene que, se… del cerdo se consume todo. Se lavan las tripas . y luego pues, a hacer las morcillas. 
+E1: Y… 
+I1: Y chorizos. 
+",La provincia a la que pertenecen los informadores es Burgos.
+"Dime la provincia del siguiente texto: I1: Bueno, oye, si estamos, ya, ya te diremos… 
+E1: T1 Pues, pues queríamos saber si, si se hacía antes matanza aquí. 
+I1: Sí. 
+E1: ¿Sí? 
+I1: Hace poco tiempo se ha dejao . Lo que pasa es que como estamos muy pues eso, tenemos los hijos en Vitoria, y ya pues vienen y dicen: «Mira, mamá, es que es mejor que no matéis porque tenemos nosotros fresco». Y, total, para los dos, pues y por eso na más. Hasta hace dos años he matao yo.
+E1: Sí. 
+I1:  y muy bien, oye,  lo hacemos todo. 
+E1: y cómo era un día de matanza? 
+I1: ¿Un día de matanza? Pues nada, se mete se mata al cerdo, a la mañana, y luego TOS se churruma, se churruma pues con paja o con helechos, helechos. Y luego pues, nada, se abre el cerdo,  se limpia y luego se abre, se abre el cerdo y luego hay que lavar las tripas. Tiene que, se… del cerdo se consume todo. Se lavan las tripas . y luego pues, a hacer las morcillas. 
+E1: Y… 
+I1: Y chorizos. 
+",La provincia a la que pertenecen los informadores es Burgos.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: Bueno, oye, si estamos, ya, ya te diremos… 
+E1: T1 Pues, pues queríamos saber si, si se hacía antes matanza aquí. 
+I1: Sí. 
+E1: ¿Sí? 
+I1: Hace poco tiempo se ha dejao . Lo que pasa es que como estamos muy pues eso, tenemos los hijos en Vitoria, y ya pues vienen y dicen: «Mira, mamá, es que es mejor que no matéis porque tenemos nosotros fresco». Y, total, para los dos, pues y por eso na más. Hasta hace dos años he matao yo.
+E1: Sí. 
+I1:  y muy bien, oye,  lo hacemos todo. 
+E1: y cómo era un día de matanza? 
+I1: ¿Un día de matanza? Pues nada, se mete se mata al cerdo, a la mañana, y luego TOS se churruma, se churruma pues con paja o con helechos, helechos. Y luego pues, nada, se abre el cerdo,  se limpia y luego se abre, se abre el cerdo y luego hay que lavar las tripas. Tiene que, se… del cerdo se consume todo. Se lavan las tripas . y luego pues, a hacer las morcillas. 
+E1: Y… 
+I1: Y chorizos. 
+",La provincia a la que pertenecen los informadores es Burgos.
+"Dime de qué lugar es el siguiente texto:  I1: Bueno, oye, si estamos, ya, ya te diremos… 
+E1: T1 Pues, pues queríamos saber si, si se hacía antes matanza aquí. 
+I1: Sí. 
+E1: ¿Sí? 
+I1: Hace poco tiempo se ha dejao . Lo que pasa es que como estamos muy pues eso, tenemos los hijos en Vitoria, y ya pues vienen y dicen: «Mira, mamá, es que es mejor que no matéis porque tenemos nosotros fresco». Y, total, para los dos, pues y por eso na más. Hasta hace dos años he matao yo.
+E1: Sí. 
+I1:  y muy bien, oye,  lo hacemos todo. 
+E1: y cómo era un día de matanza? 
+I1: ¿Un día de matanza? Pues nada, se mete se mata al cerdo, a la mañana, y luego TOS se churruma, se churruma pues con paja o con helechos, helechos. Y luego pues, nada, se abre el cerdo,  se limpia y luego se abre, se abre el cerdo y luego hay que lavar las tripas. Tiene que, se… del cerdo se consume todo. Se lavan las tripas . y luego pues, a hacer las morcillas. 
+E1: Y… 
+I1: Y chorizos. 
+",La provincia a la que pertenecen los informadores es Burgos.

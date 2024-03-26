@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T1 Bueno, pues yo soy María, y… nada, queríamos hacerle unas preguntas sobre cómo era pues la vida aquí en el pueblo, lo que se hacía… Entonces nos interesa todo lo que nos cuente, todo lo que sabe…  Pero, si quiere, podemos empezar  por si aquí en el pueblo se hacía la matanza, cómo se hacía… 
+I1: Pues la matanza se…, s-, juntaban los vecinos del barrio, cuatro o cinco, cogían el cerdo, lo ponían encima de un ta-, de un… tablero y L-Otra:alí, allí lo acuchillaban. Se ponía un…, un cofre para recoger la sangre y esa sangre se comía, se cocía y la comíamos… frita.. Y al otro día venía el matachín, lo partía… en trozos, como se partía antiguamente la carne y se salaba, porque no había… ni congeladores ni neveras. Todo lo que teníamos tenía que ser salado. Y a las tres semanas se levantaba y se colgaba para curarlo. Y era lo que teníamos que comer todo el año. Había que repartirlo bien repartido. Pero todo el año teníamos el cerdo para comer… salado. . De fresco nada. Y…, y el cerdo lo ta-, e-, estábamos manteniendo todo el año. No es como ahora que… en cuatro meses ya hacen un cerdo, de aquella no. 
+E1: ¿Y qué se le alimentaba al cerdo? ¿Qué se le daba? 
+I1: Pues verdura: patatas, remolacha…, nabos. De todo, de…, todo lo que sobraba de comida de casa, pues todo iba pa'l cerdo. Ahora va pa los perros, pero antes iba pa'l cerdo. Y la carne era mucho más sabrosa que ahora. 
+E1: Claro. 
+I1: Carne mucho más hecha…, mucho más rica que la, que la que hay ahora, porque es hecha de muy pronto. 
+E1: ¿Y cada uno tenía su cerdo? ¿O era un cerdo en común? 
+I1: No, cada uno tenía su cerdo, pero a lo mejor algunos mataban…, nosotros matábamos dos o tres. 
+E1: ¿Todos los años? 
+I1: Todos los años, porque acabábamos uno y matábamos otro. . Pero había mucha gente que mataba uno solo. 
+E1: T6 . ¿Y… aquí… hay algún cultivo que sea típico de la zona?  ¿Algo que se cultivara en concreto? 
+",La provincia a la que pertenecen los informadores es Lugo.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T1 Bueno, pues yo soy María, y… nada, queríamos hacerle unas preguntas sobre cómo era pues la vida aquí en el pueblo, lo que se hacía… Entonces nos interesa todo lo que nos cuente, todo lo que sabe…  Pero, si quiere, podemos empezar  por si aquí en el pueblo se hacía la matanza, cómo se hacía… 
+I1: Pues la matanza se…, s-, juntaban los vecinos del barrio, cuatro o cinco, cogían el cerdo, lo ponían encima de un ta-, de un… tablero y L-Otra:alí, allí lo acuchillaban. Se ponía un…, un cofre para recoger la sangre y esa sangre se comía, se cocía y la comíamos… frita.. Y al otro día venía el matachín, lo partía… en trozos, como se partía antiguamente la carne y se salaba, porque no había… ni congeladores ni neveras. Todo lo que teníamos tenía que ser salado. Y a las tres semanas se levantaba y se colgaba para curarlo. Y era lo que teníamos que comer todo el año. Había que repartirlo bien repartido. Pero todo el año teníamos el cerdo para comer… salado. . De fresco nada. Y…, y el cerdo lo ta-, e-, estábamos manteniendo todo el año. No es como ahora que… en cuatro meses ya hacen un cerdo, de aquella no. 
+E1: ¿Y qué se le alimentaba al cerdo? ¿Qué se le daba? 
+I1: Pues verdura: patatas, remolacha…, nabos. De todo, de…, todo lo que sobraba de comida de casa, pues todo iba pa'l cerdo. Ahora va pa los perros, pero antes iba pa'l cerdo. Y la carne era mucho más sabrosa que ahora. 
+E1: Claro. 
+I1: Carne mucho más hecha…, mucho más rica que la, que la que hay ahora, porque es hecha de muy pronto. 
+E1: ¿Y cada uno tenía su cerdo? ¿O era un cerdo en común? 
+I1: No, cada uno tenía su cerdo, pero a lo mejor algunos mataban…, nosotros matábamos dos o tres. 
+E1: ¿Todos los años? 
+I1: Todos los años, porque acabábamos uno y matábamos otro. . Pero había mucha gente que mataba uno solo. 
+E1: T6 . ¿Y… aquí… hay algún cultivo que sea típico de la zona?  ¿Algo que se cultivara en concreto? 
+",La provincia a la que pertenecen los informadores es Lugo.
+"Dime la provincia del siguiente texto: E1: T1 Bueno, pues yo soy María, y… nada, queríamos hacerle unas preguntas sobre cómo era pues la vida aquí en el pueblo, lo que se hacía… Entonces nos interesa todo lo que nos cuente, todo lo que sabe…  Pero, si quiere, podemos empezar  por si aquí en el pueblo se hacía la matanza, cómo se hacía… 
+I1: Pues la matanza se…, s-, juntaban los vecinos del barrio, cuatro o cinco, cogían el cerdo, lo ponían encima de un ta-, de un… tablero y L-Otra:alí, allí lo acuchillaban. Se ponía un…, un cofre para recoger la sangre y esa sangre se comía, se cocía y la comíamos… frita.. Y al otro día venía el matachín, lo partía… en trozos, como se partía antiguamente la carne y se salaba, porque no había… ni congeladores ni neveras. Todo lo que teníamos tenía que ser salado. Y a las tres semanas se levantaba y se colgaba para curarlo. Y era lo que teníamos que comer todo el año. Había que repartirlo bien repartido. Pero todo el año teníamos el cerdo para comer… salado. . De fresco nada. Y…, y el cerdo lo ta-, e-, estábamos manteniendo todo el año. No es como ahora que… en cuatro meses ya hacen un cerdo, de aquella no. 
+E1: ¿Y qué se le alimentaba al cerdo? ¿Qué se le daba? 
+I1: Pues verdura: patatas, remolacha…, nabos. De todo, de…, todo lo que sobraba de comida de casa, pues todo iba pa'l cerdo. Ahora va pa los perros, pero antes iba pa'l cerdo. Y la carne era mucho más sabrosa que ahora. 
+E1: Claro. 
+I1: Carne mucho más hecha…, mucho más rica que la, que la que hay ahora, porque es hecha de muy pronto. 
+E1: ¿Y cada uno tenía su cerdo? ¿O era un cerdo en común? 
+I1: No, cada uno tenía su cerdo, pero a lo mejor algunos mataban…, nosotros matábamos dos o tres. 
+E1: ¿Todos los años? 
+I1: Todos los años, porque acabábamos uno y matábamos otro. . Pero había mucha gente que mataba uno solo. 
+E1: T6 . ¿Y… aquí… hay algún cultivo que sea típico de la zona?  ¿Algo que se cultivara en concreto? 
+",La provincia a la que pertenecen los informadores es Lugo.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T1 Bueno, pues yo soy María, y… nada, queríamos hacerle unas preguntas sobre cómo era pues la vida aquí en el pueblo, lo que se hacía… Entonces nos interesa todo lo que nos cuente, todo lo que sabe…  Pero, si quiere, podemos empezar  por si aquí en el pueblo se hacía la matanza, cómo se hacía… 
+I1: Pues la matanza se…, s-, juntaban los vecinos del barrio, cuatro o cinco, cogían el cerdo, lo ponían encima de un ta-, de un… tablero y L-Otra:alí, allí lo acuchillaban. Se ponía un…, un cofre para recoger la sangre y esa sangre se comía, se cocía y la comíamos… frita.. Y al otro día venía el matachín, lo partía… en trozos, como se partía antiguamente la carne y se salaba, porque no había… ni congeladores ni neveras. Todo lo que teníamos tenía que ser salado. Y a las tres semanas se levantaba y se colgaba para curarlo. Y era lo que teníamos que comer todo el año. Había que repartirlo bien repartido. Pero todo el año teníamos el cerdo para comer… salado. . De fresco nada. Y…, y el cerdo lo ta-, e-, estábamos manteniendo todo el año. No es como ahora que… en cuatro meses ya hacen un cerdo, de aquella no. 
+E1: ¿Y qué se le alimentaba al cerdo? ¿Qué se le daba? 
+I1: Pues verdura: patatas, remolacha…, nabos. De todo, de…, todo lo que sobraba de comida de casa, pues todo iba pa'l cerdo. Ahora va pa los perros, pero antes iba pa'l cerdo. Y la carne era mucho más sabrosa que ahora. 
+E1: Claro. 
+I1: Carne mucho más hecha…, mucho más rica que la, que la que hay ahora, porque es hecha de muy pronto. 
+E1: ¿Y cada uno tenía su cerdo? ¿O era un cerdo en común? 
+I1: No, cada uno tenía su cerdo, pero a lo mejor algunos mataban…, nosotros matábamos dos o tres. 
+E1: ¿Todos los años? 
+I1: Todos los años, porque acabábamos uno y matábamos otro. . Pero había mucha gente que mataba uno solo. 
+E1: T6 . ¿Y… aquí… hay algún cultivo que sea típico de la zona?  ¿Algo que se cultivara en concreto? 
+",La provincia a la que pertenecen los informadores es Lugo.
+"Dime de qué lugar es el siguiente texto:  E1: T1 Bueno, pues yo soy María, y… nada, queríamos hacerle unas preguntas sobre cómo era pues la vida aquí en el pueblo, lo que se hacía… Entonces nos interesa todo lo que nos cuente, todo lo que sabe…  Pero, si quiere, podemos empezar  por si aquí en el pueblo se hacía la matanza, cómo se hacía… 
+I1: Pues la matanza se…, s-, juntaban los vecinos del barrio, cuatro o cinco, cogían el cerdo, lo ponían encima de un ta-, de un… tablero y L-Otra:alí, allí lo acuchillaban. Se ponía un…, un cofre para recoger la sangre y esa sangre se comía, se cocía y la comíamos… frita.. Y al otro día venía el matachín, lo partía… en trozos, como se partía antiguamente la carne y se salaba, porque no había… ni congeladores ni neveras. Todo lo que teníamos tenía que ser salado. Y a las tres semanas se levantaba y se colgaba para curarlo. Y era lo que teníamos que comer todo el año. Había que repartirlo bien repartido. Pero todo el año teníamos el cerdo para comer… salado. . De fresco nada. Y…, y el cerdo lo ta-, e-, estábamos manteniendo todo el año. No es como ahora que… en cuatro meses ya hacen un cerdo, de aquella no. 
+E1: ¿Y qué se le alimentaba al cerdo? ¿Qué se le daba? 
+I1: Pues verdura: patatas, remolacha…, nabos. De todo, de…, todo lo que sobraba de comida de casa, pues todo iba pa'l cerdo. Ahora va pa los perros, pero antes iba pa'l cerdo. Y la carne era mucho más sabrosa que ahora. 
+E1: Claro. 
+I1: Carne mucho más hecha…, mucho más rica que la, que la que hay ahora, porque es hecha de muy pronto. 
+E1: ¿Y cada uno tenía su cerdo? ¿O era un cerdo en común? 
+I1: No, cada uno tenía su cerdo, pero a lo mejor algunos mataban…, nosotros matábamos dos o tres. 
+E1: ¿Todos los años? 
+I1: Todos los años, porque acabábamos uno y matábamos otro. . Pero había mucha gente que mataba uno solo. 
+E1: T6 . ¿Y… aquí… hay algún cultivo que sea típico de la zona?  ¿Algo que se cultivara en concreto? 
+",La provincia a la que pertenecen los informadores es Lugo.

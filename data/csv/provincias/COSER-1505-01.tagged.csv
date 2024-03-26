@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: Ya está, ya está, genial, ya está funcionando.  Está grabando ya. Sí. Sí.  Sí. Fenomenal. Fenomenal. Pues venga. Empiezo yo a preguntar y ellos… también le vamos preguntando. Bueno, aquí,  aquí, ¿us-, ustedes hacían matanza? 
+I1: Sí. Claro que hacíamos matanza. Antiguamente, mucha. 
+E1: ¿Y, y, han dejado de hacer ya ?
+I1: Este año he matao, pero ya no volveré máspues porque…  No, no, es que no voy a volver más porque ya nosotros no podemos comer tampoco… grasa mucha y una matanza luego es mu costosa porque hasta que la haces y… las dos rodillas operás que las tengo y… este año . y no podía, ya no. Este año ya se lo he dicho yo que el último año, si… vivo muchos años.
+E1: ¿Y cuánta-, cuántos, eh…, cuántos… cerdos mata-? 
+I1: No, nosotros un cochino na más vamos a matá . 
+E1: . ¿Y nos puede pregun-, contar un poco cómo, cómo era… todo? O sea, eh… 
+I1: Antiguamente pues se mataba, se, se apañaban los cochinos, con hiniestones. Las hiniestas. . Ahora son más modernos, que ahora lo apañan con un soplillo y… pelan el cochino así, pero está mejó pelao de… con las hiniestas. . El tocino está mucho mejó. Y to
+E1: O sea, que aquí echan arroz y… 
+I1: A-, arroz, cebolla y… calabaza. 
+E1: ¿Ah, sí? 
+",La provincia a la que pertenecen los informadores es Córdoba.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: Ya está, ya está, genial, ya está funcionando.  Está grabando ya. Sí. Sí.  Sí. Fenomenal. Fenomenal. Pues venga. Empiezo yo a preguntar y ellos… también le vamos preguntando. Bueno, aquí,  aquí, ¿us-, ustedes hacían matanza? 
+I1: Sí. Claro que hacíamos matanza. Antiguamente, mucha. 
+E1: ¿Y, y, han dejado de hacer ya ?
+I1: Este año he matao, pero ya no volveré máspues porque…  No, no, es que no voy a volver más porque ya nosotros no podemos comer tampoco… grasa mucha y una matanza luego es mu costosa porque hasta que la haces y… las dos rodillas operás que las tengo y… este año . y no podía, ya no. Este año ya se lo he dicho yo que el último año, si… vivo muchos años.
+E1: ¿Y cuánta-, cuántos, eh…, cuántos… cerdos mata-? 
+I1: No, nosotros un cochino na más vamos a matá . 
+E1: . ¿Y nos puede pregun-, contar un poco cómo, cómo era… todo? O sea, eh… 
+I1: Antiguamente pues se mataba, se, se apañaban los cochinos, con hiniestones. Las hiniestas. . Ahora son más modernos, que ahora lo apañan con un soplillo y… pelan el cochino así, pero está mejó pelao de… con las hiniestas. . El tocino está mucho mejó. Y to
+E1: O sea, que aquí echan arroz y… 
+I1: A-, arroz, cebolla y… calabaza. 
+E1: ¿Ah, sí? 
+",La provincia a la que pertenecen los informadores es Córdoba.
+"Dime la provincia del siguiente texto: E1: Ya está, ya está, genial, ya está funcionando.  Está grabando ya. Sí. Sí.  Sí. Fenomenal. Fenomenal. Pues venga. Empiezo yo a preguntar y ellos… también le vamos preguntando. Bueno, aquí,  aquí, ¿us-, ustedes hacían matanza? 
+I1: Sí. Claro que hacíamos matanza. Antiguamente, mucha. 
+E1: ¿Y, y, han dejado de hacer ya ?
+I1: Este año he matao, pero ya no volveré máspues porque…  No, no, es que no voy a volver más porque ya nosotros no podemos comer tampoco… grasa mucha y una matanza luego es mu costosa porque hasta que la haces y… las dos rodillas operás que las tengo y… este año . y no podía, ya no. Este año ya se lo he dicho yo que el último año, si… vivo muchos años.
+E1: ¿Y cuánta-, cuántos, eh…, cuántos… cerdos mata-? 
+I1: No, nosotros un cochino na más vamos a matá . 
+E1: . ¿Y nos puede pregun-, contar un poco cómo, cómo era… todo? O sea, eh… 
+I1: Antiguamente pues se mataba, se, se apañaban los cochinos, con hiniestones. Las hiniestas. . Ahora son más modernos, que ahora lo apañan con un soplillo y… pelan el cochino así, pero está mejó pelao de… con las hiniestas. . El tocino está mucho mejó. Y to
+E1: O sea, que aquí echan arroz y… 
+I1: A-, arroz, cebolla y… calabaza. 
+E1: ¿Ah, sí? 
+",La provincia a la que pertenecen los informadores es Córdoba.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: Ya está, ya está, genial, ya está funcionando.  Está grabando ya. Sí. Sí.  Sí. Fenomenal. Fenomenal. Pues venga. Empiezo yo a preguntar y ellos… también le vamos preguntando. Bueno, aquí,  aquí, ¿us-, ustedes hacían matanza? 
+I1: Sí. Claro que hacíamos matanza. Antiguamente, mucha. 
+E1: ¿Y, y, han dejado de hacer ya ?
+I1: Este año he matao, pero ya no volveré máspues porque…  No, no, es que no voy a volver más porque ya nosotros no podemos comer tampoco… grasa mucha y una matanza luego es mu costosa porque hasta que la haces y… las dos rodillas operás que las tengo y… este año . y no podía, ya no. Este año ya se lo he dicho yo que el último año, si… vivo muchos años.
+E1: ¿Y cuánta-, cuántos, eh…, cuántos… cerdos mata-? 
+I1: No, nosotros un cochino na más vamos a matá . 
+E1: . ¿Y nos puede pregun-, contar un poco cómo, cómo era… todo? O sea, eh… 
+I1: Antiguamente pues se mataba, se, se apañaban los cochinos, con hiniestones. Las hiniestas. . Ahora son más modernos, que ahora lo apañan con un soplillo y… pelan el cochino así, pero está mejó pelao de… con las hiniestas. . El tocino está mucho mejó. Y to
+E1: O sea, que aquí echan arroz y… 
+I1: A-, arroz, cebolla y… calabaza. 
+E1: ¿Ah, sí? 
+",La provincia a la que pertenecen los informadores es Córdoba.
+"Dime de qué lugar es el siguiente texto:  E1: Ya está, ya está, genial, ya está funcionando.  Está grabando ya. Sí. Sí.  Sí. Fenomenal. Fenomenal. Pues venga. Empiezo yo a preguntar y ellos… también le vamos preguntando. Bueno, aquí,  aquí, ¿us-, ustedes hacían matanza? 
+I1: Sí. Claro que hacíamos matanza. Antiguamente, mucha. 
+E1: ¿Y, y, han dejado de hacer ya ?
+I1: Este año he matao, pero ya no volveré máspues porque…  No, no, es que no voy a volver más porque ya nosotros no podemos comer tampoco… grasa mucha y una matanza luego es mu costosa porque hasta que la haces y… las dos rodillas operás que las tengo y… este año . y no podía, ya no. Este año ya se lo he dicho yo que el último año, si… vivo muchos años.
+E1: ¿Y cuánta-, cuántos, eh…, cuántos… cerdos mata-? 
+I1: No, nosotros un cochino na más vamos a matá . 
+E1: . ¿Y nos puede pregun-, contar un poco cómo, cómo era… todo? O sea, eh… 
+I1: Antiguamente pues se mataba, se, se apañaban los cochinos, con hiniestones. Las hiniestas. . Ahora son más modernos, que ahora lo apañan con un soplillo y… pelan el cochino así, pero está mejó pelao de… con las hiniestas. . El tocino está mucho mejó. Y to
+E1: O sea, que aquí echan arroz y… 
+I1: A-, arroz, cebolla y… calabaza. 
+E1: ¿Ah, sí? 
+",La provincia a la que pertenecen los informadores es Córdoba.

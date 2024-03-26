@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: T1 Los chorizos y las morcillas. 
+E1: . 
+I1: Luego pa hacer las morcillas, cuecen calabaza. 
+E1: ¿Con calabaza hacen aquí? 
+I1: Sí, se cuecen calabazas,  y se cuece la calabaza, se machaca bien machacada, luego echan…  echan cebolla, y echan,  y echan magro,  los gordos… 
+I2: No, hombre… las morcillas  no, no se echa magro. 
+I1: Gordo, se echa gordo. 
+I2: Y tú l'has dicho magro. 
+I1: Bueno, el magro es pa los chorizos. Y eso hace luego una masa . pa la morcilla. 
+E1: Pero ¿la sangre no se queda cuajada? 
+I1: La sangre la cuecen, y…   La cuecen en una caldereta que lo llaman, . que se llamaba antiguamente, una caldereta que se colgaba con lumbre… con lumbre,  que hacía lumbre en el suelo.  Que antes, ya no lo hay, ahora ya es de, de butano. Y luego, pues se cuece y se puede hacer muchos guisos con ella. Está mu rica con, frita con cebolla. 
+",La provincia a la que pertenecen los informadores es Ávila.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: T1 Los chorizos y las morcillas. 
+E1: . 
+I1: Luego pa hacer las morcillas, cuecen calabaza. 
+E1: ¿Con calabaza hacen aquí? 
+I1: Sí, se cuecen calabazas,  y se cuece la calabaza, se machaca bien machacada, luego echan…  echan cebolla, y echan,  y echan magro,  los gordos… 
+I2: No, hombre… las morcillas  no, no se echa magro. 
+I1: Gordo, se echa gordo. 
+I2: Y tú l'has dicho magro. 
+I1: Bueno, el magro es pa los chorizos. Y eso hace luego una masa . pa la morcilla. 
+E1: Pero ¿la sangre no se queda cuajada? 
+I1: La sangre la cuecen, y…   La cuecen en una caldereta que lo llaman, . que se llamaba antiguamente, una caldereta que se colgaba con lumbre… con lumbre,  que hacía lumbre en el suelo.  Que antes, ya no lo hay, ahora ya es de, de butano. Y luego, pues se cuece y se puede hacer muchos guisos con ella. Está mu rica con, frita con cebolla. 
+",La provincia a la que pertenecen los informadores es Ávila.
+"Dime la provincia del siguiente texto: I1: T1 Los chorizos y las morcillas. 
+E1: . 
+I1: Luego pa hacer las morcillas, cuecen calabaza. 
+E1: ¿Con calabaza hacen aquí? 
+I1: Sí, se cuecen calabazas,  y se cuece la calabaza, se machaca bien machacada, luego echan…  echan cebolla, y echan,  y echan magro,  los gordos… 
+I2: No, hombre… las morcillas  no, no se echa magro. 
+I1: Gordo, se echa gordo. 
+I2: Y tú l'has dicho magro. 
+I1: Bueno, el magro es pa los chorizos. Y eso hace luego una masa . pa la morcilla. 
+E1: Pero ¿la sangre no se queda cuajada? 
+I1: La sangre la cuecen, y…   La cuecen en una caldereta que lo llaman, . que se llamaba antiguamente, una caldereta que se colgaba con lumbre… con lumbre,  que hacía lumbre en el suelo.  Que antes, ya no lo hay, ahora ya es de, de butano. Y luego, pues se cuece y se puede hacer muchos guisos con ella. Está mu rica con, frita con cebolla. 
+",La provincia a la que pertenecen los informadores es Ávila.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: T1 Los chorizos y las morcillas. 
+E1: . 
+I1: Luego pa hacer las morcillas, cuecen calabaza. 
+E1: ¿Con calabaza hacen aquí? 
+I1: Sí, se cuecen calabazas,  y se cuece la calabaza, se machaca bien machacada, luego echan…  echan cebolla, y echan,  y echan magro,  los gordos… 
+I2: No, hombre… las morcillas  no, no se echa magro. 
+I1: Gordo, se echa gordo. 
+I2: Y tú l'has dicho magro. 
+I1: Bueno, el magro es pa los chorizos. Y eso hace luego una masa . pa la morcilla. 
+E1: Pero ¿la sangre no se queda cuajada? 
+I1: La sangre la cuecen, y…   La cuecen en una caldereta que lo llaman, . que se llamaba antiguamente, una caldereta que se colgaba con lumbre… con lumbre,  que hacía lumbre en el suelo.  Que antes, ya no lo hay, ahora ya es de, de butano. Y luego, pues se cuece y se puede hacer muchos guisos con ella. Está mu rica con, frita con cebolla. 
+",La provincia a la que pertenecen los informadores es Ávila.
+"Dime de qué lugar es el siguiente texto:  I1: T1 Los chorizos y las morcillas. 
+E1: . 
+I1: Luego pa hacer las morcillas, cuecen calabaza. 
+E1: ¿Con calabaza hacen aquí? 
+I1: Sí, se cuecen calabazas,  y se cuece la calabaza, se machaca bien machacada, luego echan…  echan cebolla, y echan,  y echan magro,  los gordos… 
+I2: No, hombre… las morcillas  no, no se echa magro. 
+I1: Gordo, se echa gordo. 
+I2: Y tú l'has dicho magro. 
+I1: Bueno, el magro es pa los chorizos. Y eso hace luego una masa . pa la morcilla. 
+E1: Pero ¿la sangre no se queda cuajada? 
+I1: La sangre la cuecen, y…   La cuecen en una caldereta que lo llaman, . que se llamaba antiguamente, una caldereta que se colgaba con lumbre… con lumbre,  que hacía lumbre en el suelo.  Que antes, ya no lo hay, ahora ya es de, de butano. Y luego, pues se cuece y se puede hacer muchos guisos con ella. Está mu rica con, frita con cebolla. 
+",La provincia a la que pertenecen los informadores es Ávila.

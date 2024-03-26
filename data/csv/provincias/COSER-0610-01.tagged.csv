@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: Me van a hacer un examen pa llevarme al cielo estos señores.  
+E1: ¿Es su mujer? 
+I1: Sí. 
+E1: Pues si quiere hablar también… 
+I1: Ven·te para acá un momento, ven,  Anonimizado. No me oye. Íbamos a darnos un paseo por áhi . 
+E1: T1 Bueno, por ejemplo, ¿cómo era una matanza antes? 
+I1: Pues la matanza consistía en, por ejemplo, yo, que la he hecho hasta el año pasao , desde que me recuerdo, en vida de mis padres y la mía siempre se mataba un cerdo o dos aquí en casa. . Se lo criaba, lo comprabas de pequeño, o lo criabas incluso. . Y luego le ibas dando de comer poco a poco, totalmente… normalmente la vida de un cerdo era de un año, . bueno, más bien ahora, antes necesitábamos dos, a lo mejor, para hacer cien kilos del cerdo. Y ahora… con seis meses salen ciento y pico… ,¡déjate de charlas! A-Nul HCruz:Vamos, ven aquí, si vas a charlar tú también… Pues, pues vete.
+E1: Y criaban al cerdo en casa, ¿y con, con qué criaban al cerdo? 
+I1: Anda, pues con… a veces con hierbas del campo, porque… había pocos recursos pa tener cebada, pero si no, lo normal era con cereales.  Cebada, centeno o trigo, era mucho mejor. . Y en cambio cuando la guerra teníamos que, que guardarlo, porque… no se podía dar ni centeno, era todo para pan. . Vamos, después de la guerra, no la guerra. Pero, bueno, normalmente era cereales, cebada, centeno y trigo. 
+E1: ¿Y qui-, quién mataba al cerdo? 
+I1: ¿A los cerdos? Pues el que más decisión tuviera. A mí no me gustaba hacerlo, lo he tenido de que hacer alguna vez por obligación, pero a mí matar los animalitos pues no me gustaba. Pero, bueno, hay quien le gustaba: «Venga, yo lo mato». Nos juntábamos aquí los vecinos, entre cuatro o cinco lo hacíamos, . para matarles, luego ya… . normalmente a lo mejor… hubo mucho tiempo que las familias se reunían, . o nos reuníamos,  el día de la matancia , comíamos un poco mejor que… que los días anteriores, íbamos haciendo el, el chorizo… . ya…
+",La provincia a la que pertenecen los informadores es Ávila.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: Me van a hacer un examen pa llevarme al cielo estos señores.  
+E1: ¿Es su mujer? 
+I1: Sí. 
+E1: Pues si quiere hablar también… 
+I1: Ven·te para acá un momento, ven,  Anonimizado. No me oye. Íbamos a darnos un paseo por áhi . 
+E1: T1 Bueno, por ejemplo, ¿cómo era una matanza antes? 
+I1: Pues la matanza consistía en, por ejemplo, yo, que la he hecho hasta el año pasao , desde que me recuerdo, en vida de mis padres y la mía siempre se mataba un cerdo o dos aquí en casa. . Se lo criaba, lo comprabas de pequeño, o lo criabas incluso. . Y luego le ibas dando de comer poco a poco, totalmente… normalmente la vida de un cerdo era de un año, . bueno, más bien ahora, antes necesitábamos dos, a lo mejor, para hacer cien kilos del cerdo. Y ahora… con seis meses salen ciento y pico… ,¡déjate de charlas! A-Nul HCruz:Vamos, ven aquí, si vas a charlar tú también… Pues, pues vete.
+E1: Y criaban al cerdo en casa, ¿y con, con qué criaban al cerdo? 
+I1: Anda, pues con… a veces con hierbas del campo, porque… había pocos recursos pa tener cebada, pero si no, lo normal era con cereales.  Cebada, centeno o trigo, era mucho mejor. . Y en cambio cuando la guerra teníamos que, que guardarlo, porque… no se podía dar ni centeno, era todo para pan. . Vamos, después de la guerra, no la guerra. Pero, bueno, normalmente era cereales, cebada, centeno y trigo. 
+E1: ¿Y qui-, quién mataba al cerdo? 
+I1: ¿A los cerdos? Pues el que más decisión tuviera. A mí no me gustaba hacerlo, lo he tenido de que hacer alguna vez por obligación, pero a mí matar los animalitos pues no me gustaba. Pero, bueno, hay quien le gustaba: «Venga, yo lo mato». Nos juntábamos aquí los vecinos, entre cuatro o cinco lo hacíamos, . para matarles, luego ya… . normalmente a lo mejor… hubo mucho tiempo que las familias se reunían, . o nos reuníamos,  el día de la matancia , comíamos un poco mejor que… que los días anteriores, íbamos haciendo el, el chorizo… . ya…
+",La provincia a la que pertenecen los informadores es Ávila.
+"Dime la provincia del siguiente texto: I1: Me van a hacer un examen pa llevarme al cielo estos señores.  
+E1: ¿Es su mujer? 
+I1: Sí. 
+E1: Pues si quiere hablar también… 
+I1: Ven·te para acá un momento, ven,  Anonimizado. No me oye. Íbamos a darnos un paseo por áhi . 
+E1: T1 Bueno, por ejemplo, ¿cómo era una matanza antes? 
+I1: Pues la matanza consistía en, por ejemplo, yo, que la he hecho hasta el año pasao , desde que me recuerdo, en vida de mis padres y la mía siempre se mataba un cerdo o dos aquí en casa. . Se lo criaba, lo comprabas de pequeño, o lo criabas incluso. . Y luego le ibas dando de comer poco a poco, totalmente… normalmente la vida de un cerdo era de un año, . bueno, más bien ahora, antes necesitábamos dos, a lo mejor, para hacer cien kilos del cerdo. Y ahora… con seis meses salen ciento y pico… ,¡déjate de charlas! A-Nul HCruz:Vamos, ven aquí, si vas a charlar tú también… Pues, pues vete.
+E1: Y criaban al cerdo en casa, ¿y con, con qué criaban al cerdo? 
+I1: Anda, pues con… a veces con hierbas del campo, porque… había pocos recursos pa tener cebada, pero si no, lo normal era con cereales.  Cebada, centeno o trigo, era mucho mejor. . Y en cambio cuando la guerra teníamos que, que guardarlo, porque… no se podía dar ni centeno, era todo para pan. . Vamos, después de la guerra, no la guerra. Pero, bueno, normalmente era cereales, cebada, centeno y trigo. 
+E1: ¿Y qui-, quién mataba al cerdo? 
+I1: ¿A los cerdos? Pues el que más decisión tuviera. A mí no me gustaba hacerlo, lo he tenido de que hacer alguna vez por obligación, pero a mí matar los animalitos pues no me gustaba. Pero, bueno, hay quien le gustaba: «Venga, yo lo mato». Nos juntábamos aquí los vecinos, entre cuatro o cinco lo hacíamos, . para matarles, luego ya… . normalmente a lo mejor… hubo mucho tiempo que las familias se reunían, . o nos reuníamos,  el día de la matancia , comíamos un poco mejor que… que los días anteriores, íbamos haciendo el, el chorizo… . ya…
+",La provincia a la que pertenecen los informadores es Ávila.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: Me van a hacer un examen pa llevarme al cielo estos señores.  
+E1: ¿Es su mujer? 
+I1: Sí. 
+E1: Pues si quiere hablar también… 
+I1: Ven·te para acá un momento, ven,  Anonimizado. No me oye. Íbamos a darnos un paseo por áhi . 
+E1: T1 Bueno, por ejemplo, ¿cómo era una matanza antes? 
+I1: Pues la matanza consistía en, por ejemplo, yo, que la he hecho hasta el año pasao , desde que me recuerdo, en vida de mis padres y la mía siempre se mataba un cerdo o dos aquí en casa. . Se lo criaba, lo comprabas de pequeño, o lo criabas incluso. . Y luego le ibas dando de comer poco a poco, totalmente… normalmente la vida de un cerdo era de un año, . bueno, más bien ahora, antes necesitábamos dos, a lo mejor, para hacer cien kilos del cerdo. Y ahora… con seis meses salen ciento y pico… ,¡déjate de charlas! A-Nul HCruz:Vamos, ven aquí, si vas a charlar tú también… Pues, pues vete.
+E1: Y criaban al cerdo en casa, ¿y con, con qué criaban al cerdo? 
+I1: Anda, pues con… a veces con hierbas del campo, porque… había pocos recursos pa tener cebada, pero si no, lo normal era con cereales.  Cebada, centeno o trigo, era mucho mejor. . Y en cambio cuando la guerra teníamos que, que guardarlo, porque… no se podía dar ni centeno, era todo para pan. . Vamos, después de la guerra, no la guerra. Pero, bueno, normalmente era cereales, cebada, centeno y trigo. 
+E1: ¿Y qui-, quién mataba al cerdo? 
+I1: ¿A los cerdos? Pues el que más decisión tuviera. A mí no me gustaba hacerlo, lo he tenido de que hacer alguna vez por obligación, pero a mí matar los animalitos pues no me gustaba. Pero, bueno, hay quien le gustaba: «Venga, yo lo mato». Nos juntábamos aquí los vecinos, entre cuatro o cinco lo hacíamos, . para matarles, luego ya… . normalmente a lo mejor… hubo mucho tiempo que las familias se reunían, . o nos reuníamos,  el día de la matancia , comíamos un poco mejor que… que los días anteriores, íbamos haciendo el, el chorizo… . ya…
+",La provincia a la que pertenecen los informadores es Ávila.
+"Dime de qué lugar es el siguiente texto:  I1: Me van a hacer un examen pa llevarme al cielo estos señores.  
+E1: ¿Es su mujer? 
+I1: Sí. 
+E1: Pues si quiere hablar también… 
+I1: Ven·te para acá un momento, ven,  Anonimizado. No me oye. Íbamos a darnos un paseo por áhi . 
+E1: T1 Bueno, por ejemplo, ¿cómo era una matanza antes? 
+I1: Pues la matanza consistía en, por ejemplo, yo, que la he hecho hasta el año pasao , desde que me recuerdo, en vida de mis padres y la mía siempre se mataba un cerdo o dos aquí en casa. . Se lo criaba, lo comprabas de pequeño, o lo criabas incluso. . Y luego le ibas dando de comer poco a poco, totalmente… normalmente la vida de un cerdo era de un año, . bueno, más bien ahora, antes necesitábamos dos, a lo mejor, para hacer cien kilos del cerdo. Y ahora… con seis meses salen ciento y pico… ,¡déjate de charlas! A-Nul HCruz:Vamos, ven aquí, si vas a charlar tú también… Pues, pues vete.
+E1: Y criaban al cerdo en casa, ¿y con, con qué criaban al cerdo? 
+I1: Anda, pues con… a veces con hierbas del campo, porque… había pocos recursos pa tener cebada, pero si no, lo normal era con cereales.  Cebada, centeno o trigo, era mucho mejor. . Y en cambio cuando la guerra teníamos que, que guardarlo, porque… no se podía dar ni centeno, era todo para pan. . Vamos, después de la guerra, no la guerra. Pero, bueno, normalmente era cereales, cebada, centeno y trigo. 
+E1: ¿Y qui-, quién mataba al cerdo? 
+I1: ¿A los cerdos? Pues el que más decisión tuviera. A mí no me gustaba hacerlo, lo he tenido de que hacer alguna vez por obligación, pero a mí matar los animalitos pues no me gustaba. Pero, bueno, hay quien le gustaba: «Venga, yo lo mato». Nos juntábamos aquí los vecinos, entre cuatro o cinco lo hacíamos, . para matarles, luego ya… . normalmente a lo mejor… hubo mucho tiempo que las familias se reunían, . o nos reuníamos,  el día de la matancia , comíamos un poco mejor que… que los días anteriores, íbamos haciendo el, el chorizo… . ya…
+",La provincia a la que pertenecen los informadores es Ávila.

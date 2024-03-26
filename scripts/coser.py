@@ -1,5 +1,4 @@
 import pandas as pd
-import matplotlib.pyplot as plt
 import re
 
 # Función para cargar un archivo CSV en un DataFrame
@@ -54,36 +53,6 @@ def obtenerFragmentoEntrevista(dataframe, filename, turn_ini, turn_fin):
 
 def obtenerProvincia(dataframe, filename):
     return dataframe.loc[dataframe.filename == filename].iloc[0].provincia
-
-# Función para quitar o poner regionalismos del dataframe.
-def distribucionLongitudDataframe(dataframe, umbral=None):
-    try:
-        lista = []
-        # Calcular la longitud de la columna de texto en cada fila
-        longitudes = dataframe['text'].apply(len)
-        
-        # Iterar sobre las filas del DataFrame
-        for index, row in dataframe.iterrows():
-            text = row['text']
-            if umbral is None or len(text) >= umbral:
-                lista.append(len(text))
-        
-        # Calcular el rango para los ejes x del histograma
-        min_longitud = min(lista)
-        max_longitud = max(lista)
-        
-        # Imprimir los valores mínimo y máximo
-        print("Longitud mínima:", min_longitud)
-        print("Longitud máxima:", max_longitud)
-
-        # Crear un histograma con la distribución de las longitudes
-        plt.hist(lista, bins=30, color='skyblue', edgecolor='black', range=(min_longitud, max_longitud), density=True)
-        plt.xlabel('Longitud del texto')
-        plt.ylabel('Frecuencia')
-        plt.title('Distribución de longitudes de texto en el DataFrame')
-        plt.show()
-    except Exception as e:
-        print("Ocurrió un error al calcular la distribución de longitudes:", e)
         
 # Función para visualizar cada x turnos de un DataFrame
 def elegirRegionalismos(dataframe, regionalismos):

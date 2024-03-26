@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. IE:  IE: Bueno, voy a ver si viene el otro señor que también podemos  . 
+E1: muy bien, excelente, muy bien,  mucho mejor! PS Bueno, entonces, , ¿cuál es su nombre? 
+I1: Anonimizado. 
+E1: Muy bien, doña Anonimizado, y ¿cuántos años tiene usted? 
+I1: Ochenta y uno cumplí el dos de enero. 
+E1:  ¡Ah, bien! Felicidades. 
+I1: Gracias.  
+E1: Pues nosotros somos estudiantes y estamos haciendo, queremos saber cómo so-, cómo era la vida aquí en Fasnia en el, , hace años atrás. ¿Podría decirnos, por ejemplo,  A-Nul. 
+I1: en el treinta_y_cinco, y yo desde el cuarenta pa acá le puedo decir, porque hasta el treinta hasta el cuarenta más o menos no tenía uno mucha razón, pero ya después… Ya después empezó a tenere pues aquí fue cuando la guerra, y le es decir, que yo me crie en la posguerra.
+E1: . 
+I1: T5 Y entonces las necesidades fueron tantas, tantas, tantas, que yo ahora cuando veo el tercer mundo digo, el tercer mundo lo vivimos nosotros. Porque era, no había nada. España… , se cuando… la guerra de Eur-, cuando la guerra que…, la, la, la, esta que hubo de todas las naciones, entonces… después a España no la quería nadie, no querían, la única, el único que nos mandaba algo era Argentina. Eva_de_Perón era la única, el único que mandaba, nos mandaba bastante, , nos mandaba bastante comida, y bastante, nos a-, nos a-, nos ayudó bastante. Entonces lo que pasa es con lo de siempre, los grandes se cogían lo que serviere , y lo que no serviere
+",La provincia a la que pertenecen los informadores es Santa Cruz de Tenerife.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: IE:  IE: Bueno, voy a ver si viene el otro señor que también podemos  . 
+E1: muy bien, excelente, muy bien,  mucho mejor! PS Bueno, entonces, , ¿cuál es su nombre? 
+I1: Anonimizado. 
+E1: Muy bien, doña Anonimizado, y ¿cuántos años tiene usted? 
+I1: Ochenta y uno cumplí el dos de enero. 
+E1:  ¡Ah, bien! Felicidades. 
+I1: Gracias.  
+E1: Pues nosotros somos estudiantes y estamos haciendo, queremos saber cómo so-, cómo era la vida aquí en Fasnia en el, , hace años atrás. ¿Podría decirnos, por ejemplo,  A-Nul. 
+I1: en el treinta_y_cinco, y yo desde el cuarenta pa acá le puedo decir, porque hasta el treinta hasta el cuarenta más o menos no tenía uno mucha razón, pero ya después… Ya después empezó a tenere pues aquí fue cuando la guerra, y le es decir, que yo me crie en la posguerra.
+E1: . 
+I1: T5 Y entonces las necesidades fueron tantas, tantas, tantas, que yo ahora cuando veo el tercer mundo digo, el tercer mundo lo vivimos nosotros. Porque era, no había nada. España… , se cuando… la guerra de Eur-, cuando la guerra que…, la, la, la, esta que hubo de todas las naciones, entonces… después a España no la quería nadie, no querían, la única, el único que nos mandaba algo era Argentina. Eva_de_Perón era la única, el único que mandaba, nos mandaba bastante, , nos mandaba bastante comida, y bastante, nos a-, nos a-, nos ayudó bastante. Entonces lo que pasa es con lo de siempre, los grandes se cogían lo que serviere , y lo que no serviere
+",La provincia a la que pertenecen los informadores es Santa Cruz de Tenerife.
+"Dime la provincia del siguiente texto: IE:  IE: Bueno, voy a ver si viene el otro señor que también podemos  . 
+E1: muy bien, excelente, muy bien,  mucho mejor! PS Bueno, entonces, , ¿cuál es su nombre? 
+I1: Anonimizado. 
+E1: Muy bien, doña Anonimizado, y ¿cuántos años tiene usted? 
+I1: Ochenta y uno cumplí el dos de enero. 
+E1:  ¡Ah, bien! Felicidades. 
+I1: Gracias.  
+E1: Pues nosotros somos estudiantes y estamos haciendo, queremos saber cómo so-, cómo era la vida aquí en Fasnia en el, , hace años atrás. ¿Podría decirnos, por ejemplo,  A-Nul. 
+I1: en el treinta_y_cinco, y yo desde el cuarenta pa acá le puedo decir, porque hasta el treinta hasta el cuarenta más o menos no tenía uno mucha razón, pero ya después… Ya después empezó a tenere pues aquí fue cuando la guerra, y le es decir, que yo me crie en la posguerra.
+E1: . 
+I1: T5 Y entonces las necesidades fueron tantas, tantas, tantas, que yo ahora cuando veo el tercer mundo digo, el tercer mundo lo vivimos nosotros. Porque era, no había nada. España… , se cuando… la guerra de Eur-, cuando la guerra que…, la, la, la, esta que hubo de todas las naciones, entonces… después a España no la quería nadie, no querían, la única, el único que nos mandaba algo era Argentina. Eva_de_Perón era la única, el único que mandaba, nos mandaba bastante, , nos mandaba bastante comida, y bastante, nos a-, nos a-, nos ayudó bastante. Entonces lo que pasa es con lo de siempre, los grandes se cogían lo que serviere , y lo que no serviere
+",La provincia a la que pertenecen los informadores es Santa Cruz de Tenerife.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: IE:  IE: Bueno, voy a ver si viene el otro señor que también podemos  . 
+E1: muy bien, excelente, muy bien,  mucho mejor! PS Bueno, entonces, , ¿cuál es su nombre? 
+I1: Anonimizado. 
+E1: Muy bien, doña Anonimizado, y ¿cuántos años tiene usted? 
+I1: Ochenta y uno cumplí el dos de enero. 
+E1:  ¡Ah, bien! Felicidades. 
+I1: Gracias.  
+E1: Pues nosotros somos estudiantes y estamos haciendo, queremos saber cómo so-, cómo era la vida aquí en Fasnia en el, , hace años atrás. ¿Podría decirnos, por ejemplo,  A-Nul. 
+I1: en el treinta_y_cinco, y yo desde el cuarenta pa acá le puedo decir, porque hasta el treinta hasta el cuarenta más o menos no tenía uno mucha razón, pero ya después… Ya después empezó a tenere pues aquí fue cuando la guerra, y le es decir, que yo me crie en la posguerra.
+E1: . 
+I1: T5 Y entonces las necesidades fueron tantas, tantas, tantas, que yo ahora cuando veo el tercer mundo digo, el tercer mundo lo vivimos nosotros. Porque era, no había nada. España… , se cuando… la guerra de Eur-, cuando la guerra que…, la, la, la, esta que hubo de todas las naciones, entonces… después a España no la quería nadie, no querían, la única, el único que nos mandaba algo era Argentina. Eva_de_Perón era la única, el único que mandaba, nos mandaba bastante, , nos mandaba bastante comida, y bastante, nos a-, nos a-, nos ayudó bastante. Entonces lo que pasa es con lo de siempre, los grandes se cogían lo que serviere , y lo que no serviere
+",La provincia a la que pertenecen los informadores es Santa Cruz de Tenerife.
+"Dime de qué lugar es el siguiente texto:  IE:  IE: Bueno, voy a ver si viene el otro señor que también podemos  . 
+E1: muy bien, excelente, muy bien,  mucho mejor! PS Bueno, entonces, , ¿cuál es su nombre? 
+I1: Anonimizado. 
+E1: Muy bien, doña Anonimizado, y ¿cuántos años tiene usted? 
+I1: Ochenta y uno cumplí el dos de enero. 
+E1:  ¡Ah, bien! Felicidades. 
+I1: Gracias.  
+E1: Pues nosotros somos estudiantes y estamos haciendo, queremos saber cómo so-, cómo era la vida aquí en Fasnia en el, , hace años atrás. ¿Podría decirnos, por ejemplo,  A-Nul. 
+I1: en el treinta_y_cinco, y yo desde el cuarenta pa acá le puedo decir, porque hasta el treinta hasta el cuarenta más o menos no tenía uno mucha razón, pero ya después… Ya después empezó a tenere pues aquí fue cuando la guerra, y le es decir, que yo me crie en la posguerra.
+E1: . 
+I1: T5 Y entonces las necesidades fueron tantas, tantas, tantas, que yo ahora cuando veo el tercer mundo digo, el tercer mundo lo vivimos nosotros. Porque era, no había nada. España… , se cuando… la guerra de Eur-, cuando la guerra que…, la, la, la, esta que hubo de todas las naciones, entonces… después a España no la quería nadie, no querían, la única, el único que nos mandaba algo era Argentina. Eva_de_Perón era la única, el único que mandaba, nos mandaba bastante, , nos mandaba bastante comida, y bastante, nos a-, nos a-, nos ayudó bastante. Entonces lo que pasa es con lo de siempre, los grandes se cogían lo que serviere , y lo que no serviere
+",La provincia a la que pertenecen los informadores es Santa Cruz de Tenerife.

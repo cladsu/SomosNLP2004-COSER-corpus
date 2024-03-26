@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: Estamos haciendo un estudio . de cómo era la vida del campo en esta región y hablamos con personas mayores que han vivido aquí de toda la vida y que nos cuentan, pues, cómo era antes la vida aquí. 
+I1: Sí, sí. 
+E1: Y le vamos a hacer unas preguntas. 
+I1: . 
+E1: Nos vamos a sentar para tomar notas. 
+I1: ¿Enciende la luz allí o qué? Sienta ahí mismo. 
+E3: ¿Aquí? 
+I1: Sí, porque estamos a oscuras, ¿no?  ¡Siéntesen! 
+E1: ¿Y usted se puede sentar aquí? 
+I1: Sí. 
+E1:  ¡Qué lugar! Este es ¡Qué lugar, no! Están aquí en el fin del mundo. 
+",La provincia a la que pertenecen los informadores es Fuerteventura.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: Estamos haciendo un estudio . de cómo era la vida del campo en esta región y hablamos con personas mayores que han vivido aquí de toda la vida y que nos cuentan, pues, cómo era antes la vida aquí. 
+I1: Sí, sí. 
+E1: Y le vamos a hacer unas preguntas. 
+I1: . 
+E1: Nos vamos a sentar para tomar notas. 
+I1: ¿Enciende la luz allí o qué? Sienta ahí mismo. 
+E3: ¿Aquí? 
+I1: Sí, porque estamos a oscuras, ¿no?  ¡Siéntesen! 
+E1: ¿Y usted se puede sentar aquí? 
+I1: Sí. 
+E1:  ¡Qué lugar! Este es ¡Qué lugar, no! Están aquí en el fin del mundo. 
+",La provincia a la que pertenecen los informadores es Fuerteventura.
+"Dime la provincia del siguiente texto: E1: Estamos haciendo un estudio . de cómo era la vida del campo en esta región y hablamos con personas mayores que han vivido aquí de toda la vida y que nos cuentan, pues, cómo era antes la vida aquí. 
+I1: Sí, sí. 
+E1: Y le vamos a hacer unas preguntas. 
+I1: . 
+E1: Nos vamos a sentar para tomar notas. 
+I1: ¿Enciende la luz allí o qué? Sienta ahí mismo. 
+E3: ¿Aquí? 
+I1: Sí, porque estamos a oscuras, ¿no?  ¡Siéntesen! 
+E1: ¿Y usted se puede sentar aquí? 
+I1: Sí. 
+E1:  ¡Qué lugar! Este es ¡Qué lugar, no! Están aquí en el fin del mundo. 
+",La provincia a la que pertenecen los informadores es Fuerteventura.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: Estamos haciendo un estudio . de cómo era la vida del campo en esta región y hablamos con personas mayores que han vivido aquí de toda la vida y que nos cuentan, pues, cómo era antes la vida aquí. 
+I1: Sí, sí. 
+E1: Y le vamos a hacer unas preguntas. 
+I1: . 
+E1: Nos vamos a sentar para tomar notas. 
+I1: ¿Enciende la luz allí o qué? Sienta ahí mismo. 
+E3: ¿Aquí? 
+I1: Sí, porque estamos a oscuras, ¿no?  ¡Siéntesen! 
+E1: ¿Y usted se puede sentar aquí? 
+I1: Sí. 
+E1:  ¡Qué lugar! Este es ¡Qué lugar, no! Están aquí en el fin del mundo. 
+",La provincia a la que pertenecen los informadores es Fuerteventura.
+"Dime de qué lugar es el siguiente texto:  E1: Estamos haciendo un estudio . de cómo era la vida del campo en esta región y hablamos con personas mayores que han vivido aquí de toda la vida y que nos cuentan, pues, cómo era antes la vida aquí. 
+I1: Sí, sí. 
+E1: Y le vamos a hacer unas preguntas. 
+I1: . 
+E1: Nos vamos a sentar para tomar notas. 
+I1: ¿Enciende la luz allí o qué? Sienta ahí mismo. 
+E3: ¿Aquí? 
+I1: Sí, porque estamos a oscuras, ¿no?  ¡Siéntesen! 
+E1: ¿Y usted se puede sentar aquí? 
+I1: Sí. 
+E1:  ¡Qué lugar! Este es ¡Qué lugar, no! Están aquí en el fin del mundo. 
+",La provincia a la que pertenecen los informadores es Fuerteventura.

@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T11 A-Nul Dígame, Anonimizado, dígame,  es usted… ¿su apellido es Anonimizado y su…?  Sí, Anonimizado. ¿Y, y su…, y su edad, por favor? Aproximadamente, sin que… 
+I1: ¿Mi edad?  Pos el día cuatro de… mayo…  haré setenta_y_siete años. 
+E2: O sea que su marido le lleva once. 
+I1: Once años me lleva,  y… igual está mejor que yo.  
+E1: Pues tiene usted un aspecto muy saludable, ¿eh? 
+I1: Pues lo parecerá, pero no estoy tan bien, pero vaya.  Que me conservé… así. 
+E1: T1 Sí, sí eh… vamos a ver, eh… háblenos usted, por ejemplo, de sus actividades, eh… ¿qué es lo que… eh… hacen ustedes habitualmente aquí?, por ejemplo, pues en lo referente a fabricar  los embutidos. ¿Cómo…, cómo los preparan, cómo se organizan? 
+I1: Sí, pues eso, ya antes, ahora ya le compran la carne,  pero a lo primero cuando empecemos con mi marido, pues matábamos…, matábamos que tenemos ahí…y ahora ya no se usa porque quitaron la orden y tuvimos que hacer una fábrica nueva. Pues matábamos los cerdos, vacas, yo tenía que romper algunas veces el hielo en el río pa lavar los menudos, conque mira si… Y…, y eso, y así, después a escarnar, que no sé si sabrás lo que es eso.
+E1: No, no, di-, cuéntenos. 
+I1: Pues escarnar es quitar la carne de los huesos. 
+E1: Ah. 
+",La provincia a la que pertenecen los informadores es Soria.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T11 A-Nul Dígame, Anonimizado, dígame,  es usted… ¿su apellido es Anonimizado y su…?  Sí, Anonimizado. ¿Y, y su…, y su edad, por favor? Aproximadamente, sin que… 
+I1: ¿Mi edad?  Pos el día cuatro de… mayo…  haré setenta_y_siete años. 
+E2: O sea que su marido le lleva once. 
+I1: Once años me lleva,  y… igual está mejor que yo.  
+E1: Pues tiene usted un aspecto muy saludable, ¿eh? 
+I1: Pues lo parecerá, pero no estoy tan bien, pero vaya.  Que me conservé… así. 
+E1: T1 Sí, sí eh… vamos a ver, eh… háblenos usted, por ejemplo, de sus actividades, eh… ¿qué es lo que… eh… hacen ustedes habitualmente aquí?, por ejemplo, pues en lo referente a fabricar  los embutidos. ¿Cómo…, cómo los preparan, cómo se organizan? 
+I1: Sí, pues eso, ya antes, ahora ya le compran la carne,  pero a lo primero cuando empecemos con mi marido, pues matábamos…, matábamos que tenemos ahí…y ahora ya no se usa porque quitaron la orden y tuvimos que hacer una fábrica nueva. Pues matábamos los cerdos, vacas, yo tenía que romper algunas veces el hielo en el río pa lavar los menudos, conque mira si… Y…, y eso, y así, después a escarnar, que no sé si sabrás lo que es eso.
+E1: No, no, di-, cuéntenos. 
+I1: Pues escarnar es quitar la carne de los huesos. 
+E1: Ah. 
+",La provincia a la que pertenecen los informadores es Soria.
+"Dime la provincia del siguiente texto: E1: T11 A-Nul Dígame, Anonimizado, dígame,  es usted… ¿su apellido es Anonimizado y su…?  Sí, Anonimizado. ¿Y, y su…, y su edad, por favor? Aproximadamente, sin que… 
+I1: ¿Mi edad?  Pos el día cuatro de… mayo…  haré setenta_y_siete años. 
+E2: O sea que su marido le lleva once. 
+I1: Once años me lleva,  y… igual está mejor que yo.  
+E1: Pues tiene usted un aspecto muy saludable, ¿eh? 
+I1: Pues lo parecerá, pero no estoy tan bien, pero vaya.  Que me conservé… así. 
+E1: T1 Sí, sí eh… vamos a ver, eh… háblenos usted, por ejemplo, de sus actividades, eh… ¿qué es lo que… eh… hacen ustedes habitualmente aquí?, por ejemplo, pues en lo referente a fabricar  los embutidos. ¿Cómo…, cómo los preparan, cómo se organizan? 
+I1: Sí, pues eso, ya antes, ahora ya le compran la carne,  pero a lo primero cuando empecemos con mi marido, pues matábamos…, matábamos que tenemos ahí…y ahora ya no se usa porque quitaron la orden y tuvimos que hacer una fábrica nueva. Pues matábamos los cerdos, vacas, yo tenía que romper algunas veces el hielo en el río pa lavar los menudos, conque mira si… Y…, y eso, y así, después a escarnar, que no sé si sabrás lo que es eso.
+E1: No, no, di-, cuéntenos. 
+I1: Pues escarnar es quitar la carne de los huesos. 
+E1: Ah. 
+",La provincia a la que pertenecen los informadores es Soria.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T11 A-Nul Dígame, Anonimizado, dígame,  es usted… ¿su apellido es Anonimizado y su…?  Sí, Anonimizado. ¿Y, y su…, y su edad, por favor? Aproximadamente, sin que… 
+I1: ¿Mi edad?  Pos el día cuatro de… mayo…  haré setenta_y_siete años. 
+E2: O sea que su marido le lleva once. 
+I1: Once años me lleva,  y… igual está mejor que yo.  
+E1: Pues tiene usted un aspecto muy saludable, ¿eh? 
+I1: Pues lo parecerá, pero no estoy tan bien, pero vaya.  Que me conservé… así. 
+E1: T1 Sí, sí eh… vamos a ver, eh… háblenos usted, por ejemplo, de sus actividades, eh… ¿qué es lo que… eh… hacen ustedes habitualmente aquí?, por ejemplo, pues en lo referente a fabricar  los embutidos. ¿Cómo…, cómo los preparan, cómo se organizan? 
+I1: Sí, pues eso, ya antes, ahora ya le compran la carne,  pero a lo primero cuando empecemos con mi marido, pues matábamos…, matábamos que tenemos ahí…y ahora ya no se usa porque quitaron la orden y tuvimos que hacer una fábrica nueva. Pues matábamos los cerdos, vacas, yo tenía que romper algunas veces el hielo en el río pa lavar los menudos, conque mira si… Y…, y eso, y así, después a escarnar, que no sé si sabrás lo que es eso.
+E1: No, no, di-, cuéntenos. 
+I1: Pues escarnar es quitar la carne de los huesos. 
+E1: Ah. 
+",La provincia a la que pertenecen los informadores es Soria.
+"Dime de qué lugar es el siguiente texto:  E1: T11 A-Nul Dígame, Anonimizado, dígame,  es usted… ¿su apellido es Anonimizado y su…?  Sí, Anonimizado. ¿Y, y su…, y su edad, por favor? Aproximadamente, sin que… 
+I1: ¿Mi edad?  Pos el día cuatro de… mayo…  haré setenta_y_siete años. 
+E2: O sea que su marido le lleva once. 
+I1: Once años me lleva,  y… igual está mejor que yo.  
+E1: Pues tiene usted un aspecto muy saludable, ¿eh? 
+I1: Pues lo parecerá, pero no estoy tan bien, pero vaya.  Que me conservé… así. 
+E1: T1 Sí, sí eh… vamos a ver, eh… háblenos usted, por ejemplo, de sus actividades, eh… ¿qué es lo que… eh… hacen ustedes habitualmente aquí?, por ejemplo, pues en lo referente a fabricar  los embutidos. ¿Cómo…, cómo los preparan, cómo se organizan? 
+I1: Sí, pues eso, ya antes, ahora ya le compran la carne,  pero a lo primero cuando empecemos con mi marido, pues matábamos…, matábamos que tenemos ahí…y ahora ya no se usa porque quitaron la orden y tuvimos que hacer una fábrica nueva. Pues matábamos los cerdos, vacas, yo tenía que romper algunas veces el hielo en el río pa lavar los menudos, conque mira si… Y…, y eso, y así, después a escarnar, que no sé si sabrás lo que es eso.
+E1: No, no, di-, cuéntenos. 
+I1: Pues escarnar es quitar la carne de los huesos. 
+E1: Ah. 
+",La provincia a la que pertenecen los informadores es Soria.

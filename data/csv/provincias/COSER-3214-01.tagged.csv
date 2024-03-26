@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T1 Entonces, vamos a ver, ¿quién, quién mataba al cerdo? 
+I1: Pues en mi casa no mataba nadie, o sea, siempre llevabas un carnicero del pueblo, un señor mayor, que andaba por toas las casas así, y aquel nos mataba. Y, después, hacíamos, echa-, caía sangre y… meneábamos así, dando las vueltas pa que se quedaría bien, pa hacer luego la, la morcilla. Picábamos cebolla, puerro, perejil, las grasas y… hacíamos…
+E2: ¿al cerdo cómo se cogía para matar? Porque un cerdo es muy grande. 
+I1: Ah, el cerdo, ah. El cerdo se cogía, claro, de la pocilga sacábamos, pero el, el carnicero le metía un gancho por aquí, pa tirar de la pocilga pa, pa fuera. Y después estaban pues cuatro hombres o así pa coger de las patas y echaban encima la mesa. Y, entonces, el carnicero, le qui-,  el carnicero cogía ese gancho así, en la pantorrilla lo tenía otro gancho así, pa recoger, y… después metía, le metía el cuchillo a…, al cerdo. Y empezaba: prrr ONOMAT, la sangre, y en el momento se, se, se, se desangraba no puedo hablar, porque soy, soy vasca y, a veces, pues no puedo hablar bien. 
+E1: O sea, ¿usted es…, habla también vasco?  
+I1: Sí, sí, yo soy vas-, sí, yo soy vasca y…, después, hacíamos menear la sangre y sangre se quedaba finica. Y, después, ya te digo, hacíamos morcillas con cebolla picada, con perejil, con puerro, arroz blanco, y después se picaban grasas, y hacíamos menear bien, bien, bien con sal y con un poco canela, con canela en polvo, y hacíamos morcillas. Después, llenábamos intestinos y se ataban así, en un tamaño pa hacer, pa que no se… reventarían, las morcillas atábamos así, un poco cortas, pa cocer la forma de la morcilla Y, así, pues, después, cocer, a poco a poco meter, a poco, en un puchero grande y cocer, pero no, no tenía que hirvir , hervir no, ¿eh?
+E1: ¿Cocer las morcillas? 
+I1: Morcillas, sí. Esa sangre pues… se ponía dura, dura, y…, después, salían riquísimas, o sea, morcillas buenas, buenas. Y así, pues eso era. 
+E1: Y, y chorizos, ¿hacían chorizos?  
+I1: chorizos, chistorra sí. 
+E1: ¿Y cómo, cómo hacían…?  
+",La provincia a la que pertenecen los informadores es Navarra.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T1 Entonces, vamos a ver, ¿quién, quién mataba al cerdo? 
+I1: Pues en mi casa no mataba nadie, o sea, siempre llevabas un carnicero del pueblo, un señor mayor, que andaba por toas las casas así, y aquel nos mataba. Y, después, hacíamos, echa-, caía sangre y… meneábamos así, dando las vueltas pa que se quedaría bien, pa hacer luego la, la morcilla. Picábamos cebolla, puerro, perejil, las grasas y… hacíamos…
+E2: ¿al cerdo cómo se cogía para matar? Porque un cerdo es muy grande. 
+I1: Ah, el cerdo, ah. El cerdo se cogía, claro, de la pocilga sacábamos, pero el, el carnicero le metía un gancho por aquí, pa tirar de la pocilga pa, pa fuera. Y después estaban pues cuatro hombres o así pa coger de las patas y echaban encima la mesa. Y, entonces, el carnicero, le qui-,  el carnicero cogía ese gancho así, en la pantorrilla lo tenía otro gancho así, pa recoger, y… después metía, le metía el cuchillo a…, al cerdo. Y empezaba: prrr ONOMAT, la sangre, y en el momento se, se, se, se desangraba no puedo hablar, porque soy, soy vasca y, a veces, pues no puedo hablar bien. 
+E1: O sea, ¿usted es…, habla también vasco?  
+I1: Sí, sí, yo soy vas-, sí, yo soy vasca y…, después, hacíamos menear la sangre y sangre se quedaba finica. Y, después, ya te digo, hacíamos morcillas con cebolla picada, con perejil, con puerro, arroz blanco, y después se picaban grasas, y hacíamos menear bien, bien, bien con sal y con un poco canela, con canela en polvo, y hacíamos morcillas. Después, llenábamos intestinos y se ataban así, en un tamaño pa hacer, pa que no se… reventarían, las morcillas atábamos así, un poco cortas, pa cocer la forma de la morcilla Y, así, pues, después, cocer, a poco a poco meter, a poco, en un puchero grande y cocer, pero no, no tenía que hirvir , hervir no, ¿eh?
+E1: ¿Cocer las morcillas? 
+I1: Morcillas, sí. Esa sangre pues… se ponía dura, dura, y…, después, salían riquísimas, o sea, morcillas buenas, buenas. Y así, pues eso era. 
+E1: Y, y chorizos, ¿hacían chorizos?  
+I1: chorizos, chistorra sí. 
+E1: ¿Y cómo, cómo hacían…?  
+",La provincia a la que pertenecen los informadores es Navarra.
+"Dime la provincia del siguiente texto: E1: T1 Entonces, vamos a ver, ¿quién, quién mataba al cerdo? 
+I1: Pues en mi casa no mataba nadie, o sea, siempre llevabas un carnicero del pueblo, un señor mayor, que andaba por toas las casas así, y aquel nos mataba. Y, después, hacíamos, echa-, caía sangre y… meneábamos así, dando las vueltas pa que se quedaría bien, pa hacer luego la, la morcilla. Picábamos cebolla, puerro, perejil, las grasas y… hacíamos…
+E2: ¿al cerdo cómo se cogía para matar? Porque un cerdo es muy grande. 
+I1: Ah, el cerdo, ah. El cerdo se cogía, claro, de la pocilga sacábamos, pero el, el carnicero le metía un gancho por aquí, pa tirar de la pocilga pa, pa fuera. Y después estaban pues cuatro hombres o así pa coger de las patas y echaban encima la mesa. Y, entonces, el carnicero, le qui-,  el carnicero cogía ese gancho así, en la pantorrilla lo tenía otro gancho así, pa recoger, y… después metía, le metía el cuchillo a…, al cerdo. Y empezaba: prrr ONOMAT, la sangre, y en el momento se, se, se, se desangraba no puedo hablar, porque soy, soy vasca y, a veces, pues no puedo hablar bien. 
+E1: O sea, ¿usted es…, habla también vasco?  
+I1: Sí, sí, yo soy vas-, sí, yo soy vasca y…, después, hacíamos menear la sangre y sangre se quedaba finica. Y, después, ya te digo, hacíamos morcillas con cebolla picada, con perejil, con puerro, arroz blanco, y después se picaban grasas, y hacíamos menear bien, bien, bien con sal y con un poco canela, con canela en polvo, y hacíamos morcillas. Después, llenábamos intestinos y se ataban así, en un tamaño pa hacer, pa que no se… reventarían, las morcillas atábamos así, un poco cortas, pa cocer la forma de la morcilla Y, así, pues, después, cocer, a poco a poco meter, a poco, en un puchero grande y cocer, pero no, no tenía que hirvir , hervir no, ¿eh?
+E1: ¿Cocer las morcillas? 
+I1: Morcillas, sí. Esa sangre pues… se ponía dura, dura, y…, después, salían riquísimas, o sea, morcillas buenas, buenas. Y así, pues eso era. 
+E1: Y, y chorizos, ¿hacían chorizos?  
+I1: chorizos, chistorra sí. 
+E1: ¿Y cómo, cómo hacían…?  
+",La provincia a la que pertenecen los informadores es Navarra.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T1 Entonces, vamos a ver, ¿quién, quién mataba al cerdo? 
+I1: Pues en mi casa no mataba nadie, o sea, siempre llevabas un carnicero del pueblo, un señor mayor, que andaba por toas las casas así, y aquel nos mataba. Y, después, hacíamos, echa-, caía sangre y… meneábamos así, dando las vueltas pa que se quedaría bien, pa hacer luego la, la morcilla. Picábamos cebolla, puerro, perejil, las grasas y… hacíamos…
+E2: ¿al cerdo cómo se cogía para matar? Porque un cerdo es muy grande. 
+I1: Ah, el cerdo, ah. El cerdo se cogía, claro, de la pocilga sacábamos, pero el, el carnicero le metía un gancho por aquí, pa tirar de la pocilga pa, pa fuera. Y después estaban pues cuatro hombres o así pa coger de las patas y echaban encima la mesa. Y, entonces, el carnicero, le qui-,  el carnicero cogía ese gancho así, en la pantorrilla lo tenía otro gancho así, pa recoger, y… después metía, le metía el cuchillo a…, al cerdo. Y empezaba: prrr ONOMAT, la sangre, y en el momento se, se, se, se desangraba no puedo hablar, porque soy, soy vasca y, a veces, pues no puedo hablar bien. 
+E1: O sea, ¿usted es…, habla también vasco?  
+I1: Sí, sí, yo soy vas-, sí, yo soy vasca y…, después, hacíamos menear la sangre y sangre se quedaba finica. Y, después, ya te digo, hacíamos morcillas con cebolla picada, con perejil, con puerro, arroz blanco, y después se picaban grasas, y hacíamos menear bien, bien, bien con sal y con un poco canela, con canela en polvo, y hacíamos morcillas. Después, llenábamos intestinos y se ataban así, en un tamaño pa hacer, pa que no se… reventarían, las morcillas atábamos así, un poco cortas, pa cocer la forma de la morcilla Y, así, pues, después, cocer, a poco a poco meter, a poco, en un puchero grande y cocer, pero no, no tenía que hirvir , hervir no, ¿eh?
+E1: ¿Cocer las morcillas? 
+I1: Morcillas, sí. Esa sangre pues… se ponía dura, dura, y…, después, salían riquísimas, o sea, morcillas buenas, buenas. Y así, pues eso era. 
+E1: Y, y chorizos, ¿hacían chorizos?  
+I1: chorizos, chistorra sí. 
+E1: ¿Y cómo, cómo hacían…?  
+",La provincia a la que pertenecen los informadores es Navarra.
+"Dime de qué lugar es el siguiente texto:  E1: T1 Entonces, vamos a ver, ¿quién, quién mataba al cerdo? 
+I1: Pues en mi casa no mataba nadie, o sea, siempre llevabas un carnicero del pueblo, un señor mayor, que andaba por toas las casas así, y aquel nos mataba. Y, después, hacíamos, echa-, caía sangre y… meneábamos así, dando las vueltas pa que se quedaría bien, pa hacer luego la, la morcilla. Picábamos cebolla, puerro, perejil, las grasas y… hacíamos…
+E2: ¿al cerdo cómo se cogía para matar? Porque un cerdo es muy grande. 
+I1: Ah, el cerdo, ah. El cerdo se cogía, claro, de la pocilga sacábamos, pero el, el carnicero le metía un gancho por aquí, pa tirar de la pocilga pa, pa fuera. Y después estaban pues cuatro hombres o así pa coger de las patas y echaban encima la mesa. Y, entonces, el carnicero, le qui-,  el carnicero cogía ese gancho así, en la pantorrilla lo tenía otro gancho así, pa recoger, y… después metía, le metía el cuchillo a…, al cerdo. Y empezaba: prrr ONOMAT, la sangre, y en el momento se, se, se, se desangraba no puedo hablar, porque soy, soy vasca y, a veces, pues no puedo hablar bien. 
+E1: O sea, ¿usted es…, habla también vasco?  
+I1: Sí, sí, yo soy vas-, sí, yo soy vasca y…, después, hacíamos menear la sangre y sangre se quedaba finica. Y, después, ya te digo, hacíamos morcillas con cebolla picada, con perejil, con puerro, arroz blanco, y después se picaban grasas, y hacíamos menear bien, bien, bien con sal y con un poco canela, con canela en polvo, y hacíamos morcillas. Después, llenábamos intestinos y se ataban así, en un tamaño pa hacer, pa que no se… reventarían, las morcillas atábamos así, un poco cortas, pa cocer la forma de la morcilla Y, así, pues, después, cocer, a poco a poco meter, a poco, en un puchero grande y cocer, pero no, no tenía que hirvir , hervir no, ¿eh?
+E1: ¿Cocer las morcillas? 
+I1: Morcillas, sí. Esa sangre pues… se ponía dura, dura, y…, después, salían riquísimas, o sea, morcillas buenas, buenas. Y así, pues eso era. 
+E1: Y, y chorizos, ¿hacían chorizos?  
+I1: chorizos, chistorra sí. 
+E1: ¿Y cómo, cómo hacían…?  
+",La provincia a la que pertenecen los informadores es Navarra.

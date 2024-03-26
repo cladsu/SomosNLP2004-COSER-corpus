@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: T1 La matanza es en noviembre. 
+E1: ¿La matanza es en noviembre?  Sí. ¿Y cómo llaman aquí al cerdo? 
+I1: ¿Al cerdo? Marrano le decían antes. 
+E1: ¿Marrano? 
+I1: Marrano, pero lo más este, lo más… es cerdo. ¿Pa, pa acuchillalo , pa sacrificalo
+E1: ¿Y usted ha-, hace eso o hacía eso? 
+I1: Hombre, claro. 
+E1: ¿Y nos puede contar cómo…, cómo es…  el proceso de todo…? 
+I1: ¿Pa hacélo to
+E1: Sí, sí. 
+I1: Ea, pues la matanza, pues que se mata a un cerdo… que a… 
+",La provincia a la que pertenecen los informadores es Jaén.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: T1 La matanza es en noviembre. 
+E1: ¿La matanza es en noviembre?  Sí. ¿Y cómo llaman aquí al cerdo? 
+I1: ¿Al cerdo? Marrano le decían antes. 
+E1: ¿Marrano? 
+I1: Marrano, pero lo más este, lo más… es cerdo. ¿Pa, pa acuchillalo , pa sacrificalo
+E1: ¿Y usted ha-, hace eso o hacía eso? 
+I1: Hombre, claro. 
+E1: ¿Y nos puede contar cómo…, cómo es…  el proceso de todo…? 
+I1: ¿Pa hacélo to
+E1: Sí, sí. 
+I1: Ea, pues la matanza, pues que se mata a un cerdo… que a… 
+",La provincia a la que pertenecen los informadores es Jaén.
+"Dime la provincia del siguiente texto: I1: T1 La matanza es en noviembre. 
+E1: ¿La matanza es en noviembre?  Sí. ¿Y cómo llaman aquí al cerdo? 
+I1: ¿Al cerdo? Marrano le decían antes. 
+E1: ¿Marrano? 
+I1: Marrano, pero lo más este, lo más… es cerdo. ¿Pa, pa acuchillalo , pa sacrificalo
+E1: ¿Y usted ha-, hace eso o hacía eso? 
+I1: Hombre, claro. 
+E1: ¿Y nos puede contar cómo…, cómo es…  el proceso de todo…? 
+I1: ¿Pa hacélo to
+E1: Sí, sí. 
+I1: Ea, pues la matanza, pues que se mata a un cerdo… que a… 
+",La provincia a la que pertenecen los informadores es Jaén.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: T1 La matanza es en noviembre. 
+E1: ¿La matanza es en noviembre?  Sí. ¿Y cómo llaman aquí al cerdo? 
+I1: ¿Al cerdo? Marrano le decían antes. 
+E1: ¿Marrano? 
+I1: Marrano, pero lo más este, lo más… es cerdo. ¿Pa, pa acuchillalo , pa sacrificalo
+E1: ¿Y usted ha-, hace eso o hacía eso? 
+I1: Hombre, claro. 
+E1: ¿Y nos puede contar cómo…, cómo es…  el proceso de todo…? 
+I1: ¿Pa hacélo to
+E1: Sí, sí. 
+I1: Ea, pues la matanza, pues que se mata a un cerdo… que a… 
+",La provincia a la que pertenecen los informadores es Jaén.
+"Dime de qué lugar es el siguiente texto:  I1: T1 La matanza es en noviembre. 
+E1: ¿La matanza es en noviembre?  Sí. ¿Y cómo llaman aquí al cerdo? 
+I1: ¿Al cerdo? Marrano le decían antes. 
+E1: ¿Marrano? 
+I1: Marrano, pero lo más este, lo más… es cerdo. ¿Pa, pa acuchillalo , pa sacrificalo
+E1: ¿Y usted ha-, hace eso o hacía eso? 
+I1: Hombre, claro. 
+E1: ¿Y nos puede contar cómo…, cómo es…  el proceso de todo…? 
+I1: ¿Pa hacélo to
+E1: Sí, sí. 
+I1: Ea, pues la matanza, pues que se mata a un cerdo… que a… 
+",La provincia a la que pertenecen los informadores es Jaén.

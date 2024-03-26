@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1:  Y aquí es… 
+I2: No hagan caso, no hagan caso… 
+I1: HCruz:¿Es que es mentira eso? 
+E1: Pero eso es lo… 
+I1: T18 Este es rojo como un tomate,  yo no, yo soy facha, hombre. 
+I2: HCruz:Oye, y a esta gente, ¿qué les importa? 
+I1: Pos yo le digo lo que semos
+I2: lo que tú eres. Tú, lo que tú eres. Lo que yo se-, lo que  yo seoy 
+I1: de veinte quintos y quedamos dos. Qué buenos seremos. 
+I2: Qué buenos serían los falangistas de este pueblo, que aquí no metió a nadie a la cárcel, y, y hubo hasta tres penas de muerte. Los de este. 
+I1: Lo eso eran los míos, eran los buenos. 
+",La provincia a la que pertenecen los informadores es Albacete.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1:  Y aquí es… 
+I2: No hagan caso, no hagan caso… 
+I1: HCruz:¿Es que es mentira eso? 
+E1: Pero eso es lo… 
+I1: T18 Este es rojo como un tomate,  yo no, yo soy facha, hombre. 
+I2: HCruz:Oye, y a esta gente, ¿qué les importa? 
+I1: Pos yo le digo lo que semos
+I2: lo que tú eres. Tú, lo que tú eres. Lo que yo se-, lo que  yo seoy 
+I1: de veinte quintos y quedamos dos. Qué buenos seremos. 
+I2: Qué buenos serían los falangistas de este pueblo, que aquí no metió a nadie a la cárcel, y, y hubo hasta tres penas de muerte. Los de este. 
+I1: Lo eso eran los míos, eran los buenos. 
+",La provincia a la que pertenecen los informadores es Albacete.
+"Dime la provincia del siguiente texto: I1:  Y aquí es… 
+I2: No hagan caso, no hagan caso… 
+I1: HCruz:¿Es que es mentira eso? 
+E1: Pero eso es lo… 
+I1: T18 Este es rojo como un tomate,  yo no, yo soy facha, hombre. 
+I2: HCruz:Oye, y a esta gente, ¿qué les importa? 
+I1: Pos yo le digo lo que semos
+I2: lo que tú eres. Tú, lo que tú eres. Lo que yo se-, lo que  yo seoy 
+I1: de veinte quintos y quedamos dos. Qué buenos seremos. 
+I2: Qué buenos serían los falangistas de este pueblo, que aquí no metió a nadie a la cárcel, y, y hubo hasta tres penas de muerte. Los de este. 
+I1: Lo eso eran los míos, eran los buenos. 
+",La provincia a la que pertenecen los informadores es Albacete.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1:  Y aquí es… 
+I2: No hagan caso, no hagan caso… 
+I1: HCruz:¿Es que es mentira eso? 
+E1: Pero eso es lo… 
+I1: T18 Este es rojo como un tomate,  yo no, yo soy facha, hombre. 
+I2: HCruz:Oye, y a esta gente, ¿qué les importa? 
+I1: Pos yo le digo lo que semos
+I2: lo que tú eres. Tú, lo que tú eres. Lo que yo se-, lo que  yo seoy 
+I1: de veinte quintos y quedamos dos. Qué buenos seremos. 
+I2: Qué buenos serían los falangistas de este pueblo, que aquí no metió a nadie a la cárcel, y, y hubo hasta tres penas de muerte. Los de este. 
+I1: Lo eso eran los míos, eran los buenos. 
+",La provincia a la que pertenecen los informadores es Albacete.
+"Dime de qué lugar es el siguiente texto:  I1:  Y aquí es… 
+I2: No hagan caso, no hagan caso… 
+I1: HCruz:¿Es que es mentira eso? 
+E1: Pero eso es lo… 
+I1: T18 Este es rojo como un tomate,  yo no, yo soy facha, hombre. 
+I2: HCruz:Oye, y a esta gente, ¿qué les importa? 
+I1: Pos yo le digo lo que semos
+I2: lo que tú eres. Tú, lo que tú eres. Lo que yo se-, lo que  yo seoy 
+I1: de veinte quintos y quedamos dos. Qué buenos seremos. 
+I2: Qué buenos serían los falangistas de este pueblo, que aquí no metió a nadie a la cárcel, y, y hubo hasta tres penas de muerte. Los de este. 
+I1: Lo eso eran los míos, eran los buenos. 
+",La provincia a la que pertenecen los informadores es Albacete.

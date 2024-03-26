@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T19 Usted que ha vivido tantos años aquí,  dentro de Muros, ¿cómo era…? 
+I1: Siempre, siempre aquí.
+E1: Y la, y la vida aquí, ¿ha notado usted mucho cambio a lo largo de los años? 
+I1: Muchísimo. . Nuestra niñez fue…de lo más feliz. Había mucho respeto a los mayores,  a nuestros padres, nos ponían un horario y a aquella hora teníamos que volver a casa. Teníamos ilusión por salir, teníamos dos cines. Luego algún amigo, un hermano de él nos hacía guateque en…  Anonimizado. 
+I2:  ¡Ah! ¿Ese? 
+I1: Sí, sí. Y, bueno, siempre en el guateque nos ponía también algo de picar.Y estábamos ilusionados, claro. Pero no salíamos más que el domingo. Los días de semana íbamos al colegio, o labores… de mano. Nos mandaban a bordar. Yo fui con su mamá a las monjas también. Para quitarnos de la calle, porque aquí no había instituto, y una vez que acabábamos en los colegios, ya o teníamos que ir para Santiago, o quedarnos aquí en el pueblo. 
+E1:  Y usted se quedó aquí.  
+I1: económicamente no me pudieron mandar. . Entonces, pues eso, nos mandaban a aprender a bordar para quitarnos de la calle. Luego teníamos para jugar, pero sin juguetes: la pala, el pinchín, . la mariquitilla, la pelota… Y estábamos muy, muy entretenidas,con la ilusión de que llegara el domingo. Y la película, claro, siempre que la censura fuera para ver nosotros. 
+I2: Explica eso de la censura. Explícale lo de la censura,  que es simpático. 
+I1: La, la censura consistía en poner uno, dos o tres. La uno, era para los jovencitos, la dos, para medianos, y la tres ya… no la podíamos ver a partir de una edá . .
+I2: Eran mayores con reparos o algo así, ¿no?  
+",La provincia a la que pertenecen los informadores es La Coruña.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T19 Usted que ha vivido tantos años aquí,  dentro de Muros, ¿cómo era…? 
+I1: Siempre, siempre aquí.
+E1: Y la, y la vida aquí, ¿ha notado usted mucho cambio a lo largo de los años? 
+I1: Muchísimo. . Nuestra niñez fue…de lo más feliz. Había mucho respeto a los mayores,  a nuestros padres, nos ponían un horario y a aquella hora teníamos que volver a casa. Teníamos ilusión por salir, teníamos dos cines. Luego algún amigo, un hermano de él nos hacía guateque en…  Anonimizado. 
+I2:  ¡Ah! ¿Ese? 
+I1: Sí, sí. Y, bueno, siempre en el guateque nos ponía también algo de picar.Y estábamos ilusionados, claro. Pero no salíamos más que el domingo. Los días de semana íbamos al colegio, o labores… de mano. Nos mandaban a bordar. Yo fui con su mamá a las monjas también. Para quitarnos de la calle, porque aquí no había instituto, y una vez que acabábamos en los colegios, ya o teníamos que ir para Santiago, o quedarnos aquí en el pueblo. 
+E1:  Y usted se quedó aquí.  
+I1: económicamente no me pudieron mandar. . Entonces, pues eso, nos mandaban a aprender a bordar para quitarnos de la calle. Luego teníamos para jugar, pero sin juguetes: la pala, el pinchín, . la mariquitilla, la pelota… Y estábamos muy, muy entretenidas,con la ilusión de que llegara el domingo. Y la película, claro, siempre que la censura fuera para ver nosotros. 
+I2: Explica eso de la censura. Explícale lo de la censura,  que es simpático. 
+I1: La, la censura consistía en poner uno, dos o tres. La uno, era para los jovencitos, la dos, para medianos, y la tres ya… no la podíamos ver a partir de una edá . .
+I2: Eran mayores con reparos o algo así, ¿no?  
+",La provincia a la que pertenecen los informadores es La Coruña.
+"Dime la provincia del siguiente texto: E1: T19 Usted que ha vivido tantos años aquí,  dentro de Muros, ¿cómo era…? 
+I1: Siempre, siempre aquí.
+E1: Y la, y la vida aquí, ¿ha notado usted mucho cambio a lo largo de los años? 
+I1: Muchísimo. . Nuestra niñez fue…de lo más feliz. Había mucho respeto a los mayores,  a nuestros padres, nos ponían un horario y a aquella hora teníamos que volver a casa. Teníamos ilusión por salir, teníamos dos cines. Luego algún amigo, un hermano de él nos hacía guateque en…  Anonimizado. 
+I2:  ¡Ah! ¿Ese? 
+I1: Sí, sí. Y, bueno, siempre en el guateque nos ponía también algo de picar.Y estábamos ilusionados, claro. Pero no salíamos más que el domingo. Los días de semana íbamos al colegio, o labores… de mano. Nos mandaban a bordar. Yo fui con su mamá a las monjas también. Para quitarnos de la calle, porque aquí no había instituto, y una vez que acabábamos en los colegios, ya o teníamos que ir para Santiago, o quedarnos aquí en el pueblo. 
+E1:  Y usted se quedó aquí.  
+I1: económicamente no me pudieron mandar. . Entonces, pues eso, nos mandaban a aprender a bordar para quitarnos de la calle. Luego teníamos para jugar, pero sin juguetes: la pala, el pinchín, . la mariquitilla, la pelota… Y estábamos muy, muy entretenidas,con la ilusión de que llegara el domingo. Y la película, claro, siempre que la censura fuera para ver nosotros. 
+I2: Explica eso de la censura. Explícale lo de la censura,  que es simpático. 
+I1: La, la censura consistía en poner uno, dos o tres. La uno, era para los jovencitos, la dos, para medianos, y la tres ya… no la podíamos ver a partir de una edá . .
+I2: Eran mayores con reparos o algo así, ¿no?  
+",La provincia a la que pertenecen los informadores es La Coruña.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T19 Usted que ha vivido tantos años aquí,  dentro de Muros, ¿cómo era…? 
+I1: Siempre, siempre aquí.
+E1: Y la, y la vida aquí, ¿ha notado usted mucho cambio a lo largo de los años? 
+I1: Muchísimo. . Nuestra niñez fue…de lo más feliz. Había mucho respeto a los mayores,  a nuestros padres, nos ponían un horario y a aquella hora teníamos que volver a casa. Teníamos ilusión por salir, teníamos dos cines. Luego algún amigo, un hermano de él nos hacía guateque en…  Anonimizado. 
+I2:  ¡Ah! ¿Ese? 
+I1: Sí, sí. Y, bueno, siempre en el guateque nos ponía también algo de picar.Y estábamos ilusionados, claro. Pero no salíamos más que el domingo. Los días de semana íbamos al colegio, o labores… de mano. Nos mandaban a bordar. Yo fui con su mamá a las monjas también. Para quitarnos de la calle, porque aquí no había instituto, y una vez que acabábamos en los colegios, ya o teníamos que ir para Santiago, o quedarnos aquí en el pueblo. 
+E1:  Y usted se quedó aquí.  
+I1: económicamente no me pudieron mandar. . Entonces, pues eso, nos mandaban a aprender a bordar para quitarnos de la calle. Luego teníamos para jugar, pero sin juguetes: la pala, el pinchín, . la mariquitilla, la pelota… Y estábamos muy, muy entretenidas,con la ilusión de que llegara el domingo. Y la película, claro, siempre que la censura fuera para ver nosotros. 
+I2: Explica eso de la censura. Explícale lo de la censura,  que es simpático. 
+I1: La, la censura consistía en poner uno, dos o tres. La uno, era para los jovencitos, la dos, para medianos, y la tres ya… no la podíamos ver a partir de una edá . .
+I2: Eran mayores con reparos o algo así, ¿no?  
+",La provincia a la que pertenecen los informadores es La Coruña.
+"Dime de qué lugar es el siguiente texto:  E1: T19 Usted que ha vivido tantos años aquí,  dentro de Muros, ¿cómo era…? 
+I1: Siempre, siempre aquí.
+E1: Y la, y la vida aquí, ¿ha notado usted mucho cambio a lo largo de los años? 
+I1: Muchísimo. . Nuestra niñez fue…de lo más feliz. Había mucho respeto a los mayores,  a nuestros padres, nos ponían un horario y a aquella hora teníamos que volver a casa. Teníamos ilusión por salir, teníamos dos cines. Luego algún amigo, un hermano de él nos hacía guateque en…  Anonimizado. 
+I2:  ¡Ah! ¿Ese? 
+I1: Sí, sí. Y, bueno, siempre en el guateque nos ponía también algo de picar.Y estábamos ilusionados, claro. Pero no salíamos más que el domingo. Los días de semana íbamos al colegio, o labores… de mano. Nos mandaban a bordar. Yo fui con su mamá a las monjas también. Para quitarnos de la calle, porque aquí no había instituto, y una vez que acabábamos en los colegios, ya o teníamos que ir para Santiago, o quedarnos aquí en el pueblo. 
+E1:  Y usted se quedó aquí.  
+I1: económicamente no me pudieron mandar. . Entonces, pues eso, nos mandaban a aprender a bordar para quitarnos de la calle. Luego teníamos para jugar, pero sin juguetes: la pala, el pinchín, . la mariquitilla, la pelota… Y estábamos muy, muy entretenidas,con la ilusión de que llegara el domingo. Y la película, claro, siempre que la censura fuera para ver nosotros. 
+I2: Explica eso de la censura. Explícale lo de la censura,  que es simpático. 
+I1: La, la censura consistía en poner uno, dos o tres. La uno, era para los jovencitos, la dos, para medianos, y la tres ya… no la podíamos ver a partir de una edá . .
+I2: Eran mayores con reparos o algo así, ¿no?  
+",La provincia a la que pertenecen los informadores es La Coruña.

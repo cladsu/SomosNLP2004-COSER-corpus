@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T1 ¿Nos quiere hablar un poco de la matanza?, ¿usted ha hecho  matanza? 
+I1: pues aquí la matanza antes se hacía mucha. Ahora ya se compra  los embutidos y esas cosas se compran en Mayorga o donde sea y matanzas pues se hacen pocos. Por ejemplo, estos pues hacen matanza porque son mucha familia y, y a lo mejor haz-, matan un cerdo o dos. Era antes muy… Cuando se mataban los cerdos antiguamente se… reunían toda la familia y lo hacían todo eso. Eso yo ya no lo he conocido. 
+E1: ¿Sí? 
+I1: Eso ha sido de antes, sí. 
+E1: Pero ¿y cómo mataban al cerdo, por ejemplo? 
+I1: Ah, pues se le la que le, le matan ahora de muchas maneras, porque ahora he oído decir que les cuelga y les sangra y entonces no. Teníamos un banco, un banco de matar cerdos, se le echaban entre cuatro o cinco al banco y entonces le clavaban y ya está. 
+E1: ¿Sí?, pero ¿y ahora es, es…  la cosa…? 
+I1: se chamuscaba bien, le, le lavaban bien, le abrían y…, y ya está. Al día siguiente se estazaba. 
+E1: ¿Sí? Y, pero ¿y qué, qué es estazar? 
+I1: Estazar, pues abrirle al medio cuando ya está helao se abre al medio y entonces ya se sacan las cintas pa un lao las costillas pa un lao, todo, y después la carne para picarla. 
+E1: ¿Sí?  ¿Y qué hacen? 
+",La provincia a la que pertenecen los informadores es Valladolid.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T1 ¿Nos quiere hablar un poco de la matanza?, ¿usted ha hecho  matanza? 
+I1: pues aquí la matanza antes se hacía mucha. Ahora ya se compra  los embutidos y esas cosas se compran en Mayorga o donde sea y matanzas pues se hacen pocos. Por ejemplo, estos pues hacen matanza porque son mucha familia y, y a lo mejor haz-, matan un cerdo o dos. Era antes muy… Cuando se mataban los cerdos antiguamente se… reunían toda la familia y lo hacían todo eso. Eso yo ya no lo he conocido. 
+E1: ¿Sí? 
+I1: Eso ha sido de antes, sí. 
+E1: Pero ¿y cómo mataban al cerdo, por ejemplo? 
+I1: Ah, pues se le la que le, le matan ahora de muchas maneras, porque ahora he oído decir que les cuelga y les sangra y entonces no. Teníamos un banco, un banco de matar cerdos, se le echaban entre cuatro o cinco al banco y entonces le clavaban y ya está. 
+E1: ¿Sí?, pero ¿y ahora es, es…  la cosa…? 
+I1: se chamuscaba bien, le, le lavaban bien, le abrían y…, y ya está. Al día siguiente se estazaba. 
+E1: ¿Sí? Y, pero ¿y qué, qué es estazar? 
+I1: Estazar, pues abrirle al medio cuando ya está helao se abre al medio y entonces ya se sacan las cintas pa un lao las costillas pa un lao, todo, y después la carne para picarla. 
+E1: ¿Sí?  ¿Y qué hacen? 
+",La provincia a la que pertenecen los informadores es Valladolid.
+"Dime la provincia del siguiente texto: E1: T1 ¿Nos quiere hablar un poco de la matanza?, ¿usted ha hecho  matanza? 
+I1: pues aquí la matanza antes se hacía mucha. Ahora ya se compra  los embutidos y esas cosas se compran en Mayorga o donde sea y matanzas pues se hacen pocos. Por ejemplo, estos pues hacen matanza porque son mucha familia y, y a lo mejor haz-, matan un cerdo o dos. Era antes muy… Cuando se mataban los cerdos antiguamente se… reunían toda la familia y lo hacían todo eso. Eso yo ya no lo he conocido. 
+E1: ¿Sí? 
+I1: Eso ha sido de antes, sí. 
+E1: Pero ¿y cómo mataban al cerdo, por ejemplo? 
+I1: Ah, pues se le la que le, le matan ahora de muchas maneras, porque ahora he oído decir que les cuelga y les sangra y entonces no. Teníamos un banco, un banco de matar cerdos, se le echaban entre cuatro o cinco al banco y entonces le clavaban y ya está. 
+E1: ¿Sí?, pero ¿y ahora es, es…  la cosa…? 
+I1: se chamuscaba bien, le, le lavaban bien, le abrían y…, y ya está. Al día siguiente se estazaba. 
+E1: ¿Sí? Y, pero ¿y qué, qué es estazar? 
+I1: Estazar, pues abrirle al medio cuando ya está helao se abre al medio y entonces ya se sacan las cintas pa un lao las costillas pa un lao, todo, y después la carne para picarla. 
+E1: ¿Sí?  ¿Y qué hacen? 
+",La provincia a la que pertenecen los informadores es Valladolid.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T1 ¿Nos quiere hablar un poco de la matanza?, ¿usted ha hecho  matanza? 
+I1: pues aquí la matanza antes se hacía mucha. Ahora ya se compra  los embutidos y esas cosas se compran en Mayorga o donde sea y matanzas pues se hacen pocos. Por ejemplo, estos pues hacen matanza porque son mucha familia y, y a lo mejor haz-, matan un cerdo o dos. Era antes muy… Cuando se mataban los cerdos antiguamente se… reunían toda la familia y lo hacían todo eso. Eso yo ya no lo he conocido. 
+E1: ¿Sí? 
+I1: Eso ha sido de antes, sí. 
+E1: Pero ¿y cómo mataban al cerdo, por ejemplo? 
+I1: Ah, pues se le la que le, le matan ahora de muchas maneras, porque ahora he oído decir que les cuelga y les sangra y entonces no. Teníamos un banco, un banco de matar cerdos, se le echaban entre cuatro o cinco al banco y entonces le clavaban y ya está. 
+E1: ¿Sí?, pero ¿y ahora es, es…  la cosa…? 
+I1: se chamuscaba bien, le, le lavaban bien, le abrían y…, y ya está. Al día siguiente se estazaba. 
+E1: ¿Sí? Y, pero ¿y qué, qué es estazar? 
+I1: Estazar, pues abrirle al medio cuando ya está helao se abre al medio y entonces ya se sacan las cintas pa un lao las costillas pa un lao, todo, y después la carne para picarla. 
+E1: ¿Sí?  ¿Y qué hacen? 
+",La provincia a la que pertenecen los informadores es Valladolid.
+"Dime de qué lugar es el siguiente texto:  E1: T1 ¿Nos quiere hablar un poco de la matanza?, ¿usted ha hecho  matanza? 
+I1: pues aquí la matanza antes se hacía mucha. Ahora ya se compra  los embutidos y esas cosas se compran en Mayorga o donde sea y matanzas pues se hacen pocos. Por ejemplo, estos pues hacen matanza porque son mucha familia y, y a lo mejor haz-, matan un cerdo o dos. Era antes muy… Cuando se mataban los cerdos antiguamente se… reunían toda la familia y lo hacían todo eso. Eso yo ya no lo he conocido. 
+E1: ¿Sí? 
+I1: Eso ha sido de antes, sí. 
+E1: Pero ¿y cómo mataban al cerdo, por ejemplo? 
+I1: Ah, pues se le la que le, le matan ahora de muchas maneras, porque ahora he oído decir que les cuelga y les sangra y entonces no. Teníamos un banco, un banco de matar cerdos, se le echaban entre cuatro o cinco al banco y entonces le clavaban y ya está. 
+E1: ¿Sí?, pero ¿y ahora es, es…  la cosa…? 
+I1: se chamuscaba bien, le, le lavaban bien, le abrían y…, y ya está. Al día siguiente se estazaba. 
+E1: ¿Sí? Y, pero ¿y qué, qué es estazar? 
+I1: Estazar, pues abrirle al medio cuando ya está helao se abre al medio y entonces ya se sacan las cintas pa un lao las costillas pa un lao, todo, y después la carne para picarla. 
+E1: ¿Sí?  ¿Y qué hacen? 
+",La provincia a la que pertenecen los informadores es Valladolid.

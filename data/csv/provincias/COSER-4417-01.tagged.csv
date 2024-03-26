@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: T3 Cebada pues se lo… ellos mismos los crían en casa. 
+E:  E: Los crían en casa  dice. ¿Y, y cuan-, cómo lo… cómo compran, pequeñitos, o… com-, o  cuándo, cuándo compran? ¿Cuándo los cuándo compran… los cerdos, de cuánto tiempo…? 
+I1: Pues yo no sé si serán de dos o tres meses, pequeños, ¿sabes? . Los crían, luego ellos los crían. Ahora, an-, antes estábamos a lo mejor un año criando el marrano. Pero ahora ya se… con cuatro meses o cinco pues ya les…, les crían, ¿sabes? 
+E:  E: Sí. 
+I1: Como ahora ya hay otros piensos que les pueden cebar pa hacerles más pronto… grandes. Y luego los echan la cebada de ahí que cogen, claro, con la harina. 
+E:  E: Sí. 
+I1: Rndo:¿Y esto va a salir pa, para…? 
+E:  E: Rndo:No, no va a salir para ningún sitio, es para la universidad. Entonces dice que, ¿qué echan, qué echan a estos animales? Le, le… 
+I1: Harina de cebada. 
+E:  E: Sí. 
+I1: Y antes les echábamos, pues antes les echábamos patatas pequeñas cocidas, . ¿sabes?, y a lo mejor pues hojas de remolacha. Pero ahora pues no, ahora se les echa harina de cebada y lo primero pues los crían con pienso para desarrollarles un poco más…, . más grandes, ¿sabes?, o sea, que más pronto. 
+",La provincia a la que pertenecen los informadores es Valladolid.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: T3 Cebada pues se lo… ellos mismos los crían en casa. 
+E:  E: Los crían en casa  dice. ¿Y, y cuan-, cómo lo… cómo compran, pequeñitos, o… com-, o  cuándo, cuándo compran? ¿Cuándo los cuándo compran… los cerdos, de cuánto tiempo…? 
+I1: Pues yo no sé si serán de dos o tres meses, pequeños, ¿sabes? . Los crían, luego ellos los crían. Ahora, an-, antes estábamos a lo mejor un año criando el marrano. Pero ahora ya se… con cuatro meses o cinco pues ya les…, les crían, ¿sabes? 
+E:  E: Sí. 
+I1: Como ahora ya hay otros piensos que les pueden cebar pa hacerles más pronto… grandes. Y luego los echan la cebada de ahí que cogen, claro, con la harina. 
+E:  E: Sí. 
+I1: Rndo:¿Y esto va a salir pa, para…? 
+E:  E: Rndo:No, no va a salir para ningún sitio, es para la universidad. Entonces dice que, ¿qué echan, qué echan a estos animales? Le, le… 
+I1: Harina de cebada. 
+E:  E: Sí. 
+I1: Y antes les echábamos, pues antes les echábamos patatas pequeñas cocidas, . ¿sabes?, y a lo mejor pues hojas de remolacha. Pero ahora pues no, ahora se les echa harina de cebada y lo primero pues los crían con pienso para desarrollarles un poco más…, . más grandes, ¿sabes?, o sea, que más pronto. 
+",La provincia a la que pertenecen los informadores es Valladolid.
+"Dime la provincia del siguiente texto: I1: T3 Cebada pues se lo… ellos mismos los crían en casa. 
+E:  E: Los crían en casa  dice. ¿Y, y cuan-, cómo lo… cómo compran, pequeñitos, o… com-, o  cuándo, cuándo compran? ¿Cuándo los cuándo compran… los cerdos, de cuánto tiempo…? 
+I1: Pues yo no sé si serán de dos o tres meses, pequeños, ¿sabes? . Los crían, luego ellos los crían. Ahora, an-, antes estábamos a lo mejor un año criando el marrano. Pero ahora ya se… con cuatro meses o cinco pues ya les…, les crían, ¿sabes? 
+E:  E: Sí. 
+I1: Como ahora ya hay otros piensos que les pueden cebar pa hacerles más pronto… grandes. Y luego los echan la cebada de ahí que cogen, claro, con la harina. 
+E:  E: Sí. 
+I1: Rndo:¿Y esto va a salir pa, para…? 
+E:  E: Rndo:No, no va a salir para ningún sitio, es para la universidad. Entonces dice que, ¿qué echan, qué echan a estos animales? Le, le… 
+I1: Harina de cebada. 
+E:  E: Sí. 
+I1: Y antes les echábamos, pues antes les echábamos patatas pequeñas cocidas, . ¿sabes?, y a lo mejor pues hojas de remolacha. Pero ahora pues no, ahora se les echa harina de cebada y lo primero pues los crían con pienso para desarrollarles un poco más…, . más grandes, ¿sabes?, o sea, que más pronto. 
+",La provincia a la que pertenecen los informadores es Valladolid.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: T3 Cebada pues se lo… ellos mismos los crían en casa. 
+E:  E: Los crían en casa  dice. ¿Y, y cuan-, cómo lo… cómo compran, pequeñitos, o… com-, o  cuándo, cuándo compran? ¿Cuándo los cuándo compran… los cerdos, de cuánto tiempo…? 
+I1: Pues yo no sé si serán de dos o tres meses, pequeños, ¿sabes? . Los crían, luego ellos los crían. Ahora, an-, antes estábamos a lo mejor un año criando el marrano. Pero ahora ya se… con cuatro meses o cinco pues ya les…, les crían, ¿sabes? 
+E:  E: Sí. 
+I1: Como ahora ya hay otros piensos que les pueden cebar pa hacerles más pronto… grandes. Y luego los echan la cebada de ahí que cogen, claro, con la harina. 
+E:  E: Sí. 
+I1: Rndo:¿Y esto va a salir pa, para…? 
+E:  E: Rndo:No, no va a salir para ningún sitio, es para la universidad. Entonces dice que, ¿qué echan, qué echan a estos animales? Le, le… 
+I1: Harina de cebada. 
+E:  E: Sí. 
+I1: Y antes les echábamos, pues antes les echábamos patatas pequeñas cocidas, . ¿sabes?, y a lo mejor pues hojas de remolacha. Pero ahora pues no, ahora se les echa harina de cebada y lo primero pues los crían con pienso para desarrollarles un poco más…, . más grandes, ¿sabes?, o sea, que más pronto. 
+",La provincia a la que pertenecen los informadores es Valladolid.
+"Dime de qué lugar es el siguiente texto:  I1: T3 Cebada pues se lo… ellos mismos los crían en casa. 
+E:  E: Los crían en casa  dice. ¿Y, y cuan-, cómo lo… cómo compran, pequeñitos, o… com-, o  cuándo, cuándo compran? ¿Cuándo los cuándo compran… los cerdos, de cuánto tiempo…? 
+I1: Pues yo no sé si serán de dos o tres meses, pequeños, ¿sabes? . Los crían, luego ellos los crían. Ahora, an-, antes estábamos a lo mejor un año criando el marrano. Pero ahora ya se… con cuatro meses o cinco pues ya les…, les crían, ¿sabes? 
+E:  E: Sí. 
+I1: Como ahora ya hay otros piensos que les pueden cebar pa hacerles más pronto… grandes. Y luego los echan la cebada de ahí que cogen, claro, con la harina. 
+E:  E: Sí. 
+I1: Rndo:¿Y esto va a salir pa, para…? 
+E:  E: Rndo:No, no va a salir para ningún sitio, es para la universidad. Entonces dice que, ¿qué echan, qué echan a estos animales? Le, le… 
+I1: Harina de cebada. 
+E:  E: Sí. 
+I1: Y antes les echábamos, pues antes les echábamos patatas pequeñas cocidas, . ¿sabes?, y a lo mejor pues hojas de remolacha. Pero ahora pues no, ahora se les echa harina de cebada y lo primero pues los crían con pienso para desarrollarles un poco más…, . más grandes, ¿sabes?, o sea, que más pronto. 
+",La provincia a la que pertenecen los informadores es Valladolid.

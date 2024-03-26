@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: Que no le hemos preguntado ni el nombre: ¿Anonimizado…?  
+I1: Anonimizado. 
+E1: ¿De apellido? 
+I1: Anonimizado. 
+E1: Anonimizado. 
+I1: Anonimizado. 
+E2:  ¡Ah, mira, como ! 
+E1: ¿Y usted ha estado aquí toda la vida? Me ha, me ha contado que ha estudiado tres años en, en Barcelona. 
+I1: En Barcelona, sí; Barcelona.  Hice un comercio en Barcelona,  pe-, pero no he terminado el curso. . Eso, un año o año y medio. 
+E1: Ya, ya. 
+I1: Porque no me ha gustado los estudios. 
+",La provincia a la que pertenecen los informadores es Lérida.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: Que no le hemos preguntado ni el nombre: ¿Anonimizado…?  
+I1: Anonimizado. 
+E1: ¿De apellido? 
+I1: Anonimizado. 
+E1: Anonimizado. 
+I1: Anonimizado. 
+E2:  ¡Ah, mira, como ! 
+E1: ¿Y usted ha estado aquí toda la vida? Me ha, me ha contado que ha estudiado tres años en, en Barcelona. 
+I1: En Barcelona, sí; Barcelona.  Hice un comercio en Barcelona,  pe-, pero no he terminado el curso. . Eso, un año o año y medio. 
+E1: Ya, ya. 
+I1: Porque no me ha gustado los estudios. 
+",La provincia a la que pertenecen los informadores es Lérida.
+"Dime la provincia del siguiente texto: E1: Que no le hemos preguntado ni el nombre: ¿Anonimizado…?  
+I1: Anonimizado. 
+E1: ¿De apellido? 
+I1: Anonimizado. 
+E1: Anonimizado. 
+I1: Anonimizado. 
+E2:  ¡Ah, mira, como ! 
+E1: ¿Y usted ha estado aquí toda la vida? Me ha, me ha contado que ha estudiado tres años en, en Barcelona. 
+I1: En Barcelona, sí; Barcelona.  Hice un comercio en Barcelona,  pe-, pero no he terminado el curso. . Eso, un año o año y medio. 
+E1: Ya, ya. 
+I1: Porque no me ha gustado los estudios. 
+",La provincia a la que pertenecen los informadores es Lérida.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: Que no le hemos preguntado ni el nombre: ¿Anonimizado…?  
+I1: Anonimizado. 
+E1: ¿De apellido? 
+I1: Anonimizado. 
+E1: Anonimizado. 
+I1: Anonimizado. 
+E2:  ¡Ah, mira, como ! 
+E1: ¿Y usted ha estado aquí toda la vida? Me ha, me ha contado que ha estudiado tres años en, en Barcelona. 
+I1: En Barcelona, sí; Barcelona.  Hice un comercio en Barcelona,  pe-, pero no he terminado el curso. . Eso, un año o año y medio. 
+E1: Ya, ya. 
+I1: Porque no me ha gustado los estudios. 
+",La provincia a la que pertenecen los informadores es Lérida.
+"Dime de qué lugar es el siguiente texto:  E1: Que no le hemos preguntado ni el nombre: ¿Anonimizado…?  
+I1: Anonimizado. 
+E1: ¿De apellido? 
+I1: Anonimizado. 
+E1: Anonimizado. 
+I1: Anonimizado. 
+E2:  ¡Ah, mira, como ! 
+E1: ¿Y usted ha estado aquí toda la vida? Me ha, me ha contado que ha estudiado tres años en, en Barcelona. 
+I1: En Barcelona, sí; Barcelona.  Hice un comercio en Barcelona,  pe-, pero no he terminado el curso. . Eso, un año o año y medio. 
+E1: Ya, ya. 
+I1: Porque no me ha gustado los estudios. 
+",La provincia a la que pertenecen los informadores es Lérida.

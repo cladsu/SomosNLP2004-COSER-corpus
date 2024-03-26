@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T1  Pues cómo…, si hacían matanza aquí. 
+I1: Sí, bueno, a las masías,  a las al pueblo también mataban, pero quiero decir, las matanzas se hacen a todas partes a las masías. . Luego en pueblos pequeñitos, como este,  que vivían… unas sesenta familias. . Ellos claro que hacían matanza, porque ahora hay luz con las placas solares, pero antes no había ni luz, ¿eh?  Y a este pueblo tampoco había luz. V-Ljn  Años antes… ¿eh? Mira este, esta, de esto, mira, dónde llega: las dos piedras, era, sola-, solamente da, se da la vuelta. . Mira si ha rebajao la calle, . ¿eh? . Por esto te quiero decir que hay cosas muy, muy antigas
+E1: Pues volveremos por ahí.   Que volveremos por ahí.  Sí. 
+I1: Y también es-, pasa por el medio del monte, y si vas… despacio, se pasa por un pueblo que quedan… cuatro o cinco casas o seis, todas las demás están al fuego ya, . y que se llama Gavadà. Gavadà.  
+E1: es por donde hemos venido. 
+E2: Eso. Sí. 
+I1: ¿Por Gavadà? Pues así no habéis sío muchas curvas. ¡Mecachis la mar, casi no muchas!  Así no habéis pasao por Santa_Marina. 
+E1: No. No, no.  Pues había curvas, ¿eh?  
+I1: Hombres, es claro que hay curvas, pero quiero decir, a la otra parte hay más  curvas.  Uno que se marea, lo ve Rndo:desde que… de cabeza abajo. 
+E2:  Eso sí. 
+E1: ¿Usted vivía en masía o vivía aquí, en el pueblo?  ¿Usted vivía en masía o vivía aquí? 
+",La provincia a la que pertenecen los informadores es Tarragona.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T1  Pues cómo…, si hacían matanza aquí. 
+I1: Sí, bueno, a las masías,  a las al pueblo también mataban, pero quiero decir, las matanzas se hacen a todas partes a las masías. . Luego en pueblos pequeñitos, como este,  que vivían… unas sesenta familias. . Ellos claro que hacían matanza, porque ahora hay luz con las placas solares, pero antes no había ni luz, ¿eh?  Y a este pueblo tampoco había luz. V-Ljn  Años antes… ¿eh? Mira este, esta, de esto, mira, dónde llega: las dos piedras, era, sola-, solamente da, se da la vuelta. . Mira si ha rebajao la calle, . ¿eh? . Por esto te quiero decir que hay cosas muy, muy antigas
+E1: Pues volveremos por ahí.   Que volveremos por ahí.  Sí. 
+I1: Y también es-, pasa por el medio del monte, y si vas… despacio, se pasa por un pueblo que quedan… cuatro o cinco casas o seis, todas las demás están al fuego ya, . y que se llama Gavadà. Gavadà.  
+E1: es por donde hemos venido. 
+E2: Eso. Sí. 
+I1: ¿Por Gavadà? Pues así no habéis sío muchas curvas. ¡Mecachis la mar, casi no muchas!  Así no habéis pasao por Santa_Marina. 
+E1: No. No, no.  Pues había curvas, ¿eh?  
+I1: Hombres, es claro que hay curvas, pero quiero decir, a la otra parte hay más  curvas.  Uno que se marea, lo ve Rndo:desde que… de cabeza abajo. 
+E2:  Eso sí. 
+E1: ¿Usted vivía en masía o vivía aquí, en el pueblo?  ¿Usted vivía en masía o vivía aquí? 
+",La provincia a la que pertenecen los informadores es Tarragona.
+"Dime la provincia del siguiente texto: E1: T1  Pues cómo…, si hacían matanza aquí. 
+I1: Sí, bueno, a las masías,  a las al pueblo también mataban, pero quiero decir, las matanzas se hacen a todas partes a las masías. . Luego en pueblos pequeñitos, como este,  que vivían… unas sesenta familias. . Ellos claro que hacían matanza, porque ahora hay luz con las placas solares, pero antes no había ni luz, ¿eh?  Y a este pueblo tampoco había luz. V-Ljn  Años antes… ¿eh? Mira este, esta, de esto, mira, dónde llega: las dos piedras, era, sola-, solamente da, se da la vuelta. . Mira si ha rebajao la calle, . ¿eh? . Por esto te quiero decir que hay cosas muy, muy antigas
+E1: Pues volveremos por ahí.   Que volveremos por ahí.  Sí. 
+I1: Y también es-, pasa por el medio del monte, y si vas… despacio, se pasa por un pueblo que quedan… cuatro o cinco casas o seis, todas las demás están al fuego ya, . y que se llama Gavadà. Gavadà.  
+E1: es por donde hemos venido. 
+E2: Eso. Sí. 
+I1: ¿Por Gavadà? Pues así no habéis sío muchas curvas. ¡Mecachis la mar, casi no muchas!  Así no habéis pasao por Santa_Marina. 
+E1: No. No, no.  Pues había curvas, ¿eh?  
+I1: Hombres, es claro que hay curvas, pero quiero decir, a la otra parte hay más  curvas.  Uno que se marea, lo ve Rndo:desde que… de cabeza abajo. 
+E2:  Eso sí. 
+E1: ¿Usted vivía en masía o vivía aquí, en el pueblo?  ¿Usted vivía en masía o vivía aquí? 
+",La provincia a la que pertenecen los informadores es Tarragona.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T1  Pues cómo…, si hacían matanza aquí. 
+I1: Sí, bueno, a las masías,  a las al pueblo también mataban, pero quiero decir, las matanzas se hacen a todas partes a las masías. . Luego en pueblos pequeñitos, como este,  que vivían… unas sesenta familias. . Ellos claro que hacían matanza, porque ahora hay luz con las placas solares, pero antes no había ni luz, ¿eh?  Y a este pueblo tampoco había luz. V-Ljn  Años antes… ¿eh? Mira este, esta, de esto, mira, dónde llega: las dos piedras, era, sola-, solamente da, se da la vuelta. . Mira si ha rebajao la calle, . ¿eh? . Por esto te quiero decir que hay cosas muy, muy antigas
+E1: Pues volveremos por ahí.   Que volveremos por ahí.  Sí. 
+I1: Y también es-, pasa por el medio del monte, y si vas… despacio, se pasa por un pueblo que quedan… cuatro o cinco casas o seis, todas las demás están al fuego ya, . y que se llama Gavadà. Gavadà.  
+E1: es por donde hemos venido. 
+E2: Eso. Sí. 
+I1: ¿Por Gavadà? Pues así no habéis sío muchas curvas. ¡Mecachis la mar, casi no muchas!  Así no habéis pasao por Santa_Marina. 
+E1: No. No, no.  Pues había curvas, ¿eh?  
+I1: Hombres, es claro que hay curvas, pero quiero decir, a la otra parte hay más  curvas.  Uno que se marea, lo ve Rndo:desde que… de cabeza abajo. 
+E2:  Eso sí. 
+E1: ¿Usted vivía en masía o vivía aquí, en el pueblo?  ¿Usted vivía en masía o vivía aquí? 
+",La provincia a la que pertenecen los informadores es Tarragona.
+"Dime de qué lugar es el siguiente texto:  E1: T1  Pues cómo…, si hacían matanza aquí. 
+I1: Sí, bueno, a las masías,  a las al pueblo también mataban, pero quiero decir, las matanzas se hacen a todas partes a las masías. . Luego en pueblos pequeñitos, como este,  que vivían… unas sesenta familias. . Ellos claro que hacían matanza, porque ahora hay luz con las placas solares, pero antes no había ni luz, ¿eh?  Y a este pueblo tampoco había luz. V-Ljn  Años antes… ¿eh? Mira este, esta, de esto, mira, dónde llega: las dos piedras, era, sola-, solamente da, se da la vuelta. . Mira si ha rebajao la calle, . ¿eh? . Por esto te quiero decir que hay cosas muy, muy antigas
+E1: Pues volveremos por ahí.   Que volveremos por ahí.  Sí. 
+I1: Y también es-, pasa por el medio del monte, y si vas… despacio, se pasa por un pueblo que quedan… cuatro o cinco casas o seis, todas las demás están al fuego ya, . y que se llama Gavadà. Gavadà.  
+E1: es por donde hemos venido. 
+E2: Eso. Sí. 
+I1: ¿Por Gavadà? Pues así no habéis sío muchas curvas. ¡Mecachis la mar, casi no muchas!  Así no habéis pasao por Santa_Marina. 
+E1: No. No, no.  Pues había curvas, ¿eh?  
+I1: Hombres, es claro que hay curvas, pero quiero decir, a la otra parte hay más  curvas.  Uno que se marea, lo ve Rndo:desde que… de cabeza abajo. 
+E2:  Eso sí. 
+E1: ¿Usted vivía en masía o vivía aquí, en el pueblo?  ¿Usted vivía en masía o vivía aquí? 
+",La provincia a la que pertenecen los informadores es Tarragona.

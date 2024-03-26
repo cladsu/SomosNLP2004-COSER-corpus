@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: V-Sml Una miaja, sí, ¿no? 
+I2: Este le puede narrar algo. 
+I1: Hasta que nací.  
+I3: Este sí sabe algo más. 
+E1:  ¡Ay!,¡qué bien! Pues a ver si… 
+I2: Yo le he dicho que mi cabeza no estamos. 
+E1: Mire, es que venimos de la universidad. Que estamos haciendo un estudio sobre cómo era la vida antes en los pueblos. ¿Usted ha labrao la tierra, por ejemplo? ¿Por aquí, por Doña_Inés? ¿Sí?
+I1: Hasta que nací estuve en la tierra. 
+E1:  ¡Uy!¡ ! Qué bien! Pues  ¿nos puede dedicar un ratico, que le hagamos unas preguntas? ¿Nos cuenta cómo era todo aquello? Es que vamos preguntando a gente ya de una cierta edad, que nos cuente cómo era aquella vida. 
+I1: Pos aquella vida, pos aquella vida era que teníamos ocho años y ya estábamos trabajando la tierra.  Yo, la mieja escuela que tengo, amos
+E1: Fíjese. 
+",La provincia a la que pertenecen los informadores es Murcia.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: V-Sml Una miaja, sí, ¿no? 
+I2: Este le puede narrar algo. 
+I1: Hasta que nací.  
+I3: Este sí sabe algo más. 
+E1:  ¡Ay!,¡qué bien! Pues a ver si… 
+I2: Yo le he dicho que mi cabeza no estamos. 
+E1: Mire, es que venimos de la universidad. Que estamos haciendo un estudio sobre cómo era la vida antes en los pueblos. ¿Usted ha labrao la tierra, por ejemplo? ¿Por aquí, por Doña_Inés? ¿Sí?
+I1: Hasta que nací estuve en la tierra. 
+E1:  ¡Uy!¡ ! Qué bien! Pues  ¿nos puede dedicar un ratico, que le hagamos unas preguntas? ¿Nos cuenta cómo era todo aquello? Es que vamos preguntando a gente ya de una cierta edad, que nos cuente cómo era aquella vida. 
+I1: Pos aquella vida, pos aquella vida era que teníamos ocho años y ya estábamos trabajando la tierra.  Yo, la mieja escuela que tengo, amos
+E1: Fíjese. 
+",La provincia a la que pertenecen los informadores es Murcia.
+"Dime la provincia del siguiente texto: E1: V-Sml Una miaja, sí, ¿no? 
+I2: Este le puede narrar algo. 
+I1: Hasta que nací.  
+I3: Este sí sabe algo más. 
+E1:  ¡Ay!,¡qué bien! Pues a ver si… 
+I2: Yo le he dicho que mi cabeza no estamos. 
+E1: Mire, es que venimos de la universidad. Que estamos haciendo un estudio sobre cómo era la vida antes en los pueblos. ¿Usted ha labrao la tierra, por ejemplo? ¿Por aquí, por Doña_Inés? ¿Sí?
+I1: Hasta que nací estuve en la tierra. 
+E1:  ¡Uy!¡ ! Qué bien! Pues  ¿nos puede dedicar un ratico, que le hagamos unas preguntas? ¿Nos cuenta cómo era todo aquello? Es que vamos preguntando a gente ya de una cierta edad, que nos cuente cómo era aquella vida. 
+I1: Pos aquella vida, pos aquella vida era que teníamos ocho años y ya estábamos trabajando la tierra.  Yo, la mieja escuela que tengo, amos
+E1: Fíjese. 
+",La provincia a la que pertenecen los informadores es Murcia.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: V-Sml Una miaja, sí, ¿no? 
+I2: Este le puede narrar algo. 
+I1: Hasta que nací.  
+I3: Este sí sabe algo más. 
+E1:  ¡Ay!,¡qué bien! Pues a ver si… 
+I2: Yo le he dicho que mi cabeza no estamos. 
+E1: Mire, es que venimos de la universidad. Que estamos haciendo un estudio sobre cómo era la vida antes en los pueblos. ¿Usted ha labrao la tierra, por ejemplo? ¿Por aquí, por Doña_Inés? ¿Sí?
+I1: Hasta que nací estuve en la tierra. 
+E1:  ¡Uy!¡ ! Qué bien! Pues  ¿nos puede dedicar un ratico, que le hagamos unas preguntas? ¿Nos cuenta cómo era todo aquello? Es que vamos preguntando a gente ya de una cierta edad, que nos cuente cómo era aquella vida. 
+I1: Pos aquella vida, pos aquella vida era que teníamos ocho años y ya estábamos trabajando la tierra.  Yo, la mieja escuela que tengo, amos
+E1: Fíjese. 
+",La provincia a la que pertenecen los informadores es Murcia.
+"Dime de qué lugar es el siguiente texto:  E1: V-Sml Una miaja, sí, ¿no? 
+I2: Este le puede narrar algo. 
+I1: Hasta que nací.  
+I3: Este sí sabe algo más. 
+E1:  ¡Ay!,¡qué bien! Pues a ver si… 
+I2: Yo le he dicho que mi cabeza no estamos. 
+E1: Mire, es que venimos de la universidad. Que estamos haciendo un estudio sobre cómo era la vida antes en los pueblos. ¿Usted ha labrao la tierra, por ejemplo? ¿Por aquí, por Doña_Inés? ¿Sí?
+I1: Hasta que nací estuve en la tierra. 
+E1:  ¡Uy!¡ ! Qué bien! Pues  ¿nos puede dedicar un ratico, que le hagamos unas preguntas? ¿Nos cuenta cómo era todo aquello? Es que vamos preguntando a gente ya de una cierta edad, que nos cuente cómo era aquella vida. 
+I1: Pos aquella vida, pos aquella vida era que teníamos ocho años y ya estábamos trabajando la tierra.  Yo, la mieja escuela que tengo, amos
+E1: Fíjese. 
+",La provincia a la que pertenecen los informadores es Murcia.

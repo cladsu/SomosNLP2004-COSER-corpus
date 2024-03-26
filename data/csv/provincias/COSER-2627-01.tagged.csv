@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: No, tranquila, nos sentamos en el suelo. ¿Es de aquí usted, del pueblo?  ¿De toda la vida? 
+I1: De toda la vida. Y aquí, aquí estoy. 
+E1:  ¿Ha vivido aquí siempre? EXCL ¿Cómo se llama eso? 
+I1: Una araña. 
+E1: ¿Ah, eso era una araña?¡Pues tenía alas! 
+I1: Tenía alas. Pues claro que la tienen algunas. 
+E1: T14 Bueno, pues, pues, nosotras podemos empezar, por ejemplo, por, por cómo eran las bodas antes, cómo… ¿Eran diferentes a ahora?  
+I1: las bodas eran en casa y ahora hay que ir a León. Porque aquí no, no se pueden hacer ya. Como invitan a tanta gente… Antes se invitaba a poca gente, pero ahora a to'l pueblo si pueden. . Y claro, salen caras. 
+E1: Claro. ¿Pero antes cómo eran? Duraban más días, ¿no? ¿Y…? 
+I1: Sí, había boda y tornaboda. 
+E1: Sí, cuéntenos cómo era, cómo empezaba y… 
+",La provincia a la que pertenecen los informadores es León.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: No, tranquila, nos sentamos en el suelo. ¿Es de aquí usted, del pueblo?  ¿De toda la vida? 
+I1: De toda la vida. Y aquí, aquí estoy. 
+E1:  ¿Ha vivido aquí siempre? EXCL ¿Cómo se llama eso? 
+I1: Una araña. 
+E1: ¿Ah, eso era una araña?¡Pues tenía alas! 
+I1: Tenía alas. Pues claro que la tienen algunas. 
+E1: T14 Bueno, pues, pues, nosotras podemos empezar, por ejemplo, por, por cómo eran las bodas antes, cómo… ¿Eran diferentes a ahora?  
+I1: las bodas eran en casa y ahora hay que ir a León. Porque aquí no, no se pueden hacer ya. Como invitan a tanta gente… Antes se invitaba a poca gente, pero ahora a to'l pueblo si pueden. . Y claro, salen caras. 
+E1: Claro. ¿Pero antes cómo eran? Duraban más días, ¿no? ¿Y…? 
+I1: Sí, había boda y tornaboda. 
+E1: Sí, cuéntenos cómo era, cómo empezaba y… 
+",La provincia a la que pertenecen los informadores es León.
+"Dime la provincia del siguiente texto: E1: No, tranquila, nos sentamos en el suelo. ¿Es de aquí usted, del pueblo?  ¿De toda la vida? 
+I1: De toda la vida. Y aquí, aquí estoy. 
+E1:  ¿Ha vivido aquí siempre? EXCL ¿Cómo se llama eso? 
+I1: Una araña. 
+E1: ¿Ah, eso era una araña?¡Pues tenía alas! 
+I1: Tenía alas. Pues claro que la tienen algunas. 
+E1: T14 Bueno, pues, pues, nosotras podemos empezar, por ejemplo, por, por cómo eran las bodas antes, cómo… ¿Eran diferentes a ahora?  
+I1: las bodas eran en casa y ahora hay que ir a León. Porque aquí no, no se pueden hacer ya. Como invitan a tanta gente… Antes se invitaba a poca gente, pero ahora a to'l pueblo si pueden. . Y claro, salen caras. 
+E1: Claro. ¿Pero antes cómo eran? Duraban más días, ¿no? ¿Y…? 
+I1: Sí, había boda y tornaboda. 
+E1: Sí, cuéntenos cómo era, cómo empezaba y… 
+",La provincia a la que pertenecen los informadores es León.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: No, tranquila, nos sentamos en el suelo. ¿Es de aquí usted, del pueblo?  ¿De toda la vida? 
+I1: De toda la vida. Y aquí, aquí estoy. 
+E1:  ¿Ha vivido aquí siempre? EXCL ¿Cómo se llama eso? 
+I1: Una araña. 
+E1: ¿Ah, eso era una araña?¡Pues tenía alas! 
+I1: Tenía alas. Pues claro que la tienen algunas. 
+E1: T14 Bueno, pues, pues, nosotras podemos empezar, por ejemplo, por, por cómo eran las bodas antes, cómo… ¿Eran diferentes a ahora?  
+I1: las bodas eran en casa y ahora hay que ir a León. Porque aquí no, no se pueden hacer ya. Como invitan a tanta gente… Antes se invitaba a poca gente, pero ahora a to'l pueblo si pueden. . Y claro, salen caras. 
+E1: Claro. ¿Pero antes cómo eran? Duraban más días, ¿no? ¿Y…? 
+I1: Sí, había boda y tornaboda. 
+E1: Sí, cuéntenos cómo era, cómo empezaba y… 
+",La provincia a la que pertenecen los informadores es León.
+"Dime de qué lugar es el siguiente texto:  E1: No, tranquila, nos sentamos en el suelo. ¿Es de aquí usted, del pueblo?  ¿De toda la vida? 
+I1: De toda la vida. Y aquí, aquí estoy. 
+E1:  ¿Ha vivido aquí siempre? EXCL ¿Cómo se llama eso? 
+I1: Una araña. 
+E1: ¿Ah, eso era una araña?¡Pues tenía alas! 
+I1: Tenía alas. Pues claro que la tienen algunas. 
+E1: T14 Bueno, pues, pues, nosotras podemos empezar, por ejemplo, por, por cómo eran las bodas antes, cómo… ¿Eran diferentes a ahora?  
+I1: las bodas eran en casa y ahora hay que ir a León. Porque aquí no, no se pueden hacer ya. Como invitan a tanta gente… Antes se invitaba a poca gente, pero ahora a to'l pueblo si pueden. . Y claro, salen caras. 
+E1: Claro. ¿Pero antes cómo eran? Duraban más días, ¿no? ¿Y…? 
+I1: Sí, había boda y tornaboda. 
+E1: Sí, cuéntenos cómo era, cómo empezaba y… 
+",La provincia a la que pertenecen los informadores es León.

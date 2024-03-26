@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: A ver… 
+E1: Vale, pues a ver… Lo primero que queremos saber es cuánto tiempo lleváis viviendo aquí en el pueblo y… 
+I1: Toda la vida. 
+E1: Toda la vida. 
+I1: Toda la vida. 
+E2: ¿Los dos? 
+I1: Los dos. Sí.  
+I2: Ochenta_y_tres años. 
+E3: T21 ¿Jamás salisteis? Porque has, has comentado algo de, de Alemania, Barcelona…  
+I1: sí,  sí, estuvo en Alemania. Yo no. 
+I2: Yo estuve en Alemania  y Barcelona. 
+",La provincia a la que pertenecen los informadores es Orense.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: A ver… 
+E1: Vale, pues a ver… Lo primero que queremos saber es cuánto tiempo lleváis viviendo aquí en el pueblo y… 
+I1: Toda la vida. 
+E1: Toda la vida. 
+I1: Toda la vida. 
+E2: ¿Los dos? 
+I1: Los dos. Sí.  
+I2: Ochenta_y_tres años. 
+E3: T21 ¿Jamás salisteis? Porque has, has comentado algo de, de Alemania, Barcelona…  
+I1: sí,  sí, estuvo en Alemania. Yo no. 
+I2: Yo estuve en Alemania  y Barcelona. 
+",La provincia a la que pertenecen los informadores es Orense.
+"Dime la provincia del siguiente texto: I1: A ver… 
+E1: Vale, pues a ver… Lo primero que queremos saber es cuánto tiempo lleváis viviendo aquí en el pueblo y… 
+I1: Toda la vida. 
+E1: Toda la vida. 
+I1: Toda la vida. 
+E2: ¿Los dos? 
+I1: Los dos. Sí.  
+I2: Ochenta_y_tres años. 
+E3: T21 ¿Jamás salisteis? Porque has, has comentado algo de, de Alemania, Barcelona…  
+I1: sí,  sí, estuvo en Alemania. Yo no. 
+I2: Yo estuve en Alemania  y Barcelona. 
+",La provincia a la que pertenecen los informadores es Orense.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: A ver… 
+E1: Vale, pues a ver… Lo primero que queremos saber es cuánto tiempo lleváis viviendo aquí en el pueblo y… 
+I1: Toda la vida. 
+E1: Toda la vida. 
+I1: Toda la vida. 
+E2: ¿Los dos? 
+I1: Los dos. Sí.  
+I2: Ochenta_y_tres años. 
+E3: T21 ¿Jamás salisteis? Porque has, has comentado algo de, de Alemania, Barcelona…  
+I1: sí,  sí, estuvo en Alemania. Yo no. 
+I2: Yo estuve en Alemania  y Barcelona. 
+",La provincia a la que pertenecen los informadores es Orense.
+"Dime de qué lugar es el siguiente texto:  I1: A ver… 
+E1: Vale, pues a ver… Lo primero que queremos saber es cuánto tiempo lleváis viviendo aquí en el pueblo y… 
+I1: Toda la vida. 
+E1: Toda la vida. 
+I1: Toda la vida. 
+E2: ¿Los dos? 
+I1: Los dos. Sí.  
+I2: Ochenta_y_tres años. 
+E3: T21 ¿Jamás salisteis? Porque has, has comentado algo de, de Alemania, Barcelona…  
+I1: sí,  sí, estuvo en Alemania. Yo no. 
+I2: Yo estuve en Alemania  y Barcelona. 
+",La provincia a la que pertenecen los informadores es Orense.

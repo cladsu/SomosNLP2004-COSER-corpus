@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: ¡Hola, buenos días! 
+I:  I:¡Buenos días!
+E1: ¿Qué tal? 
+I:  I: Pues mira, hija, aquí estamos, sentá un poquito. Estoy cansá
+E1: Rndo:¿Está cansá , ya?
+I:  I: Ya. De barré y recogé
+E1: La hemos visto muy hacendosa. Esto… voy a esperar a que pase… 
+I:  I: A ver si pasan, hija, porque si no, no… 
+E1: Si no, no hay forma de oírse. 
+I:  I: Claro. 
+E1: Eh, es que somos estudiantes, venimos de Madrid…a investigar un poco sobre las costumbres del pueblo antiguas. 
+",La provincia a la que pertenecen los informadores es Cádiz.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: ¡Hola, buenos días! 
+I:  I:¡Buenos días!
+E1: ¿Qué tal? 
+I:  I: Pues mira, hija, aquí estamos, sentá un poquito. Estoy cansá
+E1: Rndo:¿Está cansá , ya?
+I:  I: Ya. De barré y recogé
+E1: La hemos visto muy hacendosa. Esto… voy a esperar a que pase… 
+I:  I: A ver si pasan, hija, porque si no, no… 
+E1: Si no, no hay forma de oírse. 
+I:  I: Claro. 
+E1: Eh, es que somos estudiantes, venimos de Madrid…a investigar un poco sobre las costumbres del pueblo antiguas. 
+",La provincia a la que pertenecen los informadores es Cádiz.
+"Dime la provincia del siguiente texto: E1: ¡Hola, buenos días! 
+I:  I:¡Buenos días!
+E1: ¿Qué tal? 
+I:  I: Pues mira, hija, aquí estamos, sentá un poquito. Estoy cansá
+E1: Rndo:¿Está cansá , ya?
+I:  I: Ya. De barré y recogé
+E1: La hemos visto muy hacendosa. Esto… voy a esperar a que pase… 
+I:  I: A ver si pasan, hija, porque si no, no… 
+E1: Si no, no hay forma de oírse. 
+I:  I: Claro. 
+E1: Eh, es que somos estudiantes, venimos de Madrid…a investigar un poco sobre las costumbres del pueblo antiguas. 
+",La provincia a la que pertenecen los informadores es Cádiz.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: ¡Hola, buenos días! 
+I:  I:¡Buenos días!
+E1: ¿Qué tal? 
+I:  I: Pues mira, hija, aquí estamos, sentá un poquito. Estoy cansá
+E1: Rndo:¿Está cansá , ya?
+I:  I: Ya. De barré y recogé
+E1: La hemos visto muy hacendosa. Esto… voy a esperar a que pase… 
+I:  I: A ver si pasan, hija, porque si no, no… 
+E1: Si no, no hay forma de oírse. 
+I:  I: Claro. 
+E1: Eh, es que somos estudiantes, venimos de Madrid…a investigar un poco sobre las costumbres del pueblo antiguas. 
+",La provincia a la que pertenecen los informadores es Cádiz.
+"Dime de qué lugar es el siguiente texto:  E1: ¡Hola, buenos días! 
+I:  I:¡Buenos días!
+E1: ¿Qué tal? 
+I:  I: Pues mira, hija, aquí estamos, sentá un poquito. Estoy cansá
+E1: Rndo:¿Está cansá , ya?
+I:  I: Ya. De barré y recogé
+E1: La hemos visto muy hacendosa. Esto… voy a esperar a que pase… 
+I:  I: A ver si pasan, hija, porque si no, no… 
+E1: Si no, no hay forma de oírse. 
+I:  I: Claro. 
+E1: Eh, es que somos estudiantes, venimos de Madrid…a investigar un poco sobre las costumbres del pueblo antiguas. 
+",La provincia a la que pertenecen los informadores es Cádiz.

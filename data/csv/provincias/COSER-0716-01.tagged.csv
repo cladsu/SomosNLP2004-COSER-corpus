@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: T1 De aquí, ¿no? . Pos, supuestamente, esta casa ha sido un casino, el bar de los señores, era de mis abuelos. Y este era el bar de los señores. Esto todo esta habitación con esa, que es-, que era unida, era el casino, con el, con el baile en la caridá , . hacían el baile aquí. Y ahí, detrás de la puerta, pues tenían la, la barra, y luego pues…, ya empezaron a, a morir mis abuelos y eso y ya pos la cosa empezó a, a cambiar. La porcesión
+E1: T2 ¿Cómo se hacía la manteca? 
+I1: Pues la manteca es una tela que tiene la el guarro tiene una tela y esa tela pos se, se tiende y se deja al sereno, y luego por la mañana pos la se despegaba mu, mu bien, se despega y se hace trocitos. Se enjuaga y se echa al caldero y se le da vueltas, se le da vueltas hasta que ya se queda como unos garbancitos, que son los chicharrones. 
+E1: Los chicharrones. 
+I1: Son los chicharrones. Y los chicharrones luego se aprovechan pa hacer los bollos de chicharrones. 
+E1: ¿Eso qué es? No lo había oído nunca. 
+I1: Pues los bollos de chicharrones es un, un dulce que se hace con chicharrones, con los chicharrones del cerdo, y con… con el la masa del pan. Y se le echa un poquito de anís, en grano, y, y se le echa canela y eso. Y son bollos de chicharrones, porque son los chicharrones del cerdo, que los sacan de deshacer la manteca, luego la manteca la deshacen. Y de la manteca sacan las perrunillas. 
+E1: No sé qué es.  
+E2: Son unos dulces. 
+I1: Eso son unos dulces de aquí típicos de Extremadura. 
+I2: ¿Tú no has escuchao nunca que cuando tienes el pie aplastado parece una perrunilla?  
+",La provincia a la que pertenecen los informadores es Badajoz.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: T1 De aquí, ¿no? . Pos, supuestamente, esta casa ha sido un casino, el bar de los señores, era de mis abuelos. Y este era el bar de los señores. Esto todo esta habitación con esa, que es-, que era unida, era el casino, con el, con el baile en la caridá , . hacían el baile aquí. Y ahí, detrás de la puerta, pues tenían la, la barra, y luego pues…, ya empezaron a, a morir mis abuelos y eso y ya pos la cosa empezó a, a cambiar. La porcesión
+E1: T2 ¿Cómo se hacía la manteca? 
+I1: Pues la manteca es una tela que tiene la el guarro tiene una tela y esa tela pos se, se tiende y se deja al sereno, y luego por la mañana pos la se despegaba mu, mu bien, se despega y se hace trocitos. Se enjuaga y se echa al caldero y se le da vueltas, se le da vueltas hasta que ya se queda como unos garbancitos, que son los chicharrones. 
+E1: Los chicharrones. 
+I1: Son los chicharrones. Y los chicharrones luego se aprovechan pa hacer los bollos de chicharrones. 
+E1: ¿Eso qué es? No lo había oído nunca. 
+I1: Pues los bollos de chicharrones es un, un dulce que se hace con chicharrones, con los chicharrones del cerdo, y con… con el la masa del pan. Y se le echa un poquito de anís, en grano, y, y se le echa canela y eso. Y son bollos de chicharrones, porque son los chicharrones del cerdo, que los sacan de deshacer la manteca, luego la manteca la deshacen. Y de la manteca sacan las perrunillas. 
+E1: No sé qué es.  
+E2: Son unos dulces. 
+I1: Eso son unos dulces de aquí típicos de Extremadura. 
+I2: ¿Tú no has escuchao nunca que cuando tienes el pie aplastado parece una perrunilla?  
+",La provincia a la que pertenecen los informadores es Badajoz.
+"Dime la provincia del siguiente texto: I1: T1 De aquí, ¿no? . Pos, supuestamente, esta casa ha sido un casino, el bar de los señores, era de mis abuelos. Y este era el bar de los señores. Esto todo esta habitación con esa, que es-, que era unida, era el casino, con el, con el baile en la caridá , . hacían el baile aquí. Y ahí, detrás de la puerta, pues tenían la, la barra, y luego pues…, ya empezaron a, a morir mis abuelos y eso y ya pos la cosa empezó a, a cambiar. La porcesión
+E1: T2 ¿Cómo se hacía la manteca? 
+I1: Pues la manteca es una tela que tiene la el guarro tiene una tela y esa tela pos se, se tiende y se deja al sereno, y luego por la mañana pos la se despegaba mu, mu bien, se despega y se hace trocitos. Se enjuaga y se echa al caldero y se le da vueltas, se le da vueltas hasta que ya se queda como unos garbancitos, que son los chicharrones. 
+E1: Los chicharrones. 
+I1: Son los chicharrones. Y los chicharrones luego se aprovechan pa hacer los bollos de chicharrones. 
+E1: ¿Eso qué es? No lo había oído nunca. 
+I1: Pues los bollos de chicharrones es un, un dulce que se hace con chicharrones, con los chicharrones del cerdo, y con… con el la masa del pan. Y se le echa un poquito de anís, en grano, y, y se le echa canela y eso. Y son bollos de chicharrones, porque son los chicharrones del cerdo, que los sacan de deshacer la manteca, luego la manteca la deshacen. Y de la manteca sacan las perrunillas. 
+E1: No sé qué es.  
+E2: Son unos dulces. 
+I1: Eso son unos dulces de aquí típicos de Extremadura. 
+I2: ¿Tú no has escuchao nunca que cuando tienes el pie aplastado parece una perrunilla?  
+",La provincia a la que pertenecen los informadores es Badajoz.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: T1 De aquí, ¿no? . Pos, supuestamente, esta casa ha sido un casino, el bar de los señores, era de mis abuelos. Y este era el bar de los señores. Esto todo esta habitación con esa, que es-, que era unida, era el casino, con el, con el baile en la caridá , . hacían el baile aquí. Y ahí, detrás de la puerta, pues tenían la, la barra, y luego pues…, ya empezaron a, a morir mis abuelos y eso y ya pos la cosa empezó a, a cambiar. La porcesión
+E1: T2 ¿Cómo se hacía la manteca? 
+I1: Pues la manteca es una tela que tiene la el guarro tiene una tela y esa tela pos se, se tiende y se deja al sereno, y luego por la mañana pos la se despegaba mu, mu bien, se despega y se hace trocitos. Se enjuaga y se echa al caldero y se le da vueltas, se le da vueltas hasta que ya se queda como unos garbancitos, que son los chicharrones. 
+E1: Los chicharrones. 
+I1: Son los chicharrones. Y los chicharrones luego se aprovechan pa hacer los bollos de chicharrones. 
+E1: ¿Eso qué es? No lo había oído nunca. 
+I1: Pues los bollos de chicharrones es un, un dulce que se hace con chicharrones, con los chicharrones del cerdo, y con… con el la masa del pan. Y se le echa un poquito de anís, en grano, y, y se le echa canela y eso. Y son bollos de chicharrones, porque son los chicharrones del cerdo, que los sacan de deshacer la manteca, luego la manteca la deshacen. Y de la manteca sacan las perrunillas. 
+E1: No sé qué es.  
+E2: Son unos dulces. 
+I1: Eso son unos dulces de aquí típicos de Extremadura. 
+I2: ¿Tú no has escuchao nunca que cuando tienes el pie aplastado parece una perrunilla?  
+",La provincia a la que pertenecen los informadores es Badajoz.
+"Dime de qué lugar es el siguiente texto:  I1: T1 De aquí, ¿no? . Pos, supuestamente, esta casa ha sido un casino, el bar de los señores, era de mis abuelos. Y este era el bar de los señores. Esto todo esta habitación con esa, que es-, que era unida, era el casino, con el, con el baile en la caridá , . hacían el baile aquí. Y ahí, detrás de la puerta, pues tenían la, la barra, y luego pues…, ya empezaron a, a morir mis abuelos y eso y ya pos la cosa empezó a, a cambiar. La porcesión
+E1: T2 ¿Cómo se hacía la manteca? 
+I1: Pues la manteca es una tela que tiene la el guarro tiene una tela y esa tela pos se, se tiende y se deja al sereno, y luego por la mañana pos la se despegaba mu, mu bien, se despega y se hace trocitos. Se enjuaga y se echa al caldero y se le da vueltas, se le da vueltas hasta que ya se queda como unos garbancitos, que son los chicharrones. 
+E1: Los chicharrones. 
+I1: Son los chicharrones. Y los chicharrones luego se aprovechan pa hacer los bollos de chicharrones. 
+E1: ¿Eso qué es? No lo había oído nunca. 
+I1: Pues los bollos de chicharrones es un, un dulce que se hace con chicharrones, con los chicharrones del cerdo, y con… con el la masa del pan. Y se le echa un poquito de anís, en grano, y, y se le echa canela y eso. Y son bollos de chicharrones, porque son los chicharrones del cerdo, que los sacan de deshacer la manteca, luego la manteca la deshacen. Y de la manteca sacan las perrunillas. 
+E1: No sé qué es.  
+E2: Son unos dulces. 
+I1: Eso son unos dulces de aquí típicos de Extremadura. 
+I2: ¿Tú no has escuchao nunca que cuando tienes el pie aplastado parece una perrunilla?  
+",La provincia a la que pertenecen los informadores es Badajoz.

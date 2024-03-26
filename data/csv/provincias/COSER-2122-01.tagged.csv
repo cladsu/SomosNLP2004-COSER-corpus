@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: Setenta años. 
+E1: ¿Y ha vivido aquí en el pueblo toda la…? 
+I1: Sí, señó . 
+E1: Toda la vida. ¿Y es de-, sus padres también eran de aquí del…? 
+I1: Mis padres eran de aquí lo que pasa es que ya…, ya han faltao hace ya mucho tiempo. 
+E1: ¿Y…, y a qué a usted a qué se ha dedicado a…? 
+I1: T6 Pues antes nos dedicábamos al campo y a trabajá en casa de los señores ricos.
+E1: Porque esto era zona de latifundios. 
+I1: Sí, esto era del campo todo, todo del campo. Lo que pasa es que ahora está mu parao porque claro… no se puede trabajá el campo que no hay tampoc-, y ahora con las máquinas…, las máquinas hacen las veces de las personas. Y poco campo que ya que estaba to abandonao también.
+E1: ¿Y qué, qué se cultivaba por esta zona? 
+I1: Bueno, por aquí había bueno, aceitunas sigue habiendo, que hay una cooperativa aquí… de aceite. Se llama Nuestra_Señora_del_Puerto. Y luego también hay encinas, bellotas; y se trabajaba de… en el campo desde yo empecé con trece años a trabajar en el campo. 
+",La provincia a la que pertenecen los informadores es Huelva.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: Setenta años. 
+E1: ¿Y ha vivido aquí en el pueblo toda la…? 
+I1: Sí, señó . 
+E1: Toda la vida. ¿Y es de-, sus padres también eran de aquí del…? 
+I1: Mis padres eran de aquí lo que pasa es que ya…, ya han faltao hace ya mucho tiempo. 
+E1: ¿Y…, y a qué a usted a qué se ha dedicado a…? 
+I1: T6 Pues antes nos dedicábamos al campo y a trabajá en casa de los señores ricos.
+E1: Porque esto era zona de latifundios. 
+I1: Sí, esto era del campo todo, todo del campo. Lo que pasa es que ahora está mu parao porque claro… no se puede trabajá el campo que no hay tampoc-, y ahora con las máquinas…, las máquinas hacen las veces de las personas. Y poco campo que ya que estaba to abandonao también.
+E1: ¿Y qué, qué se cultivaba por esta zona? 
+I1: Bueno, por aquí había bueno, aceitunas sigue habiendo, que hay una cooperativa aquí… de aceite. Se llama Nuestra_Señora_del_Puerto. Y luego también hay encinas, bellotas; y se trabajaba de… en el campo desde yo empecé con trece años a trabajar en el campo. 
+",La provincia a la que pertenecen los informadores es Huelva.
+"Dime la provincia del siguiente texto: I1: Setenta años. 
+E1: ¿Y ha vivido aquí en el pueblo toda la…? 
+I1: Sí, señó . 
+E1: Toda la vida. ¿Y es de-, sus padres también eran de aquí del…? 
+I1: Mis padres eran de aquí lo que pasa es que ya…, ya han faltao hace ya mucho tiempo. 
+E1: ¿Y…, y a qué a usted a qué se ha dedicado a…? 
+I1: T6 Pues antes nos dedicábamos al campo y a trabajá en casa de los señores ricos.
+E1: Porque esto era zona de latifundios. 
+I1: Sí, esto era del campo todo, todo del campo. Lo que pasa es que ahora está mu parao porque claro… no se puede trabajá el campo que no hay tampoc-, y ahora con las máquinas…, las máquinas hacen las veces de las personas. Y poco campo que ya que estaba to abandonao también.
+E1: ¿Y qué, qué se cultivaba por esta zona? 
+I1: Bueno, por aquí había bueno, aceitunas sigue habiendo, que hay una cooperativa aquí… de aceite. Se llama Nuestra_Señora_del_Puerto. Y luego también hay encinas, bellotas; y se trabajaba de… en el campo desde yo empecé con trece años a trabajar en el campo. 
+",La provincia a la que pertenecen los informadores es Huelva.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: Setenta años. 
+E1: ¿Y ha vivido aquí en el pueblo toda la…? 
+I1: Sí, señó . 
+E1: Toda la vida. ¿Y es de-, sus padres también eran de aquí del…? 
+I1: Mis padres eran de aquí lo que pasa es que ya…, ya han faltao hace ya mucho tiempo. 
+E1: ¿Y…, y a qué a usted a qué se ha dedicado a…? 
+I1: T6 Pues antes nos dedicábamos al campo y a trabajá en casa de los señores ricos.
+E1: Porque esto era zona de latifundios. 
+I1: Sí, esto era del campo todo, todo del campo. Lo que pasa es que ahora está mu parao porque claro… no se puede trabajá el campo que no hay tampoc-, y ahora con las máquinas…, las máquinas hacen las veces de las personas. Y poco campo que ya que estaba to abandonao también.
+E1: ¿Y qué, qué se cultivaba por esta zona? 
+I1: Bueno, por aquí había bueno, aceitunas sigue habiendo, que hay una cooperativa aquí… de aceite. Se llama Nuestra_Señora_del_Puerto. Y luego también hay encinas, bellotas; y se trabajaba de… en el campo desde yo empecé con trece años a trabajar en el campo. 
+",La provincia a la que pertenecen los informadores es Huelva.
+"Dime de qué lugar es el siguiente texto:  I1: Setenta años. 
+E1: ¿Y ha vivido aquí en el pueblo toda la…? 
+I1: Sí, señó . 
+E1: Toda la vida. ¿Y es de-, sus padres también eran de aquí del…? 
+I1: Mis padres eran de aquí lo que pasa es que ya…, ya han faltao hace ya mucho tiempo. 
+E1: ¿Y…, y a qué a usted a qué se ha dedicado a…? 
+I1: T6 Pues antes nos dedicábamos al campo y a trabajá en casa de los señores ricos.
+E1: Porque esto era zona de latifundios. 
+I1: Sí, esto era del campo todo, todo del campo. Lo que pasa es que ahora está mu parao porque claro… no se puede trabajá el campo que no hay tampoc-, y ahora con las máquinas…, las máquinas hacen las veces de las personas. Y poco campo que ya que estaba to abandonao también.
+E1: ¿Y qué, qué se cultivaba por esta zona? 
+I1: Bueno, por aquí había bueno, aceitunas sigue habiendo, que hay una cooperativa aquí… de aceite. Se llama Nuestra_Señora_del_Puerto. Y luego también hay encinas, bellotas; y se trabajaba de… en el campo desde yo empecé con trece años a trabajar en el campo. 
+",La provincia a la que pertenecen los informadores es Huelva.

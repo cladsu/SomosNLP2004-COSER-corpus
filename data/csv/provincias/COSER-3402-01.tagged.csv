@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: Todos no tienen la misma norma, ¿eh? 
+E1: ¿Todos no tienen la misma norma? 
+I1: T1 No, porque unos…  la matanza la echan en sal, otros lo, lo echan en, en salmuera,  otros lo ponen a secar con,  con pimentón bla-, o… 
+E1: A ver. 
+I1: Diga. ¿Cuál es? 
+E1: Vamos a empezar por orden para… organizarnos…  
+I1:  ¡Venga, a ver…! 
+E1: Entonces, vamos a ver, ¿usted mata-, mataba cerdos? 
+I1: Toa la vida.  Es igual, sí. 
+E1: ¿Sí? 
+I1: Toa la vida, sí. 
+",La provincia a la que pertenecen los informadores es Palencia.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: Todos no tienen la misma norma, ¿eh? 
+E1: ¿Todos no tienen la misma norma? 
+I1: T1 No, porque unos…  la matanza la echan en sal, otros lo, lo echan en, en salmuera,  otros lo ponen a secar con,  con pimentón bla-, o… 
+E1: A ver. 
+I1: Diga. ¿Cuál es? 
+E1: Vamos a empezar por orden para… organizarnos…  
+I1:  ¡Venga, a ver…! 
+E1: Entonces, vamos a ver, ¿usted mata-, mataba cerdos? 
+I1: Toa la vida.  Es igual, sí. 
+E1: ¿Sí? 
+I1: Toa la vida, sí. 
+",La provincia a la que pertenecen los informadores es Palencia.
+"Dime la provincia del siguiente texto: I1: Todos no tienen la misma norma, ¿eh? 
+E1: ¿Todos no tienen la misma norma? 
+I1: T1 No, porque unos…  la matanza la echan en sal, otros lo, lo echan en, en salmuera,  otros lo ponen a secar con,  con pimentón bla-, o… 
+E1: A ver. 
+I1: Diga. ¿Cuál es? 
+E1: Vamos a empezar por orden para… organizarnos…  
+I1:  ¡Venga, a ver…! 
+E1: Entonces, vamos a ver, ¿usted mata-, mataba cerdos? 
+I1: Toa la vida.  Es igual, sí. 
+E1: ¿Sí? 
+I1: Toa la vida, sí. 
+",La provincia a la que pertenecen los informadores es Palencia.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: Todos no tienen la misma norma, ¿eh? 
+E1: ¿Todos no tienen la misma norma? 
+I1: T1 No, porque unos…  la matanza la echan en sal, otros lo, lo echan en, en salmuera,  otros lo ponen a secar con,  con pimentón bla-, o… 
+E1: A ver. 
+I1: Diga. ¿Cuál es? 
+E1: Vamos a empezar por orden para… organizarnos…  
+I1:  ¡Venga, a ver…! 
+E1: Entonces, vamos a ver, ¿usted mata-, mataba cerdos? 
+I1: Toa la vida.  Es igual, sí. 
+E1: ¿Sí? 
+I1: Toa la vida, sí. 
+",La provincia a la que pertenecen los informadores es Palencia.
+"Dime de qué lugar es el siguiente texto:  I1: Todos no tienen la misma norma, ¿eh? 
+E1: ¿Todos no tienen la misma norma? 
+I1: T1 No, porque unos…  la matanza la echan en sal, otros lo, lo echan en, en salmuera,  otros lo ponen a secar con,  con pimentón bla-, o… 
+E1: A ver. 
+I1: Diga. ¿Cuál es? 
+E1: Vamos a empezar por orden para… organizarnos…  
+I1:  ¡Venga, a ver…! 
+E1: Entonces, vamos a ver, ¿usted mata-, mataba cerdos? 
+I1: Toa la vida.  Es igual, sí. 
+E1: ¿Sí? 
+I1: Toa la vida, sí. 
+",La provincia a la que pertenecen los informadores es Palencia.

@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T11 Para empezar, ¿cómo se llama usted y cuántos años tiene? 
+I:  I: Anonimizado. 
+E1: Anonimizado. ¿Y qué edad tiene usted? 
+I:  I: Setenta_y_cuatro. 
+E1: Setenta_y_cuatro años. ¿Y ha vivido usted aquí toda la vida en este pueblo? 
+I:  I: Toda la vida. 
+E1: T12 Y cuando era pequeña, ¿fue al colegio? 
+I:  I: Al colegio sí, de unas monjas. 
+E1: ¿Cuántos años? 
+I:  I: Pues hasta que ya me hice mayorceta. 
+E1: ¿Y después trabajó? 
+",La provincia a la que pertenecen los informadores es Cuenca.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T11 Para empezar, ¿cómo se llama usted y cuántos años tiene? 
+I:  I: Anonimizado. 
+E1: Anonimizado. ¿Y qué edad tiene usted? 
+I:  I: Setenta_y_cuatro. 
+E1: Setenta_y_cuatro años. ¿Y ha vivido usted aquí toda la vida en este pueblo? 
+I:  I: Toda la vida. 
+E1: T12 Y cuando era pequeña, ¿fue al colegio? 
+I:  I: Al colegio sí, de unas monjas. 
+E1: ¿Cuántos años? 
+I:  I: Pues hasta que ya me hice mayorceta. 
+E1: ¿Y después trabajó? 
+",La provincia a la que pertenecen los informadores es Cuenca.
+"Dime la provincia del siguiente texto: E1: T11 Para empezar, ¿cómo se llama usted y cuántos años tiene? 
+I:  I: Anonimizado. 
+E1: Anonimizado. ¿Y qué edad tiene usted? 
+I:  I: Setenta_y_cuatro. 
+E1: Setenta_y_cuatro años. ¿Y ha vivido usted aquí toda la vida en este pueblo? 
+I:  I: Toda la vida. 
+E1: T12 Y cuando era pequeña, ¿fue al colegio? 
+I:  I: Al colegio sí, de unas monjas. 
+E1: ¿Cuántos años? 
+I:  I: Pues hasta que ya me hice mayorceta. 
+E1: ¿Y después trabajó? 
+",La provincia a la que pertenecen los informadores es Cuenca.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T11 Para empezar, ¿cómo se llama usted y cuántos años tiene? 
+I:  I: Anonimizado. 
+E1: Anonimizado. ¿Y qué edad tiene usted? 
+I:  I: Setenta_y_cuatro. 
+E1: Setenta_y_cuatro años. ¿Y ha vivido usted aquí toda la vida en este pueblo? 
+I:  I: Toda la vida. 
+E1: T12 Y cuando era pequeña, ¿fue al colegio? 
+I:  I: Al colegio sí, de unas monjas. 
+E1: ¿Cuántos años? 
+I:  I: Pues hasta que ya me hice mayorceta. 
+E1: ¿Y después trabajó? 
+",La provincia a la que pertenecen los informadores es Cuenca.
+"Dime de qué lugar es el siguiente texto:  E1: T11 Para empezar, ¿cómo se llama usted y cuántos años tiene? 
+I:  I: Anonimizado. 
+E1: Anonimizado. ¿Y qué edad tiene usted? 
+I:  I: Setenta_y_cuatro. 
+E1: Setenta_y_cuatro años. ¿Y ha vivido usted aquí toda la vida en este pueblo? 
+I:  I: Toda la vida. 
+E1: T12 Y cuando era pequeña, ¿fue al colegio? 
+I:  I: Al colegio sí, de unas monjas. 
+E1: ¿Cuántos años? 
+I:  I: Pues hasta que ya me hice mayorceta. 
+E1: ¿Y después trabajó? 
+",La provincia a la que pertenecen los informadores es Cuenca.

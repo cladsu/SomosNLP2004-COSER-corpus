@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T11 ¿ … la vida aquí antes  ? 
+I:  I: muy mala, muy arrastrada y muy mala. Yo crie diez hijos.  V-Ljn Ni cobré subsidio ni cobré nada nunca. V-Ljn 
+E1: Todo fue trabajar. 
+I:  I: Porque tenía un…  yo un comercio y luego resulta que…, que mi marido… a trabajaba los cántaros. V-Ljn Bueno, la labor; entonces, la labor…Y, claro, pues,nos vimos negros,  claro. Ya ves la vida cómo era, era muy arrastrada yo trabajando todo el día, no pude salir nunca de casa entre los hijos y…, y el comercio pues no podía salir nunca de casa, así que mejor está la vida hoy que antes.  
+E1: ¿Y se hacía matanza de… cerdos?  Por ejemplo. 
+I:  I: hacíamos matanza sí, de cer-, de cerdos sí. Los criábamos nosotros, le dábamos de comer y… hacíamos la matanza. 
+E1: ¿Y en qué consistía más o menos la…? 
+I:  I: Pues la matanza consistía en que le dábamos de comer, los teníamos pa ahí en un…, en un corral  y luego después lo hacíamos, los matábamos el día del… de la matanza, los matábamos y apartábamos las carnes… En…, en fin, u  el chorizo bueno, el chorizo malo, el chorizo de gorduras,  el chori-, eso, el tocino, el lomo, el jamón y esas cosas.  
+E1: ¿Y lo hacían ustedes mismos?  La propia . 
+I:  I: sí. Yo, lo hacía yo. Sí, sí. Y mi marido y buscábamos por ejemplo a este señor pa que nos tirara de los cerdos y todo eso, sí. Sí, de comer teníamos gracias a Dios, porque como lo criábamos nosotros…, pues teníamos. Pero la vida estaba muy mala. 
+E1: ¿Le cogieron… cariño a algún… cerdo alguna vez, V-Ljn de eso que luego dé pena…? 
+",La provincia a la que pertenecen los informadores es Salamanca.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T11 ¿ … la vida aquí antes  ? 
+I:  I: muy mala, muy arrastrada y muy mala. Yo crie diez hijos.  V-Ljn Ni cobré subsidio ni cobré nada nunca. V-Ljn 
+E1: Todo fue trabajar. 
+I:  I: Porque tenía un…  yo un comercio y luego resulta que…, que mi marido… a trabajaba los cántaros. V-Ljn Bueno, la labor; entonces, la labor…Y, claro, pues,nos vimos negros,  claro. Ya ves la vida cómo era, era muy arrastrada yo trabajando todo el día, no pude salir nunca de casa entre los hijos y…, y el comercio pues no podía salir nunca de casa, así que mejor está la vida hoy que antes.  
+E1: ¿Y se hacía matanza de… cerdos?  Por ejemplo. 
+I:  I: hacíamos matanza sí, de cer-, de cerdos sí. Los criábamos nosotros, le dábamos de comer y… hacíamos la matanza. 
+E1: ¿Y en qué consistía más o menos la…? 
+I:  I: Pues la matanza consistía en que le dábamos de comer, los teníamos pa ahí en un…, en un corral  y luego después lo hacíamos, los matábamos el día del… de la matanza, los matábamos y apartábamos las carnes… En…, en fin, u  el chorizo bueno, el chorizo malo, el chorizo de gorduras,  el chori-, eso, el tocino, el lomo, el jamón y esas cosas.  
+E1: ¿Y lo hacían ustedes mismos?  La propia . 
+I:  I: sí. Yo, lo hacía yo. Sí, sí. Y mi marido y buscábamos por ejemplo a este señor pa que nos tirara de los cerdos y todo eso, sí. Sí, de comer teníamos gracias a Dios, porque como lo criábamos nosotros…, pues teníamos. Pero la vida estaba muy mala. 
+E1: ¿Le cogieron… cariño a algún… cerdo alguna vez, V-Ljn de eso que luego dé pena…? 
+",La provincia a la que pertenecen los informadores es Salamanca.
+"Dime la provincia del siguiente texto: E1: T11 ¿ … la vida aquí antes  ? 
+I:  I: muy mala, muy arrastrada y muy mala. Yo crie diez hijos.  V-Ljn Ni cobré subsidio ni cobré nada nunca. V-Ljn 
+E1: Todo fue trabajar. 
+I:  I: Porque tenía un…  yo un comercio y luego resulta que…, que mi marido… a trabajaba los cántaros. V-Ljn Bueno, la labor; entonces, la labor…Y, claro, pues,nos vimos negros,  claro. Ya ves la vida cómo era, era muy arrastrada yo trabajando todo el día, no pude salir nunca de casa entre los hijos y…, y el comercio pues no podía salir nunca de casa, así que mejor está la vida hoy que antes.  
+E1: ¿Y se hacía matanza de… cerdos?  Por ejemplo. 
+I:  I: hacíamos matanza sí, de cer-, de cerdos sí. Los criábamos nosotros, le dábamos de comer y… hacíamos la matanza. 
+E1: ¿Y en qué consistía más o menos la…? 
+I:  I: Pues la matanza consistía en que le dábamos de comer, los teníamos pa ahí en un…, en un corral  y luego después lo hacíamos, los matábamos el día del… de la matanza, los matábamos y apartábamos las carnes… En…, en fin, u  el chorizo bueno, el chorizo malo, el chorizo de gorduras,  el chori-, eso, el tocino, el lomo, el jamón y esas cosas.  
+E1: ¿Y lo hacían ustedes mismos?  La propia . 
+I:  I: sí. Yo, lo hacía yo. Sí, sí. Y mi marido y buscábamos por ejemplo a este señor pa que nos tirara de los cerdos y todo eso, sí. Sí, de comer teníamos gracias a Dios, porque como lo criábamos nosotros…, pues teníamos. Pero la vida estaba muy mala. 
+E1: ¿Le cogieron… cariño a algún… cerdo alguna vez, V-Ljn de eso que luego dé pena…? 
+",La provincia a la que pertenecen los informadores es Salamanca.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T11 ¿ … la vida aquí antes  ? 
+I:  I: muy mala, muy arrastrada y muy mala. Yo crie diez hijos.  V-Ljn Ni cobré subsidio ni cobré nada nunca. V-Ljn 
+E1: Todo fue trabajar. 
+I:  I: Porque tenía un…  yo un comercio y luego resulta que…, que mi marido… a trabajaba los cántaros. V-Ljn Bueno, la labor; entonces, la labor…Y, claro, pues,nos vimos negros,  claro. Ya ves la vida cómo era, era muy arrastrada yo trabajando todo el día, no pude salir nunca de casa entre los hijos y…, y el comercio pues no podía salir nunca de casa, así que mejor está la vida hoy que antes.  
+E1: ¿Y se hacía matanza de… cerdos?  Por ejemplo. 
+I:  I: hacíamos matanza sí, de cer-, de cerdos sí. Los criábamos nosotros, le dábamos de comer y… hacíamos la matanza. 
+E1: ¿Y en qué consistía más o menos la…? 
+I:  I: Pues la matanza consistía en que le dábamos de comer, los teníamos pa ahí en un…, en un corral  y luego después lo hacíamos, los matábamos el día del… de la matanza, los matábamos y apartábamos las carnes… En…, en fin, u  el chorizo bueno, el chorizo malo, el chorizo de gorduras,  el chori-, eso, el tocino, el lomo, el jamón y esas cosas.  
+E1: ¿Y lo hacían ustedes mismos?  La propia . 
+I:  I: sí. Yo, lo hacía yo. Sí, sí. Y mi marido y buscábamos por ejemplo a este señor pa que nos tirara de los cerdos y todo eso, sí. Sí, de comer teníamos gracias a Dios, porque como lo criábamos nosotros…, pues teníamos. Pero la vida estaba muy mala. 
+E1: ¿Le cogieron… cariño a algún… cerdo alguna vez, V-Ljn de eso que luego dé pena…? 
+",La provincia a la que pertenecen los informadores es Salamanca.
+"Dime de qué lugar es el siguiente texto:  E1: T11 ¿ … la vida aquí antes  ? 
+I:  I: muy mala, muy arrastrada y muy mala. Yo crie diez hijos.  V-Ljn Ni cobré subsidio ni cobré nada nunca. V-Ljn 
+E1: Todo fue trabajar. 
+I:  I: Porque tenía un…  yo un comercio y luego resulta que…, que mi marido… a trabajaba los cántaros. V-Ljn Bueno, la labor; entonces, la labor…Y, claro, pues,nos vimos negros,  claro. Ya ves la vida cómo era, era muy arrastrada yo trabajando todo el día, no pude salir nunca de casa entre los hijos y…, y el comercio pues no podía salir nunca de casa, así que mejor está la vida hoy que antes.  
+E1: ¿Y se hacía matanza de… cerdos?  Por ejemplo. 
+I:  I: hacíamos matanza sí, de cer-, de cerdos sí. Los criábamos nosotros, le dábamos de comer y… hacíamos la matanza. 
+E1: ¿Y en qué consistía más o menos la…? 
+I:  I: Pues la matanza consistía en que le dábamos de comer, los teníamos pa ahí en un…, en un corral  y luego después lo hacíamos, los matábamos el día del… de la matanza, los matábamos y apartábamos las carnes… En…, en fin, u  el chorizo bueno, el chorizo malo, el chorizo de gorduras,  el chori-, eso, el tocino, el lomo, el jamón y esas cosas.  
+E1: ¿Y lo hacían ustedes mismos?  La propia . 
+I:  I: sí. Yo, lo hacía yo. Sí, sí. Y mi marido y buscábamos por ejemplo a este señor pa que nos tirara de los cerdos y todo eso, sí. Sí, de comer teníamos gracias a Dios, porque como lo criábamos nosotros…, pues teníamos. Pero la vida estaba muy mala. 
+E1: ¿Le cogieron… cariño a algún… cerdo alguna vez, V-Ljn de eso que luego dé pena…? 
+",La provincia a la que pertenecen los informadores es Salamanca.

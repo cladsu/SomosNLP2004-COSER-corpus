@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: Muy bien. TOS Pues aquí mi compañero, que es húngaro y nunca ha estado en el campo en España, le va a empezar a hacer las preguntas y nosotros, si se nos ocurre algo más, le,  le interrumpimos  y le preguntamos a usted. 
+I1: Vale, vale. Vale. 
+E1:  ¿Dónde te sientas tú, aquí o aquí?  
+E2: Sí, a mí, a mí me gusta mucho y, además, nada más por el hecho de que…yo vengo de, de la capital, o sea, tampoco conozco mucho el campo húngaro, nada más que… De Budapest, de la capital. 
+I1: No, yo ahí no anduve. Anduve mucho. No siendo Rusia, lo demás todo. 
+E2: Ah, ¿anduvo en, anduvo por Budapest? 
+I1: Yo no sé,  yo, yo eso no lo sé. Yo no siendo Rusia, lo demás todo. 
+I2: Conoce Europa menos Rusia. 
+E2: Ah, vale.  De hecho…  
+I2: Suecia, Italia. En tos los sitios, menos en…
+I1: menos ese.  Trabajé mucho, pero también corrí.  Tra-, trabajar, trabajé,  que te diga la mi nieta,¡ay, Dios! Crielos yo,  que de, que bueno, crielos medio criaos. Taba , tábamos
+",La provincia a la que pertenecen los informadores es Asturias.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: Muy bien. TOS Pues aquí mi compañero, que es húngaro y nunca ha estado en el campo en España, le va a empezar a hacer las preguntas y nosotros, si se nos ocurre algo más, le,  le interrumpimos  y le preguntamos a usted. 
+I1: Vale, vale. Vale. 
+E1:  ¿Dónde te sientas tú, aquí o aquí?  
+E2: Sí, a mí, a mí me gusta mucho y, además, nada más por el hecho de que…yo vengo de, de la capital, o sea, tampoco conozco mucho el campo húngaro, nada más que… De Budapest, de la capital. 
+I1: No, yo ahí no anduve. Anduve mucho. No siendo Rusia, lo demás todo. 
+E2: Ah, ¿anduvo en, anduvo por Budapest? 
+I1: Yo no sé,  yo, yo eso no lo sé. Yo no siendo Rusia, lo demás todo. 
+I2: Conoce Europa menos Rusia. 
+E2: Ah, vale.  De hecho…  
+I2: Suecia, Italia. En tos los sitios, menos en…
+I1: menos ese.  Trabajé mucho, pero también corrí.  Tra-, trabajar, trabajé,  que te diga la mi nieta,¡ay, Dios! Crielos yo,  que de, que bueno, crielos medio criaos. Taba , tábamos
+",La provincia a la que pertenecen los informadores es Asturias.
+"Dime la provincia del siguiente texto: E1: Muy bien. TOS Pues aquí mi compañero, que es húngaro y nunca ha estado en el campo en España, le va a empezar a hacer las preguntas y nosotros, si se nos ocurre algo más, le,  le interrumpimos  y le preguntamos a usted. 
+I1: Vale, vale. Vale. 
+E1:  ¿Dónde te sientas tú, aquí o aquí?  
+E2: Sí, a mí, a mí me gusta mucho y, además, nada más por el hecho de que…yo vengo de, de la capital, o sea, tampoco conozco mucho el campo húngaro, nada más que… De Budapest, de la capital. 
+I1: No, yo ahí no anduve. Anduve mucho. No siendo Rusia, lo demás todo. 
+E2: Ah, ¿anduvo en, anduvo por Budapest? 
+I1: Yo no sé,  yo, yo eso no lo sé. Yo no siendo Rusia, lo demás todo. 
+I2: Conoce Europa menos Rusia. 
+E2: Ah, vale.  De hecho…  
+I2: Suecia, Italia. En tos los sitios, menos en…
+I1: menos ese.  Trabajé mucho, pero también corrí.  Tra-, trabajar, trabajé,  que te diga la mi nieta,¡ay, Dios! Crielos yo,  que de, que bueno, crielos medio criaos. Taba , tábamos
+",La provincia a la que pertenecen los informadores es Asturias.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: Muy bien. TOS Pues aquí mi compañero, que es húngaro y nunca ha estado en el campo en España, le va a empezar a hacer las preguntas y nosotros, si se nos ocurre algo más, le,  le interrumpimos  y le preguntamos a usted. 
+I1: Vale, vale. Vale. 
+E1:  ¿Dónde te sientas tú, aquí o aquí?  
+E2: Sí, a mí, a mí me gusta mucho y, además, nada más por el hecho de que…yo vengo de, de la capital, o sea, tampoco conozco mucho el campo húngaro, nada más que… De Budapest, de la capital. 
+I1: No, yo ahí no anduve. Anduve mucho. No siendo Rusia, lo demás todo. 
+E2: Ah, ¿anduvo en, anduvo por Budapest? 
+I1: Yo no sé,  yo, yo eso no lo sé. Yo no siendo Rusia, lo demás todo. 
+I2: Conoce Europa menos Rusia. 
+E2: Ah, vale.  De hecho…  
+I2: Suecia, Italia. En tos los sitios, menos en…
+I1: menos ese.  Trabajé mucho, pero también corrí.  Tra-, trabajar, trabajé,  que te diga la mi nieta,¡ay, Dios! Crielos yo,  que de, que bueno, crielos medio criaos. Taba , tábamos
+",La provincia a la que pertenecen los informadores es Asturias.
+"Dime de qué lugar es el siguiente texto:  E1: Muy bien. TOS Pues aquí mi compañero, que es húngaro y nunca ha estado en el campo en España, le va a empezar a hacer las preguntas y nosotros, si se nos ocurre algo más, le,  le interrumpimos  y le preguntamos a usted. 
+I1: Vale, vale. Vale. 
+E1:  ¿Dónde te sientas tú, aquí o aquí?  
+E2: Sí, a mí, a mí me gusta mucho y, además, nada más por el hecho de que…yo vengo de, de la capital, o sea, tampoco conozco mucho el campo húngaro, nada más que… De Budapest, de la capital. 
+I1: No, yo ahí no anduve. Anduve mucho. No siendo Rusia, lo demás todo. 
+E2: Ah, ¿anduvo en, anduvo por Budapest? 
+I1: Yo no sé,  yo, yo eso no lo sé. Yo no siendo Rusia, lo demás todo. 
+I2: Conoce Europa menos Rusia. 
+E2: Ah, vale.  De hecho…  
+I2: Suecia, Italia. En tos los sitios, menos en…
+I1: menos ese.  Trabajé mucho, pero también corrí.  Tra-, trabajar, trabajé,  que te diga la mi nieta,¡ay, Dios! Crielos yo,  que de, que bueno, crielos medio criaos. Taba , tábamos
+",La provincia a la que pertenecen los informadores es Asturias.

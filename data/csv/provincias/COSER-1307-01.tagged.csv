@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: ¿Entonces usté se llama Anonimizado? . 
+I:  I: Anonimizado. 
+E1: Anonimizado. 
+I:  I: Anonimizado. 
+E1: ¿Anonimizado? 
+I:  I: Con zeta. 
+E1: Con zeta. 
+I:  I: Con-, Pon-  No, no, no, Anonimizado. 
+E1: T11 Anonimizado. Muy bien.Y, ¿ha vivido siempre en este pueblo? 
+I:  I: Siempre. 
+E1: ¿Nació aquí? 
+",La provincia a la que pertenecen los informadores es Castellón.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: ¿Entonces usté se llama Anonimizado? . 
+I:  I: Anonimizado. 
+E1: Anonimizado. 
+I:  I: Anonimizado. 
+E1: ¿Anonimizado? 
+I:  I: Con zeta. 
+E1: Con zeta. 
+I:  I: Con-, Pon-  No, no, no, Anonimizado. 
+E1: T11 Anonimizado. Muy bien.Y, ¿ha vivido siempre en este pueblo? 
+I:  I: Siempre. 
+E1: ¿Nació aquí? 
+",La provincia a la que pertenecen los informadores es Castellón.
+"Dime la provincia del siguiente texto: E1: ¿Entonces usté se llama Anonimizado? . 
+I:  I: Anonimizado. 
+E1: Anonimizado. 
+I:  I: Anonimizado. 
+E1: ¿Anonimizado? 
+I:  I: Con zeta. 
+E1: Con zeta. 
+I:  I: Con-, Pon-  No, no, no, Anonimizado. 
+E1: T11 Anonimizado. Muy bien.Y, ¿ha vivido siempre en este pueblo? 
+I:  I: Siempre. 
+E1: ¿Nació aquí? 
+",La provincia a la que pertenecen los informadores es Castellón.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: ¿Entonces usté se llama Anonimizado? . 
+I:  I: Anonimizado. 
+E1: Anonimizado. 
+I:  I: Anonimizado. 
+E1: ¿Anonimizado? 
+I:  I: Con zeta. 
+E1: Con zeta. 
+I:  I: Con-, Pon-  No, no, no, Anonimizado. 
+E1: T11 Anonimizado. Muy bien.Y, ¿ha vivido siempre en este pueblo? 
+I:  I: Siempre. 
+E1: ¿Nació aquí? 
+",La provincia a la que pertenecen los informadores es Castellón.
+"Dime de qué lugar es el siguiente texto:  E1: ¿Entonces usté se llama Anonimizado? . 
+I:  I: Anonimizado. 
+E1: Anonimizado. 
+I:  I: Anonimizado. 
+E1: ¿Anonimizado? 
+I:  I: Con zeta. 
+E1: Con zeta. 
+I:  I: Con-, Pon-  No, no, no, Anonimizado. 
+E1: T11 Anonimizado. Muy bien.Y, ¿ha vivido siempre en este pueblo? 
+I:  I: Siempre. 
+E1: ¿Nació aquí? 
+",La provincia a la que pertenecen los informadores es Castellón.

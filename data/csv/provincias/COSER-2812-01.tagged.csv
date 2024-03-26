@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: Bueno, pues  estamos en Montecubeiro, Vilarín, ¿eh? Y le, le vamos a preguntar, Anonimizado, un poco cómo…, cómo era la vida de antes, cuando usted nació aquí.  ¿Usted nació aquí? 
+I1: Sí, sí, sí, aquí. 
+E1: ¿Aquí? 
+I1: En este lao . 
+E1:  ¿Esta es la casa donde usted nació? 
+I1: Sí, sí, sí. L-Otra:Foi a casa onde nacín aquí, al lao L-Otra:da lareira, según me decían, que antes no había esta L-Otra:cociña, había L-Otra:cociña de lareira, ¿no?, de L-Otra:queimar ahí … 
+E1: ¿Y cómo era la cocina de lairei-, de L-Otra:lareira? 
+I1: L-Otra:A cociña de lareira había como un, un L-Otra:, un pavo aquí colgao en esta pared, que ahora no sé, porque está blanqueada, vamos,  e volvíase, colgaban sus patas pa L-Otra:facer de comer, un caldo… 
+E1:  ¡Ah…! 
+I1: ¿Eh? Guiso, L-Otra: e, e después con leña, quemábase, L-Otra:chamabanlle lareira, un  más alto que había en la L-Otra:terra, ¿eh?, L-Otra:dez o vinte centímetros más alta, L-Otra:queimábase pa L-Otra:facer una L-Otra:pota Rndo:pues, pues…  esa… L-Otra:Meu fillo Anonimizado, Anonimizado o Anonimizado, bueno. 
+E1: Hola.  Paramos un momento si quie-. A-Crt Seguimos. O sea que usted se acuerda de cuando era, de cuando era niño, que tenían la cocina…  del fuego ant-. 
+",La provincia a la que pertenecen los informadores es Lugo.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: Bueno, pues  estamos en Montecubeiro, Vilarín, ¿eh? Y le, le vamos a preguntar, Anonimizado, un poco cómo…, cómo era la vida de antes, cuando usted nació aquí.  ¿Usted nació aquí? 
+I1: Sí, sí, sí, aquí. 
+E1: ¿Aquí? 
+I1: En este lao . 
+E1:  ¿Esta es la casa donde usted nació? 
+I1: Sí, sí, sí. L-Otra:Foi a casa onde nacín aquí, al lao L-Otra:da lareira, según me decían, que antes no había esta L-Otra:cociña, había L-Otra:cociña de lareira, ¿no?, de L-Otra:queimar ahí … 
+E1: ¿Y cómo era la cocina de lairei-, de L-Otra:lareira? 
+I1: L-Otra:A cociña de lareira había como un, un L-Otra:, un pavo aquí colgao en esta pared, que ahora no sé, porque está blanqueada, vamos,  e volvíase, colgaban sus patas pa L-Otra:facer de comer, un caldo… 
+E1:  ¡Ah…! 
+I1: ¿Eh? Guiso, L-Otra: e, e después con leña, quemábase, L-Otra:chamabanlle lareira, un  más alto que había en la L-Otra:terra, ¿eh?, L-Otra:dez o vinte centímetros más alta, L-Otra:queimábase pa L-Otra:facer una L-Otra:pota Rndo:pues, pues…  esa… L-Otra:Meu fillo Anonimizado, Anonimizado o Anonimizado, bueno. 
+E1: Hola.  Paramos un momento si quie-. A-Crt Seguimos. O sea que usted se acuerda de cuando era, de cuando era niño, que tenían la cocina…  del fuego ant-. 
+",La provincia a la que pertenecen los informadores es Lugo.
+"Dime la provincia del siguiente texto: E1: Bueno, pues  estamos en Montecubeiro, Vilarín, ¿eh? Y le, le vamos a preguntar, Anonimizado, un poco cómo…, cómo era la vida de antes, cuando usted nació aquí.  ¿Usted nació aquí? 
+I1: Sí, sí, sí, aquí. 
+E1: ¿Aquí? 
+I1: En este lao . 
+E1:  ¿Esta es la casa donde usted nació? 
+I1: Sí, sí, sí. L-Otra:Foi a casa onde nacín aquí, al lao L-Otra:da lareira, según me decían, que antes no había esta L-Otra:cociña, había L-Otra:cociña de lareira, ¿no?, de L-Otra:queimar ahí … 
+E1: ¿Y cómo era la cocina de lairei-, de L-Otra:lareira? 
+I1: L-Otra:A cociña de lareira había como un, un L-Otra:, un pavo aquí colgao en esta pared, que ahora no sé, porque está blanqueada, vamos,  e volvíase, colgaban sus patas pa L-Otra:facer de comer, un caldo… 
+E1:  ¡Ah…! 
+I1: ¿Eh? Guiso, L-Otra: e, e después con leña, quemábase, L-Otra:chamabanlle lareira, un  más alto que había en la L-Otra:terra, ¿eh?, L-Otra:dez o vinte centímetros más alta, L-Otra:queimábase pa L-Otra:facer una L-Otra:pota Rndo:pues, pues…  esa… L-Otra:Meu fillo Anonimizado, Anonimizado o Anonimizado, bueno. 
+E1: Hola.  Paramos un momento si quie-. A-Crt Seguimos. O sea que usted se acuerda de cuando era, de cuando era niño, que tenían la cocina…  del fuego ant-. 
+",La provincia a la que pertenecen los informadores es Lugo.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: Bueno, pues  estamos en Montecubeiro, Vilarín, ¿eh? Y le, le vamos a preguntar, Anonimizado, un poco cómo…, cómo era la vida de antes, cuando usted nació aquí.  ¿Usted nació aquí? 
+I1: Sí, sí, sí, aquí. 
+E1: ¿Aquí? 
+I1: En este lao . 
+E1:  ¿Esta es la casa donde usted nació? 
+I1: Sí, sí, sí. L-Otra:Foi a casa onde nacín aquí, al lao L-Otra:da lareira, según me decían, que antes no había esta L-Otra:cociña, había L-Otra:cociña de lareira, ¿no?, de L-Otra:queimar ahí … 
+E1: ¿Y cómo era la cocina de lairei-, de L-Otra:lareira? 
+I1: L-Otra:A cociña de lareira había como un, un L-Otra:, un pavo aquí colgao en esta pared, que ahora no sé, porque está blanqueada, vamos,  e volvíase, colgaban sus patas pa L-Otra:facer de comer, un caldo… 
+E1:  ¡Ah…! 
+I1: ¿Eh? Guiso, L-Otra: e, e después con leña, quemábase, L-Otra:chamabanlle lareira, un  más alto que había en la L-Otra:terra, ¿eh?, L-Otra:dez o vinte centímetros más alta, L-Otra:queimábase pa L-Otra:facer una L-Otra:pota Rndo:pues, pues…  esa… L-Otra:Meu fillo Anonimizado, Anonimizado o Anonimizado, bueno. 
+E1: Hola.  Paramos un momento si quie-. A-Crt Seguimos. O sea que usted se acuerda de cuando era, de cuando era niño, que tenían la cocina…  del fuego ant-. 
+",La provincia a la que pertenecen los informadores es Lugo.
+"Dime de qué lugar es el siguiente texto:  E1: Bueno, pues  estamos en Montecubeiro, Vilarín, ¿eh? Y le, le vamos a preguntar, Anonimizado, un poco cómo…, cómo era la vida de antes, cuando usted nació aquí.  ¿Usted nació aquí? 
+I1: Sí, sí, sí, aquí. 
+E1: ¿Aquí? 
+I1: En este lao . 
+E1:  ¿Esta es la casa donde usted nació? 
+I1: Sí, sí, sí. L-Otra:Foi a casa onde nacín aquí, al lao L-Otra:da lareira, según me decían, que antes no había esta L-Otra:cociña, había L-Otra:cociña de lareira, ¿no?, de L-Otra:queimar ahí … 
+E1: ¿Y cómo era la cocina de lairei-, de L-Otra:lareira? 
+I1: L-Otra:A cociña de lareira había como un, un L-Otra:, un pavo aquí colgao en esta pared, que ahora no sé, porque está blanqueada, vamos,  e volvíase, colgaban sus patas pa L-Otra:facer de comer, un caldo… 
+E1:  ¡Ah…! 
+I1: ¿Eh? Guiso, L-Otra: e, e después con leña, quemábase, L-Otra:chamabanlle lareira, un  más alto que había en la L-Otra:terra, ¿eh?, L-Otra:dez o vinte centímetros más alta, L-Otra:queimábase pa L-Otra:facer una L-Otra:pota Rndo:pues, pues…  esa… L-Otra:Meu fillo Anonimizado, Anonimizado o Anonimizado, bueno. 
+E1: Hola.  Paramos un momento si quie-. A-Crt Seguimos. O sea que usted se acuerda de cuando era, de cuando era niño, que tenían la cocina…  del fuego ant-. 
+",La provincia a la que pertenecen los informadores es Lugo.

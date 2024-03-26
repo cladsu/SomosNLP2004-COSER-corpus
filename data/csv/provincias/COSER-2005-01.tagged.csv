@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: T1 Había matadero aquí. 
+E1: Sí. 
+I1: Precisamente ahí, al lao de…, del este, el Ayuntamiento aemás
+E2: Hola.   
+E1: Sí, sí, sí, sí.  
+I2: .  
+I1: Una entrevista. 
+E1: Una entrevista. Si quiere, si quiere nos vamos ahí al sol que se está mucho mejor.  
+I1: paseando, eso. 
+E1: Sí, o paseando mismo, sí.  ¿Qué están, dando la… la vueltecilla de la tarde? 
+I1:  Estaba buen tiempo, y  hay que aprovechar un poco. 
+",La provincia a la que pertenecen los informadores es Guipúzcoa.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: T1 Había matadero aquí. 
+E1: Sí. 
+I1: Precisamente ahí, al lao de…, del este, el Ayuntamiento aemás
+E2: Hola.   
+E1: Sí, sí, sí, sí.  
+I2: .  
+I1: Una entrevista. 
+E1: Una entrevista. Si quiere, si quiere nos vamos ahí al sol que se está mucho mejor.  
+I1: paseando, eso. 
+E1: Sí, o paseando mismo, sí.  ¿Qué están, dando la… la vueltecilla de la tarde? 
+I1:  Estaba buen tiempo, y  hay que aprovechar un poco. 
+",La provincia a la que pertenecen los informadores es Guipúzcoa.
+"Dime la provincia del siguiente texto: I1: T1 Había matadero aquí. 
+E1: Sí. 
+I1: Precisamente ahí, al lao de…, del este, el Ayuntamiento aemás
+E2: Hola.   
+E1: Sí, sí, sí, sí.  
+I2: .  
+I1: Una entrevista. 
+E1: Una entrevista. Si quiere, si quiere nos vamos ahí al sol que se está mucho mejor.  
+I1: paseando, eso. 
+E1: Sí, o paseando mismo, sí.  ¿Qué están, dando la… la vueltecilla de la tarde? 
+I1:  Estaba buen tiempo, y  hay que aprovechar un poco. 
+",La provincia a la que pertenecen los informadores es Guipúzcoa.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: T1 Había matadero aquí. 
+E1: Sí. 
+I1: Precisamente ahí, al lao de…, del este, el Ayuntamiento aemás
+E2: Hola.   
+E1: Sí, sí, sí, sí.  
+I2: .  
+I1: Una entrevista. 
+E1: Una entrevista. Si quiere, si quiere nos vamos ahí al sol que se está mucho mejor.  
+I1: paseando, eso. 
+E1: Sí, o paseando mismo, sí.  ¿Qué están, dando la… la vueltecilla de la tarde? 
+I1:  Estaba buen tiempo, y  hay que aprovechar un poco. 
+",La provincia a la que pertenecen los informadores es Guipúzcoa.
+"Dime de qué lugar es el siguiente texto:  I1: T1 Había matadero aquí. 
+E1: Sí. 
+I1: Precisamente ahí, al lao de…, del este, el Ayuntamiento aemás
+E2: Hola.   
+E1: Sí, sí, sí, sí.  
+I2: .  
+I1: Una entrevista. 
+E1: Una entrevista. Si quiere, si quiere nos vamos ahí al sol que se está mucho mejor.  
+I1: paseando, eso. 
+E1: Sí, o paseando mismo, sí.  ¿Qué están, dando la… la vueltecilla de la tarde? 
+I1:  Estaba buen tiempo, y  hay que aprovechar un poco. 
+",La provincia a la que pertenecen los informadores es Guipúzcoa.

@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: Un poquito de… de rondalla.  Cada cual explica sus peripeciasy sus cosas. 
+E1: Claro, las cebollas y A-Nul.  
+E2: ¿le, puedo cerrar un poco la puerta por el ruido de los coches? Porque se nos A-Nul  un poquito.  ¿Puedo? ¿Sí? 
+I1: Sois de confianza, ¿no? No, no abusaréis, no abusaréis,   no abusaréis de mí.  Cierra la puerta y enciende la luz. 
+E2: ¿Dónde está, aquí?  ¿Esta es la luz?No.Fenomenal.
+I1: Y aquello no se lo cree nadie.  
+E2: Luego lo cuenta usted que ha estado con unas chicas de Madrid.  
+I1: A ver, explícame, explícame.  
+E3: yo quería saber, ¿usted ha vivido aquí toda la vida? 
+I1: Toda la vida soy de quí , nacido en Garcia.
+E3: Nacido en Garcia.  
+",La provincia a la que pertenecen los informadores es Tarragona.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: Un poquito de… de rondalla.  Cada cual explica sus peripeciasy sus cosas. 
+E1: Claro, las cebollas y A-Nul.  
+E2: ¿le, puedo cerrar un poco la puerta por el ruido de los coches? Porque se nos A-Nul  un poquito.  ¿Puedo? ¿Sí? 
+I1: Sois de confianza, ¿no? No, no abusaréis, no abusaréis,   no abusaréis de mí.  Cierra la puerta y enciende la luz. 
+E2: ¿Dónde está, aquí?  ¿Esta es la luz?No.Fenomenal.
+I1: Y aquello no se lo cree nadie.  
+E2: Luego lo cuenta usted que ha estado con unas chicas de Madrid.  
+I1: A ver, explícame, explícame.  
+E3: yo quería saber, ¿usted ha vivido aquí toda la vida? 
+I1: Toda la vida soy de quí , nacido en Garcia.
+E3: Nacido en Garcia.  
+",La provincia a la que pertenecen los informadores es Tarragona.
+"Dime la provincia del siguiente texto: I1: Un poquito de… de rondalla.  Cada cual explica sus peripeciasy sus cosas. 
+E1: Claro, las cebollas y A-Nul.  
+E2: ¿le, puedo cerrar un poco la puerta por el ruido de los coches? Porque se nos A-Nul  un poquito.  ¿Puedo? ¿Sí? 
+I1: Sois de confianza, ¿no? No, no abusaréis, no abusaréis,   no abusaréis de mí.  Cierra la puerta y enciende la luz. 
+E2: ¿Dónde está, aquí?  ¿Esta es la luz?No.Fenomenal.
+I1: Y aquello no se lo cree nadie.  
+E2: Luego lo cuenta usted que ha estado con unas chicas de Madrid.  
+I1: A ver, explícame, explícame.  
+E3: yo quería saber, ¿usted ha vivido aquí toda la vida? 
+I1: Toda la vida soy de quí , nacido en Garcia.
+E3: Nacido en Garcia.  
+",La provincia a la que pertenecen los informadores es Tarragona.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: Un poquito de… de rondalla.  Cada cual explica sus peripeciasy sus cosas. 
+E1: Claro, las cebollas y A-Nul.  
+E2: ¿le, puedo cerrar un poco la puerta por el ruido de los coches? Porque se nos A-Nul  un poquito.  ¿Puedo? ¿Sí? 
+I1: Sois de confianza, ¿no? No, no abusaréis, no abusaréis,   no abusaréis de mí.  Cierra la puerta y enciende la luz. 
+E2: ¿Dónde está, aquí?  ¿Esta es la luz?No.Fenomenal.
+I1: Y aquello no se lo cree nadie.  
+E2: Luego lo cuenta usted que ha estado con unas chicas de Madrid.  
+I1: A ver, explícame, explícame.  
+E3: yo quería saber, ¿usted ha vivido aquí toda la vida? 
+I1: Toda la vida soy de quí , nacido en Garcia.
+E3: Nacido en Garcia.  
+",La provincia a la que pertenecen los informadores es Tarragona.
+"Dime de qué lugar es el siguiente texto:  I1: Un poquito de… de rondalla.  Cada cual explica sus peripeciasy sus cosas. 
+E1: Claro, las cebollas y A-Nul.  
+E2: ¿le, puedo cerrar un poco la puerta por el ruido de los coches? Porque se nos A-Nul  un poquito.  ¿Puedo? ¿Sí? 
+I1: Sois de confianza, ¿no? No, no abusaréis, no abusaréis,   no abusaréis de mí.  Cierra la puerta y enciende la luz. 
+E2: ¿Dónde está, aquí?  ¿Esta es la luz?No.Fenomenal.
+I1: Y aquello no se lo cree nadie.  
+E2: Luego lo cuenta usted que ha estado con unas chicas de Madrid.  
+I1: A ver, explícame, explícame.  
+E3: yo quería saber, ¿usted ha vivido aquí toda la vida? 
+I1: Toda la vida soy de quí , nacido en Garcia.
+E3: Nacido en Garcia.  
+",La provincia a la que pertenecen los informadores es Tarragona.

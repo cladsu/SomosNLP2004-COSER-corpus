@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: Bueno, pues si nos quiere contar cómo hacían aquí… la matanza. 
+I1: Pos aquí, pos la matanza se…En una caldera grande de agua se cocía dig-… se… con lumbre, que entoes no había… co-, como hoy hay… pero hoy hay otras cosas con lumbre, con leña se calentaba el agua entonces el…, el se llevaba el marrano se trababa o lo echábamos entre cuatro o cinco en una mesa . y entonces se mataba y entoes
+E1: Butifarra. . 
+I1: Sí, también hacían. 
+E1: . ¿Y hacían aquí cho-, chorizo y salchichón también? 
+I1: También, hacían de to lo que querían. 
+E1: . 
+I1: Claro, y luego los jamones pues ya se quedaban aparte ya solo . los jamones luego se metían en sal . y… se le escurría bien la sangre, luego… a los siete u ocho días de estar metío en la sal se, se volvía, se volvía a escurrir  y ya dejarlo ahí… cuando las espaldillas estaban un mes o veinte días asín en la sal, le sacaban y se colgaban en la…, en la… ahí. Hasta que se secaban para comérselo . los de este año te los…, te los come'sté ' pa el año que viene. Claro, a ese año siguiente . y esa es así nuestra vida de toda la vida aquí. Y nosotros el campo pos labrar, . con bestias . se labraba. Entonces hoy hay tractó
+E1: Y…, y ¿qué animales tenían aquí aparte de bestias? 
+I1: Pues teníamos bestias, teníamos ganao, . cabras, ovejas. 
+E1: ¿Vacas en esta zona no había? 
+",La provincia a la que pertenecen los informadores es Almería.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: Bueno, pues si nos quiere contar cómo hacían aquí… la matanza. 
+I1: Pos aquí, pos la matanza se…En una caldera grande de agua se cocía dig-… se… con lumbre, que entoes no había… co-, como hoy hay… pero hoy hay otras cosas con lumbre, con leña se calentaba el agua entonces el…, el se llevaba el marrano se trababa o lo echábamos entre cuatro o cinco en una mesa . y entonces se mataba y entoes
+E1: Butifarra. . 
+I1: Sí, también hacían. 
+E1: . ¿Y hacían aquí cho-, chorizo y salchichón también? 
+I1: También, hacían de to lo que querían. 
+E1: . 
+I1: Claro, y luego los jamones pues ya se quedaban aparte ya solo . los jamones luego se metían en sal . y… se le escurría bien la sangre, luego… a los siete u ocho días de estar metío en la sal se, se volvía, se volvía a escurrir  y ya dejarlo ahí… cuando las espaldillas estaban un mes o veinte días asín en la sal, le sacaban y se colgaban en la…, en la… ahí. Hasta que se secaban para comérselo . los de este año te los…, te los come'sté ' pa el año que viene. Claro, a ese año siguiente . y esa es así nuestra vida de toda la vida aquí. Y nosotros el campo pos labrar, . con bestias . se labraba. Entonces hoy hay tractó
+E1: Y…, y ¿qué animales tenían aquí aparte de bestias? 
+I1: Pues teníamos bestias, teníamos ganao, . cabras, ovejas. 
+E1: ¿Vacas en esta zona no había? 
+",La provincia a la que pertenecen los informadores es Almería.
+"Dime la provincia del siguiente texto: E1: Bueno, pues si nos quiere contar cómo hacían aquí… la matanza. 
+I1: Pos aquí, pos la matanza se…En una caldera grande de agua se cocía dig-… se… con lumbre, que entoes no había… co-, como hoy hay… pero hoy hay otras cosas con lumbre, con leña se calentaba el agua entonces el…, el se llevaba el marrano se trababa o lo echábamos entre cuatro o cinco en una mesa . y entonces se mataba y entoes
+E1: Butifarra. . 
+I1: Sí, también hacían. 
+E1: . ¿Y hacían aquí cho-, chorizo y salchichón también? 
+I1: También, hacían de to lo que querían. 
+E1: . 
+I1: Claro, y luego los jamones pues ya se quedaban aparte ya solo . los jamones luego se metían en sal . y… se le escurría bien la sangre, luego… a los siete u ocho días de estar metío en la sal se, se volvía, se volvía a escurrir  y ya dejarlo ahí… cuando las espaldillas estaban un mes o veinte días asín en la sal, le sacaban y se colgaban en la…, en la… ahí. Hasta que se secaban para comérselo . los de este año te los…, te los come'sté ' pa el año que viene. Claro, a ese año siguiente . y esa es así nuestra vida de toda la vida aquí. Y nosotros el campo pos labrar, . con bestias . se labraba. Entonces hoy hay tractó
+E1: Y…, y ¿qué animales tenían aquí aparte de bestias? 
+I1: Pues teníamos bestias, teníamos ganao, . cabras, ovejas. 
+E1: ¿Vacas en esta zona no había? 
+",La provincia a la que pertenecen los informadores es Almería.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: Bueno, pues si nos quiere contar cómo hacían aquí… la matanza. 
+I1: Pos aquí, pos la matanza se…En una caldera grande de agua se cocía dig-… se… con lumbre, que entoes no había… co-, como hoy hay… pero hoy hay otras cosas con lumbre, con leña se calentaba el agua entonces el…, el se llevaba el marrano se trababa o lo echábamos entre cuatro o cinco en una mesa . y entonces se mataba y entoes
+E1: Butifarra. . 
+I1: Sí, también hacían. 
+E1: . ¿Y hacían aquí cho-, chorizo y salchichón también? 
+I1: También, hacían de to lo que querían. 
+E1: . 
+I1: Claro, y luego los jamones pues ya se quedaban aparte ya solo . los jamones luego se metían en sal . y… se le escurría bien la sangre, luego… a los siete u ocho días de estar metío en la sal se, se volvía, se volvía a escurrir  y ya dejarlo ahí… cuando las espaldillas estaban un mes o veinte días asín en la sal, le sacaban y se colgaban en la…, en la… ahí. Hasta que se secaban para comérselo . los de este año te los…, te los come'sté ' pa el año que viene. Claro, a ese año siguiente . y esa es así nuestra vida de toda la vida aquí. Y nosotros el campo pos labrar, . con bestias . se labraba. Entonces hoy hay tractó
+E1: Y…, y ¿qué animales tenían aquí aparte de bestias? 
+I1: Pues teníamos bestias, teníamos ganao, . cabras, ovejas. 
+E1: ¿Vacas en esta zona no había? 
+",La provincia a la que pertenecen los informadores es Almería.
+"Dime de qué lugar es el siguiente texto:  E1: Bueno, pues si nos quiere contar cómo hacían aquí… la matanza. 
+I1: Pos aquí, pos la matanza se…En una caldera grande de agua se cocía dig-… se… con lumbre, que entoes no había… co-, como hoy hay… pero hoy hay otras cosas con lumbre, con leña se calentaba el agua entonces el…, el se llevaba el marrano se trababa o lo echábamos entre cuatro o cinco en una mesa . y entonces se mataba y entoes
+E1: Butifarra. . 
+I1: Sí, también hacían. 
+E1: . ¿Y hacían aquí cho-, chorizo y salchichón también? 
+I1: También, hacían de to lo que querían. 
+E1: . 
+I1: Claro, y luego los jamones pues ya se quedaban aparte ya solo . los jamones luego se metían en sal . y… se le escurría bien la sangre, luego… a los siete u ocho días de estar metío en la sal se, se volvía, se volvía a escurrir  y ya dejarlo ahí… cuando las espaldillas estaban un mes o veinte días asín en la sal, le sacaban y se colgaban en la…, en la… ahí. Hasta que se secaban para comérselo . los de este año te los…, te los come'sté ' pa el año que viene. Claro, a ese año siguiente . y esa es así nuestra vida de toda la vida aquí. Y nosotros el campo pos labrar, . con bestias . se labraba. Entonces hoy hay tractó
+E1: Y…, y ¿qué animales tenían aquí aparte de bestias? 
+I1: Pues teníamos bestias, teníamos ganao, . cabras, ovejas. 
+E1: ¿Vacas en esta zona no había? 
+",La provincia a la que pertenecen los informadores es Almería.

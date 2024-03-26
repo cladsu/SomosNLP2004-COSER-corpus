@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1:  … es la vida del campo, en cada pueblo, cómo era, cómo era el trabajo del campo, cómo era la matanza, cómo eran todas las tradiciones que se han perdido y todas esas cosas. Entonces ne-…, ne-…, necesitamos hablar en cada lugar con alguien que sea del pueblo de toda la vida. 
+I2: ¿Ustedes no conocen La_Bodega, La_Bodega le llaman…? 
+E2: Pero ¿a muchos kilómetros de aquí? 
+I2: Sí, sí, sí. 
+E2: Pero ¿usted sí nació aquí? 
+I2: Yo sí. 
+E2: Seguro que se acuerda de cosas que le vayamos a preguntar de cuando era joven y de las tradiciones del pueblo. 
+I2: No me acuerdo de na . 
+E1: No se acuerda de na porque ha tenido que…  
+I2: Claro, to la…, toda mi vida en el campo.
+E2: Bueno, pues nos cuenta un poco cómo trabajaba y las…, las cosas que…, que plantaban. 
+",La provincia a la que pertenecen los informadores es Murcia.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1:  … es la vida del campo, en cada pueblo, cómo era, cómo era el trabajo del campo, cómo era la matanza, cómo eran todas las tradiciones que se han perdido y todas esas cosas. Entonces ne-…, ne-…, necesitamos hablar en cada lugar con alguien que sea del pueblo de toda la vida. 
+I2: ¿Ustedes no conocen La_Bodega, La_Bodega le llaman…? 
+E2: Pero ¿a muchos kilómetros de aquí? 
+I2: Sí, sí, sí. 
+E2: Pero ¿usted sí nació aquí? 
+I2: Yo sí. 
+E2: Seguro que se acuerda de cosas que le vayamos a preguntar de cuando era joven y de las tradiciones del pueblo. 
+I2: No me acuerdo de na . 
+E1: No se acuerda de na porque ha tenido que…  
+I2: Claro, to la…, toda mi vida en el campo.
+E2: Bueno, pues nos cuenta un poco cómo trabajaba y las…, las cosas que…, que plantaban. 
+",La provincia a la que pertenecen los informadores es Murcia.
+"Dime la provincia del siguiente texto: E1:  … es la vida del campo, en cada pueblo, cómo era, cómo era el trabajo del campo, cómo era la matanza, cómo eran todas las tradiciones que se han perdido y todas esas cosas. Entonces ne-…, ne-…, necesitamos hablar en cada lugar con alguien que sea del pueblo de toda la vida. 
+I2: ¿Ustedes no conocen La_Bodega, La_Bodega le llaman…? 
+E2: Pero ¿a muchos kilómetros de aquí? 
+I2: Sí, sí, sí. 
+E2: Pero ¿usted sí nació aquí? 
+I2: Yo sí. 
+E2: Seguro que se acuerda de cosas que le vayamos a preguntar de cuando era joven y de las tradiciones del pueblo. 
+I2: No me acuerdo de na . 
+E1: No se acuerda de na porque ha tenido que…  
+I2: Claro, to la…, toda mi vida en el campo.
+E2: Bueno, pues nos cuenta un poco cómo trabajaba y las…, las cosas que…, que plantaban. 
+",La provincia a la que pertenecen los informadores es Murcia.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1:  … es la vida del campo, en cada pueblo, cómo era, cómo era el trabajo del campo, cómo era la matanza, cómo eran todas las tradiciones que se han perdido y todas esas cosas. Entonces ne-…, ne-…, necesitamos hablar en cada lugar con alguien que sea del pueblo de toda la vida. 
+I2: ¿Ustedes no conocen La_Bodega, La_Bodega le llaman…? 
+E2: Pero ¿a muchos kilómetros de aquí? 
+I2: Sí, sí, sí. 
+E2: Pero ¿usted sí nació aquí? 
+I2: Yo sí. 
+E2: Seguro que se acuerda de cosas que le vayamos a preguntar de cuando era joven y de las tradiciones del pueblo. 
+I2: No me acuerdo de na . 
+E1: No se acuerda de na porque ha tenido que…  
+I2: Claro, to la…, toda mi vida en el campo.
+E2: Bueno, pues nos cuenta un poco cómo trabajaba y las…, las cosas que…, que plantaban. 
+",La provincia a la que pertenecen los informadores es Murcia.
+"Dime de qué lugar es el siguiente texto:  E1:  … es la vida del campo, en cada pueblo, cómo era, cómo era el trabajo del campo, cómo era la matanza, cómo eran todas las tradiciones que se han perdido y todas esas cosas. Entonces ne-…, ne-…, necesitamos hablar en cada lugar con alguien que sea del pueblo de toda la vida. 
+I2: ¿Ustedes no conocen La_Bodega, La_Bodega le llaman…? 
+E2: Pero ¿a muchos kilómetros de aquí? 
+I2: Sí, sí, sí. 
+E2: Pero ¿usted sí nació aquí? 
+I2: Yo sí. 
+E2: Seguro que se acuerda de cosas que le vayamos a preguntar de cuando era joven y de las tradiciones del pueblo. 
+I2: No me acuerdo de na . 
+E1: No se acuerda de na porque ha tenido que…  
+I2: Claro, to la…, toda mi vida en el campo.
+E2: Bueno, pues nos cuenta un poco cómo trabajaba y las…, las cosas que…, que plantaban. 
+",La provincia a la que pertenecen los informadores es Murcia.

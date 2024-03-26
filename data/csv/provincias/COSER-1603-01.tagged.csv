@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T11 A ver. ¿Nos puede decir su nombre? 
+I1: Anonimizado. 
+E1: Muy bien. A ver, cuéntenos…  
+I1: Venga… ¿Tú que quieres que te cuente? Porque es que yo soy mu tonta, ¿eh? 
+E1: No, no pasa nada. Si solamente queremos que nos cuente cómo vivía usted de pequeña. 
+I1: ¿Yo de pequeña? Pos mira, deque tenía once años me puse a servir. 
+E1: Sí. 
+I1: Mi padre era trabajador del campo. Y cuando yo co-, pude pues a trabajá y después me fui a servir. Estuve en Socuéllamos… y después estuve en Alcázar. Y de diecinueve años me vine y tenía novio y me casé.
+E1:  ¡A los diecinueve!  
+I1: A los diecinueve. 
+E1:  ¡Uy, qué pronto! 
+",La provincia a la que pertenecen los informadores es Cuenca.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T11 A ver. ¿Nos puede decir su nombre? 
+I1: Anonimizado. 
+E1: Muy bien. A ver, cuéntenos…  
+I1: Venga… ¿Tú que quieres que te cuente? Porque es que yo soy mu tonta, ¿eh? 
+E1: No, no pasa nada. Si solamente queremos que nos cuente cómo vivía usted de pequeña. 
+I1: ¿Yo de pequeña? Pos mira, deque tenía once años me puse a servir. 
+E1: Sí. 
+I1: Mi padre era trabajador del campo. Y cuando yo co-, pude pues a trabajá y después me fui a servir. Estuve en Socuéllamos… y después estuve en Alcázar. Y de diecinueve años me vine y tenía novio y me casé.
+E1:  ¡A los diecinueve!  
+I1: A los diecinueve. 
+E1:  ¡Uy, qué pronto! 
+",La provincia a la que pertenecen los informadores es Cuenca.
+"Dime la provincia del siguiente texto: E1: T11 A ver. ¿Nos puede decir su nombre? 
+I1: Anonimizado. 
+E1: Muy bien. A ver, cuéntenos…  
+I1: Venga… ¿Tú que quieres que te cuente? Porque es que yo soy mu tonta, ¿eh? 
+E1: No, no pasa nada. Si solamente queremos que nos cuente cómo vivía usted de pequeña. 
+I1: ¿Yo de pequeña? Pos mira, deque tenía once años me puse a servir. 
+E1: Sí. 
+I1: Mi padre era trabajador del campo. Y cuando yo co-, pude pues a trabajá y después me fui a servir. Estuve en Socuéllamos… y después estuve en Alcázar. Y de diecinueve años me vine y tenía novio y me casé.
+E1:  ¡A los diecinueve!  
+I1: A los diecinueve. 
+E1:  ¡Uy, qué pronto! 
+",La provincia a la que pertenecen los informadores es Cuenca.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T11 A ver. ¿Nos puede decir su nombre? 
+I1: Anonimizado. 
+E1: Muy bien. A ver, cuéntenos…  
+I1: Venga… ¿Tú que quieres que te cuente? Porque es que yo soy mu tonta, ¿eh? 
+E1: No, no pasa nada. Si solamente queremos que nos cuente cómo vivía usted de pequeña. 
+I1: ¿Yo de pequeña? Pos mira, deque tenía once años me puse a servir. 
+E1: Sí. 
+I1: Mi padre era trabajador del campo. Y cuando yo co-, pude pues a trabajá y después me fui a servir. Estuve en Socuéllamos… y después estuve en Alcázar. Y de diecinueve años me vine y tenía novio y me casé.
+E1:  ¡A los diecinueve!  
+I1: A los diecinueve. 
+E1:  ¡Uy, qué pronto! 
+",La provincia a la que pertenecen los informadores es Cuenca.
+"Dime de qué lugar es el siguiente texto:  E1: T11 A ver. ¿Nos puede decir su nombre? 
+I1: Anonimizado. 
+E1: Muy bien. A ver, cuéntenos…  
+I1: Venga… ¿Tú que quieres que te cuente? Porque es que yo soy mu tonta, ¿eh? 
+E1: No, no pasa nada. Si solamente queremos que nos cuente cómo vivía usted de pequeña. 
+I1: ¿Yo de pequeña? Pos mira, deque tenía once años me puse a servir. 
+E1: Sí. 
+I1: Mi padre era trabajador del campo. Y cuando yo co-, pude pues a trabajá y después me fui a servir. Estuve en Socuéllamos… y después estuve en Alcázar. Y de diecinueve años me vine y tenía novio y me casé.
+E1:  ¡A los diecinueve!  
+I1: A los diecinueve. 
+E1:  ¡Uy, qué pronto! 
+",La provincia a la que pertenecen los informadores es Cuenca.

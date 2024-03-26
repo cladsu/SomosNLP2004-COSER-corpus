@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: Bueno, pues así, y así se lo pongo en el bolsillo y ya está, ya está grabando.  Ya está funcionando. 
+I1: Ahora a callar pues.  
+E1: Bueno, pues aquí Ángel le va a preguntar  y… los demás intervenimos.  
+E2:  Le voy a hacer,  lo que queremos saber un poquito, una, como una, como una pequeña introducción: nosotros queremos saber cómo se, cómo se vivía  pues cuando usted era niño, cuando usted era joven; el tema de, de los cultivos, de la matanza, de cómo eran las fiestas, de las tradiciones que pudiera haber en el pueblo… o alguna leyenda…  Todo… 
+I1: Igual no me se acuerda todo.   Porque en unos momentos, en unos minutos, tanto jaleo… Pero yo les diré lo que, lo que…   
+E2: T1 sin… Entonces, vamos a empezar, por ejemplo, por la matanza. 
+I1: ¿Del tocino? 
+E2: La matanza, sí. ¿Cómo…? Us-,  ¿aquí en el pueblo cómo se hacía la matanza? 
+I1: Aquí en el pueblo los criábamos, nos comprábamos un tocino pequeñito y lo criábamos siete u ocho meses. Lo comprábamos en el mes de mayo; nosotros comprábamos siempre dos y matábamos uno el día veintidós de, de diciembre y el otro por la fiesta mayor, que era el die-, el veinte de enero. 
+E2: . 
+I1: Y los criábamos nosotros, pues los matábamos. Había un matarife en lo pueblo, había dos matarifes, y esos, pues mira, te venían a casa, ponías encima de uno la banqueta que decíamos, el cuchillo, después con… zarzas, ¿sabes lo que es una zarza?
+",La provincia a la que pertenecen los informadores es Lérida.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: Bueno, pues así, y así se lo pongo en el bolsillo y ya está, ya está grabando.  Ya está funcionando. 
+I1: Ahora a callar pues.  
+E1: Bueno, pues aquí Ángel le va a preguntar  y… los demás intervenimos.  
+E2:  Le voy a hacer,  lo que queremos saber un poquito, una, como una, como una pequeña introducción: nosotros queremos saber cómo se, cómo se vivía  pues cuando usted era niño, cuando usted era joven; el tema de, de los cultivos, de la matanza, de cómo eran las fiestas, de las tradiciones que pudiera haber en el pueblo… o alguna leyenda…  Todo… 
+I1: Igual no me se acuerda todo.   Porque en unos momentos, en unos minutos, tanto jaleo… Pero yo les diré lo que, lo que…   
+E2: T1 sin… Entonces, vamos a empezar, por ejemplo, por la matanza. 
+I1: ¿Del tocino? 
+E2: La matanza, sí. ¿Cómo…? Us-,  ¿aquí en el pueblo cómo se hacía la matanza? 
+I1: Aquí en el pueblo los criábamos, nos comprábamos un tocino pequeñito y lo criábamos siete u ocho meses. Lo comprábamos en el mes de mayo; nosotros comprábamos siempre dos y matábamos uno el día veintidós de, de diciembre y el otro por la fiesta mayor, que era el die-, el veinte de enero. 
+E2: . 
+I1: Y los criábamos nosotros, pues los matábamos. Había un matarife en lo pueblo, había dos matarifes, y esos, pues mira, te venían a casa, ponías encima de uno la banqueta que decíamos, el cuchillo, después con… zarzas, ¿sabes lo que es una zarza?
+",La provincia a la que pertenecen los informadores es Lérida.
+"Dime la provincia del siguiente texto: E1: Bueno, pues así, y así se lo pongo en el bolsillo y ya está, ya está grabando.  Ya está funcionando. 
+I1: Ahora a callar pues.  
+E1: Bueno, pues aquí Ángel le va a preguntar  y… los demás intervenimos.  
+E2:  Le voy a hacer,  lo que queremos saber un poquito, una, como una, como una pequeña introducción: nosotros queremos saber cómo se, cómo se vivía  pues cuando usted era niño, cuando usted era joven; el tema de, de los cultivos, de la matanza, de cómo eran las fiestas, de las tradiciones que pudiera haber en el pueblo… o alguna leyenda…  Todo… 
+I1: Igual no me se acuerda todo.   Porque en unos momentos, en unos minutos, tanto jaleo… Pero yo les diré lo que, lo que…   
+E2: T1 sin… Entonces, vamos a empezar, por ejemplo, por la matanza. 
+I1: ¿Del tocino? 
+E2: La matanza, sí. ¿Cómo…? Us-,  ¿aquí en el pueblo cómo se hacía la matanza? 
+I1: Aquí en el pueblo los criábamos, nos comprábamos un tocino pequeñito y lo criábamos siete u ocho meses. Lo comprábamos en el mes de mayo; nosotros comprábamos siempre dos y matábamos uno el día veintidós de, de diciembre y el otro por la fiesta mayor, que era el die-, el veinte de enero. 
+E2: . 
+I1: Y los criábamos nosotros, pues los matábamos. Había un matarife en lo pueblo, había dos matarifes, y esos, pues mira, te venían a casa, ponías encima de uno la banqueta que decíamos, el cuchillo, después con… zarzas, ¿sabes lo que es una zarza?
+",La provincia a la que pertenecen los informadores es Lérida.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: Bueno, pues así, y así se lo pongo en el bolsillo y ya está, ya está grabando.  Ya está funcionando. 
+I1: Ahora a callar pues.  
+E1: Bueno, pues aquí Ángel le va a preguntar  y… los demás intervenimos.  
+E2:  Le voy a hacer,  lo que queremos saber un poquito, una, como una, como una pequeña introducción: nosotros queremos saber cómo se, cómo se vivía  pues cuando usted era niño, cuando usted era joven; el tema de, de los cultivos, de la matanza, de cómo eran las fiestas, de las tradiciones que pudiera haber en el pueblo… o alguna leyenda…  Todo… 
+I1: Igual no me se acuerda todo.   Porque en unos momentos, en unos minutos, tanto jaleo… Pero yo les diré lo que, lo que…   
+E2: T1 sin… Entonces, vamos a empezar, por ejemplo, por la matanza. 
+I1: ¿Del tocino? 
+E2: La matanza, sí. ¿Cómo…? Us-,  ¿aquí en el pueblo cómo se hacía la matanza? 
+I1: Aquí en el pueblo los criábamos, nos comprábamos un tocino pequeñito y lo criábamos siete u ocho meses. Lo comprábamos en el mes de mayo; nosotros comprábamos siempre dos y matábamos uno el día veintidós de, de diciembre y el otro por la fiesta mayor, que era el die-, el veinte de enero. 
+E2: . 
+I1: Y los criábamos nosotros, pues los matábamos. Había un matarife en lo pueblo, había dos matarifes, y esos, pues mira, te venían a casa, ponías encima de uno la banqueta que decíamos, el cuchillo, después con… zarzas, ¿sabes lo que es una zarza?
+",La provincia a la que pertenecen los informadores es Lérida.
+"Dime de qué lugar es el siguiente texto:  E1: Bueno, pues así, y así se lo pongo en el bolsillo y ya está, ya está grabando.  Ya está funcionando. 
+I1: Ahora a callar pues.  
+E1: Bueno, pues aquí Ángel le va a preguntar  y… los demás intervenimos.  
+E2:  Le voy a hacer,  lo que queremos saber un poquito, una, como una, como una pequeña introducción: nosotros queremos saber cómo se, cómo se vivía  pues cuando usted era niño, cuando usted era joven; el tema de, de los cultivos, de la matanza, de cómo eran las fiestas, de las tradiciones que pudiera haber en el pueblo… o alguna leyenda…  Todo… 
+I1: Igual no me se acuerda todo.   Porque en unos momentos, en unos minutos, tanto jaleo… Pero yo les diré lo que, lo que…   
+E2: T1 sin… Entonces, vamos a empezar, por ejemplo, por la matanza. 
+I1: ¿Del tocino? 
+E2: La matanza, sí. ¿Cómo…? Us-,  ¿aquí en el pueblo cómo se hacía la matanza? 
+I1: Aquí en el pueblo los criábamos, nos comprábamos un tocino pequeñito y lo criábamos siete u ocho meses. Lo comprábamos en el mes de mayo; nosotros comprábamos siempre dos y matábamos uno el día veintidós de, de diciembre y el otro por la fiesta mayor, que era el die-, el veinte de enero. 
+E2: . 
+I1: Y los criábamos nosotros, pues los matábamos. Había un matarife en lo pueblo, había dos matarifes, y esos, pues mira, te venían a casa, ponías encima de uno la banqueta que decíamos, el cuchillo, después con… zarzas, ¿sabes lo que es una zarza?
+",La provincia a la que pertenecen los informadores es Lérida.

@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: Dos_mil, siete de mayo del 2000, estamos en…, ¿ustedes dicen Gordejuela o Gordexola? 
+I1: Nosotros decimos Gordejuela.  Porque no…, porque no es vasco. 
+I2: ¿Cómo que no?  
+I1: a-, a-, adiós es vez de, de agur. 
+E1: Provincia de  Vizcaya. 
+I2: Bueno, aquí dicen… 
+E1:  Sí, equipo formado por Ruth_Domínguez, Nuria_Albo y Lourdes_Rey. Sí, me decía que aquí, el pueblo se ha llamado siempre Gordejuela, normalmente la gente dice Gordejuela. 
+I1: Sí, es en…, en castellano,  sí. Es en castellano. 
+I2: Los vascos dicen otro,  o sea… 
+I1: Gordexola. 
+E1: T11 Bueno, a ver, vamos a empezar con  cosas que recuerden de cuando eran pequeños,  por ejemplo, ¿qué, qué juegos tenían cuando eran pequeños, de niños de cuando iban a la escuela o de pequeños? 
+",La provincia a la que pertenecen los informadores es Vizcaya.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: Dos_mil, siete de mayo del 2000, estamos en…, ¿ustedes dicen Gordejuela o Gordexola? 
+I1: Nosotros decimos Gordejuela.  Porque no…, porque no es vasco. 
+I2: ¿Cómo que no?  
+I1: a-, a-, adiós es vez de, de agur. 
+E1: Provincia de  Vizcaya. 
+I2: Bueno, aquí dicen… 
+E1:  Sí, equipo formado por Ruth_Domínguez, Nuria_Albo y Lourdes_Rey. Sí, me decía que aquí, el pueblo se ha llamado siempre Gordejuela, normalmente la gente dice Gordejuela. 
+I1: Sí, es en…, en castellano,  sí. Es en castellano. 
+I2: Los vascos dicen otro,  o sea… 
+I1: Gordexola. 
+E1: T11 Bueno, a ver, vamos a empezar con  cosas que recuerden de cuando eran pequeños,  por ejemplo, ¿qué, qué juegos tenían cuando eran pequeños, de niños de cuando iban a la escuela o de pequeños? 
+",La provincia a la que pertenecen los informadores es Vizcaya.
+"Dime la provincia del siguiente texto: E1: Dos_mil, siete de mayo del 2000, estamos en…, ¿ustedes dicen Gordejuela o Gordexola? 
+I1: Nosotros decimos Gordejuela.  Porque no…, porque no es vasco. 
+I2: ¿Cómo que no?  
+I1: a-, a-, adiós es vez de, de agur. 
+E1: Provincia de  Vizcaya. 
+I2: Bueno, aquí dicen… 
+E1:  Sí, equipo formado por Ruth_Domínguez, Nuria_Albo y Lourdes_Rey. Sí, me decía que aquí, el pueblo se ha llamado siempre Gordejuela, normalmente la gente dice Gordejuela. 
+I1: Sí, es en…, en castellano,  sí. Es en castellano. 
+I2: Los vascos dicen otro,  o sea… 
+I1: Gordexola. 
+E1: T11 Bueno, a ver, vamos a empezar con  cosas que recuerden de cuando eran pequeños,  por ejemplo, ¿qué, qué juegos tenían cuando eran pequeños, de niños de cuando iban a la escuela o de pequeños? 
+",La provincia a la que pertenecen los informadores es Vizcaya.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: Dos_mil, siete de mayo del 2000, estamos en…, ¿ustedes dicen Gordejuela o Gordexola? 
+I1: Nosotros decimos Gordejuela.  Porque no…, porque no es vasco. 
+I2: ¿Cómo que no?  
+I1: a-, a-, adiós es vez de, de agur. 
+E1: Provincia de  Vizcaya. 
+I2: Bueno, aquí dicen… 
+E1:  Sí, equipo formado por Ruth_Domínguez, Nuria_Albo y Lourdes_Rey. Sí, me decía que aquí, el pueblo se ha llamado siempre Gordejuela, normalmente la gente dice Gordejuela. 
+I1: Sí, es en…, en castellano,  sí. Es en castellano. 
+I2: Los vascos dicen otro,  o sea… 
+I1: Gordexola. 
+E1: T11 Bueno, a ver, vamos a empezar con  cosas que recuerden de cuando eran pequeños,  por ejemplo, ¿qué, qué juegos tenían cuando eran pequeños, de niños de cuando iban a la escuela o de pequeños? 
+",La provincia a la que pertenecen los informadores es Vizcaya.
+"Dime de qué lugar es el siguiente texto:  E1: Dos_mil, siete de mayo del 2000, estamos en…, ¿ustedes dicen Gordejuela o Gordexola? 
+I1: Nosotros decimos Gordejuela.  Porque no…, porque no es vasco. 
+I2: ¿Cómo que no?  
+I1: a-, a-, adiós es vez de, de agur. 
+E1: Provincia de  Vizcaya. 
+I2: Bueno, aquí dicen… 
+E1:  Sí, equipo formado por Ruth_Domínguez, Nuria_Albo y Lourdes_Rey. Sí, me decía que aquí, el pueblo se ha llamado siempre Gordejuela, normalmente la gente dice Gordejuela. 
+I1: Sí, es en…, en castellano,  sí. Es en castellano. 
+I2: Los vascos dicen otro,  o sea… 
+I1: Gordexola. 
+E1: T11 Bueno, a ver, vamos a empezar con  cosas que recuerden de cuando eran pequeños,  por ejemplo, ¿qué, qué juegos tenían cuando eran pequeños, de niños de cuando iban a la escuela o de pequeños? 
+",La provincia a la que pertenecen los informadores es Vizcaya.

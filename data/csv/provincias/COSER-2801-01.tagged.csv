@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1:  Un, un padres… Bueno, uno es castellano, sí, la otra… madre.  Y…, y gallego, pero… 
+E1: Ponte, siéntate aquí, que te, así te…  HCruz:Ponle la… Déjame la silla esta.  A ver, toma. Siéntate aquí. 
+I1:  ¡Hombre, no! 
+E1: Sí, sí, ponte… A ver, toma, siéntate. 
+I1: A-Nul una silla. Pero déjate estar. 
+E1: Aunque sea así nos ponemos una… 
+I1: Bueno, bueno, pon para allá, hombre. 
+E1: No, que así te quedas aquí sentado a la mesa. V-Tml  
+I1: Mira… A ver, hombre, mira, ya está, anda, ya está, acabo de estar sentado acá. Quita eso de ahí.
+E1: Ah, ¿esto? 
+I1: Sí. Échame todo pa aquí. Aquí. La gaita me lla-, me llama.    
+",La provincia a la que pertenecen los informadores es Lugo.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1:  Un, un padres… Bueno, uno es castellano, sí, la otra… madre.  Y…, y gallego, pero… 
+E1: Ponte, siéntate aquí, que te, así te…  HCruz:Ponle la… Déjame la silla esta.  A ver, toma. Siéntate aquí. 
+I1:  ¡Hombre, no! 
+E1: Sí, sí, ponte… A ver, toma, siéntate. 
+I1: A-Nul una silla. Pero déjate estar. 
+E1: Aunque sea así nos ponemos una… 
+I1: Bueno, bueno, pon para allá, hombre. 
+E1: No, que así te quedas aquí sentado a la mesa. V-Tml  
+I1: Mira… A ver, hombre, mira, ya está, anda, ya está, acabo de estar sentado acá. Quita eso de ahí.
+E1: Ah, ¿esto? 
+I1: Sí. Échame todo pa aquí. Aquí. La gaita me lla-, me llama.    
+",La provincia a la que pertenecen los informadores es Lugo.
+"Dime la provincia del siguiente texto: I1:  Un, un padres… Bueno, uno es castellano, sí, la otra… madre.  Y…, y gallego, pero… 
+E1: Ponte, siéntate aquí, que te, así te…  HCruz:Ponle la… Déjame la silla esta.  A ver, toma. Siéntate aquí. 
+I1:  ¡Hombre, no! 
+E1: Sí, sí, ponte… A ver, toma, siéntate. 
+I1: A-Nul una silla. Pero déjate estar. 
+E1: Aunque sea así nos ponemos una… 
+I1: Bueno, bueno, pon para allá, hombre. 
+E1: No, que así te quedas aquí sentado a la mesa. V-Tml  
+I1: Mira… A ver, hombre, mira, ya está, anda, ya está, acabo de estar sentado acá. Quita eso de ahí.
+E1: Ah, ¿esto? 
+I1: Sí. Échame todo pa aquí. Aquí. La gaita me lla-, me llama.    
+",La provincia a la que pertenecen los informadores es Lugo.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1:  Un, un padres… Bueno, uno es castellano, sí, la otra… madre.  Y…, y gallego, pero… 
+E1: Ponte, siéntate aquí, que te, así te…  HCruz:Ponle la… Déjame la silla esta.  A ver, toma. Siéntate aquí. 
+I1:  ¡Hombre, no! 
+E1: Sí, sí, ponte… A ver, toma, siéntate. 
+I1: A-Nul una silla. Pero déjate estar. 
+E1: Aunque sea así nos ponemos una… 
+I1: Bueno, bueno, pon para allá, hombre. 
+E1: No, que así te quedas aquí sentado a la mesa. V-Tml  
+I1: Mira… A ver, hombre, mira, ya está, anda, ya está, acabo de estar sentado acá. Quita eso de ahí.
+E1: Ah, ¿esto? 
+I1: Sí. Échame todo pa aquí. Aquí. La gaita me lla-, me llama.    
+",La provincia a la que pertenecen los informadores es Lugo.
+"Dime de qué lugar es el siguiente texto:  I1:  Un, un padres… Bueno, uno es castellano, sí, la otra… madre.  Y…, y gallego, pero… 
+E1: Ponte, siéntate aquí, que te, así te…  HCruz:Ponle la… Déjame la silla esta.  A ver, toma. Siéntate aquí. 
+I1:  ¡Hombre, no! 
+E1: Sí, sí, ponte… A ver, toma, siéntate. 
+I1: A-Nul una silla. Pero déjate estar. 
+E1: Aunque sea así nos ponemos una… 
+I1: Bueno, bueno, pon para allá, hombre. 
+E1: No, que así te quedas aquí sentado a la mesa. V-Tml  
+I1: Mira… A ver, hombre, mira, ya está, anda, ya está, acabo de estar sentado acá. Quita eso de ahí.
+E1: Ah, ¿esto? 
+I1: Sí. Échame todo pa aquí. Aquí. La gaita me lla-, me llama.    
+",La provincia a la que pertenecen los informadores es Lugo.

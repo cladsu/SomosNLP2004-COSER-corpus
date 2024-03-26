@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1:  ¡Buenas!
+IE:  IE: ¿Cómo os llamáis? 
+E1: Yo soy Carlota. 
+IE:  IE: Carlota. 
+E2: Roxana. 
+IE:  IE: Roxana. 
+E3: Marina. 
+IE:  IE: Marina. 
+E4: Y Mirabela. 
+IE:  IE: Pues mira, entrar ahí a la izquierda… 
+E1: Aquí a la izquierda. Hola, muy buenas. No se levante, no se levante,  por favor. ¿Qué tal? 
+",La provincia a la que pertenecen los informadores es Málaga.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1:  ¡Buenas!
+IE:  IE: ¿Cómo os llamáis? 
+E1: Yo soy Carlota. 
+IE:  IE: Carlota. 
+E2: Roxana. 
+IE:  IE: Roxana. 
+E3: Marina. 
+IE:  IE: Marina. 
+E4: Y Mirabela. 
+IE:  IE: Pues mira, entrar ahí a la izquierda… 
+E1: Aquí a la izquierda. Hola, muy buenas. No se levante, no se levante,  por favor. ¿Qué tal? 
+",La provincia a la que pertenecen los informadores es Málaga.
+"Dime la provincia del siguiente texto: E1:  ¡Buenas!
+IE:  IE: ¿Cómo os llamáis? 
+E1: Yo soy Carlota. 
+IE:  IE: Carlota. 
+E2: Roxana. 
+IE:  IE: Roxana. 
+E3: Marina. 
+IE:  IE: Marina. 
+E4: Y Mirabela. 
+IE:  IE: Pues mira, entrar ahí a la izquierda… 
+E1: Aquí a la izquierda. Hola, muy buenas. No se levante, no se levante,  por favor. ¿Qué tal? 
+",La provincia a la que pertenecen los informadores es Málaga.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1:  ¡Buenas!
+IE:  IE: ¿Cómo os llamáis? 
+E1: Yo soy Carlota. 
+IE:  IE: Carlota. 
+E2: Roxana. 
+IE:  IE: Roxana. 
+E3: Marina. 
+IE:  IE: Marina. 
+E4: Y Mirabela. 
+IE:  IE: Pues mira, entrar ahí a la izquierda… 
+E1: Aquí a la izquierda. Hola, muy buenas. No se levante, no se levante,  por favor. ¿Qué tal? 
+",La provincia a la que pertenecen los informadores es Málaga.
+"Dime de qué lugar es el siguiente texto:  E1:  ¡Buenas!
+IE:  IE: ¿Cómo os llamáis? 
+E1: Yo soy Carlota. 
+IE:  IE: Carlota. 
+E2: Roxana. 
+IE:  IE: Roxana. 
+E3: Marina. 
+IE:  IE: Marina. 
+E4: Y Mirabela. 
+IE:  IE: Pues mira, entrar ahí a la izquierda… 
+E1: Aquí a la izquierda. Hola, muy buenas. No se levante, no se levante,  por favor. ¿Qué tal? 
+",La provincia a la que pertenecen los informadores es Málaga.

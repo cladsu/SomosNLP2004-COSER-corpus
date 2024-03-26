@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: De la matanza. 
+I1:  ¡Ah, hablo yo!  
+E1: Sí. 
+I1: Bueno, pues la matanza, pues se, se hace la matanza, se matan los cerdos, se queman, se queman con un soplete así las…,  las llamamos las cerdas, les llamamos las cerdas, ¿sabes?, y bueno, después se pelan, se lavan bien con una manguera y después, bueno, ya se abren, se saquea, se saca todo, la, la, la tripa, el hígado, todo se deja un día a-, un día o dos, así para que escurra así colgaos y nada después se parten, se hacen todo, se pica para los chorizos, los lomos y después se tiene dos días en eso, en adobo, se adoba con pimentón, sal, orégano y se tiene así, bueno, en unas, en unos barreños así grandes y después ya se hacen los chorizos y se hacen las tripas de lomo y se ponen a secar al humo y hay que hacerles mucha lumbre y eso. ¿Y qué más? 
+E1: ¿Y los jamones? 
+I1:  ¡Ah! Los jamones se ponen en sal, bueno, así todo el espinazo y los tocinos y todo y los lacones, bueno, las uñas, ya lo dije y se pone en sal y se tienen así veinte días, los jamones y después se ponen al humo y se tiene dos o tres meses al humo y haciéndoles lumbre y al aire, después vos los enseño los jamones como son, si los queréis retratar ahí, pues  vos los enseño para que veáis como son los jamones de aquí del pueblo. 
+E1: ¿Y, y les echáis algo para que no les vayan las moscas? 
+I1: Pues yo, antes se hacía un así, una cosa así, bueno… unos polvos que se le echaba, pero yo ahora les echo cal viva, de que pa que no vaya la mosca, ¿sabes? Para que, cuando están curando, para que no le pique la mosca y hay quien pues le echa esto vinagre y pimentón, pero yo más seguro es echar un poco de, de eso, de cal viva y eso y nada más. 
+E1: ¿Y no se asusta nada de lo de la matanza, cuando hay que matar al cerdo ni nada? 
+I1: ¿Quién? ¿Los cerdos si se asustan? 
+E1: No, que si os asustáis vosotros. 
+",La provincia a la que pertenecen los informadores es León.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: De la matanza. 
+I1:  ¡Ah, hablo yo!  
+E1: Sí. 
+I1: Bueno, pues la matanza, pues se, se hace la matanza, se matan los cerdos, se queman, se queman con un soplete así las…,  las llamamos las cerdas, les llamamos las cerdas, ¿sabes?, y bueno, después se pelan, se lavan bien con una manguera y después, bueno, ya se abren, se saquea, se saca todo, la, la, la tripa, el hígado, todo se deja un día a-, un día o dos, así para que escurra así colgaos y nada después se parten, se hacen todo, se pica para los chorizos, los lomos y después se tiene dos días en eso, en adobo, se adoba con pimentón, sal, orégano y se tiene así, bueno, en unas, en unos barreños así grandes y después ya se hacen los chorizos y se hacen las tripas de lomo y se ponen a secar al humo y hay que hacerles mucha lumbre y eso. ¿Y qué más? 
+E1: ¿Y los jamones? 
+I1:  ¡Ah! Los jamones se ponen en sal, bueno, así todo el espinazo y los tocinos y todo y los lacones, bueno, las uñas, ya lo dije y se pone en sal y se tienen así veinte días, los jamones y después se ponen al humo y se tiene dos o tres meses al humo y haciéndoles lumbre y al aire, después vos los enseño los jamones como son, si los queréis retratar ahí, pues  vos los enseño para que veáis como son los jamones de aquí del pueblo. 
+E1: ¿Y, y les echáis algo para que no les vayan las moscas? 
+I1: Pues yo, antes se hacía un así, una cosa así, bueno… unos polvos que se le echaba, pero yo ahora les echo cal viva, de que pa que no vaya la mosca, ¿sabes? Para que, cuando están curando, para que no le pique la mosca y hay quien pues le echa esto vinagre y pimentón, pero yo más seguro es echar un poco de, de eso, de cal viva y eso y nada más. 
+E1: ¿Y no se asusta nada de lo de la matanza, cuando hay que matar al cerdo ni nada? 
+I1: ¿Quién? ¿Los cerdos si se asustan? 
+E1: No, que si os asustáis vosotros. 
+",La provincia a la que pertenecen los informadores es León.
+"Dime la provincia del siguiente texto: E1: De la matanza. 
+I1:  ¡Ah, hablo yo!  
+E1: Sí. 
+I1: Bueno, pues la matanza, pues se, se hace la matanza, se matan los cerdos, se queman, se queman con un soplete así las…,  las llamamos las cerdas, les llamamos las cerdas, ¿sabes?, y bueno, después se pelan, se lavan bien con una manguera y después, bueno, ya se abren, se saquea, se saca todo, la, la, la tripa, el hígado, todo se deja un día a-, un día o dos, así para que escurra así colgaos y nada después se parten, se hacen todo, se pica para los chorizos, los lomos y después se tiene dos días en eso, en adobo, se adoba con pimentón, sal, orégano y se tiene así, bueno, en unas, en unos barreños así grandes y después ya se hacen los chorizos y se hacen las tripas de lomo y se ponen a secar al humo y hay que hacerles mucha lumbre y eso. ¿Y qué más? 
+E1: ¿Y los jamones? 
+I1:  ¡Ah! Los jamones se ponen en sal, bueno, así todo el espinazo y los tocinos y todo y los lacones, bueno, las uñas, ya lo dije y se pone en sal y se tienen así veinte días, los jamones y después se ponen al humo y se tiene dos o tres meses al humo y haciéndoles lumbre y al aire, después vos los enseño los jamones como son, si los queréis retratar ahí, pues  vos los enseño para que veáis como son los jamones de aquí del pueblo. 
+E1: ¿Y, y les echáis algo para que no les vayan las moscas? 
+I1: Pues yo, antes se hacía un así, una cosa así, bueno… unos polvos que se le echaba, pero yo ahora les echo cal viva, de que pa que no vaya la mosca, ¿sabes? Para que, cuando están curando, para que no le pique la mosca y hay quien pues le echa esto vinagre y pimentón, pero yo más seguro es echar un poco de, de eso, de cal viva y eso y nada más. 
+E1: ¿Y no se asusta nada de lo de la matanza, cuando hay que matar al cerdo ni nada? 
+I1: ¿Quién? ¿Los cerdos si se asustan? 
+E1: No, que si os asustáis vosotros. 
+",La provincia a la que pertenecen los informadores es León.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: De la matanza. 
+I1:  ¡Ah, hablo yo!  
+E1: Sí. 
+I1: Bueno, pues la matanza, pues se, se hace la matanza, se matan los cerdos, se queman, se queman con un soplete así las…,  las llamamos las cerdas, les llamamos las cerdas, ¿sabes?, y bueno, después se pelan, se lavan bien con una manguera y después, bueno, ya se abren, se saquea, se saca todo, la, la, la tripa, el hígado, todo se deja un día a-, un día o dos, así para que escurra así colgaos y nada después se parten, se hacen todo, se pica para los chorizos, los lomos y después se tiene dos días en eso, en adobo, se adoba con pimentón, sal, orégano y se tiene así, bueno, en unas, en unos barreños así grandes y después ya se hacen los chorizos y se hacen las tripas de lomo y se ponen a secar al humo y hay que hacerles mucha lumbre y eso. ¿Y qué más? 
+E1: ¿Y los jamones? 
+I1:  ¡Ah! Los jamones se ponen en sal, bueno, así todo el espinazo y los tocinos y todo y los lacones, bueno, las uñas, ya lo dije y se pone en sal y se tienen así veinte días, los jamones y después se ponen al humo y se tiene dos o tres meses al humo y haciéndoles lumbre y al aire, después vos los enseño los jamones como son, si los queréis retratar ahí, pues  vos los enseño para que veáis como son los jamones de aquí del pueblo. 
+E1: ¿Y, y les echáis algo para que no les vayan las moscas? 
+I1: Pues yo, antes se hacía un así, una cosa así, bueno… unos polvos que se le echaba, pero yo ahora les echo cal viva, de que pa que no vaya la mosca, ¿sabes? Para que, cuando están curando, para que no le pique la mosca y hay quien pues le echa esto vinagre y pimentón, pero yo más seguro es echar un poco de, de eso, de cal viva y eso y nada más. 
+E1: ¿Y no se asusta nada de lo de la matanza, cuando hay que matar al cerdo ni nada? 
+I1: ¿Quién? ¿Los cerdos si se asustan? 
+E1: No, que si os asustáis vosotros. 
+",La provincia a la que pertenecen los informadores es León.
+"Dime de qué lugar es el siguiente texto:  E1: De la matanza. 
+I1:  ¡Ah, hablo yo!  
+E1: Sí. 
+I1: Bueno, pues la matanza, pues se, se hace la matanza, se matan los cerdos, se queman, se queman con un soplete así las…,  las llamamos las cerdas, les llamamos las cerdas, ¿sabes?, y bueno, después se pelan, se lavan bien con una manguera y después, bueno, ya se abren, se saquea, se saca todo, la, la, la tripa, el hígado, todo se deja un día a-, un día o dos, así para que escurra así colgaos y nada después se parten, se hacen todo, se pica para los chorizos, los lomos y después se tiene dos días en eso, en adobo, se adoba con pimentón, sal, orégano y se tiene así, bueno, en unas, en unos barreños así grandes y después ya se hacen los chorizos y se hacen las tripas de lomo y se ponen a secar al humo y hay que hacerles mucha lumbre y eso. ¿Y qué más? 
+E1: ¿Y los jamones? 
+I1:  ¡Ah! Los jamones se ponen en sal, bueno, así todo el espinazo y los tocinos y todo y los lacones, bueno, las uñas, ya lo dije y se pone en sal y se tienen así veinte días, los jamones y después se ponen al humo y se tiene dos o tres meses al humo y haciéndoles lumbre y al aire, después vos los enseño los jamones como son, si los queréis retratar ahí, pues  vos los enseño para que veáis como son los jamones de aquí del pueblo. 
+E1: ¿Y, y les echáis algo para que no les vayan las moscas? 
+I1: Pues yo, antes se hacía un así, una cosa así, bueno… unos polvos que se le echaba, pero yo ahora les echo cal viva, de que pa que no vaya la mosca, ¿sabes? Para que, cuando están curando, para que no le pique la mosca y hay quien pues le echa esto vinagre y pimentón, pero yo más seguro es echar un poco de, de eso, de cal viva y eso y nada más. 
+E1: ¿Y no se asusta nada de lo de la matanza, cuando hay que matar al cerdo ni nada? 
+I1: ¿Quién? ¿Los cerdos si se asustan? 
+E1: No, que si os asustáis vosotros. 
+",La provincia a la que pertenecen los informadores es León.

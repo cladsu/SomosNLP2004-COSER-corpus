@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: Espera, se lo voy poniendo ahora. ¡Ale! 
+I1: Sentarse en la copa que hace fresco. 
+E1: Hoy está el día fresquito, sí.
+I1: Hoy está mejó , ayé
+E1: Ahí está.Así. 
+I1:  ¡Uy, la que me va a liá a mí este! ¿Ánde
+E1: T13 ¿Qué ha estado, toda la vida aquí? 
+I1: No. 
+E1: No.
+I1: Yo he estao aquíhasta que…, hasta que murieron mis padres, cuando murieron mis padres ya se partío la finca. Entonces yo ya me fui a Sevilla y he estao en una farmacia venticuatro años en Marqués en…, en la calle Marqués de  a la calle… Julio, Julio_César. Calle_Julio_César, número dos. Al lao del Burger_King, ¿no habéis estao en Burger_King? 
+E1: Si es que nosotros somos de Madrid. 
+",La provincia a la que pertenecen los informadores es Huelva.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: Espera, se lo voy poniendo ahora. ¡Ale! 
+I1: Sentarse en la copa que hace fresco. 
+E1: Hoy está el día fresquito, sí.
+I1: Hoy está mejó , ayé
+E1: Ahí está.Así. 
+I1:  ¡Uy, la que me va a liá a mí este! ¿Ánde
+E1: T13 ¿Qué ha estado, toda la vida aquí? 
+I1: No. 
+E1: No.
+I1: Yo he estao aquíhasta que…, hasta que murieron mis padres, cuando murieron mis padres ya se partío la finca. Entonces yo ya me fui a Sevilla y he estao en una farmacia venticuatro años en Marqués en…, en la calle Marqués de  a la calle… Julio, Julio_César. Calle_Julio_César, número dos. Al lao del Burger_King, ¿no habéis estao en Burger_King? 
+E1: Si es que nosotros somos de Madrid. 
+",La provincia a la que pertenecen los informadores es Huelva.
+"Dime la provincia del siguiente texto: E1: Espera, se lo voy poniendo ahora. ¡Ale! 
+I1: Sentarse en la copa que hace fresco. 
+E1: Hoy está el día fresquito, sí.
+I1: Hoy está mejó , ayé
+E1: Ahí está.Así. 
+I1:  ¡Uy, la que me va a liá a mí este! ¿Ánde
+E1: T13 ¿Qué ha estado, toda la vida aquí? 
+I1: No. 
+E1: No.
+I1: Yo he estao aquíhasta que…, hasta que murieron mis padres, cuando murieron mis padres ya se partío la finca. Entonces yo ya me fui a Sevilla y he estao en una farmacia venticuatro años en Marqués en…, en la calle Marqués de  a la calle… Julio, Julio_César. Calle_Julio_César, número dos. Al lao del Burger_King, ¿no habéis estao en Burger_King? 
+E1: Si es que nosotros somos de Madrid. 
+",La provincia a la que pertenecen los informadores es Huelva.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: Espera, se lo voy poniendo ahora. ¡Ale! 
+I1: Sentarse en la copa que hace fresco. 
+E1: Hoy está el día fresquito, sí.
+I1: Hoy está mejó , ayé
+E1: Ahí está.Así. 
+I1:  ¡Uy, la que me va a liá a mí este! ¿Ánde
+E1: T13 ¿Qué ha estado, toda la vida aquí? 
+I1: No. 
+E1: No.
+I1: Yo he estao aquíhasta que…, hasta que murieron mis padres, cuando murieron mis padres ya se partío la finca. Entonces yo ya me fui a Sevilla y he estao en una farmacia venticuatro años en Marqués en…, en la calle Marqués de  a la calle… Julio, Julio_César. Calle_Julio_César, número dos. Al lao del Burger_King, ¿no habéis estao en Burger_King? 
+E1: Si es que nosotros somos de Madrid. 
+",La provincia a la que pertenecen los informadores es Huelva.
+"Dime de qué lugar es el siguiente texto:  E1: Espera, se lo voy poniendo ahora. ¡Ale! 
+I1: Sentarse en la copa que hace fresco. 
+E1: Hoy está el día fresquito, sí.
+I1: Hoy está mejó , ayé
+E1: Ahí está.Así. 
+I1:  ¡Uy, la que me va a liá a mí este! ¿Ánde
+E1: T13 ¿Qué ha estado, toda la vida aquí? 
+I1: No. 
+E1: No.
+I1: Yo he estao aquíhasta que…, hasta que murieron mis padres, cuando murieron mis padres ya se partío la finca. Entonces yo ya me fui a Sevilla y he estao en una farmacia venticuatro años en Marqués en…, en la calle Marqués de  a la calle… Julio, Julio_César. Calle_Julio_César, número dos. Al lao del Burger_King, ¿no habéis estao en Burger_King? 
+E1: Si es que nosotros somos de Madrid. 
+",La provincia a la que pertenecen los informadores es Huelva.

@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: ¿Y esto pa , pa qué decís que es esto?
+E2: Para la universidad. 
+E1:  Nosotros trabajamos en la Universidad_Autónoma_de_Madrid y  en un proyecto que está recogiendo por toda España  cómo era la vida de antes, que en muchos sitios pues es que ya ni se trabaja el campo ya, en muchos sitios ni se mata… En fin,  entonces ya las costumbres han cambiado completamente y es para que no se pierda la memoria de cómo era la vida en…,  en…, en…, en los pueblos. 
+I2: que yo he colaborao con Manolo_Rincón, este que…, que hacía los pogramas
+E2:  ¡Ah!, ¿sí? 
+I2: De la cocina. 
+E2:  ¡Ah!, ¿sí? O sea que usted  sabe cocinar…  como se cocinaba aquí antes, es experta. 
+I2: Sí. Yo…, hombre, que yo colaboraba con é en la comida, colaboré con é
+E2: T2 ¿Y qué comida hizo?, ¿cuál…?, ¿qué comida presentó? 
+I2: Bueno, yo… presenté una vez la sopa, estas caseras, que es pa cuando no se tenían…, cuando no se tenía mucho dinero, ¿sabes?, . se hacían las sopas, y también quería sabé unas tortillitas que también hacíamos más antiguas.
+E2: nos lo podría contar cómo se hacía esa sopa? 
+",La provincia a la que pertenecen los informadores es Sevilla.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: ¿Y esto pa , pa qué decís que es esto?
+E2: Para la universidad. 
+E1:  Nosotros trabajamos en la Universidad_Autónoma_de_Madrid y  en un proyecto que está recogiendo por toda España  cómo era la vida de antes, que en muchos sitios pues es que ya ni se trabaja el campo ya, en muchos sitios ni se mata… En fin,  entonces ya las costumbres han cambiado completamente y es para que no se pierda la memoria de cómo era la vida en…,  en…, en…, en los pueblos. 
+I2: que yo he colaborao con Manolo_Rincón, este que…, que hacía los pogramas
+E2:  ¡Ah!, ¿sí? 
+I2: De la cocina. 
+E2:  ¡Ah!, ¿sí? O sea que usted  sabe cocinar…  como se cocinaba aquí antes, es experta. 
+I2: Sí. Yo…, hombre, que yo colaboraba con é en la comida, colaboré con é
+E2: T2 ¿Y qué comida hizo?, ¿cuál…?, ¿qué comida presentó? 
+I2: Bueno, yo… presenté una vez la sopa, estas caseras, que es pa cuando no se tenían…, cuando no se tenía mucho dinero, ¿sabes?, . se hacían las sopas, y también quería sabé unas tortillitas que también hacíamos más antiguas.
+E2: nos lo podría contar cómo se hacía esa sopa? 
+",La provincia a la que pertenecen los informadores es Sevilla.
+"Dime la provincia del siguiente texto: I1: ¿Y esto pa , pa qué decís que es esto?
+E2: Para la universidad. 
+E1:  Nosotros trabajamos en la Universidad_Autónoma_de_Madrid y  en un proyecto que está recogiendo por toda España  cómo era la vida de antes, que en muchos sitios pues es que ya ni se trabaja el campo ya, en muchos sitios ni se mata… En fin,  entonces ya las costumbres han cambiado completamente y es para que no se pierda la memoria de cómo era la vida en…,  en…, en…, en los pueblos. 
+I2: que yo he colaborao con Manolo_Rincón, este que…, que hacía los pogramas
+E2:  ¡Ah!, ¿sí? 
+I2: De la cocina. 
+E2:  ¡Ah!, ¿sí? O sea que usted  sabe cocinar…  como se cocinaba aquí antes, es experta. 
+I2: Sí. Yo…, hombre, que yo colaboraba con é en la comida, colaboré con é
+E2: T2 ¿Y qué comida hizo?, ¿cuál…?, ¿qué comida presentó? 
+I2: Bueno, yo… presenté una vez la sopa, estas caseras, que es pa cuando no se tenían…, cuando no se tenía mucho dinero, ¿sabes?, . se hacían las sopas, y también quería sabé unas tortillitas que también hacíamos más antiguas.
+E2: nos lo podría contar cómo se hacía esa sopa? 
+",La provincia a la que pertenecen los informadores es Sevilla.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: ¿Y esto pa , pa qué decís que es esto?
+E2: Para la universidad. 
+E1:  Nosotros trabajamos en la Universidad_Autónoma_de_Madrid y  en un proyecto que está recogiendo por toda España  cómo era la vida de antes, que en muchos sitios pues es que ya ni se trabaja el campo ya, en muchos sitios ni se mata… En fin,  entonces ya las costumbres han cambiado completamente y es para que no se pierda la memoria de cómo era la vida en…,  en…, en…, en los pueblos. 
+I2: que yo he colaborao con Manolo_Rincón, este que…, que hacía los pogramas
+E2:  ¡Ah!, ¿sí? 
+I2: De la cocina. 
+E2:  ¡Ah!, ¿sí? O sea que usted  sabe cocinar…  como se cocinaba aquí antes, es experta. 
+I2: Sí. Yo…, hombre, que yo colaboraba con é en la comida, colaboré con é
+E2: T2 ¿Y qué comida hizo?, ¿cuál…?, ¿qué comida presentó? 
+I2: Bueno, yo… presenté una vez la sopa, estas caseras, que es pa cuando no se tenían…, cuando no se tenía mucho dinero, ¿sabes?, . se hacían las sopas, y también quería sabé unas tortillitas que también hacíamos más antiguas.
+E2: nos lo podría contar cómo se hacía esa sopa? 
+",La provincia a la que pertenecen los informadores es Sevilla.
+"Dime de qué lugar es el siguiente texto:  I1: ¿Y esto pa , pa qué decís que es esto?
+E2: Para la universidad. 
+E1:  Nosotros trabajamos en la Universidad_Autónoma_de_Madrid y  en un proyecto que está recogiendo por toda España  cómo era la vida de antes, que en muchos sitios pues es que ya ni se trabaja el campo ya, en muchos sitios ni se mata… En fin,  entonces ya las costumbres han cambiado completamente y es para que no se pierda la memoria de cómo era la vida en…,  en…, en…, en los pueblos. 
+I2: que yo he colaborao con Manolo_Rincón, este que…, que hacía los pogramas
+E2:  ¡Ah!, ¿sí? 
+I2: De la cocina. 
+E2:  ¡Ah!, ¿sí? O sea que usted  sabe cocinar…  como se cocinaba aquí antes, es experta. 
+I2: Sí. Yo…, hombre, que yo colaboraba con é en la comida, colaboré con é
+E2: T2 ¿Y qué comida hizo?, ¿cuál…?, ¿qué comida presentó? 
+I2: Bueno, yo… presenté una vez la sopa, estas caseras, que es pa cuando no se tenían…, cuando no se tenía mucho dinero, ¿sabes?, . se hacían las sopas, y también quería sabé unas tortillitas que también hacíamos más antiguas.
+E2: nos lo podría contar cómo se hacía esa sopa? 
+",La provincia a la que pertenecen los informadores es Sevilla.

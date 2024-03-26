@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: ¿Y va a coger con esto todo lo que diga yo?  
+E1: Sí, porque si no, no nos da tiempo.  
+I1: Igual digo algún disparate. 
+E2: Da igual, no se preocupe.  Puede que también preguntemos algún disparate, todo es posible. 
+I1: No, porque mira, yo, según con quién… venga a estar, si es un pueblo rico, pues hablo como es; si es uno de estos de alta alcurnia, pues también sé hablar con él, eh. ¿Entiende?  
+E2: ¿Cómo se llama usted? 
+I1: ¿Yo? Me llaman to la vida Anonimizado, pero soy Anonimizado.
+E2: T1 Venga. Pues qué le parece si, si hablamos de la matanza del cerdo. Usted la, la, ¿conoce la matanza? 
+I1: Sí, por Dios, de toda la vida, lo que pasa es que ahora, pues como han cam-, como han cambiao todas las cosas… Antes, nosotros mismos, todavía matamos, dos y tres cerdos, eh, al año. Ahora, en este tiempo, y empezando en noviembre. Y luego, dos hijos que tengo de Anonimizado, también casaos
+E2: Muy bien. 
+I1: Porque a algunos les gusta comer el tocino entre venas más que la magra. A mí misma me gusta más. 
+",La provincia a la que pertenecen los informadores es Navarra.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: ¿Y va a coger con esto todo lo que diga yo?  
+E1: Sí, porque si no, no nos da tiempo.  
+I1: Igual digo algún disparate. 
+E2: Da igual, no se preocupe.  Puede que también preguntemos algún disparate, todo es posible. 
+I1: No, porque mira, yo, según con quién… venga a estar, si es un pueblo rico, pues hablo como es; si es uno de estos de alta alcurnia, pues también sé hablar con él, eh. ¿Entiende?  
+E2: ¿Cómo se llama usted? 
+I1: ¿Yo? Me llaman to la vida Anonimizado, pero soy Anonimizado.
+E2: T1 Venga. Pues qué le parece si, si hablamos de la matanza del cerdo. Usted la, la, ¿conoce la matanza? 
+I1: Sí, por Dios, de toda la vida, lo que pasa es que ahora, pues como han cam-, como han cambiao todas las cosas… Antes, nosotros mismos, todavía matamos, dos y tres cerdos, eh, al año. Ahora, en este tiempo, y empezando en noviembre. Y luego, dos hijos que tengo de Anonimizado, también casaos
+E2: Muy bien. 
+I1: Porque a algunos les gusta comer el tocino entre venas más que la magra. A mí misma me gusta más. 
+",La provincia a la que pertenecen los informadores es Navarra.
+"Dime la provincia del siguiente texto: I1: ¿Y va a coger con esto todo lo que diga yo?  
+E1: Sí, porque si no, no nos da tiempo.  
+I1: Igual digo algún disparate. 
+E2: Da igual, no se preocupe.  Puede que también preguntemos algún disparate, todo es posible. 
+I1: No, porque mira, yo, según con quién… venga a estar, si es un pueblo rico, pues hablo como es; si es uno de estos de alta alcurnia, pues también sé hablar con él, eh. ¿Entiende?  
+E2: ¿Cómo se llama usted? 
+I1: ¿Yo? Me llaman to la vida Anonimizado, pero soy Anonimizado.
+E2: T1 Venga. Pues qué le parece si, si hablamos de la matanza del cerdo. Usted la, la, ¿conoce la matanza? 
+I1: Sí, por Dios, de toda la vida, lo que pasa es que ahora, pues como han cam-, como han cambiao todas las cosas… Antes, nosotros mismos, todavía matamos, dos y tres cerdos, eh, al año. Ahora, en este tiempo, y empezando en noviembre. Y luego, dos hijos que tengo de Anonimizado, también casaos
+E2: Muy bien. 
+I1: Porque a algunos les gusta comer el tocino entre venas más que la magra. A mí misma me gusta más. 
+",La provincia a la que pertenecen los informadores es Navarra.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: ¿Y va a coger con esto todo lo que diga yo?  
+E1: Sí, porque si no, no nos da tiempo.  
+I1: Igual digo algún disparate. 
+E2: Da igual, no se preocupe.  Puede que también preguntemos algún disparate, todo es posible. 
+I1: No, porque mira, yo, según con quién… venga a estar, si es un pueblo rico, pues hablo como es; si es uno de estos de alta alcurnia, pues también sé hablar con él, eh. ¿Entiende?  
+E2: ¿Cómo se llama usted? 
+I1: ¿Yo? Me llaman to la vida Anonimizado, pero soy Anonimizado.
+E2: T1 Venga. Pues qué le parece si, si hablamos de la matanza del cerdo. Usted la, la, ¿conoce la matanza? 
+I1: Sí, por Dios, de toda la vida, lo que pasa es que ahora, pues como han cam-, como han cambiao todas las cosas… Antes, nosotros mismos, todavía matamos, dos y tres cerdos, eh, al año. Ahora, en este tiempo, y empezando en noviembre. Y luego, dos hijos que tengo de Anonimizado, también casaos
+E2: Muy bien. 
+I1: Porque a algunos les gusta comer el tocino entre venas más que la magra. A mí misma me gusta más. 
+",La provincia a la que pertenecen los informadores es Navarra.
+"Dime de qué lugar es el siguiente texto:  I1: ¿Y va a coger con esto todo lo que diga yo?  
+E1: Sí, porque si no, no nos da tiempo.  
+I1: Igual digo algún disparate. 
+E2: Da igual, no se preocupe.  Puede que también preguntemos algún disparate, todo es posible. 
+I1: No, porque mira, yo, según con quién… venga a estar, si es un pueblo rico, pues hablo como es; si es uno de estos de alta alcurnia, pues también sé hablar con él, eh. ¿Entiende?  
+E2: ¿Cómo se llama usted? 
+I1: ¿Yo? Me llaman to la vida Anonimizado, pero soy Anonimizado.
+E2: T1 Venga. Pues qué le parece si, si hablamos de la matanza del cerdo. Usted la, la, ¿conoce la matanza? 
+I1: Sí, por Dios, de toda la vida, lo que pasa es que ahora, pues como han cam-, como han cambiao todas las cosas… Antes, nosotros mismos, todavía matamos, dos y tres cerdos, eh, al año. Ahora, en este tiempo, y empezando en noviembre. Y luego, dos hijos que tengo de Anonimizado, también casaos
+E2: Muy bien. 
+I1: Porque a algunos les gusta comer el tocino entre venas más que la magra. A mí misma me gusta más. 
+",La provincia a la que pertenecen los informadores es Navarra.

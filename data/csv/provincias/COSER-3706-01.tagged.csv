@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1:  ¿Usted cómo se llama? 
+I:  I: Anonimizado. 
+E1: Anonimizado. 
+I:  I: ¿Pero no la importaría quitar el nombre? 
+E1: Ah, sí, sí, no se preocupe. No… cogemos el nombre para nada.  Muy bien. 
+E2: ¿Pero la edad le importa decirnos más o…? 
+I:  I: Setenta_y_dos años. 
+E1: Setenta_y_dos. 
+E2: No me lo puedo creer… 
+I:  I: Pues te lo puedes creer. 
+E2: Pues… parece usted mucho más joven. 
+",La provincia a la que pertenecen los informadores es Segovia.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1:  ¿Usted cómo se llama? 
+I:  I: Anonimizado. 
+E1: Anonimizado. 
+I:  I: ¿Pero no la importaría quitar el nombre? 
+E1: Ah, sí, sí, no se preocupe. No… cogemos el nombre para nada.  Muy bien. 
+E2: ¿Pero la edad le importa decirnos más o…? 
+I:  I: Setenta_y_dos años. 
+E1: Setenta_y_dos. 
+E2: No me lo puedo creer… 
+I:  I: Pues te lo puedes creer. 
+E2: Pues… parece usted mucho más joven. 
+",La provincia a la que pertenecen los informadores es Segovia.
+"Dime la provincia del siguiente texto: E1:  ¿Usted cómo se llama? 
+I:  I: Anonimizado. 
+E1: Anonimizado. 
+I:  I: ¿Pero no la importaría quitar el nombre? 
+E1: Ah, sí, sí, no se preocupe. No… cogemos el nombre para nada.  Muy bien. 
+E2: ¿Pero la edad le importa decirnos más o…? 
+I:  I: Setenta_y_dos años. 
+E1: Setenta_y_dos. 
+E2: No me lo puedo creer… 
+I:  I: Pues te lo puedes creer. 
+E2: Pues… parece usted mucho más joven. 
+",La provincia a la que pertenecen los informadores es Segovia.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1:  ¿Usted cómo se llama? 
+I:  I: Anonimizado. 
+E1: Anonimizado. 
+I:  I: ¿Pero no la importaría quitar el nombre? 
+E1: Ah, sí, sí, no se preocupe. No… cogemos el nombre para nada.  Muy bien. 
+E2: ¿Pero la edad le importa decirnos más o…? 
+I:  I: Setenta_y_dos años. 
+E1: Setenta_y_dos. 
+E2: No me lo puedo creer… 
+I:  I: Pues te lo puedes creer. 
+E2: Pues… parece usted mucho más joven. 
+",La provincia a la que pertenecen los informadores es Segovia.
+"Dime de qué lugar es el siguiente texto:  E1:  ¿Usted cómo se llama? 
+I:  I: Anonimizado. 
+E1: Anonimizado. 
+I:  I: ¿Pero no la importaría quitar el nombre? 
+E1: Ah, sí, sí, no se preocupe. No… cogemos el nombre para nada.  Muy bien. 
+E2: ¿Pero la edad le importa decirnos más o…? 
+I:  I: Setenta_y_dos años. 
+E1: Setenta_y_dos. 
+E2: No me lo puedo creer… 
+I:  I: Pues te lo puedes creer. 
+E2: Pues… parece usted mucho más joven. 
+",La provincia a la que pertenecen los informadores es Segovia.

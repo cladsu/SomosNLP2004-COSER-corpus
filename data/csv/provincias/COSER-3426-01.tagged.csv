@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T1 Por ejemplo…¿Cómo era una matanza antes? 
+I:  I: Pues hombre, antes las matanzas, se criaba el cerdo en casa. 
+E1: . 
+I:  I: Se criaba el cerdo en casa, se cogíanpues en…mayo o junio se cogían y se mataban, pues en diciembre. 
+E1: . 
+I:  I: Entonces se mataban. Y entonces la familia se quería, la familia se quería antes, ahora no. 
+E1: . 
+I:  I: Antes, el día que se casa-, se mataba el cochino, . como que se casaba un… 
+E1: Uno. 
+I:  I: Venían los hermanos, ¿verdá ? pues a cenar juntos. . Se mataba el cochino, se cenaba juntos todos. Se hacía el mondongo, . se hacían las morcillas y…, Rndo:y un día, un día como de boda…
+E1: . 
+",La provincia a la que pertenecen los informadores es Palencia.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T1 Por ejemplo…¿Cómo era una matanza antes? 
+I:  I: Pues hombre, antes las matanzas, se criaba el cerdo en casa. 
+E1: . 
+I:  I: Se criaba el cerdo en casa, se cogíanpues en…mayo o junio se cogían y se mataban, pues en diciembre. 
+E1: . 
+I:  I: Entonces se mataban. Y entonces la familia se quería, la familia se quería antes, ahora no. 
+E1: . 
+I:  I: Antes, el día que se casa-, se mataba el cochino, . como que se casaba un… 
+E1: Uno. 
+I:  I: Venían los hermanos, ¿verdá ? pues a cenar juntos. . Se mataba el cochino, se cenaba juntos todos. Se hacía el mondongo, . se hacían las morcillas y…, Rndo:y un día, un día como de boda…
+E1: . 
+",La provincia a la que pertenecen los informadores es Palencia.
+"Dime la provincia del siguiente texto: E1: T1 Por ejemplo…¿Cómo era una matanza antes? 
+I:  I: Pues hombre, antes las matanzas, se criaba el cerdo en casa. 
+E1: . 
+I:  I: Se criaba el cerdo en casa, se cogíanpues en…mayo o junio se cogían y se mataban, pues en diciembre. 
+E1: . 
+I:  I: Entonces se mataban. Y entonces la familia se quería, la familia se quería antes, ahora no. 
+E1: . 
+I:  I: Antes, el día que se casa-, se mataba el cochino, . como que se casaba un… 
+E1: Uno. 
+I:  I: Venían los hermanos, ¿verdá ? pues a cenar juntos. . Se mataba el cochino, se cenaba juntos todos. Se hacía el mondongo, . se hacían las morcillas y…, Rndo:y un día, un día como de boda…
+E1: . 
+",La provincia a la que pertenecen los informadores es Palencia.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T1 Por ejemplo…¿Cómo era una matanza antes? 
+I:  I: Pues hombre, antes las matanzas, se criaba el cerdo en casa. 
+E1: . 
+I:  I: Se criaba el cerdo en casa, se cogíanpues en…mayo o junio se cogían y se mataban, pues en diciembre. 
+E1: . 
+I:  I: Entonces se mataban. Y entonces la familia se quería, la familia se quería antes, ahora no. 
+E1: . 
+I:  I: Antes, el día que se casa-, se mataba el cochino, . como que se casaba un… 
+E1: Uno. 
+I:  I: Venían los hermanos, ¿verdá ? pues a cenar juntos. . Se mataba el cochino, se cenaba juntos todos. Se hacía el mondongo, . se hacían las morcillas y…, Rndo:y un día, un día como de boda…
+E1: . 
+",La provincia a la que pertenecen los informadores es Palencia.
+"Dime de qué lugar es el siguiente texto:  E1: T1 Por ejemplo…¿Cómo era una matanza antes? 
+I:  I: Pues hombre, antes las matanzas, se criaba el cerdo en casa. 
+E1: . 
+I:  I: Se criaba el cerdo en casa, se cogíanpues en…mayo o junio se cogían y se mataban, pues en diciembre. 
+E1: . 
+I:  I: Entonces se mataban. Y entonces la familia se quería, la familia se quería antes, ahora no. 
+E1: . 
+I:  I: Antes, el día que se casa-, se mataba el cochino, . como que se casaba un… 
+E1: Uno. 
+I:  I: Venían los hermanos, ¿verdá ? pues a cenar juntos. . Se mataba el cochino, se cenaba juntos todos. Se hacía el mondongo, . se hacían las morcillas y…, Rndo:y un día, un día como de boda…
+E1: . 
+",La provincia a la que pertenecen los informadores es Palencia.

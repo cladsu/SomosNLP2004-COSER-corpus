@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: T6  Pues, nosotros aquí trabajando toda la vida; aquí, q-, los campos como negros, pero de jóvenes, eh… Y, y después lo dejamos, pero dejamos aún llevamos campos. Tenemos tractores y eso. Y esto RESPIR, ¿aquí ves qué he hecho,  con el olivo? 
+E1: Ahá, muy bien, le la hecho un… para…  
+I1: una jardinera. 
+E1: Como una jardinera para el olivo. . Está precioso. 
+I1: Ese tenía un montón de olivas. Aún tiene arriba; aquí bajo ya las han cogido.
+E1: Pero están ya muy a punto, porque ahora se hace la, la cosecha dentro de poco, ¿no? 
+I1: Sí, sí. Cogemos mil, mil_ochocientos kilos al año. 
+E1:  ¡Qué barbaridad! 
+I1: Tenemos de estas cincuenta; aquí en la carretera del pueblo. 
+E1: Oliveras.  
+I1: Oliveras, sí.  
+",La provincia a la que pertenecen los informadores es Barcelona.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: T6  Pues, nosotros aquí trabajando toda la vida; aquí, q-, los campos como negros, pero de jóvenes, eh… Y, y después lo dejamos, pero dejamos aún llevamos campos. Tenemos tractores y eso. Y esto RESPIR, ¿aquí ves qué he hecho,  con el olivo? 
+E1: Ahá, muy bien, le la hecho un… para…  
+I1: una jardinera. 
+E1: Como una jardinera para el olivo. . Está precioso. 
+I1: Ese tenía un montón de olivas. Aún tiene arriba; aquí bajo ya las han cogido.
+E1: Pero están ya muy a punto, porque ahora se hace la, la cosecha dentro de poco, ¿no? 
+I1: Sí, sí. Cogemos mil, mil_ochocientos kilos al año. 
+E1:  ¡Qué barbaridad! 
+I1: Tenemos de estas cincuenta; aquí en la carretera del pueblo. 
+E1: Oliveras.  
+I1: Oliveras, sí.  
+",La provincia a la que pertenecen los informadores es Barcelona.
+"Dime la provincia del siguiente texto: I1: T6  Pues, nosotros aquí trabajando toda la vida; aquí, q-, los campos como negros, pero de jóvenes, eh… Y, y después lo dejamos, pero dejamos aún llevamos campos. Tenemos tractores y eso. Y esto RESPIR, ¿aquí ves qué he hecho,  con el olivo? 
+E1: Ahá, muy bien, le la hecho un… para…  
+I1: una jardinera. 
+E1: Como una jardinera para el olivo. . Está precioso. 
+I1: Ese tenía un montón de olivas. Aún tiene arriba; aquí bajo ya las han cogido.
+E1: Pero están ya muy a punto, porque ahora se hace la, la cosecha dentro de poco, ¿no? 
+I1: Sí, sí. Cogemos mil, mil_ochocientos kilos al año. 
+E1:  ¡Qué barbaridad! 
+I1: Tenemos de estas cincuenta; aquí en la carretera del pueblo. 
+E1: Oliveras.  
+I1: Oliveras, sí.  
+",La provincia a la que pertenecen los informadores es Barcelona.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: T6  Pues, nosotros aquí trabajando toda la vida; aquí, q-, los campos como negros, pero de jóvenes, eh… Y, y después lo dejamos, pero dejamos aún llevamos campos. Tenemos tractores y eso. Y esto RESPIR, ¿aquí ves qué he hecho,  con el olivo? 
+E1: Ahá, muy bien, le la hecho un… para…  
+I1: una jardinera. 
+E1: Como una jardinera para el olivo. . Está precioso. 
+I1: Ese tenía un montón de olivas. Aún tiene arriba; aquí bajo ya las han cogido.
+E1: Pero están ya muy a punto, porque ahora se hace la, la cosecha dentro de poco, ¿no? 
+I1: Sí, sí. Cogemos mil, mil_ochocientos kilos al año. 
+E1:  ¡Qué barbaridad! 
+I1: Tenemos de estas cincuenta; aquí en la carretera del pueblo. 
+E1: Oliveras.  
+I1: Oliveras, sí.  
+",La provincia a la que pertenecen los informadores es Barcelona.
+"Dime de qué lugar es el siguiente texto:  I1: T6  Pues, nosotros aquí trabajando toda la vida; aquí, q-, los campos como negros, pero de jóvenes, eh… Y, y después lo dejamos, pero dejamos aún llevamos campos. Tenemos tractores y eso. Y esto RESPIR, ¿aquí ves qué he hecho,  con el olivo? 
+E1: Ahá, muy bien, le la hecho un… para…  
+I1: una jardinera. 
+E1: Como una jardinera para el olivo. . Está precioso. 
+I1: Ese tenía un montón de olivas. Aún tiene arriba; aquí bajo ya las han cogido.
+E1: Pero están ya muy a punto, porque ahora se hace la, la cosecha dentro de poco, ¿no? 
+I1: Sí, sí. Cogemos mil, mil_ochocientos kilos al año. 
+E1:  ¡Qué barbaridad! 
+I1: Tenemos de estas cincuenta; aquí en la carretera del pueblo. 
+E1: Oliveras.  
+I1: Oliveras, sí.  
+",La provincia a la que pertenecen los informadores es Barcelona.

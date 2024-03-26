@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: Es que hay gente por ahí en el pueblo que os puede  de decir eso mejor que yo. 
+E1: V-Sml Vale,  no se preocupe. 
+E2: No tiene por qué contar todo. Si seguro que sabe muchísimo. 
+I1:  ¡Es que no me acuerdo de muchas cosas!  
+E3: Bueno, seguro que a lo mejor cuando… le estemos preguntando se va acordando poco a poco de las cosas. 
+I1: A ver qué queréis que os diga. 
+E1:  ¡Venga! 
+I1: De la matanza. 
+E1: Vale, lo primero,  el pueblo ¿cómo se llama? 
+I1: Liber. 
+E1: Liber.  Perfecto. Vale, y ahora solo… 
+",La provincia a la que pertenecen los informadores es Lugo.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: Es que hay gente por ahí en el pueblo que os puede  de decir eso mejor que yo. 
+E1: V-Sml Vale,  no se preocupe. 
+E2: No tiene por qué contar todo. Si seguro que sabe muchísimo. 
+I1:  ¡Es que no me acuerdo de muchas cosas!  
+E3: Bueno, seguro que a lo mejor cuando… le estemos preguntando se va acordando poco a poco de las cosas. 
+I1: A ver qué queréis que os diga. 
+E1:  ¡Venga! 
+I1: De la matanza. 
+E1: Vale, lo primero,  el pueblo ¿cómo se llama? 
+I1: Liber. 
+E1: Liber.  Perfecto. Vale, y ahora solo… 
+",La provincia a la que pertenecen los informadores es Lugo.
+"Dime la provincia del siguiente texto: I1: Es que hay gente por ahí en el pueblo que os puede  de decir eso mejor que yo. 
+E1: V-Sml Vale,  no se preocupe. 
+E2: No tiene por qué contar todo. Si seguro que sabe muchísimo. 
+I1:  ¡Es que no me acuerdo de muchas cosas!  
+E3: Bueno, seguro que a lo mejor cuando… le estemos preguntando se va acordando poco a poco de las cosas. 
+I1: A ver qué queréis que os diga. 
+E1:  ¡Venga! 
+I1: De la matanza. 
+E1: Vale, lo primero,  el pueblo ¿cómo se llama? 
+I1: Liber. 
+E1: Liber.  Perfecto. Vale, y ahora solo… 
+",La provincia a la que pertenecen los informadores es Lugo.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: Es que hay gente por ahí en el pueblo que os puede  de decir eso mejor que yo. 
+E1: V-Sml Vale,  no se preocupe. 
+E2: No tiene por qué contar todo. Si seguro que sabe muchísimo. 
+I1:  ¡Es que no me acuerdo de muchas cosas!  
+E3: Bueno, seguro que a lo mejor cuando… le estemos preguntando se va acordando poco a poco de las cosas. 
+I1: A ver qué queréis que os diga. 
+E1:  ¡Venga! 
+I1: De la matanza. 
+E1: Vale, lo primero,  el pueblo ¿cómo se llama? 
+I1: Liber. 
+E1: Liber.  Perfecto. Vale, y ahora solo… 
+",La provincia a la que pertenecen los informadores es Lugo.
+"Dime de qué lugar es el siguiente texto:  I1: Es que hay gente por ahí en el pueblo que os puede  de decir eso mejor que yo. 
+E1: V-Sml Vale,  no se preocupe. 
+E2: No tiene por qué contar todo. Si seguro que sabe muchísimo. 
+I1:  ¡Es que no me acuerdo de muchas cosas!  
+E3: Bueno, seguro que a lo mejor cuando… le estemos preguntando se va acordando poco a poco de las cosas. 
+I1: A ver qué queréis que os diga. 
+E1:  ¡Venga! 
+I1: De la matanza. 
+E1: Vale, lo primero,  el pueblo ¿cómo se llama? 
+I1: Liber. 
+E1: Liber.  Perfecto. Vale, y ahora solo… 
+",La provincia a la que pertenecen los informadores es Lugo.

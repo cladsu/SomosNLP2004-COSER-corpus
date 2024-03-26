@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I:  I: La remolacha, que aquello era mu agrio, mu
+E2:  si quieres.  
+E1: ¿Sí? 
+E2: Sí, sí. 
+E1: Bueno, pues nos, nos sentamos aquí. Diego, siéntate, no también… 
+E3: Sí, me siento encima… 
+E1: No, mejor, es-, espérate.  Pon, ponte aquí si quieres, me siento yo en el suelo,  como tú quieras. 
+E3: Tú haces las preguntas. 
+E1: No, no, no, si lo digo porque también estés tú cerca  tú siéntate y la… y le hagas preguntas también tú, ¿eh? Que no, que no, que lo  digo porque . 
+E4: ¿Dónde tenéis la hoja? 
+E1:  Aquí hay una hoja. Pues mira, la ves tú conmigo… ¿Tienes tu hoja también? 
+",La provincia a la que pertenecen los informadores es Zaragoza.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I:  I: La remolacha, que aquello era mu agrio, mu
+E2:  si quieres.  
+E1: ¿Sí? 
+E2: Sí, sí. 
+E1: Bueno, pues nos, nos sentamos aquí. Diego, siéntate, no también… 
+E3: Sí, me siento encima… 
+E1: No, mejor, es-, espérate.  Pon, ponte aquí si quieres, me siento yo en el suelo,  como tú quieras. 
+E3: Tú haces las preguntas. 
+E1: No, no, no, si lo digo porque también estés tú cerca  tú siéntate y la… y le hagas preguntas también tú, ¿eh? Que no, que no, que lo  digo porque . 
+E4: ¿Dónde tenéis la hoja? 
+E1:  Aquí hay una hoja. Pues mira, la ves tú conmigo… ¿Tienes tu hoja también? 
+",La provincia a la que pertenecen los informadores es Zaragoza.
+"Dime la provincia del siguiente texto: I:  I: La remolacha, que aquello era mu agrio, mu
+E2:  si quieres.  
+E1: ¿Sí? 
+E2: Sí, sí. 
+E1: Bueno, pues nos, nos sentamos aquí. Diego, siéntate, no también… 
+E3: Sí, me siento encima… 
+E1: No, mejor, es-, espérate.  Pon, ponte aquí si quieres, me siento yo en el suelo,  como tú quieras. 
+E3: Tú haces las preguntas. 
+E1: No, no, no, si lo digo porque también estés tú cerca  tú siéntate y la… y le hagas preguntas también tú, ¿eh? Que no, que no, que lo  digo porque . 
+E4: ¿Dónde tenéis la hoja? 
+E1:  Aquí hay una hoja. Pues mira, la ves tú conmigo… ¿Tienes tu hoja también? 
+",La provincia a la que pertenecen los informadores es Zaragoza.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I:  I: La remolacha, que aquello era mu agrio, mu
+E2:  si quieres.  
+E1: ¿Sí? 
+E2: Sí, sí. 
+E1: Bueno, pues nos, nos sentamos aquí. Diego, siéntate, no también… 
+E3: Sí, me siento encima… 
+E1: No, mejor, es-, espérate.  Pon, ponte aquí si quieres, me siento yo en el suelo,  como tú quieras. 
+E3: Tú haces las preguntas. 
+E1: No, no, no, si lo digo porque también estés tú cerca  tú siéntate y la… y le hagas preguntas también tú, ¿eh? Que no, que no, que lo  digo porque . 
+E4: ¿Dónde tenéis la hoja? 
+E1:  Aquí hay una hoja. Pues mira, la ves tú conmigo… ¿Tienes tu hoja también? 
+",La provincia a la que pertenecen los informadores es Zaragoza.
+"Dime de qué lugar es el siguiente texto:  I:  I: La remolacha, que aquello era mu agrio, mu
+E2:  si quieres.  
+E1: ¿Sí? 
+E2: Sí, sí. 
+E1: Bueno, pues nos, nos sentamos aquí. Diego, siéntate, no también… 
+E3: Sí, me siento encima… 
+E1: No, mejor, es-, espérate.  Pon, ponte aquí si quieres, me siento yo en el suelo,  como tú quieras. 
+E3: Tú haces las preguntas. 
+E1: No, no, no, si lo digo porque también estés tú cerca  tú siéntate y la… y le hagas preguntas también tú, ¿eh? Que no, que no, que lo  digo porque . 
+E4: ¿Dónde tenéis la hoja? 
+E1:  Aquí hay una hoja. Pues mira, la ves tú conmigo… ¿Tienes tu hoja también? 
+",La provincia a la que pertenecen los informadores es Zaragoza.

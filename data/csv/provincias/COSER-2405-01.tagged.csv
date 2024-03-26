@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: Me llamo Anonimizado. 
+E1: T1 Pues bien, queríamos preguntarle un poco… ¿Usted ha hecho matanza… alguna vez? 
+I1: Sí, aún las tengo haciendo. A los…, to los años matamos dos cerdos, para casa. Claro.
+E1: ¿Y cómo se hace la matanza? 
+I1: Hombre, la matanza… aquí es lo típico. Se coge al cerdo, se agarra, se le clava un cuchillo y se muere. Se desangra, se cuelga, se le limpia con agua hervida, le quitas las… llamamos nosotros las cerdas, el pelo, y después les cuelgas hasta el otro día. Al otro día se trocea, y eso es como se hace la matanza aquí. 
+E1: Y luego, ¿qué, qué hacen con ese cerdo? 
+I1: Eso según, bueno, hoy en día, a lo mejor va pa'l congelador parte de él, pero se sala, porque lo, lo, mío es el invierno.  Porque es cuando hay que salar porque, si salas en verano… pues te pierde, porque hay mosca y lo pica y…  Salamos un, los matamos en diciembre, por ejemplo, o enero, cuando hace frío, no hay mosca. Y eso es lo que se hace. 
+E1: Me han dicho que la mosca da problemas, ¿no?  Que puede crear nidos dentro. 
+I1: Pica y después salen las larvas, como pasa cualquier insecto que pega L-Otra:nunha cousa morta. Claro, un, una, una, una cosa muerta y pues… Es lo que se hace. 
+E1: ¿Y luego hacen morcilla, por ejemplo, con el cerdo? 
+I1: Chorizo. Y los jamones se salan. 
+",La provincia a la que pertenecen los informadores es La Coruña.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: Me llamo Anonimizado. 
+E1: T1 Pues bien, queríamos preguntarle un poco… ¿Usted ha hecho matanza… alguna vez? 
+I1: Sí, aún las tengo haciendo. A los…, to los años matamos dos cerdos, para casa. Claro.
+E1: ¿Y cómo se hace la matanza? 
+I1: Hombre, la matanza… aquí es lo típico. Se coge al cerdo, se agarra, se le clava un cuchillo y se muere. Se desangra, se cuelga, se le limpia con agua hervida, le quitas las… llamamos nosotros las cerdas, el pelo, y después les cuelgas hasta el otro día. Al otro día se trocea, y eso es como se hace la matanza aquí. 
+E1: Y luego, ¿qué, qué hacen con ese cerdo? 
+I1: Eso según, bueno, hoy en día, a lo mejor va pa'l congelador parte de él, pero se sala, porque lo, lo, mío es el invierno.  Porque es cuando hay que salar porque, si salas en verano… pues te pierde, porque hay mosca y lo pica y…  Salamos un, los matamos en diciembre, por ejemplo, o enero, cuando hace frío, no hay mosca. Y eso es lo que se hace. 
+E1: Me han dicho que la mosca da problemas, ¿no?  Que puede crear nidos dentro. 
+I1: Pica y después salen las larvas, como pasa cualquier insecto que pega L-Otra:nunha cousa morta. Claro, un, una, una, una cosa muerta y pues… Es lo que se hace. 
+E1: ¿Y luego hacen morcilla, por ejemplo, con el cerdo? 
+I1: Chorizo. Y los jamones se salan. 
+",La provincia a la que pertenecen los informadores es La Coruña.
+"Dime la provincia del siguiente texto: I1: Me llamo Anonimizado. 
+E1: T1 Pues bien, queríamos preguntarle un poco… ¿Usted ha hecho matanza… alguna vez? 
+I1: Sí, aún las tengo haciendo. A los…, to los años matamos dos cerdos, para casa. Claro.
+E1: ¿Y cómo se hace la matanza? 
+I1: Hombre, la matanza… aquí es lo típico. Se coge al cerdo, se agarra, se le clava un cuchillo y se muere. Se desangra, se cuelga, se le limpia con agua hervida, le quitas las… llamamos nosotros las cerdas, el pelo, y después les cuelgas hasta el otro día. Al otro día se trocea, y eso es como se hace la matanza aquí. 
+E1: Y luego, ¿qué, qué hacen con ese cerdo? 
+I1: Eso según, bueno, hoy en día, a lo mejor va pa'l congelador parte de él, pero se sala, porque lo, lo, mío es el invierno.  Porque es cuando hay que salar porque, si salas en verano… pues te pierde, porque hay mosca y lo pica y…  Salamos un, los matamos en diciembre, por ejemplo, o enero, cuando hace frío, no hay mosca. Y eso es lo que se hace. 
+E1: Me han dicho que la mosca da problemas, ¿no?  Que puede crear nidos dentro. 
+I1: Pica y después salen las larvas, como pasa cualquier insecto que pega L-Otra:nunha cousa morta. Claro, un, una, una, una cosa muerta y pues… Es lo que se hace. 
+E1: ¿Y luego hacen morcilla, por ejemplo, con el cerdo? 
+I1: Chorizo. Y los jamones se salan. 
+",La provincia a la que pertenecen los informadores es La Coruña.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: Me llamo Anonimizado. 
+E1: T1 Pues bien, queríamos preguntarle un poco… ¿Usted ha hecho matanza… alguna vez? 
+I1: Sí, aún las tengo haciendo. A los…, to los años matamos dos cerdos, para casa. Claro.
+E1: ¿Y cómo se hace la matanza? 
+I1: Hombre, la matanza… aquí es lo típico. Se coge al cerdo, se agarra, se le clava un cuchillo y se muere. Se desangra, se cuelga, se le limpia con agua hervida, le quitas las… llamamos nosotros las cerdas, el pelo, y después les cuelgas hasta el otro día. Al otro día se trocea, y eso es como se hace la matanza aquí. 
+E1: Y luego, ¿qué, qué hacen con ese cerdo? 
+I1: Eso según, bueno, hoy en día, a lo mejor va pa'l congelador parte de él, pero se sala, porque lo, lo, mío es el invierno.  Porque es cuando hay que salar porque, si salas en verano… pues te pierde, porque hay mosca y lo pica y…  Salamos un, los matamos en diciembre, por ejemplo, o enero, cuando hace frío, no hay mosca. Y eso es lo que se hace. 
+E1: Me han dicho que la mosca da problemas, ¿no?  Que puede crear nidos dentro. 
+I1: Pica y después salen las larvas, como pasa cualquier insecto que pega L-Otra:nunha cousa morta. Claro, un, una, una, una cosa muerta y pues… Es lo que se hace. 
+E1: ¿Y luego hacen morcilla, por ejemplo, con el cerdo? 
+I1: Chorizo. Y los jamones se salan. 
+",La provincia a la que pertenecen los informadores es La Coruña.
+"Dime de qué lugar es el siguiente texto:  I1: Me llamo Anonimizado. 
+E1: T1 Pues bien, queríamos preguntarle un poco… ¿Usted ha hecho matanza… alguna vez? 
+I1: Sí, aún las tengo haciendo. A los…, to los años matamos dos cerdos, para casa. Claro.
+E1: ¿Y cómo se hace la matanza? 
+I1: Hombre, la matanza… aquí es lo típico. Se coge al cerdo, se agarra, se le clava un cuchillo y se muere. Se desangra, se cuelga, se le limpia con agua hervida, le quitas las… llamamos nosotros las cerdas, el pelo, y después les cuelgas hasta el otro día. Al otro día se trocea, y eso es como se hace la matanza aquí. 
+E1: Y luego, ¿qué, qué hacen con ese cerdo? 
+I1: Eso según, bueno, hoy en día, a lo mejor va pa'l congelador parte de él, pero se sala, porque lo, lo, mío es el invierno.  Porque es cuando hay que salar porque, si salas en verano… pues te pierde, porque hay mosca y lo pica y…  Salamos un, los matamos en diciembre, por ejemplo, o enero, cuando hace frío, no hay mosca. Y eso es lo que se hace. 
+E1: Me han dicho que la mosca da problemas, ¿no?  Que puede crear nidos dentro. 
+I1: Pica y después salen las larvas, como pasa cualquier insecto que pega L-Otra:nunha cousa morta. Claro, un, una, una, una cosa muerta y pues… Es lo que se hace. 
+E1: ¿Y luego hacen morcilla, por ejemplo, con el cerdo? 
+I1: Chorizo. Y los jamones se salan. 
+",La provincia a la que pertenecen los informadores es La Coruña.

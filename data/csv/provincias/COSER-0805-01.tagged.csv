@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: Y ahora hablo como A-Nul. 
+E1: Bueno…  Tres preguntas. ¿Lo primero su nombre? 
+I1: Anonimizado i Grau. 
+E2: Solo el nombre.  
+E1:   Si puede ser castellano, mejor,  porque no somos de Cataluña . y venimos a estudiar, entonces no, no… entendemos, o sea, entendemos más o menos el catalán pero no…, pero no todo. 
+I1: Pero es que yo no sé muy bien el castellano.  
+E1: Bueno, lo que usted pueda, V-Sml no se preocupe.  Lo que usted pueda;  y si alguna palabra la dice en catalán, no hay ningún problema. 
+E2: En absoluto. 
+E1: Y si no es indiscreción, ¿más o menos su edad? 
+I1:  Domingo, el domingo día veintiuno, . hago ochenta_y_siete. 
+E1: Entonces está usted estupendamente para la edad que tiene. Perfecto.  
+",La provincia a la que pertenecen los informadores es Barcelona.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: Y ahora hablo como A-Nul. 
+E1: Bueno…  Tres preguntas. ¿Lo primero su nombre? 
+I1: Anonimizado i Grau. 
+E2: Solo el nombre.  
+E1:   Si puede ser castellano, mejor,  porque no somos de Cataluña . y venimos a estudiar, entonces no, no… entendemos, o sea, entendemos más o menos el catalán pero no…, pero no todo. 
+I1: Pero es que yo no sé muy bien el castellano.  
+E1: Bueno, lo que usted pueda, V-Sml no se preocupe.  Lo que usted pueda;  y si alguna palabra la dice en catalán, no hay ningún problema. 
+E2: En absoluto. 
+E1: Y si no es indiscreción, ¿más o menos su edad? 
+I1:  Domingo, el domingo día veintiuno, . hago ochenta_y_siete. 
+E1: Entonces está usted estupendamente para la edad que tiene. Perfecto.  
+",La provincia a la que pertenecen los informadores es Barcelona.
+"Dime la provincia del siguiente texto: I1: Y ahora hablo como A-Nul. 
+E1: Bueno…  Tres preguntas. ¿Lo primero su nombre? 
+I1: Anonimizado i Grau. 
+E2: Solo el nombre.  
+E1:   Si puede ser castellano, mejor,  porque no somos de Cataluña . y venimos a estudiar, entonces no, no… entendemos, o sea, entendemos más o menos el catalán pero no…, pero no todo. 
+I1: Pero es que yo no sé muy bien el castellano.  
+E1: Bueno, lo que usted pueda, V-Sml no se preocupe.  Lo que usted pueda;  y si alguna palabra la dice en catalán, no hay ningún problema. 
+E2: En absoluto. 
+E1: Y si no es indiscreción, ¿más o menos su edad? 
+I1:  Domingo, el domingo día veintiuno, . hago ochenta_y_siete. 
+E1: Entonces está usted estupendamente para la edad que tiene. Perfecto.  
+",La provincia a la que pertenecen los informadores es Barcelona.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: Y ahora hablo como A-Nul. 
+E1: Bueno…  Tres preguntas. ¿Lo primero su nombre? 
+I1: Anonimizado i Grau. 
+E2: Solo el nombre.  
+E1:   Si puede ser castellano, mejor,  porque no somos de Cataluña . y venimos a estudiar, entonces no, no… entendemos, o sea, entendemos más o menos el catalán pero no…, pero no todo. 
+I1: Pero es que yo no sé muy bien el castellano.  
+E1: Bueno, lo que usted pueda, V-Sml no se preocupe.  Lo que usted pueda;  y si alguna palabra la dice en catalán, no hay ningún problema. 
+E2: En absoluto. 
+E1: Y si no es indiscreción, ¿más o menos su edad? 
+I1:  Domingo, el domingo día veintiuno, . hago ochenta_y_siete. 
+E1: Entonces está usted estupendamente para la edad que tiene. Perfecto.  
+",La provincia a la que pertenecen los informadores es Barcelona.
+"Dime de qué lugar es el siguiente texto:  I1: Y ahora hablo como A-Nul. 
+E1: Bueno…  Tres preguntas. ¿Lo primero su nombre? 
+I1: Anonimizado i Grau. 
+E2: Solo el nombre.  
+E1:   Si puede ser castellano, mejor,  porque no somos de Cataluña . y venimos a estudiar, entonces no, no… entendemos, o sea, entendemos más o menos el catalán pero no…, pero no todo. 
+I1: Pero es que yo no sé muy bien el castellano.  
+E1: Bueno, lo que usted pueda, V-Sml no se preocupe.  Lo que usted pueda;  y si alguna palabra la dice en catalán, no hay ningún problema. 
+E2: En absoluto. 
+E1: Y si no es indiscreción, ¿más o menos su edad? 
+I1:  Domingo, el domingo día veintiuno, . hago ochenta_y_siete. 
+E1: Entonces está usted estupendamente para la edad que tiene. Perfecto.  
+",La provincia a la que pertenecen los informadores es Barcelona.

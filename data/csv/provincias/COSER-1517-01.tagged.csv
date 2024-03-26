@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T1 Pues queríamos que nos contara un poco sobre cosas como, por ejemplo la matanza.  ¿Usted ha hecho matanza? 
+I1: Yo he hecho muchas. 
+E1: ¿Sí?¿Y nos podría contar cómo se…, se hacía aquí la matanza?  
+I1: se… mataban, porque antiguamente se mataba en las casas, que no era en el matadero. Pero… ahora, últimamente, hace ya lo  más de treinta años, se mataba en el matadero. Se lleva un lebrillo, se pone el cochino en una mesa y debajo pones… el lebrillo. Vas moviendo la sangre, porque si no la mueves, se cuaja, ¿sabes? Vas moviendo la sangre, moviendo la sangre, y ya que la tienes bien movida, ya la echas o en un cubo nuevo pa traértela, porque el lebrillo es mu molesto, te lo traes y… llégala a tu casa. La noche de antes, has picao la cebolla pa la morcilla. Has picao la cebolla o…  Lo-, los forasteros de antiguamente de… Sagrillas, . le echaban arroz, pero eso no es… en la vida. Se echaba la cebolla, se le echa, sacabas sangre del cochino, seis cabezas de ajos gordas asás . Se le echa un, su… matalahúva, un poquito de comino, orégano y…, y la sangre se aliña mu bie
+E2: Claro. 
+I1: Si luego… metíamos en manteca los riñones y el corazón, pa patatas, que eso es pa otra cosa, ¿no? Pa guisá patatas, los riñones y el corazón, se freían mareaos bien y luego se echaban en una olla o según la cantidá que tuvieras, con manteca. Y el guiso de pies, que se llama, eran las cuatro patas, qu'ahora les dejan a los jamones casi toas las patas, pero antes se les cortaba. Se le echa… el guiso de pies, la… el cuajá
+E1: ¿Y las tripas cómo las preparaban? 
+I1: La tripa… lo primero es con agua templá , que no sea caliente, caliente, si no la pica. Agua templá
+E1: ¿Y cómo mataban al cochino? 
+I1: Al cochino pues lo… lo enganchabas de aquí con un gancho y lo arrastraban aonde estaba la mesa, y entre dos o tres ya le cogías las patas y lo echaban en lo alto la mesa. Y la cabeza al aire, para que saliera la sangre a… al lebrillo.
+E:  E: . 
+",La provincia a la que pertenecen los informadores es Córdoba.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T1 Pues queríamos que nos contara un poco sobre cosas como, por ejemplo la matanza.  ¿Usted ha hecho matanza? 
+I1: Yo he hecho muchas. 
+E1: ¿Sí?¿Y nos podría contar cómo se…, se hacía aquí la matanza?  
+I1: se… mataban, porque antiguamente se mataba en las casas, que no era en el matadero. Pero… ahora, últimamente, hace ya lo  más de treinta años, se mataba en el matadero. Se lleva un lebrillo, se pone el cochino en una mesa y debajo pones… el lebrillo. Vas moviendo la sangre, porque si no la mueves, se cuaja, ¿sabes? Vas moviendo la sangre, moviendo la sangre, y ya que la tienes bien movida, ya la echas o en un cubo nuevo pa traértela, porque el lebrillo es mu molesto, te lo traes y… llégala a tu casa. La noche de antes, has picao la cebolla pa la morcilla. Has picao la cebolla o…  Lo-, los forasteros de antiguamente de… Sagrillas, . le echaban arroz, pero eso no es… en la vida. Se echaba la cebolla, se le echa, sacabas sangre del cochino, seis cabezas de ajos gordas asás . Se le echa un, su… matalahúva, un poquito de comino, orégano y…, y la sangre se aliña mu bie
+E2: Claro. 
+I1: Si luego… metíamos en manteca los riñones y el corazón, pa patatas, que eso es pa otra cosa, ¿no? Pa guisá patatas, los riñones y el corazón, se freían mareaos bien y luego se echaban en una olla o según la cantidá que tuvieras, con manteca. Y el guiso de pies, que se llama, eran las cuatro patas, qu'ahora les dejan a los jamones casi toas las patas, pero antes se les cortaba. Se le echa… el guiso de pies, la… el cuajá
+E1: ¿Y las tripas cómo las preparaban? 
+I1: La tripa… lo primero es con agua templá , que no sea caliente, caliente, si no la pica. Agua templá
+E1: ¿Y cómo mataban al cochino? 
+I1: Al cochino pues lo… lo enganchabas de aquí con un gancho y lo arrastraban aonde estaba la mesa, y entre dos o tres ya le cogías las patas y lo echaban en lo alto la mesa. Y la cabeza al aire, para que saliera la sangre a… al lebrillo.
+E:  E: . 
+",La provincia a la que pertenecen los informadores es Córdoba.
+"Dime la provincia del siguiente texto: E1: T1 Pues queríamos que nos contara un poco sobre cosas como, por ejemplo la matanza.  ¿Usted ha hecho matanza? 
+I1: Yo he hecho muchas. 
+E1: ¿Sí?¿Y nos podría contar cómo se…, se hacía aquí la matanza?  
+I1: se… mataban, porque antiguamente se mataba en las casas, que no era en el matadero. Pero… ahora, últimamente, hace ya lo  más de treinta años, se mataba en el matadero. Se lleva un lebrillo, se pone el cochino en una mesa y debajo pones… el lebrillo. Vas moviendo la sangre, porque si no la mueves, se cuaja, ¿sabes? Vas moviendo la sangre, moviendo la sangre, y ya que la tienes bien movida, ya la echas o en un cubo nuevo pa traértela, porque el lebrillo es mu molesto, te lo traes y… llégala a tu casa. La noche de antes, has picao la cebolla pa la morcilla. Has picao la cebolla o…  Lo-, los forasteros de antiguamente de… Sagrillas, . le echaban arroz, pero eso no es… en la vida. Se echaba la cebolla, se le echa, sacabas sangre del cochino, seis cabezas de ajos gordas asás . Se le echa un, su… matalahúva, un poquito de comino, orégano y…, y la sangre se aliña mu bie
+E2: Claro. 
+I1: Si luego… metíamos en manteca los riñones y el corazón, pa patatas, que eso es pa otra cosa, ¿no? Pa guisá patatas, los riñones y el corazón, se freían mareaos bien y luego se echaban en una olla o según la cantidá que tuvieras, con manteca. Y el guiso de pies, que se llama, eran las cuatro patas, qu'ahora les dejan a los jamones casi toas las patas, pero antes se les cortaba. Se le echa… el guiso de pies, la… el cuajá
+E1: ¿Y las tripas cómo las preparaban? 
+I1: La tripa… lo primero es con agua templá , que no sea caliente, caliente, si no la pica. Agua templá
+E1: ¿Y cómo mataban al cochino? 
+I1: Al cochino pues lo… lo enganchabas de aquí con un gancho y lo arrastraban aonde estaba la mesa, y entre dos o tres ya le cogías las patas y lo echaban en lo alto la mesa. Y la cabeza al aire, para que saliera la sangre a… al lebrillo.
+E:  E: . 
+",La provincia a la que pertenecen los informadores es Córdoba.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T1 Pues queríamos que nos contara un poco sobre cosas como, por ejemplo la matanza.  ¿Usted ha hecho matanza? 
+I1: Yo he hecho muchas. 
+E1: ¿Sí?¿Y nos podría contar cómo se…, se hacía aquí la matanza?  
+I1: se… mataban, porque antiguamente se mataba en las casas, que no era en el matadero. Pero… ahora, últimamente, hace ya lo  más de treinta años, se mataba en el matadero. Se lleva un lebrillo, se pone el cochino en una mesa y debajo pones… el lebrillo. Vas moviendo la sangre, porque si no la mueves, se cuaja, ¿sabes? Vas moviendo la sangre, moviendo la sangre, y ya que la tienes bien movida, ya la echas o en un cubo nuevo pa traértela, porque el lebrillo es mu molesto, te lo traes y… llégala a tu casa. La noche de antes, has picao la cebolla pa la morcilla. Has picao la cebolla o…  Lo-, los forasteros de antiguamente de… Sagrillas, . le echaban arroz, pero eso no es… en la vida. Se echaba la cebolla, se le echa, sacabas sangre del cochino, seis cabezas de ajos gordas asás . Se le echa un, su… matalahúva, un poquito de comino, orégano y…, y la sangre se aliña mu bie
+E2: Claro. 
+I1: Si luego… metíamos en manteca los riñones y el corazón, pa patatas, que eso es pa otra cosa, ¿no? Pa guisá patatas, los riñones y el corazón, se freían mareaos bien y luego se echaban en una olla o según la cantidá que tuvieras, con manteca. Y el guiso de pies, que se llama, eran las cuatro patas, qu'ahora les dejan a los jamones casi toas las patas, pero antes se les cortaba. Se le echa… el guiso de pies, la… el cuajá
+E1: ¿Y las tripas cómo las preparaban? 
+I1: La tripa… lo primero es con agua templá , que no sea caliente, caliente, si no la pica. Agua templá
+E1: ¿Y cómo mataban al cochino? 
+I1: Al cochino pues lo… lo enganchabas de aquí con un gancho y lo arrastraban aonde estaba la mesa, y entre dos o tres ya le cogías las patas y lo echaban en lo alto la mesa. Y la cabeza al aire, para que saliera la sangre a… al lebrillo.
+E:  E: . 
+",La provincia a la que pertenecen los informadores es Córdoba.
+"Dime de qué lugar es el siguiente texto:  E1: T1 Pues queríamos que nos contara un poco sobre cosas como, por ejemplo la matanza.  ¿Usted ha hecho matanza? 
+I1: Yo he hecho muchas. 
+E1: ¿Sí?¿Y nos podría contar cómo se…, se hacía aquí la matanza?  
+I1: se… mataban, porque antiguamente se mataba en las casas, que no era en el matadero. Pero… ahora, últimamente, hace ya lo  más de treinta años, se mataba en el matadero. Se lleva un lebrillo, se pone el cochino en una mesa y debajo pones… el lebrillo. Vas moviendo la sangre, porque si no la mueves, se cuaja, ¿sabes? Vas moviendo la sangre, moviendo la sangre, y ya que la tienes bien movida, ya la echas o en un cubo nuevo pa traértela, porque el lebrillo es mu molesto, te lo traes y… llégala a tu casa. La noche de antes, has picao la cebolla pa la morcilla. Has picao la cebolla o…  Lo-, los forasteros de antiguamente de… Sagrillas, . le echaban arroz, pero eso no es… en la vida. Se echaba la cebolla, se le echa, sacabas sangre del cochino, seis cabezas de ajos gordas asás . Se le echa un, su… matalahúva, un poquito de comino, orégano y…, y la sangre se aliña mu bie
+E2: Claro. 
+I1: Si luego… metíamos en manteca los riñones y el corazón, pa patatas, que eso es pa otra cosa, ¿no? Pa guisá patatas, los riñones y el corazón, se freían mareaos bien y luego se echaban en una olla o según la cantidá que tuvieras, con manteca. Y el guiso de pies, que se llama, eran las cuatro patas, qu'ahora les dejan a los jamones casi toas las patas, pero antes se les cortaba. Se le echa… el guiso de pies, la… el cuajá
+E1: ¿Y las tripas cómo las preparaban? 
+I1: La tripa… lo primero es con agua templá , que no sea caliente, caliente, si no la pica. Agua templá
+E1: ¿Y cómo mataban al cochino? 
+I1: Al cochino pues lo… lo enganchabas de aquí con un gancho y lo arrastraban aonde estaba la mesa, y entre dos o tres ya le cogías las patas y lo echaban en lo alto la mesa. Y la cabeza al aire, para que saliera la sangre a… al lebrillo.
+E:  E: . 
+",La provincia a la que pertenecen los informadores es Córdoba.

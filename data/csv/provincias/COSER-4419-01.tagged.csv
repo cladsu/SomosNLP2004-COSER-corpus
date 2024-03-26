@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: Anonimizado. 
+E1: Anonimizado.  A-Crt 
+I1: T1 En realidad, le han echao unos doscientos_veinte o así, . y a este doscientos. 
+E2: A ver, explíquenos un poco cómo es  la matanza . 
+I1: aquí… esta mañana hemos cogido la…, se ha matao el cerdo, hemos cogío la sangre, después quien quiere hace morcillas, ¿sabes?  Se mueve la, se mueve la sangre, y con esa sangre luego haces morcillas,  se… co-… 
+E2: ¿cómo se hacen? 
+I1: Pues se echa sangre del cerdo, arroz, pan, cebolla, y claro, todos los… cominos y cosas de esas. 
+E4: O sea, ¿especias? 
+I1: Especias, . claro, pimiento, un poquito pimiento picante… Luego se cuece,  ¿sabes? 
+E1: ¿la sangre no hay que…?  O sea, hay sitios donde  la mueven… 
+I1: A la morcilla sí, para comer no.  Ya se lo estoy diciendo, que pa la morcilla se mueve,  pa hacer la morcilla se mueve la sangre, ¿sabes? 
+",La provincia a la que pertenecen los informadores es Valladolid.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: Anonimizado. 
+E1: Anonimizado.  A-Crt 
+I1: T1 En realidad, le han echao unos doscientos_veinte o así, . y a este doscientos. 
+E2: A ver, explíquenos un poco cómo es  la matanza . 
+I1: aquí… esta mañana hemos cogido la…, se ha matao el cerdo, hemos cogío la sangre, después quien quiere hace morcillas, ¿sabes?  Se mueve la, se mueve la sangre, y con esa sangre luego haces morcillas,  se… co-… 
+E2: ¿cómo se hacen? 
+I1: Pues se echa sangre del cerdo, arroz, pan, cebolla, y claro, todos los… cominos y cosas de esas. 
+E4: O sea, ¿especias? 
+I1: Especias, . claro, pimiento, un poquito pimiento picante… Luego se cuece,  ¿sabes? 
+E1: ¿la sangre no hay que…?  O sea, hay sitios donde  la mueven… 
+I1: A la morcilla sí, para comer no.  Ya se lo estoy diciendo, que pa la morcilla se mueve,  pa hacer la morcilla se mueve la sangre, ¿sabes? 
+",La provincia a la que pertenecen los informadores es Valladolid.
+"Dime la provincia del siguiente texto: I1: Anonimizado. 
+E1: Anonimizado.  A-Crt 
+I1: T1 En realidad, le han echao unos doscientos_veinte o así, . y a este doscientos. 
+E2: A ver, explíquenos un poco cómo es  la matanza . 
+I1: aquí… esta mañana hemos cogido la…, se ha matao el cerdo, hemos cogío la sangre, después quien quiere hace morcillas, ¿sabes?  Se mueve la, se mueve la sangre, y con esa sangre luego haces morcillas,  se… co-… 
+E2: ¿cómo se hacen? 
+I1: Pues se echa sangre del cerdo, arroz, pan, cebolla, y claro, todos los… cominos y cosas de esas. 
+E4: O sea, ¿especias? 
+I1: Especias, . claro, pimiento, un poquito pimiento picante… Luego se cuece,  ¿sabes? 
+E1: ¿la sangre no hay que…?  O sea, hay sitios donde  la mueven… 
+I1: A la morcilla sí, para comer no.  Ya se lo estoy diciendo, que pa la morcilla se mueve,  pa hacer la morcilla se mueve la sangre, ¿sabes? 
+",La provincia a la que pertenecen los informadores es Valladolid.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: Anonimizado. 
+E1: Anonimizado.  A-Crt 
+I1: T1 En realidad, le han echao unos doscientos_veinte o así, . y a este doscientos. 
+E2: A ver, explíquenos un poco cómo es  la matanza . 
+I1: aquí… esta mañana hemos cogido la…, se ha matao el cerdo, hemos cogío la sangre, después quien quiere hace morcillas, ¿sabes?  Se mueve la, se mueve la sangre, y con esa sangre luego haces morcillas,  se… co-… 
+E2: ¿cómo se hacen? 
+I1: Pues se echa sangre del cerdo, arroz, pan, cebolla, y claro, todos los… cominos y cosas de esas. 
+E4: O sea, ¿especias? 
+I1: Especias, . claro, pimiento, un poquito pimiento picante… Luego se cuece,  ¿sabes? 
+E1: ¿la sangre no hay que…?  O sea, hay sitios donde  la mueven… 
+I1: A la morcilla sí, para comer no.  Ya se lo estoy diciendo, que pa la morcilla se mueve,  pa hacer la morcilla se mueve la sangre, ¿sabes? 
+",La provincia a la que pertenecen los informadores es Valladolid.
+"Dime de qué lugar es el siguiente texto:  I1: Anonimizado. 
+E1: Anonimizado.  A-Crt 
+I1: T1 En realidad, le han echao unos doscientos_veinte o así, . y a este doscientos. 
+E2: A ver, explíquenos un poco cómo es  la matanza . 
+I1: aquí… esta mañana hemos cogido la…, se ha matao el cerdo, hemos cogío la sangre, después quien quiere hace morcillas, ¿sabes?  Se mueve la, se mueve la sangre, y con esa sangre luego haces morcillas,  se… co-… 
+E2: ¿cómo se hacen? 
+I1: Pues se echa sangre del cerdo, arroz, pan, cebolla, y claro, todos los… cominos y cosas de esas. 
+E4: O sea, ¿especias? 
+I1: Especias, . claro, pimiento, un poquito pimiento picante… Luego se cuece,  ¿sabes? 
+E1: ¿la sangre no hay que…?  O sea, hay sitios donde  la mueven… 
+I1: A la morcilla sí, para comer no.  Ya se lo estoy diciendo, que pa la morcilla se mueve,  pa hacer la morcilla se mueve la sangre, ¿sabes? 
+",La provincia a la que pertenecen los informadores es Valladolid.

@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T1 Pues, ¿nos podía hablar un poco cómo, cómo hacían la matanza antes aquí? 
+I1: Huy, pues mire, ante-, antes la matanza se… mataban los cerdos, se picaban, se hacían pedazos. Luego les… la e- A-Nul en un, en un barrillón.  HCruz:Mira, aquí… aquí estamos, hija.   Y se hace cachos. Y luego después, pues se pica con una máquina. Y después de picao , pues, claro, se arregla, se echa la sal, se echa el aceite, se echa el pimiento, se echa vino blanco, orégano… sal, orégano… y ajo, ajo machacao
+E1: ¿Crían  los cerdos? 
+I1: No. Hay quien les cría. Yo no, yo les he comprao siempre . porque, como tengo los hijos en Madrid, pues no, aquí no pueden los muchachos tenerles. Y les… eso, se pica, se echa todo eso. Luego vienen… vienen por Navidad, ¿sabe?, y compran un cerdo o dos, los que ellos le parezca. Y yo pues se lo arreglo, ¿sabes? Y después yo, pues claro, ellos se marchan y me lo dejan al cuidao
+E1: ¿Pero tienen algún modo de preparación? 
+I1: No, no.  No, bueno, se tienen en el techo, se cuelgan en el techo con unos clavos y unas cuerdas los perniles. Y… allí pues, ya después, cuando están curaos, si quiere el muchacho, que quiere coger un cacho, pues parte un cachillo, le lleva o lleva el pernil a casa  y le come y lo demás lo deja. Las batatas aquí así se hacen, hija. 
+E1: ¿Y morcillas? 
+I1:  Morcillas también, también se hacen, pero pocas. Morcillas pocas. 
+E1: Es zona de jamones esta, ¿no?  ¿Es más  zona de jamones? 
+I1: es más… morcillas aquí no se hacen. Se hacen unas pocas pa casa el día que se mata el cerdo, llegas y, con la sangre de cerdo, pues se pica cebolla, se pica… 
+E1: Pero… moverán un poco la sangre, ¿no?, para que no se… 
+",La provincia a la que pertenecen los informadores es Palencia.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T1 Pues, ¿nos podía hablar un poco cómo, cómo hacían la matanza antes aquí? 
+I1: Huy, pues mire, ante-, antes la matanza se… mataban los cerdos, se picaban, se hacían pedazos. Luego les… la e- A-Nul en un, en un barrillón.  HCruz:Mira, aquí… aquí estamos, hija.   Y se hace cachos. Y luego después, pues se pica con una máquina. Y después de picao , pues, claro, se arregla, se echa la sal, se echa el aceite, se echa el pimiento, se echa vino blanco, orégano… sal, orégano… y ajo, ajo machacao
+E1: ¿Crían  los cerdos? 
+I1: No. Hay quien les cría. Yo no, yo les he comprao siempre . porque, como tengo los hijos en Madrid, pues no, aquí no pueden los muchachos tenerles. Y les… eso, se pica, se echa todo eso. Luego vienen… vienen por Navidad, ¿sabe?, y compran un cerdo o dos, los que ellos le parezca. Y yo pues se lo arreglo, ¿sabes? Y después yo, pues claro, ellos se marchan y me lo dejan al cuidao
+E1: ¿Pero tienen algún modo de preparación? 
+I1: No, no.  No, bueno, se tienen en el techo, se cuelgan en el techo con unos clavos y unas cuerdas los perniles. Y… allí pues, ya después, cuando están curaos, si quiere el muchacho, que quiere coger un cacho, pues parte un cachillo, le lleva o lleva el pernil a casa  y le come y lo demás lo deja. Las batatas aquí así se hacen, hija. 
+E1: ¿Y morcillas? 
+I1:  Morcillas también, también se hacen, pero pocas. Morcillas pocas. 
+E1: Es zona de jamones esta, ¿no?  ¿Es más  zona de jamones? 
+I1: es más… morcillas aquí no se hacen. Se hacen unas pocas pa casa el día que se mata el cerdo, llegas y, con la sangre de cerdo, pues se pica cebolla, se pica… 
+E1: Pero… moverán un poco la sangre, ¿no?, para que no se… 
+",La provincia a la que pertenecen los informadores es Palencia.
+"Dime la provincia del siguiente texto: E1: T1 Pues, ¿nos podía hablar un poco cómo, cómo hacían la matanza antes aquí? 
+I1: Huy, pues mire, ante-, antes la matanza se… mataban los cerdos, se picaban, se hacían pedazos. Luego les… la e- A-Nul en un, en un barrillón.  HCruz:Mira, aquí… aquí estamos, hija.   Y se hace cachos. Y luego después, pues se pica con una máquina. Y después de picao , pues, claro, se arregla, se echa la sal, se echa el aceite, se echa el pimiento, se echa vino blanco, orégano… sal, orégano… y ajo, ajo machacao
+E1: ¿Crían  los cerdos? 
+I1: No. Hay quien les cría. Yo no, yo les he comprao siempre . porque, como tengo los hijos en Madrid, pues no, aquí no pueden los muchachos tenerles. Y les… eso, se pica, se echa todo eso. Luego vienen… vienen por Navidad, ¿sabe?, y compran un cerdo o dos, los que ellos le parezca. Y yo pues se lo arreglo, ¿sabes? Y después yo, pues claro, ellos se marchan y me lo dejan al cuidao
+E1: ¿Pero tienen algún modo de preparación? 
+I1: No, no.  No, bueno, se tienen en el techo, se cuelgan en el techo con unos clavos y unas cuerdas los perniles. Y… allí pues, ya después, cuando están curaos, si quiere el muchacho, que quiere coger un cacho, pues parte un cachillo, le lleva o lleva el pernil a casa  y le come y lo demás lo deja. Las batatas aquí así se hacen, hija. 
+E1: ¿Y morcillas? 
+I1:  Morcillas también, también se hacen, pero pocas. Morcillas pocas. 
+E1: Es zona de jamones esta, ¿no?  ¿Es más  zona de jamones? 
+I1: es más… morcillas aquí no se hacen. Se hacen unas pocas pa casa el día que se mata el cerdo, llegas y, con la sangre de cerdo, pues se pica cebolla, se pica… 
+E1: Pero… moverán un poco la sangre, ¿no?, para que no se… 
+",La provincia a la que pertenecen los informadores es Palencia.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T1 Pues, ¿nos podía hablar un poco cómo, cómo hacían la matanza antes aquí? 
+I1: Huy, pues mire, ante-, antes la matanza se… mataban los cerdos, se picaban, se hacían pedazos. Luego les… la e- A-Nul en un, en un barrillón.  HCruz:Mira, aquí… aquí estamos, hija.   Y se hace cachos. Y luego después, pues se pica con una máquina. Y después de picao , pues, claro, se arregla, se echa la sal, se echa el aceite, se echa el pimiento, se echa vino blanco, orégano… sal, orégano… y ajo, ajo machacao
+E1: ¿Crían  los cerdos? 
+I1: No. Hay quien les cría. Yo no, yo les he comprao siempre . porque, como tengo los hijos en Madrid, pues no, aquí no pueden los muchachos tenerles. Y les… eso, se pica, se echa todo eso. Luego vienen… vienen por Navidad, ¿sabe?, y compran un cerdo o dos, los que ellos le parezca. Y yo pues se lo arreglo, ¿sabes? Y después yo, pues claro, ellos se marchan y me lo dejan al cuidao
+E1: ¿Pero tienen algún modo de preparación? 
+I1: No, no.  No, bueno, se tienen en el techo, se cuelgan en el techo con unos clavos y unas cuerdas los perniles. Y… allí pues, ya después, cuando están curaos, si quiere el muchacho, que quiere coger un cacho, pues parte un cachillo, le lleva o lleva el pernil a casa  y le come y lo demás lo deja. Las batatas aquí así se hacen, hija. 
+E1: ¿Y morcillas? 
+I1:  Morcillas también, también se hacen, pero pocas. Morcillas pocas. 
+E1: Es zona de jamones esta, ¿no?  ¿Es más  zona de jamones? 
+I1: es más… morcillas aquí no se hacen. Se hacen unas pocas pa casa el día que se mata el cerdo, llegas y, con la sangre de cerdo, pues se pica cebolla, se pica… 
+E1: Pero… moverán un poco la sangre, ¿no?, para que no se… 
+",La provincia a la que pertenecen los informadores es Palencia.
+"Dime de qué lugar es el siguiente texto:  E1: T1 Pues, ¿nos podía hablar un poco cómo, cómo hacían la matanza antes aquí? 
+I1: Huy, pues mire, ante-, antes la matanza se… mataban los cerdos, se picaban, se hacían pedazos. Luego les… la e- A-Nul en un, en un barrillón.  HCruz:Mira, aquí… aquí estamos, hija.   Y se hace cachos. Y luego después, pues se pica con una máquina. Y después de picao , pues, claro, se arregla, se echa la sal, se echa el aceite, se echa el pimiento, se echa vino blanco, orégano… sal, orégano… y ajo, ajo machacao
+E1: ¿Crían  los cerdos? 
+I1: No. Hay quien les cría. Yo no, yo les he comprao siempre . porque, como tengo los hijos en Madrid, pues no, aquí no pueden los muchachos tenerles. Y les… eso, se pica, se echa todo eso. Luego vienen… vienen por Navidad, ¿sabe?, y compran un cerdo o dos, los que ellos le parezca. Y yo pues se lo arreglo, ¿sabes? Y después yo, pues claro, ellos se marchan y me lo dejan al cuidao
+E1: ¿Pero tienen algún modo de preparación? 
+I1: No, no.  No, bueno, se tienen en el techo, se cuelgan en el techo con unos clavos y unas cuerdas los perniles. Y… allí pues, ya después, cuando están curaos, si quiere el muchacho, que quiere coger un cacho, pues parte un cachillo, le lleva o lleva el pernil a casa  y le come y lo demás lo deja. Las batatas aquí así se hacen, hija. 
+E1: ¿Y morcillas? 
+I1:  Morcillas también, también se hacen, pero pocas. Morcillas pocas. 
+E1: Es zona de jamones esta, ¿no?  ¿Es más  zona de jamones? 
+I1: es más… morcillas aquí no se hacen. Se hacen unas pocas pa casa el día que se mata el cerdo, llegas y, con la sangre de cerdo, pues se pica cebolla, se pica… 
+E1: Pero… moverán un poco la sangre, ¿no?, para que no se… 
+",La provincia a la que pertenecen los informadores es Palencia.

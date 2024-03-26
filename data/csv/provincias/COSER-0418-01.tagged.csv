@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1:  Pues cuando quiera ya. 
+I1: T13 Pos yo cuando tenía ocho años…, que podía que, que medio podía andá , mi padre estaba trabajando en las minas, pilló un porrazo, pillaron tres vagones de la cabeza y le dio tres vueltas y le hizo las costillas pedazos. Mi hermano tenía diez años y yo tenía ocho años, y nos fuimos al vicario por do-, donde está el cerro la virgen, a coger esparto, y estuvimos allí un mes cogiendo esparto. A mí me se pusieron las manos de uñeros, de pupas, que no había por donde tocarme, yo no estaba acostumbrá
+E1: ¿Qué sembraban aquí en el pueblo? 
+I1: ¿Eh? 
+E1: ¿Qué sembraban aquí en el pueblo? 
+I1: Trigo, cebá , y garbanzos, to eso.
+E1: ¿Cuándo trillaban aquí en el pueblo? 
+I1: ¿Eh? 
+E1: La trilla, ¿trillaban aquí? 
+I1: Trillar, también trillábamos, nosotros hemos trillao. 
+E1: ¿Cómo lo hacían? 
+",La provincia a la que pertenecen los informadores es Almería.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1:  Pues cuando quiera ya. 
+I1: T13 Pos yo cuando tenía ocho años…, que podía que, que medio podía andá , mi padre estaba trabajando en las minas, pilló un porrazo, pillaron tres vagones de la cabeza y le dio tres vueltas y le hizo las costillas pedazos. Mi hermano tenía diez años y yo tenía ocho años, y nos fuimos al vicario por do-, donde está el cerro la virgen, a coger esparto, y estuvimos allí un mes cogiendo esparto. A mí me se pusieron las manos de uñeros, de pupas, que no había por donde tocarme, yo no estaba acostumbrá
+E1: ¿Qué sembraban aquí en el pueblo? 
+I1: ¿Eh? 
+E1: ¿Qué sembraban aquí en el pueblo? 
+I1: Trigo, cebá , y garbanzos, to eso.
+E1: ¿Cuándo trillaban aquí en el pueblo? 
+I1: ¿Eh? 
+E1: La trilla, ¿trillaban aquí? 
+I1: Trillar, también trillábamos, nosotros hemos trillao. 
+E1: ¿Cómo lo hacían? 
+",La provincia a la que pertenecen los informadores es Almería.
+"Dime la provincia del siguiente texto: E1:  Pues cuando quiera ya. 
+I1: T13 Pos yo cuando tenía ocho años…, que podía que, que medio podía andá , mi padre estaba trabajando en las minas, pilló un porrazo, pillaron tres vagones de la cabeza y le dio tres vueltas y le hizo las costillas pedazos. Mi hermano tenía diez años y yo tenía ocho años, y nos fuimos al vicario por do-, donde está el cerro la virgen, a coger esparto, y estuvimos allí un mes cogiendo esparto. A mí me se pusieron las manos de uñeros, de pupas, que no había por donde tocarme, yo no estaba acostumbrá
+E1: ¿Qué sembraban aquí en el pueblo? 
+I1: ¿Eh? 
+E1: ¿Qué sembraban aquí en el pueblo? 
+I1: Trigo, cebá , y garbanzos, to eso.
+E1: ¿Cuándo trillaban aquí en el pueblo? 
+I1: ¿Eh? 
+E1: La trilla, ¿trillaban aquí? 
+I1: Trillar, también trillábamos, nosotros hemos trillao. 
+E1: ¿Cómo lo hacían? 
+",La provincia a la que pertenecen los informadores es Almería.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1:  Pues cuando quiera ya. 
+I1: T13 Pos yo cuando tenía ocho años…, que podía que, que medio podía andá , mi padre estaba trabajando en las minas, pilló un porrazo, pillaron tres vagones de la cabeza y le dio tres vueltas y le hizo las costillas pedazos. Mi hermano tenía diez años y yo tenía ocho años, y nos fuimos al vicario por do-, donde está el cerro la virgen, a coger esparto, y estuvimos allí un mes cogiendo esparto. A mí me se pusieron las manos de uñeros, de pupas, que no había por donde tocarme, yo no estaba acostumbrá
+E1: ¿Qué sembraban aquí en el pueblo? 
+I1: ¿Eh? 
+E1: ¿Qué sembraban aquí en el pueblo? 
+I1: Trigo, cebá , y garbanzos, to eso.
+E1: ¿Cuándo trillaban aquí en el pueblo? 
+I1: ¿Eh? 
+E1: La trilla, ¿trillaban aquí? 
+I1: Trillar, también trillábamos, nosotros hemos trillao. 
+E1: ¿Cómo lo hacían? 
+",La provincia a la que pertenecen los informadores es Almería.
+"Dime de qué lugar es el siguiente texto:  E1:  Pues cuando quiera ya. 
+I1: T13 Pos yo cuando tenía ocho años…, que podía que, que medio podía andá , mi padre estaba trabajando en las minas, pilló un porrazo, pillaron tres vagones de la cabeza y le dio tres vueltas y le hizo las costillas pedazos. Mi hermano tenía diez años y yo tenía ocho años, y nos fuimos al vicario por do-, donde está el cerro la virgen, a coger esparto, y estuvimos allí un mes cogiendo esparto. A mí me se pusieron las manos de uñeros, de pupas, que no había por donde tocarme, yo no estaba acostumbrá
+E1: ¿Qué sembraban aquí en el pueblo? 
+I1: ¿Eh? 
+E1: ¿Qué sembraban aquí en el pueblo? 
+I1: Trigo, cebá , y garbanzos, to eso.
+E1: ¿Cuándo trillaban aquí en el pueblo? 
+I1: ¿Eh? 
+E1: La trilla, ¿trillaban aquí? 
+I1: Trillar, también trillábamos, nosotros hemos trillao. 
+E1: ¿Cómo lo hacían? 
+",La provincia a la que pertenecen los informadores es Almería.

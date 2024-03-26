@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E4: Se lo voy a poner por aquí. ¿Esto se lo puedo meter aquí, en el bolsillo? 
+I1: Sí… . 
+E4: Esto se lo voy a poner aquí… Ya está, eso es. ¿Le podemos sacar vídeo también? 
+I1: ¿Pero para llevarlo por ahí, lejos? 
+E2: No, es para nosotros.  Si no nos acordamos, luego apuntarlo todo y eso. 
+E1: T1 Entonces, cuéntenos cómo se hacía la…, la matanza. 
+I1: Bueno, el cochino se criaba en el campo. Y, vamos, si empiezo, se tiene la cochina, se crían los guarritos, se destetan, después se echan el pienso; después cuando son ya mayores se le capa, se echan a las montaneras… 
+E1: ¿Qué son las montaneras? 
+I1: Las montaneras es la bellota de encina o de alcornoque o de quejigo y se engorda… se ceba de… al campo, después cuando llega su tiempo de que se acaba la montanera o…, o el cochino ya está gordo,pues entonces se lleva a la matanza, que se lleva a la matanza, se coge, se amarra, se echa en una mesa, claro, hay que amarrarle la boca pa que no te muerda, lo coge el, eso lo coge entre dos personas pa sujetarlo, se le da un corte así y después se le hinca y se mata. Después se chamusca que se llama chamuscá es coger con abulagas. Entonces no sabéis lo que es abulaga, ¿no?
+E1: No, no, no. 
+I1: Es un monte que hay así esparranao , pinchoso, ¿sabes? y ese se le mete fuego y con eso se le va a hacer que-, quemando a la cerda y después con un cuchillo se raspay se queda totalmente limpio,que queda algo de suciedá
+",La provincia a la que pertenecen los informadores es Sevilla.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E4: Se lo voy a poner por aquí. ¿Esto se lo puedo meter aquí, en el bolsillo? 
+I1: Sí… . 
+E4: Esto se lo voy a poner aquí… Ya está, eso es. ¿Le podemos sacar vídeo también? 
+I1: ¿Pero para llevarlo por ahí, lejos? 
+E2: No, es para nosotros.  Si no nos acordamos, luego apuntarlo todo y eso. 
+E1: T1 Entonces, cuéntenos cómo se hacía la…, la matanza. 
+I1: Bueno, el cochino se criaba en el campo. Y, vamos, si empiezo, se tiene la cochina, se crían los guarritos, se destetan, después se echan el pienso; después cuando son ya mayores se le capa, se echan a las montaneras… 
+E1: ¿Qué son las montaneras? 
+I1: Las montaneras es la bellota de encina o de alcornoque o de quejigo y se engorda… se ceba de… al campo, después cuando llega su tiempo de que se acaba la montanera o…, o el cochino ya está gordo,pues entonces se lleva a la matanza, que se lleva a la matanza, se coge, se amarra, se echa en una mesa, claro, hay que amarrarle la boca pa que no te muerda, lo coge el, eso lo coge entre dos personas pa sujetarlo, se le da un corte así y después se le hinca y se mata. Después se chamusca que se llama chamuscá es coger con abulagas. Entonces no sabéis lo que es abulaga, ¿no?
+E1: No, no, no. 
+I1: Es un monte que hay así esparranao , pinchoso, ¿sabes? y ese se le mete fuego y con eso se le va a hacer que-, quemando a la cerda y después con un cuchillo se raspay se queda totalmente limpio,que queda algo de suciedá
+",La provincia a la que pertenecen los informadores es Sevilla.
+"Dime la provincia del siguiente texto: E4: Se lo voy a poner por aquí. ¿Esto se lo puedo meter aquí, en el bolsillo? 
+I1: Sí… . 
+E4: Esto se lo voy a poner aquí… Ya está, eso es. ¿Le podemos sacar vídeo también? 
+I1: ¿Pero para llevarlo por ahí, lejos? 
+E2: No, es para nosotros.  Si no nos acordamos, luego apuntarlo todo y eso. 
+E1: T1 Entonces, cuéntenos cómo se hacía la…, la matanza. 
+I1: Bueno, el cochino se criaba en el campo. Y, vamos, si empiezo, se tiene la cochina, se crían los guarritos, se destetan, después se echan el pienso; después cuando son ya mayores se le capa, se echan a las montaneras… 
+E1: ¿Qué son las montaneras? 
+I1: Las montaneras es la bellota de encina o de alcornoque o de quejigo y se engorda… se ceba de… al campo, después cuando llega su tiempo de que se acaba la montanera o…, o el cochino ya está gordo,pues entonces se lleva a la matanza, que se lleva a la matanza, se coge, se amarra, se echa en una mesa, claro, hay que amarrarle la boca pa que no te muerda, lo coge el, eso lo coge entre dos personas pa sujetarlo, se le da un corte así y después se le hinca y se mata. Después se chamusca que se llama chamuscá es coger con abulagas. Entonces no sabéis lo que es abulaga, ¿no?
+E1: No, no, no. 
+I1: Es un monte que hay así esparranao , pinchoso, ¿sabes? y ese se le mete fuego y con eso se le va a hacer que-, quemando a la cerda y después con un cuchillo se raspay se queda totalmente limpio,que queda algo de suciedá
+",La provincia a la que pertenecen los informadores es Sevilla.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E4: Se lo voy a poner por aquí. ¿Esto se lo puedo meter aquí, en el bolsillo? 
+I1: Sí… . 
+E4: Esto se lo voy a poner aquí… Ya está, eso es. ¿Le podemos sacar vídeo también? 
+I1: ¿Pero para llevarlo por ahí, lejos? 
+E2: No, es para nosotros.  Si no nos acordamos, luego apuntarlo todo y eso. 
+E1: T1 Entonces, cuéntenos cómo se hacía la…, la matanza. 
+I1: Bueno, el cochino se criaba en el campo. Y, vamos, si empiezo, se tiene la cochina, se crían los guarritos, se destetan, después se echan el pienso; después cuando son ya mayores se le capa, se echan a las montaneras… 
+E1: ¿Qué son las montaneras? 
+I1: Las montaneras es la bellota de encina o de alcornoque o de quejigo y se engorda… se ceba de… al campo, después cuando llega su tiempo de que se acaba la montanera o…, o el cochino ya está gordo,pues entonces se lleva a la matanza, que se lleva a la matanza, se coge, se amarra, se echa en una mesa, claro, hay que amarrarle la boca pa que no te muerda, lo coge el, eso lo coge entre dos personas pa sujetarlo, se le da un corte así y después se le hinca y se mata. Después se chamusca que se llama chamuscá es coger con abulagas. Entonces no sabéis lo que es abulaga, ¿no?
+E1: No, no, no. 
+I1: Es un monte que hay así esparranao , pinchoso, ¿sabes? y ese se le mete fuego y con eso se le va a hacer que-, quemando a la cerda y después con un cuchillo se raspay se queda totalmente limpio,que queda algo de suciedá
+",La provincia a la que pertenecen los informadores es Sevilla.
+"Dime de qué lugar es el siguiente texto:  E4: Se lo voy a poner por aquí. ¿Esto se lo puedo meter aquí, en el bolsillo? 
+I1: Sí… . 
+E4: Esto se lo voy a poner aquí… Ya está, eso es. ¿Le podemos sacar vídeo también? 
+I1: ¿Pero para llevarlo por ahí, lejos? 
+E2: No, es para nosotros.  Si no nos acordamos, luego apuntarlo todo y eso. 
+E1: T1 Entonces, cuéntenos cómo se hacía la…, la matanza. 
+I1: Bueno, el cochino se criaba en el campo. Y, vamos, si empiezo, se tiene la cochina, se crían los guarritos, se destetan, después se echan el pienso; después cuando son ya mayores se le capa, se echan a las montaneras… 
+E1: ¿Qué son las montaneras? 
+I1: Las montaneras es la bellota de encina o de alcornoque o de quejigo y se engorda… se ceba de… al campo, después cuando llega su tiempo de que se acaba la montanera o…, o el cochino ya está gordo,pues entonces se lleva a la matanza, que se lleva a la matanza, se coge, se amarra, se echa en una mesa, claro, hay que amarrarle la boca pa que no te muerda, lo coge el, eso lo coge entre dos personas pa sujetarlo, se le da un corte así y después se le hinca y se mata. Después se chamusca que se llama chamuscá es coger con abulagas. Entonces no sabéis lo que es abulaga, ¿no?
+E1: No, no, no. 
+I1: Es un monte que hay así esparranao , pinchoso, ¿sabes? y ese se le mete fuego y con eso se le va a hacer que-, quemando a la cerda y después con un cuchillo se raspay se queda totalmente limpio,que queda algo de suciedá
+",La provincia a la que pertenecen los informadores es Sevilla.

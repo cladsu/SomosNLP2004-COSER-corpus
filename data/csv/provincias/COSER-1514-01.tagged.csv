@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: Sí, he estao cinco años, pero en temporá
+I2: Yo lo que quiero decir que no hemos estao ni en Madrid, ni en  veinte años ni…,  aquí nacimos y aquí estamos empadronaos de toda la vida. 
+I1: Nosotros aquí pasa eso que… O sea que habemos nacidos aquí y lo menos yo pienso morirme aquí también.  No,  qué mesa ni mesa,  así que nosotros semos pensionistas, aquí mos
+E1: ¿Cuántos años tienen ustedes, me han dicho? 
+I1: Este, este lo sé yo, este tiene seten-, o sea, ochenta_y_siete.  Este nació el veinticinco en febrero. Estoy enterao de él. Yo, el trece de enero del 1934.  
+I2: mira dónde van otros dos. 
+I1: HCruz:Venir pa acá, que vais al camión ustedes, venirse también. 
+I3: HCruz:Tú si te vas a ir al camión. 
+I2: HCruz:Ahí vais, ahí vais otros dos pichas muertas. 
+I3: HCruz:Tú estás majara perdío. 
+I1: Ven·te pa acá, no va uno a pegá voces y… es que voy apañá
+",La provincia a la que pertenecen los informadores es Córdoba.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: Sí, he estao cinco años, pero en temporá
+I2: Yo lo que quiero decir que no hemos estao ni en Madrid, ni en  veinte años ni…,  aquí nacimos y aquí estamos empadronaos de toda la vida. 
+I1: Nosotros aquí pasa eso que… O sea que habemos nacidos aquí y lo menos yo pienso morirme aquí también.  No,  qué mesa ni mesa,  así que nosotros semos pensionistas, aquí mos
+E1: ¿Cuántos años tienen ustedes, me han dicho? 
+I1: Este, este lo sé yo, este tiene seten-, o sea, ochenta_y_siete.  Este nació el veinticinco en febrero. Estoy enterao de él. Yo, el trece de enero del 1934.  
+I2: mira dónde van otros dos. 
+I1: HCruz:Venir pa acá, que vais al camión ustedes, venirse también. 
+I3: HCruz:Tú si te vas a ir al camión. 
+I2: HCruz:Ahí vais, ahí vais otros dos pichas muertas. 
+I3: HCruz:Tú estás majara perdío. 
+I1: Ven·te pa acá, no va uno a pegá voces y… es que voy apañá
+",La provincia a la que pertenecen los informadores es Córdoba.
+"Dime la provincia del siguiente texto: I1: Sí, he estao cinco años, pero en temporá
+I2: Yo lo que quiero decir que no hemos estao ni en Madrid, ni en  veinte años ni…,  aquí nacimos y aquí estamos empadronaos de toda la vida. 
+I1: Nosotros aquí pasa eso que… O sea que habemos nacidos aquí y lo menos yo pienso morirme aquí también.  No,  qué mesa ni mesa,  así que nosotros semos pensionistas, aquí mos
+E1: ¿Cuántos años tienen ustedes, me han dicho? 
+I1: Este, este lo sé yo, este tiene seten-, o sea, ochenta_y_siete.  Este nació el veinticinco en febrero. Estoy enterao de él. Yo, el trece de enero del 1934.  
+I2: mira dónde van otros dos. 
+I1: HCruz:Venir pa acá, que vais al camión ustedes, venirse también. 
+I3: HCruz:Tú si te vas a ir al camión. 
+I2: HCruz:Ahí vais, ahí vais otros dos pichas muertas. 
+I3: HCruz:Tú estás majara perdío. 
+I1: Ven·te pa acá, no va uno a pegá voces y… es que voy apañá
+",La provincia a la que pertenecen los informadores es Córdoba.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: Sí, he estao cinco años, pero en temporá
+I2: Yo lo que quiero decir que no hemos estao ni en Madrid, ni en  veinte años ni…,  aquí nacimos y aquí estamos empadronaos de toda la vida. 
+I1: Nosotros aquí pasa eso que… O sea que habemos nacidos aquí y lo menos yo pienso morirme aquí también.  No,  qué mesa ni mesa,  así que nosotros semos pensionistas, aquí mos
+E1: ¿Cuántos años tienen ustedes, me han dicho? 
+I1: Este, este lo sé yo, este tiene seten-, o sea, ochenta_y_siete.  Este nació el veinticinco en febrero. Estoy enterao de él. Yo, el trece de enero del 1934.  
+I2: mira dónde van otros dos. 
+I1: HCruz:Venir pa acá, que vais al camión ustedes, venirse también. 
+I3: HCruz:Tú si te vas a ir al camión. 
+I2: HCruz:Ahí vais, ahí vais otros dos pichas muertas. 
+I3: HCruz:Tú estás majara perdío. 
+I1: Ven·te pa acá, no va uno a pegá voces y… es que voy apañá
+",La provincia a la que pertenecen los informadores es Córdoba.
+"Dime de qué lugar es el siguiente texto:  I1: Sí, he estao cinco años, pero en temporá
+I2: Yo lo que quiero decir que no hemos estao ni en Madrid, ni en  veinte años ni…,  aquí nacimos y aquí estamos empadronaos de toda la vida. 
+I1: Nosotros aquí pasa eso que… O sea que habemos nacidos aquí y lo menos yo pienso morirme aquí también.  No,  qué mesa ni mesa,  así que nosotros semos pensionistas, aquí mos
+E1: ¿Cuántos años tienen ustedes, me han dicho? 
+I1: Este, este lo sé yo, este tiene seten-, o sea, ochenta_y_siete.  Este nació el veinticinco en febrero. Estoy enterao de él. Yo, el trece de enero del 1934.  
+I2: mira dónde van otros dos. 
+I1: HCruz:Venir pa acá, que vais al camión ustedes, venirse también. 
+I3: HCruz:Tú si te vas a ir al camión. 
+I2: HCruz:Ahí vais, ahí vais otros dos pichas muertas. 
+I3: HCruz:Tú estás majara perdío. 
+I1: Ven·te pa acá, no va uno a pegá voces y… es que voy apañá
+",La provincia a la que pertenecen los informadores es Córdoba.

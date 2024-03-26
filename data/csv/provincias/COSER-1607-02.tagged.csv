@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: T15 Está en misa ahora, que ella sabe mucho de to esto. 
+E1: Entonces, ¿nos puede contar cómo son las fiestas por ejemplo? 
+I1: Huy, las fiestas, las fiestas son enormes. 
+E1: ¿Sí? ¿Y qué hacen? 
+I1: Hacen de todo; hacen para mayores, para ancianos, pa chicos, pa todos. Las fiestas son en agosto, antes eran en el Pilar, pero con esto de la gente irse a las capitales a, a las fábricas y to eso, tie que ser cuando pueden, entonces ahora han cambiao
+E1: ¿Y qué Virgen es? 
+I1: La Virgen_de_la_Asunción, pero aquí hay de todo, lo que quieras. 
+E1: ¿Y qué se hacen, bailes…? 
+I1: Se hacen verbenas ahí en la plaza, lo arreglan y hacen verbenas por la noche. Hacen disfraces, dibujo pa los chicos, concursos. Luego les traen ahí juegos en las escuelas, en el patio las escuelas también, que vienen unos señores que se pasean por el pueblo y hacen colchones hinchables to eso y se lo pasan bien. O hacen carreras de bicicleta, hacen ralis aquí, cada uno hace se apunta a un concurso y está bien. Luego hacen por la noche concursos de gachas, aquí les decimos migas. 
+E1: ¿Qué, qué lleva eso? 
+I1: Eso es harina de almortas. Y se hace con tocino y harina y agua y pimentón. Y eso hacen concursos a las tres de la mañana,  concursos de migas, lo ganan… quien lo gana las me-, las que mejor están pues es la que se lleva el premio. Sí, hacen de todo. 
+",La provincia a la que pertenecen los informadores es Cuenca.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: T15 Está en misa ahora, que ella sabe mucho de to esto. 
+E1: Entonces, ¿nos puede contar cómo son las fiestas por ejemplo? 
+I1: Huy, las fiestas, las fiestas son enormes. 
+E1: ¿Sí? ¿Y qué hacen? 
+I1: Hacen de todo; hacen para mayores, para ancianos, pa chicos, pa todos. Las fiestas son en agosto, antes eran en el Pilar, pero con esto de la gente irse a las capitales a, a las fábricas y to eso, tie que ser cuando pueden, entonces ahora han cambiao
+E1: ¿Y qué Virgen es? 
+I1: La Virgen_de_la_Asunción, pero aquí hay de todo, lo que quieras. 
+E1: ¿Y qué se hacen, bailes…? 
+I1: Se hacen verbenas ahí en la plaza, lo arreglan y hacen verbenas por la noche. Hacen disfraces, dibujo pa los chicos, concursos. Luego les traen ahí juegos en las escuelas, en el patio las escuelas también, que vienen unos señores que se pasean por el pueblo y hacen colchones hinchables to eso y se lo pasan bien. O hacen carreras de bicicleta, hacen ralis aquí, cada uno hace se apunta a un concurso y está bien. Luego hacen por la noche concursos de gachas, aquí les decimos migas. 
+E1: ¿Qué, qué lleva eso? 
+I1: Eso es harina de almortas. Y se hace con tocino y harina y agua y pimentón. Y eso hacen concursos a las tres de la mañana,  concursos de migas, lo ganan… quien lo gana las me-, las que mejor están pues es la que se lleva el premio. Sí, hacen de todo. 
+",La provincia a la que pertenecen los informadores es Cuenca.
+"Dime la provincia del siguiente texto: I1: T15 Está en misa ahora, que ella sabe mucho de to esto. 
+E1: Entonces, ¿nos puede contar cómo son las fiestas por ejemplo? 
+I1: Huy, las fiestas, las fiestas son enormes. 
+E1: ¿Sí? ¿Y qué hacen? 
+I1: Hacen de todo; hacen para mayores, para ancianos, pa chicos, pa todos. Las fiestas son en agosto, antes eran en el Pilar, pero con esto de la gente irse a las capitales a, a las fábricas y to eso, tie que ser cuando pueden, entonces ahora han cambiao
+E1: ¿Y qué Virgen es? 
+I1: La Virgen_de_la_Asunción, pero aquí hay de todo, lo que quieras. 
+E1: ¿Y qué se hacen, bailes…? 
+I1: Se hacen verbenas ahí en la plaza, lo arreglan y hacen verbenas por la noche. Hacen disfraces, dibujo pa los chicos, concursos. Luego les traen ahí juegos en las escuelas, en el patio las escuelas también, que vienen unos señores que se pasean por el pueblo y hacen colchones hinchables to eso y se lo pasan bien. O hacen carreras de bicicleta, hacen ralis aquí, cada uno hace se apunta a un concurso y está bien. Luego hacen por la noche concursos de gachas, aquí les decimos migas. 
+E1: ¿Qué, qué lleva eso? 
+I1: Eso es harina de almortas. Y se hace con tocino y harina y agua y pimentón. Y eso hacen concursos a las tres de la mañana,  concursos de migas, lo ganan… quien lo gana las me-, las que mejor están pues es la que se lleva el premio. Sí, hacen de todo. 
+",La provincia a la que pertenecen los informadores es Cuenca.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: T15 Está en misa ahora, que ella sabe mucho de to esto. 
+E1: Entonces, ¿nos puede contar cómo son las fiestas por ejemplo? 
+I1: Huy, las fiestas, las fiestas son enormes. 
+E1: ¿Sí? ¿Y qué hacen? 
+I1: Hacen de todo; hacen para mayores, para ancianos, pa chicos, pa todos. Las fiestas son en agosto, antes eran en el Pilar, pero con esto de la gente irse a las capitales a, a las fábricas y to eso, tie que ser cuando pueden, entonces ahora han cambiao
+E1: ¿Y qué Virgen es? 
+I1: La Virgen_de_la_Asunción, pero aquí hay de todo, lo que quieras. 
+E1: ¿Y qué se hacen, bailes…? 
+I1: Se hacen verbenas ahí en la plaza, lo arreglan y hacen verbenas por la noche. Hacen disfraces, dibujo pa los chicos, concursos. Luego les traen ahí juegos en las escuelas, en el patio las escuelas también, que vienen unos señores que se pasean por el pueblo y hacen colchones hinchables to eso y se lo pasan bien. O hacen carreras de bicicleta, hacen ralis aquí, cada uno hace se apunta a un concurso y está bien. Luego hacen por la noche concursos de gachas, aquí les decimos migas. 
+E1: ¿Qué, qué lleva eso? 
+I1: Eso es harina de almortas. Y se hace con tocino y harina y agua y pimentón. Y eso hacen concursos a las tres de la mañana,  concursos de migas, lo ganan… quien lo gana las me-, las que mejor están pues es la que se lleva el premio. Sí, hacen de todo. 
+",La provincia a la que pertenecen los informadores es Cuenca.
+"Dime de qué lugar es el siguiente texto:  I1: T15 Está en misa ahora, que ella sabe mucho de to esto. 
+E1: Entonces, ¿nos puede contar cómo son las fiestas por ejemplo? 
+I1: Huy, las fiestas, las fiestas son enormes. 
+E1: ¿Sí? ¿Y qué hacen? 
+I1: Hacen de todo; hacen para mayores, para ancianos, pa chicos, pa todos. Las fiestas son en agosto, antes eran en el Pilar, pero con esto de la gente irse a las capitales a, a las fábricas y to eso, tie que ser cuando pueden, entonces ahora han cambiao
+E1: ¿Y qué Virgen es? 
+I1: La Virgen_de_la_Asunción, pero aquí hay de todo, lo que quieras. 
+E1: ¿Y qué se hacen, bailes…? 
+I1: Se hacen verbenas ahí en la plaza, lo arreglan y hacen verbenas por la noche. Hacen disfraces, dibujo pa los chicos, concursos. Luego les traen ahí juegos en las escuelas, en el patio las escuelas también, que vienen unos señores que se pasean por el pueblo y hacen colchones hinchables to eso y se lo pasan bien. O hacen carreras de bicicleta, hacen ralis aquí, cada uno hace se apunta a un concurso y está bien. Luego hacen por la noche concursos de gachas, aquí les decimos migas. 
+E1: ¿Qué, qué lleva eso? 
+I1: Eso es harina de almortas. Y se hace con tocino y harina y agua y pimentón. Y eso hacen concursos a las tres de la mañana,  concursos de migas, lo ganan… quien lo gana las me-, las que mejor están pues es la que se lleva el premio. Sí, hacen de todo. 
+",La provincia a la que pertenecen los informadores es Cuenca.

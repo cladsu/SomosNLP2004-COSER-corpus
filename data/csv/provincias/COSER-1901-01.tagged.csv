@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I2: No, yo no, yo llevo aquí cuarenta_y_dos años. Yo soy de A-Nul. 
+E2: ¿Y usted es de aquí? 
+I:  I: T13 Yo soy nacida en Torre_Val_de_Almendros, un pueblo ahí… Pero… mi madre se quedó viuda cuando yo tenía trece meses y luego se casó aquí y ya vi-, vino mi madre aquí. . Y luego, pues eso, pues mi madre se murió cuando yo tenía doce años,  y ya…, pues ya se acabó la alegría. 
+E2: Pero después, ¿cómo…? 
+I:  I: Ah, bueno. Pues viví con mis hermanos,  que tuvo más hijos con otro marido y viví con mis hermanos. 
+E2: Un poco, es duro, ¿no?, un poco…, así de pequeña quedarse sin madre… 
+I:  I: Y así de cosas de bromas y to eso no sé nada,  na más siempre en casa. 
+E:  E: Sí, siempre en casa, ¿trabajando? 
+I:  I: Trabajando en el campo, mucho. 
+E1: ¿Y aquí qué hacen en el campo? 
+I:  I: Pues, P-Enf:uy, aquí las mujeres hemos trabajao tanto como los hombres. Teníamos que ir a las ovejas porque teníamos que mantenernos con eso, ir a las ovejas, llegaba este tiempo ya a sembrar patatas, luego pues a sembrar judíasporque con eso nos manteníamos y…, y a escardar y luego a segar…,  a segar a mano… 
+",La provincia a la que pertenecen los informadores es Guadalajara.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I2: No, yo no, yo llevo aquí cuarenta_y_dos años. Yo soy de A-Nul. 
+E2: ¿Y usted es de aquí? 
+I:  I: T13 Yo soy nacida en Torre_Val_de_Almendros, un pueblo ahí… Pero… mi madre se quedó viuda cuando yo tenía trece meses y luego se casó aquí y ya vi-, vino mi madre aquí. . Y luego, pues eso, pues mi madre se murió cuando yo tenía doce años,  y ya…, pues ya se acabó la alegría. 
+E2: Pero después, ¿cómo…? 
+I:  I: Ah, bueno. Pues viví con mis hermanos,  que tuvo más hijos con otro marido y viví con mis hermanos. 
+E2: Un poco, es duro, ¿no?, un poco…, así de pequeña quedarse sin madre… 
+I:  I: Y así de cosas de bromas y to eso no sé nada,  na más siempre en casa. 
+E:  E: Sí, siempre en casa, ¿trabajando? 
+I:  I: Trabajando en el campo, mucho. 
+E1: ¿Y aquí qué hacen en el campo? 
+I:  I: Pues, P-Enf:uy, aquí las mujeres hemos trabajao tanto como los hombres. Teníamos que ir a las ovejas porque teníamos que mantenernos con eso, ir a las ovejas, llegaba este tiempo ya a sembrar patatas, luego pues a sembrar judíasporque con eso nos manteníamos y…, y a escardar y luego a segar…,  a segar a mano… 
+",La provincia a la que pertenecen los informadores es Guadalajara.
+"Dime la provincia del siguiente texto: I2: No, yo no, yo llevo aquí cuarenta_y_dos años. Yo soy de A-Nul. 
+E2: ¿Y usted es de aquí? 
+I:  I: T13 Yo soy nacida en Torre_Val_de_Almendros, un pueblo ahí… Pero… mi madre se quedó viuda cuando yo tenía trece meses y luego se casó aquí y ya vi-, vino mi madre aquí. . Y luego, pues eso, pues mi madre se murió cuando yo tenía doce años,  y ya…, pues ya se acabó la alegría. 
+E2: Pero después, ¿cómo…? 
+I:  I: Ah, bueno. Pues viví con mis hermanos,  que tuvo más hijos con otro marido y viví con mis hermanos. 
+E2: Un poco, es duro, ¿no?, un poco…, así de pequeña quedarse sin madre… 
+I:  I: Y así de cosas de bromas y to eso no sé nada,  na más siempre en casa. 
+E:  E: Sí, siempre en casa, ¿trabajando? 
+I:  I: Trabajando en el campo, mucho. 
+E1: ¿Y aquí qué hacen en el campo? 
+I:  I: Pues, P-Enf:uy, aquí las mujeres hemos trabajao tanto como los hombres. Teníamos que ir a las ovejas porque teníamos que mantenernos con eso, ir a las ovejas, llegaba este tiempo ya a sembrar patatas, luego pues a sembrar judíasporque con eso nos manteníamos y…, y a escardar y luego a segar…,  a segar a mano… 
+",La provincia a la que pertenecen los informadores es Guadalajara.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I2: No, yo no, yo llevo aquí cuarenta_y_dos años. Yo soy de A-Nul. 
+E2: ¿Y usted es de aquí? 
+I:  I: T13 Yo soy nacida en Torre_Val_de_Almendros, un pueblo ahí… Pero… mi madre se quedó viuda cuando yo tenía trece meses y luego se casó aquí y ya vi-, vino mi madre aquí. . Y luego, pues eso, pues mi madre se murió cuando yo tenía doce años,  y ya…, pues ya se acabó la alegría. 
+E2: Pero después, ¿cómo…? 
+I:  I: Ah, bueno. Pues viví con mis hermanos,  que tuvo más hijos con otro marido y viví con mis hermanos. 
+E2: Un poco, es duro, ¿no?, un poco…, así de pequeña quedarse sin madre… 
+I:  I: Y así de cosas de bromas y to eso no sé nada,  na más siempre en casa. 
+E:  E: Sí, siempre en casa, ¿trabajando? 
+I:  I: Trabajando en el campo, mucho. 
+E1: ¿Y aquí qué hacen en el campo? 
+I:  I: Pues, P-Enf:uy, aquí las mujeres hemos trabajao tanto como los hombres. Teníamos que ir a las ovejas porque teníamos que mantenernos con eso, ir a las ovejas, llegaba este tiempo ya a sembrar patatas, luego pues a sembrar judíasporque con eso nos manteníamos y…, y a escardar y luego a segar…,  a segar a mano… 
+",La provincia a la que pertenecen los informadores es Guadalajara.
+"Dime de qué lugar es el siguiente texto:  I2: No, yo no, yo llevo aquí cuarenta_y_dos años. Yo soy de A-Nul. 
+E2: ¿Y usted es de aquí? 
+I:  I: T13 Yo soy nacida en Torre_Val_de_Almendros, un pueblo ahí… Pero… mi madre se quedó viuda cuando yo tenía trece meses y luego se casó aquí y ya vi-, vino mi madre aquí. . Y luego, pues eso, pues mi madre se murió cuando yo tenía doce años,  y ya…, pues ya se acabó la alegría. 
+E2: Pero después, ¿cómo…? 
+I:  I: Ah, bueno. Pues viví con mis hermanos,  que tuvo más hijos con otro marido y viví con mis hermanos. 
+E2: Un poco, es duro, ¿no?, un poco…, así de pequeña quedarse sin madre… 
+I:  I: Y así de cosas de bromas y to eso no sé nada,  na más siempre en casa. 
+E:  E: Sí, siempre en casa, ¿trabajando? 
+I:  I: Trabajando en el campo, mucho. 
+E1: ¿Y aquí qué hacen en el campo? 
+I:  I: Pues, P-Enf:uy, aquí las mujeres hemos trabajao tanto como los hombres. Teníamos que ir a las ovejas porque teníamos que mantenernos con eso, ir a las ovejas, llegaba este tiempo ya a sembrar patatas, luego pues a sembrar judíasporque con eso nos manteníamos y…, y a escardar y luego a segar…,  a segar a mano… 
+",La provincia a la que pertenecen los informadores es Guadalajara.

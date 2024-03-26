@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E:  E: T1 Primero, ¿co-, cómo se criaba el cerdo? 
+I2: Era pequeño, le comprábamos pequeñito y le estábamos dando de comer un año… con centenos, con salvaos , con forraje. Granos, de todo. V-Sml
+E:  E: Uno a uno. 
+I2: Cuando tenía el año, por ejemplo,  cogíamos un objeto,  el cuchillo, claro.  Porque el cuchillo es un objeto, ¿no?   Y le, le clavábamos en el pecho,  estiraba un poco la pata… y hala. 
+E:  E: Pero…, vamos a ver, ¿y no tenían una cerda que, que criara los cerditos? 
+I1: Por eso se la comprábamos,   se la comprábamos a quien tenía cerdas de cría. Y se iba a los mercaos , que les A-Nul, al cristo, A-Nul aquellas montañas que hay allá, íbamos con una borriquilla a por cerdo, a por el cerdo. a por burro, a por… cerdos allí.
+E:  E: y…, pero y luego para matar, ¿mataba solo un hombre o cómo? 
+I2: Vaya, sí, hombre. En cada casa había un hombre y mataba él su cerdo.  
+E:  E: ¿Pero no había que sujetar y eso? 
+I1: V-Sml Hombre… Había allí un tajo A-Nul  Y había que, había que meterle  derecho pa que fuera al corazón pero sin, sin metérsele mucho pa que no muriera pronto, pa que sangrara bastante,  pa que echara la sangre, porque eso era para hacer las morcillas  y cosas de esas. 
+E:  E: Entonces clavaban el cuchillo y salía la sangre. La sangre ¿dónde, dónde echaban la sangre? 
+",La provincia a la que pertenecen los informadores es Palencia.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E:  E: T1 Primero, ¿co-, cómo se criaba el cerdo? 
+I2: Era pequeño, le comprábamos pequeñito y le estábamos dando de comer un año… con centenos, con salvaos , con forraje. Granos, de todo. V-Sml
+E:  E: Uno a uno. 
+I2: Cuando tenía el año, por ejemplo,  cogíamos un objeto,  el cuchillo, claro.  Porque el cuchillo es un objeto, ¿no?   Y le, le clavábamos en el pecho,  estiraba un poco la pata… y hala. 
+E:  E: Pero…, vamos a ver, ¿y no tenían una cerda que, que criara los cerditos? 
+I1: Por eso se la comprábamos,   se la comprábamos a quien tenía cerdas de cría. Y se iba a los mercaos , que les A-Nul, al cristo, A-Nul aquellas montañas que hay allá, íbamos con una borriquilla a por cerdo, a por el cerdo. a por burro, a por… cerdos allí.
+E:  E: y…, pero y luego para matar, ¿mataba solo un hombre o cómo? 
+I2: Vaya, sí, hombre. En cada casa había un hombre y mataba él su cerdo.  
+E:  E: ¿Pero no había que sujetar y eso? 
+I1: V-Sml Hombre… Había allí un tajo A-Nul  Y había que, había que meterle  derecho pa que fuera al corazón pero sin, sin metérsele mucho pa que no muriera pronto, pa que sangrara bastante,  pa que echara la sangre, porque eso era para hacer las morcillas  y cosas de esas. 
+E:  E: Entonces clavaban el cuchillo y salía la sangre. La sangre ¿dónde, dónde echaban la sangre? 
+",La provincia a la que pertenecen los informadores es Palencia.
+"Dime la provincia del siguiente texto: E:  E: T1 Primero, ¿co-, cómo se criaba el cerdo? 
+I2: Era pequeño, le comprábamos pequeñito y le estábamos dando de comer un año… con centenos, con salvaos , con forraje. Granos, de todo. V-Sml
+E:  E: Uno a uno. 
+I2: Cuando tenía el año, por ejemplo,  cogíamos un objeto,  el cuchillo, claro.  Porque el cuchillo es un objeto, ¿no?   Y le, le clavábamos en el pecho,  estiraba un poco la pata… y hala. 
+E:  E: Pero…, vamos a ver, ¿y no tenían una cerda que, que criara los cerditos? 
+I1: Por eso se la comprábamos,   se la comprábamos a quien tenía cerdas de cría. Y se iba a los mercaos , que les A-Nul, al cristo, A-Nul aquellas montañas que hay allá, íbamos con una borriquilla a por cerdo, a por el cerdo. a por burro, a por… cerdos allí.
+E:  E: y…, pero y luego para matar, ¿mataba solo un hombre o cómo? 
+I2: Vaya, sí, hombre. En cada casa había un hombre y mataba él su cerdo.  
+E:  E: ¿Pero no había que sujetar y eso? 
+I1: V-Sml Hombre… Había allí un tajo A-Nul  Y había que, había que meterle  derecho pa que fuera al corazón pero sin, sin metérsele mucho pa que no muriera pronto, pa que sangrara bastante,  pa que echara la sangre, porque eso era para hacer las morcillas  y cosas de esas. 
+E:  E: Entonces clavaban el cuchillo y salía la sangre. La sangre ¿dónde, dónde echaban la sangre? 
+",La provincia a la que pertenecen los informadores es Palencia.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E:  E: T1 Primero, ¿co-, cómo se criaba el cerdo? 
+I2: Era pequeño, le comprábamos pequeñito y le estábamos dando de comer un año… con centenos, con salvaos , con forraje. Granos, de todo. V-Sml
+E:  E: Uno a uno. 
+I2: Cuando tenía el año, por ejemplo,  cogíamos un objeto,  el cuchillo, claro.  Porque el cuchillo es un objeto, ¿no?   Y le, le clavábamos en el pecho,  estiraba un poco la pata… y hala. 
+E:  E: Pero…, vamos a ver, ¿y no tenían una cerda que, que criara los cerditos? 
+I1: Por eso se la comprábamos,   se la comprábamos a quien tenía cerdas de cría. Y se iba a los mercaos , que les A-Nul, al cristo, A-Nul aquellas montañas que hay allá, íbamos con una borriquilla a por cerdo, a por el cerdo. a por burro, a por… cerdos allí.
+E:  E: y…, pero y luego para matar, ¿mataba solo un hombre o cómo? 
+I2: Vaya, sí, hombre. En cada casa había un hombre y mataba él su cerdo.  
+E:  E: ¿Pero no había que sujetar y eso? 
+I1: V-Sml Hombre… Había allí un tajo A-Nul  Y había que, había que meterle  derecho pa que fuera al corazón pero sin, sin metérsele mucho pa que no muriera pronto, pa que sangrara bastante,  pa que echara la sangre, porque eso era para hacer las morcillas  y cosas de esas. 
+E:  E: Entonces clavaban el cuchillo y salía la sangre. La sangre ¿dónde, dónde echaban la sangre? 
+",La provincia a la que pertenecen los informadores es Palencia.
+"Dime de qué lugar es el siguiente texto:  E:  E: T1 Primero, ¿co-, cómo se criaba el cerdo? 
+I2: Era pequeño, le comprábamos pequeñito y le estábamos dando de comer un año… con centenos, con salvaos , con forraje. Granos, de todo. V-Sml
+E:  E: Uno a uno. 
+I2: Cuando tenía el año, por ejemplo,  cogíamos un objeto,  el cuchillo, claro.  Porque el cuchillo es un objeto, ¿no?   Y le, le clavábamos en el pecho,  estiraba un poco la pata… y hala. 
+E:  E: Pero…, vamos a ver, ¿y no tenían una cerda que, que criara los cerditos? 
+I1: Por eso se la comprábamos,   se la comprábamos a quien tenía cerdas de cría. Y se iba a los mercaos , que les A-Nul, al cristo, A-Nul aquellas montañas que hay allá, íbamos con una borriquilla a por cerdo, a por el cerdo. a por burro, a por… cerdos allí.
+E:  E: y…, pero y luego para matar, ¿mataba solo un hombre o cómo? 
+I2: Vaya, sí, hombre. En cada casa había un hombre y mataba él su cerdo.  
+E:  E: ¿Pero no había que sujetar y eso? 
+I1: V-Sml Hombre… Había allí un tajo A-Nul  Y había que, había que meterle  derecho pa que fuera al corazón pero sin, sin metérsele mucho pa que no muriera pronto, pa que sangrara bastante,  pa que echara la sangre, porque eso era para hacer las morcillas  y cosas de esas. 
+E:  E: Entonces clavaban el cuchillo y salía la sangre. La sangre ¿dónde, dónde echaban la sangre? 
+",La provincia a la que pertenecen los informadores es Palencia.

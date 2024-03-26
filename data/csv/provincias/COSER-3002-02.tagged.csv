@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1:  Pues ahora ya tenéis a alguien que os cuente y A-PIn. 
+E1: ¿Y el perrito también está dentro? 
+I1:  ¡No…! La perrita entra antes que nosotros. 
+E2:  ¡Ay…! Sí. 
+I1: Eso por supuesto.  Sentarse, sentarse ahí en el sofá. 
+E2: Muchas gracias. 
+I1: Me voy a quitá unas pocas de cosas de en medio, que me fui… PS Es que con la que… yo no me quería perdé
+E1:  
+I1: T11 Y esto un santo que le rezo tos las noches pa acostarme y debajo de la almohá
+E2: No… 
+E1: No, estoy bien. 
+",La provincia a la que pertenecen los informadores es Málaga.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1:  Pues ahora ya tenéis a alguien que os cuente y A-PIn. 
+E1: ¿Y el perrito también está dentro? 
+I1:  ¡No…! La perrita entra antes que nosotros. 
+E2:  ¡Ay…! Sí. 
+I1: Eso por supuesto.  Sentarse, sentarse ahí en el sofá. 
+E2: Muchas gracias. 
+I1: Me voy a quitá unas pocas de cosas de en medio, que me fui… PS Es que con la que… yo no me quería perdé
+E1:  
+I1: T11 Y esto un santo que le rezo tos las noches pa acostarme y debajo de la almohá
+E2: No… 
+E1: No, estoy bien. 
+",La provincia a la que pertenecen los informadores es Málaga.
+"Dime la provincia del siguiente texto: I1:  Pues ahora ya tenéis a alguien que os cuente y A-PIn. 
+E1: ¿Y el perrito también está dentro? 
+I1:  ¡No…! La perrita entra antes que nosotros. 
+E2:  ¡Ay…! Sí. 
+I1: Eso por supuesto.  Sentarse, sentarse ahí en el sofá. 
+E2: Muchas gracias. 
+I1: Me voy a quitá unas pocas de cosas de en medio, que me fui… PS Es que con la que… yo no me quería perdé
+E1:  
+I1: T11 Y esto un santo que le rezo tos las noches pa acostarme y debajo de la almohá
+E2: No… 
+E1: No, estoy bien. 
+",La provincia a la que pertenecen los informadores es Málaga.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1:  Pues ahora ya tenéis a alguien que os cuente y A-PIn. 
+E1: ¿Y el perrito también está dentro? 
+I1:  ¡No…! La perrita entra antes que nosotros. 
+E2:  ¡Ay…! Sí. 
+I1: Eso por supuesto.  Sentarse, sentarse ahí en el sofá. 
+E2: Muchas gracias. 
+I1: Me voy a quitá unas pocas de cosas de en medio, que me fui… PS Es que con la que… yo no me quería perdé
+E1:  
+I1: T11 Y esto un santo que le rezo tos las noches pa acostarme y debajo de la almohá
+E2: No… 
+E1: No, estoy bien. 
+",La provincia a la que pertenecen los informadores es Málaga.
+"Dime de qué lugar es el siguiente texto:  I1:  Pues ahora ya tenéis a alguien que os cuente y A-PIn. 
+E1: ¿Y el perrito también está dentro? 
+I1:  ¡No…! La perrita entra antes que nosotros. 
+E2:  ¡Ay…! Sí. 
+I1: Eso por supuesto.  Sentarse, sentarse ahí en el sofá. 
+E2: Muchas gracias. 
+I1: Me voy a quitá unas pocas de cosas de en medio, que me fui… PS Es que con la que… yo no me quería perdé
+E1:  
+I1: T11 Y esto un santo que le rezo tos las noches pa acostarme y debajo de la almohá
+E2: No… 
+E1: No, estoy bien. 
+",La provincia a la que pertenecen los informadores es Málaga.

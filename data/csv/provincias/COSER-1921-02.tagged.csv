@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. IE:  IE: HCruz:A-Nul ¿Tú de qué trabajabas? 
+I1: HCruz:Yo  en el… .  Yo iba a decir ¿te digo la fecha cuando me fui? 
+IE:  IE: HCruz:Dime. 
+I1: HCruz:En el año cuarenta_y_siete, mil_novecientos_cuarenta_y_siete. Ingresé en parques y jardines y estuve hasta el año ochenta_y_cinco. 
+IE:  IE: HCruz:¿En lo mismo to'l rato? 
+I1: HCruz:Sí.V-Ljn 
+E1: T1 ¿Aquí se hace la matanza? 
+I2: Sí. 
+E1: ¿Sí?  
+I1: el saldo y todo eso que…? 
+E1: No, no hace falta,  si da igual. 
+",La provincia a la que pertenecen los informadores es Guadalajara.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: IE:  IE: HCruz:A-Nul ¿Tú de qué trabajabas? 
+I1: HCruz:Yo  en el… .  Yo iba a decir ¿te digo la fecha cuando me fui? 
+IE:  IE: HCruz:Dime. 
+I1: HCruz:En el año cuarenta_y_siete, mil_novecientos_cuarenta_y_siete. Ingresé en parques y jardines y estuve hasta el año ochenta_y_cinco. 
+IE:  IE: HCruz:¿En lo mismo to'l rato? 
+I1: HCruz:Sí.V-Ljn 
+E1: T1 ¿Aquí se hace la matanza? 
+I2: Sí. 
+E1: ¿Sí?  
+I1: el saldo y todo eso que…? 
+E1: No, no hace falta,  si da igual. 
+",La provincia a la que pertenecen los informadores es Guadalajara.
+"Dime la provincia del siguiente texto: IE:  IE: HCruz:A-Nul ¿Tú de qué trabajabas? 
+I1: HCruz:Yo  en el… .  Yo iba a decir ¿te digo la fecha cuando me fui? 
+IE:  IE: HCruz:Dime. 
+I1: HCruz:En el año cuarenta_y_siete, mil_novecientos_cuarenta_y_siete. Ingresé en parques y jardines y estuve hasta el año ochenta_y_cinco. 
+IE:  IE: HCruz:¿En lo mismo to'l rato? 
+I1: HCruz:Sí.V-Ljn 
+E1: T1 ¿Aquí se hace la matanza? 
+I2: Sí. 
+E1: ¿Sí?  
+I1: el saldo y todo eso que…? 
+E1: No, no hace falta,  si da igual. 
+",La provincia a la que pertenecen los informadores es Guadalajara.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: IE:  IE: HCruz:A-Nul ¿Tú de qué trabajabas? 
+I1: HCruz:Yo  en el… .  Yo iba a decir ¿te digo la fecha cuando me fui? 
+IE:  IE: HCruz:Dime. 
+I1: HCruz:En el año cuarenta_y_siete, mil_novecientos_cuarenta_y_siete. Ingresé en parques y jardines y estuve hasta el año ochenta_y_cinco. 
+IE:  IE: HCruz:¿En lo mismo to'l rato? 
+I1: HCruz:Sí.V-Ljn 
+E1: T1 ¿Aquí se hace la matanza? 
+I2: Sí. 
+E1: ¿Sí?  
+I1: el saldo y todo eso que…? 
+E1: No, no hace falta,  si da igual. 
+",La provincia a la que pertenecen los informadores es Guadalajara.
+"Dime de qué lugar es el siguiente texto:  IE:  IE: HCruz:A-Nul ¿Tú de qué trabajabas? 
+I1: HCruz:Yo  en el… .  Yo iba a decir ¿te digo la fecha cuando me fui? 
+IE:  IE: HCruz:Dime. 
+I1: HCruz:En el año cuarenta_y_siete, mil_novecientos_cuarenta_y_siete. Ingresé en parques y jardines y estuve hasta el año ochenta_y_cinco. 
+IE:  IE: HCruz:¿En lo mismo to'l rato? 
+I1: HCruz:Sí.V-Ljn 
+E1: T1 ¿Aquí se hace la matanza? 
+I2: Sí. 
+E1: ¿Sí?  
+I1: el saldo y todo eso que…? 
+E1: No, no hace falta,  si da igual. 
+",La provincia a la que pertenecen los informadores es Guadalajara.

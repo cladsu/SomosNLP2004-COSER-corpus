@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T1Pues, por ejemplo… 
+I:  I: Vamos a ver, ¿por dónde empezamos? 
+E1: ¿Cómo…, cómo se hacía antes la matanza? 
+I:  I: ¿Cómo se hacía la antes la matanza? 
+E1: Sí. 
+I:  I: Pues lo mismo que ahora, lo que pasa es que al ser… una matanza . cada matrimonio o cada hogar, . pues se hacía, entonces el ese matrimonio cebaba su cerdo… . cebar quiere decir que le estaba manteniendo durante un año, . o más. Y llegaba la hora de… san Martín… . HCruz:Oye, tú, haz el favor, hombre, que te estoy buscando toa la tarde, coño.Allá penitas, vaya for-, contestaciones. Bueno, vamos a ver. Entonces pues…
+E1: ¿Cebaban al cerdo en casa? 
+I:  I: Sí, sí, cebaban al cerdo en casa, y… en llegando San_Martín, . ya entraba algo de, . de… empezaba a resfriar, . y era cuando se mataba al cerdo, para que… eh… los residuos de ese cerdo . se conservaran mejor. . Tal como longanizas, chorizos, jamones, . y… vamos, lo que es un… lo que es la carne de, de un cerdo. . Entonces se conservaba mejor, y a partir del on-, del once . de noviembre, de San_Martín, es cuando se mataba. ¿Cómo era la matanza, quieres de-, quieres  preguntar? Bueno, pues la matanza, se juntaba la familia y…el uno  tiraba de… el uno tiraba de un gancho, que le…, que generalmente, vamos, no generalmente, se enganchaba de, de esta, de esta parte, . de la fafada que se llamaba. 
+E1: ¿La…? 
+I:  I: Fafada. Y…, y… el resto de la familia, pues a tener… se, se le echaba en un banco, . el resto de la familia, pues sostenía y uno de ellos pues le metía el cuchillo por de-, por, por, por, por… PS por la garganta, oye, no, no, no precisamente por la garganta, . porque se procuraba de que no, de que no fuera… PS como diría, que fu-, que fuera muriendo poco a poco, que fu-, que fuera sangrando poco a poco. . Y eso… De esa forma, pues la carne, pues se segregaba mejor la sangre  de esa carne, ¿entiende?, . entonces la car-, la carne quedaba limpia de, de sangre, . y… bueno, entonces moría el cerdo, . se cogía la sangre, . generalmente se hacía…, se hacía…, que se llamaba chanfaina, . de esa sangre se cocía, . a continuación de… se cocía y… 
+E1: ¿Y, y la sangre cómo… cuando mataban al cerdo, nada más matar al cerdo salía, salía ya la sangre o…? 
+",La provincia a la que pertenecen los informadores es Segovia.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T1Pues, por ejemplo… 
+I:  I: Vamos a ver, ¿por dónde empezamos? 
+E1: ¿Cómo…, cómo se hacía antes la matanza? 
+I:  I: ¿Cómo se hacía la antes la matanza? 
+E1: Sí. 
+I:  I: Pues lo mismo que ahora, lo que pasa es que al ser… una matanza . cada matrimonio o cada hogar, . pues se hacía, entonces el ese matrimonio cebaba su cerdo… . cebar quiere decir que le estaba manteniendo durante un año, . o más. Y llegaba la hora de… san Martín… . HCruz:Oye, tú, haz el favor, hombre, que te estoy buscando toa la tarde, coño.Allá penitas, vaya for-, contestaciones. Bueno, vamos a ver. Entonces pues…
+E1: ¿Cebaban al cerdo en casa? 
+I:  I: Sí, sí, cebaban al cerdo en casa, y… en llegando San_Martín, . ya entraba algo de, . de… empezaba a resfriar, . y era cuando se mataba al cerdo, para que… eh… los residuos de ese cerdo . se conservaran mejor. . Tal como longanizas, chorizos, jamones, . y… vamos, lo que es un… lo que es la carne de, de un cerdo. . Entonces se conservaba mejor, y a partir del on-, del once . de noviembre, de San_Martín, es cuando se mataba. ¿Cómo era la matanza, quieres de-, quieres  preguntar? Bueno, pues la matanza, se juntaba la familia y…el uno  tiraba de… el uno tiraba de un gancho, que le…, que generalmente, vamos, no generalmente, se enganchaba de, de esta, de esta parte, . de la fafada que se llamaba. 
+E1: ¿La…? 
+I:  I: Fafada. Y…, y… el resto de la familia, pues a tener… se, se le echaba en un banco, . el resto de la familia, pues sostenía y uno de ellos pues le metía el cuchillo por de-, por, por, por, por… PS por la garganta, oye, no, no, no precisamente por la garganta, . porque se procuraba de que no, de que no fuera… PS como diría, que fu-, que fuera muriendo poco a poco, que fu-, que fuera sangrando poco a poco. . Y eso… De esa forma, pues la carne, pues se segregaba mejor la sangre  de esa carne, ¿entiende?, . entonces la car-, la carne quedaba limpia de, de sangre, . y… bueno, entonces moría el cerdo, . se cogía la sangre, . generalmente se hacía…, se hacía…, que se llamaba chanfaina, . de esa sangre se cocía, . a continuación de… se cocía y… 
+E1: ¿Y, y la sangre cómo… cuando mataban al cerdo, nada más matar al cerdo salía, salía ya la sangre o…? 
+",La provincia a la que pertenecen los informadores es Segovia.
+"Dime la provincia del siguiente texto: E1: T1Pues, por ejemplo… 
+I:  I: Vamos a ver, ¿por dónde empezamos? 
+E1: ¿Cómo…, cómo se hacía antes la matanza? 
+I:  I: ¿Cómo se hacía la antes la matanza? 
+E1: Sí. 
+I:  I: Pues lo mismo que ahora, lo que pasa es que al ser… una matanza . cada matrimonio o cada hogar, . pues se hacía, entonces el ese matrimonio cebaba su cerdo… . cebar quiere decir que le estaba manteniendo durante un año, . o más. Y llegaba la hora de… san Martín… . HCruz:Oye, tú, haz el favor, hombre, que te estoy buscando toa la tarde, coño.Allá penitas, vaya for-, contestaciones. Bueno, vamos a ver. Entonces pues…
+E1: ¿Cebaban al cerdo en casa? 
+I:  I: Sí, sí, cebaban al cerdo en casa, y… en llegando San_Martín, . ya entraba algo de, . de… empezaba a resfriar, . y era cuando se mataba al cerdo, para que… eh… los residuos de ese cerdo . se conservaran mejor. . Tal como longanizas, chorizos, jamones, . y… vamos, lo que es un… lo que es la carne de, de un cerdo. . Entonces se conservaba mejor, y a partir del on-, del once . de noviembre, de San_Martín, es cuando se mataba. ¿Cómo era la matanza, quieres de-, quieres  preguntar? Bueno, pues la matanza, se juntaba la familia y…el uno  tiraba de… el uno tiraba de un gancho, que le…, que generalmente, vamos, no generalmente, se enganchaba de, de esta, de esta parte, . de la fafada que se llamaba. 
+E1: ¿La…? 
+I:  I: Fafada. Y…, y… el resto de la familia, pues a tener… se, se le echaba en un banco, . el resto de la familia, pues sostenía y uno de ellos pues le metía el cuchillo por de-, por, por, por, por… PS por la garganta, oye, no, no, no precisamente por la garganta, . porque se procuraba de que no, de que no fuera… PS como diría, que fu-, que fuera muriendo poco a poco, que fu-, que fuera sangrando poco a poco. . Y eso… De esa forma, pues la carne, pues se segregaba mejor la sangre  de esa carne, ¿entiende?, . entonces la car-, la carne quedaba limpia de, de sangre, . y… bueno, entonces moría el cerdo, . se cogía la sangre, . generalmente se hacía…, se hacía…, que se llamaba chanfaina, . de esa sangre se cocía, . a continuación de… se cocía y… 
+E1: ¿Y, y la sangre cómo… cuando mataban al cerdo, nada más matar al cerdo salía, salía ya la sangre o…? 
+",La provincia a la que pertenecen los informadores es Segovia.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T1Pues, por ejemplo… 
+I:  I: Vamos a ver, ¿por dónde empezamos? 
+E1: ¿Cómo…, cómo se hacía antes la matanza? 
+I:  I: ¿Cómo se hacía la antes la matanza? 
+E1: Sí. 
+I:  I: Pues lo mismo que ahora, lo que pasa es que al ser… una matanza . cada matrimonio o cada hogar, . pues se hacía, entonces el ese matrimonio cebaba su cerdo… . cebar quiere decir que le estaba manteniendo durante un año, . o más. Y llegaba la hora de… san Martín… . HCruz:Oye, tú, haz el favor, hombre, que te estoy buscando toa la tarde, coño.Allá penitas, vaya for-, contestaciones. Bueno, vamos a ver. Entonces pues…
+E1: ¿Cebaban al cerdo en casa? 
+I:  I: Sí, sí, cebaban al cerdo en casa, y… en llegando San_Martín, . ya entraba algo de, . de… empezaba a resfriar, . y era cuando se mataba al cerdo, para que… eh… los residuos de ese cerdo . se conservaran mejor. . Tal como longanizas, chorizos, jamones, . y… vamos, lo que es un… lo que es la carne de, de un cerdo. . Entonces se conservaba mejor, y a partir del on-, del once . de noviembre, de San_Martín, es cuando se mataba. ¿Cómo era la matanza, quieres de-, quieres  preguntar? Bueno, pues la matanza, se juntaba la familia y…el uno  tiraba de… el uno tiraba de un gancho, que le…, que generalmente, vamos, no generalmente, se enganchaba de, de esta, de esta parte, . de la fafada que se llamaba. 
+E1: ¿La…? 
+I:  I: Fafada. Y…, y… el resto de la familia, pues a tener… se, se le echaba en un banco, . el resto de la familia, pues sostenía y uno de ellos pues le metía el cuchillo por de-, por, por, por, por… PS por la garganta, oye, no, no, no precisamente por la garganta, . porque se procuraba de que no, de que no fuera… PS como diría, que fu-, que fuera muriendo poco a poco, que fu-, que fuera sangrando poco a poco. . Y eso… De esa forma, pues la carne, pues se segregaba mejor la sangre  de esa carne, ¿entiende?, . entonces la car-, la carne quedaba limpia de, de sangre, . y… bueno, entonces moría el cerdo, . se cogía la sangre, . generalmente se hacía…, se hacía…, que se llamaba chanfaina, . de esa sangre se cocía, . a continuación de… se cocía y… 
+E1: ¿Y, y la sangre cómo… cuando mataban al cerdo, nada más matar al cerdo salía, salía ya la sangre o…? 
+",La provincia a la que pertenecen los informadores es Segovia.
+"Dime de qué lugar es el siguiente texto:  E1: T1Pues, por ejemplo… 
+I:  I: Vamos a ver, ¿por dónde empezamos? 
+E1: ¿Cómo…, cómo se hacía antes la matanza? 
+I:  I: ¿Cómo se hacía la antes la matanza? 
+E1: Sí. 
+I:  I: Pues lo mismo que ahora, lo que pasa es que al ser… una matanza . cada matrimonio o cada hogar, . pues se hacía, entonces el ese matrimonio cebaba su cerdo… . cebar quiere decir que le estaba manteniendo durante un año, . o más. Y llegaba la hora de… san Martín… . HCruz:Oye, tú, haz el favor, hombre, que te estoy buscando toa la tarde, coño.Allá penitas, vaya for-, contestaciones. Bueno, vamos a ver. Entonces pues…
+E1: ¿Cebaban al cerdo en casa? 
+I:  I: Sí, sí, cebaban al cerdo en casa, y… en llegando San_Martín, . ya entraba algo de, . de… empezaba a resfriar, . y era cuando se mataba al cerdo, para que… eh… los residuos de ese cerdo . se conservaran mejor. . Tal como longanizas, chorizos, jamones, . y… vamos, lo que es un… lo que es la carne de, de un cerdo. . Entonces se conservaba mejor, y a partir del on-, del once . de noviembre, de San_Martín, es cuando se mataba. ¿Cómo era la matanza, quieres de-, quieres  preguntar? Bueno, pues la matanza, se juntaba la familia y…el uno  tiraba de… el uno tiraba de un gancho, que le…, que generalmente, vamos, no generalmente, se enganchaba de, de esta, de esta parte, . de la fafada que se llamaba. 
+E1: ¿La…? 
+I:  I: Fafada. Y…, y… el resto de la familia, pues a tener… se, se le echaba en un banco, . el resto de la familia, pues sostenía y uno de ellos pues le metía el cuchillo por de-, por, por, por, por… PS por la garganta, oye, no, no, no precisamente por la garganta, . porque se procuraba de que no, de que no fuera… PS como diría, que fu-, que fuera muriendo poco a poco, que fu-, que fuera sangrando poco a poco. . Y eso… De esa forma, pues la carne, pues se segregaba mejor la sangre  de esa carne, ¿entiende?, . entonces la car-, la carne quedaba limpia de, de sangre, . y… bueno, entonces moría el cerdo, . se cogía la sangre, . generalmente se hacía…, se hacía…, que se llamaba chanfaina, . de esa sangre se cocía, . a continuación de… se cocía y… 
+E1: ¿Y, y la sangre cómo… cuando mataban al cerdo, nada más matar al cerdo salía, salía ya la sangre o…? 
+",La provincia a la que pertenecen los informadores es Segovia.

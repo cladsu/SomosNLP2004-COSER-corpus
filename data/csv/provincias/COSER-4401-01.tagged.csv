@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: Ya llevo muchos años que no lo hago. 
+E1: O sea, que es usted de Santiago_del_Arroyo.  ¿Que es la provincia de Valladolid o la provincia de Segovia? 
+I1: No, la provincia de Valladolid. 
+E1: De Valladolid todavía, ¿no? ¿Y usted es de allí, nacida allí, criada allí?  
+I1: sí, allí todo. 
+E1: ¿Y qué pasa, que vino aquí a vivir a, a, a…?   ¿Cómo se llama esto? ¿Arrabal_de_Portillo?  Porque se casó aquí, ¿o qué? 
+I1: No, no. Yo me casé allí y tuve allí cinco hijos y aquí he, he tenido solo el que tiene la droguería. 
+E1: Ya. ¿Y entonces ya se vino aquí a vivir?  
+I1: aquí a vivir. 
+E1: T1 ¿Y usted ha hecho matanza? 
+I1: Yo he hecho muchas, pero… Rndo:ochenta_y_seis años que tengo… ya ni me acuerdo. 
+",La provincia a la que pertenecen los informadores es Valladolid.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: Ya llevo muchos años que no lo hago. 
+E1: O sea, que es usted de Santiago_del_Arroyo.  ¿Que es la provincia de Valladolid o la provincia de Segovia? 
+I1: No, la provincia de Valladolid. 
+E1: De Valladolid todavía, ¿no? ¿Y usted es de allí, nacida allí, criada allí?  
+I1: sí, allí todo. 
+E1: ¿Y qué pasa, que vino aquí a vivir a, a, a…?   ¿Cómo se llama esto? ¿Arrabal_de_Portillo?  Porque se casó aquí, ¿o qué? 
+I1: No, no. Yo me casé allí y tuve allí cinco hijos y aquí he, he tenido solo el que tiene la droguería. 
+E1: Ya. ¿Y entonces ya se vino aquí a vivir?  
+I1: aquí a vivir. 
+E1: T1 ¿Y usted ha hecho matanza? 
+I1: Yo he hecho muchas, pero… Rndo:ochenta_y_seis años que tengo… ya ni me acuerdo. 
+",La provincia a la que pertenecen los informadores es Valladolid.
+"Dime la provincia del siguiente texto: I1: Ya llevo muchos años que no lo hago. 
+E1: O sea, que es usted de Santiago_del_Arroyo.  ¿Que es la provincia de Valladolid o la provincia de Segovia? 
+I1: No, la provincia de Valladolid. 
+E1: De Valladolid todavía, ¿no? ¿Y usted es de allí, nacida allí, criada allí?  
+I1: sí, allí todo. 
+E1: ¿Y qué pasa, que vino aquí a vivir a, a, a…?   ¿Cómo se llama esto? ¿Arrabal_de_Portillo?  Porque se casó aquí, ¿o qué? 
+I1: No, no. Yo me casé allí y tuve allí cinco hijos y aquí he, he tenido solo el que tiene la droguería. 
+E1: Ya. ¿Y entonces ya se vino aquí a vivir?  
+I1: aquí a vivir. 
+E1: T1 ¿Y usted ha hecho matanza? 
+I1: Yo he hecho muchas, pero… Rndo:ochenta_y_seis años que tengo… ya ni me acuerdo. 
+",La provincia a la que pertenecen los informadores es Valladolid.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: Ya llevo muchos años que no lo hago. 
+E1: O sea, que es usted de Santiago_del_Arroyo.  ¿Que es la provincia de Valladolid o la provincia de Segovia? 
+I1: No, la provincia de Valladolid. 
+E1: De Valladolid todavía, ¿no? ¿Y usted es de allí, nacida allí, criada allí?  
+I1: sí, allí todo. 
+E1: ¿Y qué pasa, que vino aquí a vivir a, a, a…?   ¿Cómo se llama esto? ¿Arrabal_de_Portillo?  Porque se casó aquí, ¿o qué? 
+I1: No, no. Yo me casé allí y tuve allí cinco hijos y aquí he, he tenido solo el que tiene la droguería. 
+E1: Ya. ¿Y entonces ya se vino aquí a vivir?  
+I1: aquí a vivir. 
+E1: T1 ¿Y usted ha hecho matanza? 
+I1: Yo he hecho muchas, pero… Rndo:ochenta_y_seis años que tengo… ya ni me acuerdo. 
+",La provincia a la que pertenecen los informadores es Valladolid.
+"Dime de qué lugar es el siguiente texto:  I1: Ya llevo muchos años que no lo hago. 
+E1: O sea, que es usted de Santiago_del_Arroyo.  ¿Que es la provincia de Valladolid o la provincia de Segovia? 
+I1: No, la provincia de Valladolid. 
+E1: De Valladolid todavía, ¿no? ¿Y usted es de allí, nacida allí, criada allí?  
+I1: sí, allí todo. 
+E1: ¿Y qué pasa, que vino aquí a vivir a, a, a…?   ¿Cómo se llama esto? ¿Arrabal_de_Portillo?  Porque se casó aquí, ¿o qué? 
+I1: No, no. Yo me casé allí y tuve allí cinco hijos y aquí he, he tenido solo el que tiene la droguería. 
+E1: Ya. ¿Y entonces ya se vino aquí a vivir?  
+I1: aquí a vivir. 
+E1: T1 ¿Y usted ha hecho matanza? 
+I1: Yo he hecho muchas, pero… Rndo:ochenta_y_seis años que tengo… ya ni me acuerdo. 
+",La provincia a la que pertenecen los informadores es Valladolid.

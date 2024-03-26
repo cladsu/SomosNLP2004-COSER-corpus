@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T1 ¿Por ejemplo, usted, la matanza, qué, qué, qué es lo que, qué es lo que hacían en su casa de pequeño? 
+I1: Sí, de, de pequeño en mi casa todos los años se, se mataba un cerdo. 
+I2: Durante el año se criaba,  era pa, pa engordalo y en la época de noviembre y enero, entonces, cuando era la hora de la matanza, de la matanza, ¿sabe? Ahí se hacía morcilla, se hacían los chorizos y el matarife preparaba las paletillas, los jamones, los salaba, así como en una caja de, de madera…
+E1: ¿Cómo llamaban a esa caja? 
+I1: Pues en una caja, en un rincón. 
+I2: Pues no me acuerdo, pero, aonde lo mataban y lo pelaban era le decían la artesa, la artesa, ¿sabe? HCruz:Buenas. A-Crt
+E1: Usted recuerda entonces, ¿dónde, cómo…? 
+I1: Desde, desde que era pequeño, pues se usaba eso, . durante el año, se hacía un pequeño sacrificio pa criar el cerdo. . Y luego ya a partir de, de noviembre, munchos pos mataban antes de la recolección de la aceituna, como aquí hemos dependío
+E1: . ¿Y por ejemplo, en su casa cuántos cerdos se, se…? 
+I1: En mi casa era muy raro que se mataran dos, porque claro, tampoco éramos una… Comerse se comían, . sí se hubiesen matao. Pero, claro, las posibilidades no eran… Pero, como mínimo, uno sí se mataba todos los años. 
+E1: . ¿Y mataban ustedes o llamaban avisaban a…?  
+",La provincia a la que pertenecen los informadores es Jaén.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T1 ¿Por ejemplo, usted, la matanza, qué, qué, qué es lo que, qué es lo que hacían en su casa de pequeño? 
+I1: Sí, de, de pequeño en mi casa todos los años se, se mataba un cerdo. 
+I2: Durante el año se criaba,  era pa, pa engordalo y en la época de noviembre y enero, entonces, cuando era la hora de la matanza, de la matanza, ¿sabe? Ahí se hacía morcilla, se hacían los chorizos y el matarife preparaba las paletillas, los jamones, los salaba, así como en una caja de, de madera…
+E1: ¿Cómo llamaban a esa caja? 
+I1: Pues en una caja, en un rincón. 
+I2: Pues no me acuerdo, pero, aonde lo mataban y lo pelaban era le decían la artesa, la artesa, ¿sabe? HCruz:Buenas. A-Crt
+E1: Usted recuerda entonces, ¿dónde, cómo…? 
+I1: Desde, desde que era pequeño, pues se usaba eso, . durante el año, se hacía un pequeño sacrificio pa criar el cerdo. . Y luego ya a partir de, de noviembre, munchos pos mataban antes de la recolección de la aceituna, como aquí hemos dependío
+E1: . ¿Y por ejemplo, en su casa cuántos cerdos se, se…? 
+I1: En mi casa era muy raro que se mataran dos, porque claro, tampoco éramos una… Comerse se comían, . sí se hubiesen matao. Pero, claro, las posibilidades no eran… Pero, como mínimo, uno sí se mataba todos los años. 
+E1: . ¿Y mataban ustedes o llamaban avisaban a…?  
+",La provincia a la que pertenecen los informadores es Jaén.
+"Dime la provincia del siguiente texto: E1: T1 ¿Por ejemplo, usted, la matanza, qué, qué, qué es lo que, qué es lo que hacían en su casa de pequeño? 
+I1: Sí, de, de pequeño en mi casa todos los años se, se mataba un cerdo. 
+I2: Durante el año se criaba,  era pa, pa engordalo y en la época de noviembre y enero, entonces, cuando era la hora de la matanza, de la matanza, ¿sabe? Ahí se hacía morcilla, se hacían los chorizos y el matarife preparaba las paletillas, los jamones, los salaba, así como en una caja de, de madera…
+E1: ¿Cómo llamaban a esa caja? 
+I1: Pues en una caja, en un rincón. 
+I2: Pues no me acuerdo, pero, aonde lo mataban y lo pelaban era le decían la artesa, la artesa, ¿sabe? HCruz:Buenas. A-Crt
+E1: Usted recuerda entonces, ¿dónde, cómo…? 
+I1: Desde, desde que era pequeño, pues se usaba eso, . durante el año, se hacía un pequeño sacrificio pa criar el cerdo. . Y luego ya a partir de, de noviembre, munchos pos mataban antes de la recolección de la aceituna, como aquí hemos dependío
+E1: . ¿Y por ejemplo, en su casa cuántos cerdos se, se…? 
+I1: En mi casa era muy raro que se mataran dos, porque claro, tampoco éramos una… Comerse se comían, . sí se hubiesen matao. Pero, claro, las posibilidades no eran… Pero, como mínimo, uno sí se mataba todos los años. 
+E1: . ¿Y mataban ustedes o llamaban avisaban a…?  
+",La provincia a la que pertenecen los informadores es Jaén.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T1 ¿Por ejemplo, usted, la matanza, qué, qué, qué es lo que, qué es lo que hacían en su casa de pequeño? 
+I1: Sí, de, de pequeño en mi casa todos los años se, se mataba un cerdo. 
+I2: Durante el año se criaba,  era pa, pa engordalo y en la época de noviembre y enero, entonces, cuando era la hora de la matanza, de la matanza, ¿sabe? Ahí se hacía morcilla, se hacían los chorizos y el matarife preparaba las paletillas, los jamones, los salaba, así como en una caja de, de madera…
+E1: ¿Cómo llamaban a esa caja? 
+I1: Pues en una caja, en un rincón. 
+I2: Pues no me acuerdo, pero, aonde lo mataban y lo pelaban era le decían la artesa, la artesa, ¿sabe? HCruz:Buenas. A-Crt
+E1: Usted recuerda entonces, ¿dónde, cómo…? 
+I1: Desde, desde que era pequeño, pues se usaba eso, . durante el año, se hacía un pequeño sacrificio pa criar el cerdo. . Y luego ya a partir de, de noviembre, munchos pos mataban antes de la recolección de la aceituna, como aquí hemos dependío
+E1: . ¿Y por ejemplo, en su casa cuántos cerdos se, se…? 
+I1: En mi casa era muy raro que se mataran dos, porque claro, tampoco éramos una… Comerse se comían, . sí se hubiesen matao. Pero, claro, las posibilidades no eran… Pero, como mínimo, uno sí se mataba todos los años. 
+E1: . ¿Y mataban ustedes o llamaban avisaban a…?  
+",La provincia a la que pertenecen los informadores es Jaén.
+"Dime de qué lugar es el siguiente texto:  E1: T1 ¿Por ejemplo, usted, la matanza, qué, qué, qué es lo que, qué es lo que hacían en su casa de pequeño? 
+I1: Sí, de, de pequeño en mi casa todos los años se, se mataba un cerdo. 
+I2: Durante el año se criaba,  era pa, pa engordalo y en la época de noviembre y enero, entonces, cuando era la hora de la matanza, de la matanza, ¿sabe? Ahí se hacía morcilla, se hacían los chorizos y el matarife preparaba las paletillas, los jamones, los salaba, así como en una caja de, de madera…
+E1: ¿Cómo llamaban a esa caja? 
+I1: Pues en una caja, en un rincón. 
+I2: Pues no me acuerdo, pero, aonde lo mataban y lo pelaban era le decían la artesa, la artesa, ¿sabe? HCruz:Buenas. A-Crt
+E1: Usted recuerda entonces, ¿dónde, cómo…? 
+I1: Desde, desde que era pequeño, pues se usaba eso, . durante el año, se hacía un pequeño sacrificio pa criar el cerdo. . Y luego ya a partir de, de noviembre, munchos pos mataban antes de la recolección de la aceituna, como aquí hemos dependío
+E1: . ¿Y por ejemplo, en su casa cuántos cerdos se, se…? 
+I1: En mi casa era muy raro que se mataran dos, porque claro, tampoco éramos una… Comerse se comían, . sí se hubiesen matao. Pero, claro, las posibilidades no eran… Pero, como mínimo, uno sí se mataba todos los años. 
+E1: . ¿Y mataban ustedes o llamaban avisaban a…?  
+",La provincia a la que pertenecen los informadores es Jaén.

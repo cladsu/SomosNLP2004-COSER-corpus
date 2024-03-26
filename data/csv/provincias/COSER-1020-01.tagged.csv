@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: Es algo . 
+E1: Ah, de ¿Y de qué se saca? 
+I2: De cerdo. 
+I1: De  cerdo. 
+E1: de cerdo. 
+I2: Eso de cerdo, sí. 
+E1: Estaba buenísimo. 
+I2: Sí. V-Sml Eso de cerdo, nosotros hemos tenío también… bar y…, y poníamos eso muchas veces, el cerdo. 
+I1: El cerdo era mu típico en… el mundo entero. 
+E1: . Hemos comido bien, ¿verdad? 
+I1: Sí, . sí. 
+",La provincia a la que pertenecen los informadores es Cáceres.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: Es algo . 
+E1: Ah, de ¿Y de qué se saca? 
+I2: De cerdo. 
+I1: De  cerdo. 
+E1: de cerdo. 
+I2: Eso de cerdo, sí. 
+E1: Estaba buenísimo. 
+I2: Sí. V-Sml Eso de cerdo, nosotros hemos tenío también… bar y…, y poníamos eso muchas veces, el cerdo. 
+I1: El cerdo era mu típico en… el mundo entero. 
+E1: . Hemos comido bien, ¿verdad? 
+I1: Sí, . sí. 
+",La provincia a la que pertenecen los informadores es Cáceres.
+"Dime la provincia del siguiente texto: I1: Es algo . 
+E1: Ah, de ¿Y de qué se saca? 
+I2: De cerdo. 
+I1: De  cerdo. 
+E1: de cerdo. 
+I2: Eso de cerdo, sí. 
+E1: Estaba buenísimo. 
+I2: Sí. V-Sml Eso de cerdo, nosotros hemos tenío también… bar y…, y poníamos eso muchas veces, el cerdo. 
+I1: El cerdo era mu típico en… el mundo entero. 
+E1: . Hemos comido bien, ¿verdad? 
+I1: Sí, . sí. 
+",La provincia a la que pertenecen los informadores es Cáceres.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: Es algo . 
+E1: Ah, de ¿Y de qué se saca? 
+I2: De cerdo. 
+I1: De  cerdo. 
+E1: de cerdo. 
+I2: Eso de cerdo, sí. 
+E1: Estaba buenísimo. 
+I2: Sí. V-Sml Eso de cerdo, nosotros hemos tenío también… bar y…, y poníamos eso muchas veces, el cerdo. 
+I1: El cerdo era mu típico en… el mundo entero. 
+E1: . Hemos comido bien, ¿verdad? 
+I1: Sí, . sí. 
+",La provincia a la que pertenecen los informadores es Cáceres.
+"Dime de qué lugar es el siguiente texto:  I1: Es algo . 
+E1: Ah, de ¿Y de qué se saca? 
+I2: De cerdo. 
+I1: De  cerdo. 
+E1: de cerdo. 
+I2: Eso de cerdo, sí. 
+E1: Estaba buenísimo. 
+I2: Sí. V-Sml Eso de cerdo, nosotros hemos tenío también… bar y…, y poníamos eso muchas veces, el cerdo. 
+I1: El cerdo era mu típico en… el mundo entero. 
+E1: . Hemos comido bien, ¿verdad? 
+I1: Sí, . sí. 
+",La provincia a la que pertenecen los informadores es Cáceres.

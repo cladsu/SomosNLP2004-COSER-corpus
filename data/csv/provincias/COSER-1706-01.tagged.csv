@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I2: Pues habéis ido en, en un pueblo, bueno, esto es un…, es un barrio.  Es un barrio de un pueblo, ¿eh?, esto. . No es ningún pueblo esto. Esto es un barrio.  
+I1:  
+E2: ¿Cómo, cómo se llama este pueblo? 
+I1: Queixàs.  Quei-; bueno, barrio de Queixàs. Es el municipio de Cabanelles, pero es barrio de Queixàs.  Y Cabanelles tiene… tres barrios: Espinavessa, Vilademires…  
+I2: ya te preguntarán.  Sí.  L-Otra:Ja t'ho preguntaran ells.
+E1: T1 Pues…, si les parece bien, nos cuentan primero, ¿hacían aquí matanza antes? ¿Sí? ¿La han hecho ustedes también?  
+I1: Ya os podéis quitar la mascarilla. 
+E1: ¿No les importa? 
+I2: No… 
+E1: ¿Sí? Ay, muchas gracias.  
+I1: Buah, aquí es…  No vamos a coger nada aquí. 
+",La provincia a la que pertenecen los informadores es Gerona.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I2: Pues habéis ido en, en un pueblo, bueno, esto es un…, es un barrio.  Es un barrio de un pueblo, ¿eh?, esto. . No es ningún pueblo esto. Esto es un barrio.  
+I1:  
+E2: ¿Cómo, cómo se llama este pueblo? 
+I1: Queixàs.  Quei-; bueno, barrio de Queixàs. Es el municipio de Cabanelles, pero es barrio de Queixàs.  Y Cabanelles tiene… tres barrios: Espinavessa, Vilademires…  
+I2: ya te preguntarán.  Sí.  L-Otra:Ja t'ho preguntaran ells.
+E1: T1 Pues…, si les parece bien, nos cuentan primero, ¿hacían aquí matanza antes? ¿Sí? ¿La han hecho ustedes también?  
+I1: Ya os podéis quitar la mascarilla. 
+E1: ¿No les importa? 
+I2: No… 
+E1: ¿Sí? Ay, muchas gracias.  
+I1: Buah, aquí es…  No vamos a coger nada aquí. 
+",La provincia a la que pertenecen los informadores es Gerona.
+"Dime la provincia del siguiente texto: I2: Pues habéis ido en, en un pueblo, bueno, esto es un…, es un barrio.  Es un barrio de un pueblo, ¿eh?, esto. . No es ningún pueblo esto. Esto es un barrio.  
+I1:  
+E2: ¿Cómo, cómo se llama este pueblo? 
+I1: Queixàs.  Quei-; bueno, barrio de Queixàs. Es el municipio de Cabanelles, pero es barrio de Queixàs.  Y Cabanelles tiene… tres barrios: Espinavessa, Vilademires…  
+I2: ya te preguntarán.  Sí.  L-Otra:Ja t'ho preguntaran ells.
+E1: T1 Pues…, si les parece bien, nos cuentan primero, ¿hacían aquí matanza antes? ¿Sí? ¿La han hecho ustedes también?  
+I1: Ya os podéis quitar la mascarilla. 
+E1: ¿No les importa? 
+I2: No… 
+E1: ¿Sí? Ay, muchas gracias.  
+I1: Buah, aquí es…  No vamos a coger nada aquí. 
+",La provincia a la que pertenecen los informadores es Gerona.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I2: Pues habéis ido en, en un pueblo, bueno, esto es un…, es un barrio.  Es un barrio de un pueblo, ¿eh?, esto. . No es ningún pueblo esto. Esto es un barrio.  
+I1:  
+E2: ¿Cómo, cómo se llama este pueblo? 
+I1: Queixàs.  Quei-; bueno, barrio de Queixàs. Es el municipio de Cabanelles, pero es barrio de Queixàs.  Y Cabanelles tiene… tres barrios: Espinavessa, Vilademires…  
+I2: ya te preguntarán.  Sí.  L-Otra:Ja t'ho preguntaran ells.
+E1: T1 Pues…, si les parece bien, nos cuentan primero, ¿hacían aquí matanza antes? ¿Sí? ¿La han hecho ustedes también?  
+I1: Ya os podéis quitar la mascarilla. 
+E1: ¿No les importa? 
+I2: No… 
+E1: ¿Sí? Ay, muchas gracias.  
+I1: Buah, aquí es…  No vamos a coger nada aquí. 
+",La provincia a la que pertenecen los informadores es Gerona.
+"Dime de qué lugar es el siguiente texto:  I2: Pues habéis ido en, en un pueblo, bueno, esto es un…, es un barrio.  Es un barrio de un pueblo, ¿eh?, esto. . No es ningún pueblo esto. Esto es un barrio.  
+I1:  
+E2: ¿Cómo, cómo se llama este pueblo? 
+I1: Queixàs.  Quei-; bueno, barrio de Queixàs. Es el municipio de Cabanelles, pero es barrio de Queixàs.  Y Cabanelles tiene… tres barrios: Espinavessa, Vilademires…  
+I2: ya te preguntarán.  Sí.  L-Otra:Ja t'ho preguntaran ells.
+E1: T1 Pues…, si les parece bien, nos cuentan primero, ¿hacían aquí matanza antes? ¿Sí? ¿La han hecho ustedes también?  
+I1: Ya os podéis quitar la mascarilla. 
+E1: ¿No les importa? 
+I2: No… 
+E1: ¿Sí? Ay, muchas gracias.  
+I1: Buah, aquí es…  No vamos a coger nada aquí. 
+",La provincia a la que pertenecen los informadores es Gerona.

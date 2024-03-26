@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: Sí. ¿Y cómo se hacía? 
+I1: Le pelaban. 
+E1: Sí. 
+I1: Lo metían en agua cociendo pa pelarle. 
+E:  E: Ah, le primero le pelaban. 
+I1: Primero  le mataban, ¿cómo le van a ma-, a pelar vivo? 
+E1: Ah. 
+I1: Pues entonces sí que sería… 
+I2: Cómo va a salir bien, ¿verdá ? 
+E1: Sí. ¿Y entonces? 
+I1: Pues no sé. Ma-, le mataban, cogíamos la sangre. 
+",La provincia a la que pertenecen los informadores es Soria.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: Sí. ¿Y cómo se hacía? 
+I1: Le pelaban. 
+E1: Sí. 
+I1: Lo metían en agua cociendo pa pelarle. 
+E:  E: Ah, le primero le pelaban. 
+I1: Primero  le mataban, ¿cómo le van a ma-, a pelar vivo? 
+E1: Ah. 
+I1: Pues entonces sí que sería… 
+I2: Cómo va a salir bien, ¿verdá ? 
+E1: Sí. ¿Y entonces? 
+I1: Pues no sé. Ma-, le mataban, cogíamos la sangre. 
+",La provincia a la que pertenecen los informadores es Soria.
+"Dime la provincia del siguiente texto: E1: Sí. ¿Y cómo se hacía? 
+I1: Le pelaban. 
+E1: Sí. 
+I1: Lo metían en agua cociendo pa pelarle. 
+E:  E: Ah, le primero le pelaban. 
+I1: Primero  le mataban, ¿cómo le van a ma-, a pelar vivo? 
+E1: Ah. 
+I1: Pues entonces sí que sería… 
+I2: Cómo va a salir bien, ¿verdá ? 
+E1: Sí. ¿Y entonces? 
+I1: Pues no sé. Ma-, le mataban, cogíamos la sangre. 
+",La provincia a la que pertenecen los informadores es Soria.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: Sí. ¿Y cómo se hacía? 
+I1: Le pelaban. 
+E1: Sí. 
+I1: Lo metían en agua cociendo pa pelarle. 
+E:  E: Ah, le primero le pelaban. 
+I1: Primero  le mataban, ¿cómo le van a ma-, a pelar vivo? 
+E1: Ah. 
+I1: Pues entonces sí que sería… 
+I2: Cómo va a salir bien, ¿verdá ? 
+E1: Sí. ¿Y entonces? 
+I1: Pues no sé. Ma-, le mataban, cogíamos la sangre. 
+",La provincia a la que pertenecen los informadores es Soria.
+"Dime de qué lugar es el siguiente texto:  E1: Sí. ¿Y cómo se hacía? 
+I1: Le pelaban. 
+E1: Sí. 
+I1: Lo metían en agua cociendo pa pelarle. 
+E:  E: Ah, le primero le pelaban. 
+I1: Primero  le mataban, ¿cómo le van a ma-, a pelar vivo? 
+E1: Ah. 
+I1: Pues entonces sí que sería… 
+I2: Cómo va a salir bien, ¿verdá ? 
+E1: Sí. ¿Y entonces? 
+I1: Pues no sé. Ma-, le mataban, cogíamos la sangre. 
+",La provincia a la que pertenecen los informadores es Soria.

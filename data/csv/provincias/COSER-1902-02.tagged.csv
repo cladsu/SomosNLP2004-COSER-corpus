@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T1 A-Nul Bueno, nos gustaría saber cómo…, cómo hacían ustedes la matanza; si todavía hacen matanza, cuándo la hacen… 
+I1: Sí… Pues en febrero, este año en febrero. No sé qué día la hicimos, pero eso ya es… uno solo para todo el pueblo, y los que están en… la capital vienen a…, a reunisen con nosotros y pasar el día con nosotros. Pues nada, lo matan y lo pelan, luego lo escuartizan, sacan todo y… ya está. Luego nosotros il-, lavamos las tripas y hicimos las morcillas en casa de esta señora y eso, y luego por la…
+E2: ¿Lo hacen entre unos cuantos vecinos…?, ¿se, se reúnen así? 
+I1: Sí, muchos. HCruz:¿Cuántos habría este año? 
+I2:  Todos. 
+I1: Muchos, muchos. Sí, hicimos… pues migas, y luego los la panceta, la lo del cochino, eso, le decimos la panceta. 
+E1: . 
+I1: Torrendillos , y los están friendo, y eso. Pues no sé si dos o tres días tuvimos de…, de comidas, conque mira.
+E1: ¿Cómo llaman aquí al cerdo? ¿Tiene algún nombre especial  o lo llaman cerdo? 
+I1: Antes le decíamos cochino, yo qué sé. Los cochinos, más que cerdos, cochinos, Rndo:no sé por qué. Pero eso desde siempre, claro. Así que…  todo eso. 
+E1: Y tienen…, cuando matan al cerdo…, ¿tienen que avisar al veterinario para…? 
+",La provincia a la que pertenecen los informadores es Guadalajara.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T1 A-Nul Bueno, nos gustaría saber cómo…, cómo hacían ustedes la matanza; si todavía hacen matanza, cuándo la hacen… 
+I1: Sí… Pues en febrero, este año en febrero. No sé qué día la hicimos, pero eso ya es… uno solo para todo el pueblo, y los que están en… la capital vienen a…, a reunisen con nosotros y pasar el día con nosotros. Pues nada, lo matan y lo pelan, luego lo escuartizan, sacan todo y… ya está. Luego nosotros il-, lavamos las tripas y hicimos las morcillas en casa de esta señora y eso, y luego por la…
+E2: ¿Lo hacen entre unos cuantos vecinos…?, ¿se, se reúnen así? 
+I1: Sí, muchos. HCruz:¿Cuántos habría este año? 
+I2:  Todos. 
+I1: Muchos, muchos. Sí, hicimos… pues migas, y luego los la panceta, la lo del cochino, eso, le decimos la panceta. 
+E1: . 
+I1: Torrendillos , y los están friendo, y eso. Pues no sé si dos o tres días tuvimos de…, de comidas, conque mira.
+E1: ¿Cómo llaman aquí al cerdo? ¿Tiene algún nombre especial  o lo llaman cerdo? 
+I1: Antes le decíamos cochino, yo qué sé. Los cochinos, más que cerdos, cochinos, Rndo:no sé por qué. Pero eso desde siempre, claro. Así que…  todo eso. 
+E1: Y tienen…, cuando matan al cerdo…, ¿tienen que avisar al veterinario para…? 
+",La provincia a la que pertenecen los informadores es Guadalajara.
+"Dime la provincia del siguiente texto: E1: T1 A-Nul Bueno, nos gustaría saber cómo…, cómo hacían ustedes la matanza; si todavía hacen matanza, cuándo la hacen… 
+I1: Sí… Pues en febrero, este año en febrero. No sé qué día la hicimos, pero eso ya es… uno solo para todo el pueblo, y los que están en… la capital vienen a…, a reunisen con nosotros y pasar el día con nosotros. Pues nada, lo matan y lo pelan, luego lo escuartizan, sacan todo y… ya está. Luego nosotros il-, lavamos las tripas y hicimos las morcillas en casa de esta señora y eso, y luego por la…
+E2: ¿Lo hacen entre unos cuantos vecinos…?, ¿se, se reúnen así? 
+I1: Sí, muchos. HCruz:¿Cuántos habría este año? 
+I2:  Todos. 
+I1: Muchos, muchos. Sí, hicimos… pues migas, y luego los la panceta, la lo del cochino, eso, le decimos la panceta. 
+E1: . 
+I1: Torrendillos , y los están friendo, y eso. Pues no sé si dos o tres días tuvimos de…, de comidas, conque mira.
+E1: ¿Cómo llaman aquí al cerdo? ¿Tiene algún nombre especial  o lo llaman cerdo? 
+I1: Antes le decíamos cochino, yo qué sé. Los cochinos, más que cerdos, cochinos, Rndo:no sé por qué. Pero eso desde siempre, claro. Así que…  todo eso. 
+E1: Y tienen…, cuando matan al cerdo…, ¿tienen que avisar al veterinario para…? 
+",La provincia a la que pertenecen los informadores es Guadalajara.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T1 A-Nul Bueno, nos gustaría saber cómo…, cómo hacían ustedes la matanza; si todavía hacen matanza, cuándo la hacen… 
+I1: Sí… Pues en febrero, este año en febrero. No sé qué día la hicimos, pero eso ya es… uno solo para todo el pueblo, y los que están en… la capital vienen a…, a reunisen con nosotros y pasar el día con nosotros. Pues nada, lo matan y lo pelan, luego lo escuartizan, sacan todo y… ya está. Luego nosotros il-, lavamos las tripas y hicimos las morcillas en casa de esta señora y eso, y luego por la…
+E2: ¿Lo hacen entre unos cuantos vecinos…?, ¿se, se reúnen así? 
+I1: Sí, muchos. HCruz:¿Cuántos habría este año? 
+I2:  Todos. 
+I1: Muchos, muchos. Sí, hicimos… pues migas, y luego los la panceta, la lo del cochino, eso, le decimos la panceta. 
+E1: . 
+I1: Torrendillos , y los están friendo, y eso. Pues no sé si dos o tres días tuvimos de…, de comidas, conque mira.
+E1: ¿Cómo llaman aquí al cerdo? ¿Tiene algún nombre especial  o lo llaman cerdo? 
+I1: Antes le decíamos cochino, yo qué sé. Los cochinos, más que cerdos, cochinos, Rndo:no sé por qué. Pero eso desde siempre, claro. Así que…  todo eso. 
+E1: Y tienen…, cuando matan al cerdo…, ¿tienen que avisar al veterinario para…? 
+",La provincia a la que pertenecen los informadores es Guadalajara.
+"Dime de qué lugar es el siguiente texto:  E1: T1 A-Nul Bueno, nos gustaría saber cómo…, cómo hacían ustedes la matanza; si todavía hacen matanza, cuándo la hacen… 
+I1: Sí… Pues en febrero, este año en febrero. No sé qué día la hicimos, pero eso ya es… uno solo para todo el pueblo, y los que están en… la capital vienen a…, a reunisen con nosotros y pasar el día con nosotros. Pues nada, lo matan y lo pelan, luego lo escuartizan, sacan todo y… ya está. Luego nosotros il-, lavamos las tripas y hicimos las morcillas en casa de esta señora y eso, y luego por la…
+E2: ¿Lo hacen entre unos cuantos vecinos…?, ¿se, se reúnen así? 
+I1: Sí, muchos. HCruz:¿Cuántos habría este año? 
+I2:  Todos. 
+I1: Muchos, muchos. Sí, hicimos… pues migas, y luego los la panceta, la lo del cochino, eso, le decimos la panceta. 
+E1: . 
+I1: Torrendillos , y los están friendo, y eso. Pues no sé si dos o tres días tuvimos de…, de comidas, conque mira.
+E1: ¿Cómo llaman aquí al cerdo? ¿Tiene algún nombre especial  o lo llaman cerdo? 
+I1: Antes le decíamos cochino, yo qué sé. Los cochinos, más que cerdos, cochinos, Rndo:no sé por qué. Pero eso desde siempre, claro. Así que…  todo eso. 
+E1: Y tienen…, cuando matan al cerdo…, ¿tienen que avisar al veterinario para…? 
+",La provincia a la que pertenecen los informadores es Guadalajara.

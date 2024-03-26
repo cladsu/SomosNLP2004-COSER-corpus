@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: T1 Me acuerdo, eh, ya la memoria la tiene uno ya aquí ¿qué quiere? 
+E1: Usted, usted. Bueno, vemos. ¿Empezamos por la matanza? Vamos a ver La matanza antes aquí, en este pueblo ¿cuántas veces al año se hacía? 
+I1: Esto se hacía… ahora, en esta época, pues siempre tos los días.
+E1: ¿En esta época? 
+I1: Claro, en la é-  No, no, se hacía en noviembre. 
+E1: Ah. 
+I1: Diciembre y to eso era la época de la matanza, era. 
+E1: Era más bien la época  Por eso, porque en, ¿en  verano, no…? 
+I1: No, no, no, en verano no, verano no, eso no. Y ahora pos no se hace, ahora se ha perdío , ahora está el matadero y… «¿Qué quieres tú, cerdo? Pues del matadero», del otro, y ya no se hace matanza ninguna.
+E1: Y, ¿desde cuándo dejó de hacerse? 
+I1: Ya hace años, ya hace años. 
+",La provincia a la que pertenecen los informadores es Jaén.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: T1 Me acuerdo, eh, ya la memoria la tiene uno ya aquí ¿qué quiere? 
+E1: Usted, usted. Bueno, vemos. ¿Empezamos por la matanza? Vamos a ver La matanza antes aquí, en este pueblo ¿cuántas veces al año se hacía? 
+I1: Esto se hacía… ahora, en esta época, pues siempre tos los días.
+E1: ¿En esta época? 
+I1: Claro, en la é-  No, no, se hacía en noviembre. 
+E1: Ah. 
+I1: Diciembre y to eso era la época de la matanza, era. 
+E1: Era más bien la época  Por eso, porque en, ¿en  verano, no…? 
+I1: No, no, no, en verano no, verano no, eso no. Y ahora pos no se hace, ahora se ha perdío , ahora está el matadero y… «¿Qué quieres tú, cerdo? Pues del matadero», del otro, y ya no se hace matanza ninguna.
+E1: Y, ¿desde cuándo dejó de hacerse? 
+I1: Ya hace años, ya hace años. 
+",La provincia a la que pertenecen los informadores es Jaén.
+"Dime la provincia del siguiente texto: I1: T1 Me acuerdo, eh, ya la memoria la tiene uno ya aquí ¿qué quiere? 
+E1: Usted, usted. Bueno, vemos. ¿Empezamos por la matanza? Vamos a ver La matanza antes aquí, en este pueblo ¿cuántas veces al año se hacía? 
+I1: Esto se hacía… ahora, en esta época, pues siempre tos los días.
+E1: ¿En esta época? 
+I1: Claro, en la é-  No, no, se hacía en noviembre. 
+E1: Ah. 
+I1: Diciembre y to eso era la época de la matanza, era. 
+E1: Era más bien la época  Por eso, porque en, ¿en  verano, no…? 
+I1: No, no, no, en verano no, verano no, eso no. Y ahora pos no se hace, ahora se ha perdío , ahora está el matadero y… «¿Qué quieres tú, cerdo? Pues del matadero», del otro, y ya no se hace matanza ninguna.
+E1: Y, ¿desde cuándo dejó de hacerse? 
+I1: Ya hace años, ya hace años. 
+",La provincia a la que pertenecen los informadores es Jaén.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: T1 Me acuerdo, eh, ya la memoria la tiene uno ya aquí ¿qué quiere? 
+E1: Usted, usted. Bueno, vemos. ¿Empezamos por la matanza? Vamos a ver La matanza antes aquí, en este pueblo ¿cuántas veces al año se hacía? 
+I1: Esto se hacía… ahora, en esta época, pues siempre tos los días.
+E1: ¿En esta época? 
+I1: Claro, en la é-  No, no, se hacía en noviembre. 
+E1: Ah. 
+I1: Diciembre y to eso era la época de la matanza, era. 
+E1: Era más bien la época  Por eso, porque en, ¿en  verano, no…? 
+I1: No, no, no, en verano no, verano no, eso no. Y ahora pos no se hace, ahora se ha perdío , ahora está el matadero y… «¿Qué quieres tú, cerdo? Pues del matadero», del otro, y ya no se hace matanza ninguna.
+E1: Y, ¿desde cuándo dejó de hacerse? 
+I1: Ya hace años, ya hace años. 
+",La provincia a la que pertenecen los informadores es Jaén.
+"Dime de qué lugar es el siguiente texto:  I1: T1 Me acuerdo, eh, ya la memoria la tiene uno ya aquí ¿qué quiere? 
+E1: Usted, usted. Bueno, vemos. ¿Empezamos por la matanza? Vamos a ver La matanza antes aquí, en este pueblo ¿cuántas veces al año se hacía? 
+I1: Esto se hacía… ahora, en esta época, pues siempre tos los días.
+E1: ¿En esta época? 
+I1: Claro, en la é-  No, no, se hacía en noviembre. 
+E1: Ah. 
+I1: Diciembre y to eso era la época de la matanza, era. 
+E1: Era más bien la época  Por eso, porque en, ¿en  verano, no…? 
+I1: No, no, no, en verano no, verano no, eso no. Y ahora pos no se hace, ahora se ha perdío , ahora está el matadero y… «¿Qué quieres tú, cerdo? Pues del matadero», del otro, y ya no se hace matanza ninguna.
+E1: Y, ¿desde cuándo dejó de hacerse? 
+I1: Ya hace años, ya hace años. 
+",La provincia a la que pertenecen los informadores es Jaén.

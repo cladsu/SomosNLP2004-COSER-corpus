@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I:  I: T11 Tengo unas cosas y quiero terminalas . 
+E1: ¿Y cuánto tiempo cree que va a tardar? 
+I:  I: ¿En volvé ? 
+E1: Sí.  
+I:  I: Pos yo qué sé, igual a lo mejor tardo… una hora, que tardo hora y media, que tardo media hora, depende lo que… 
+E3: Y, y su, su hermana ¿cree que, que podría dedicarnos un rato y…? Porque… 
+I:  I: Ay, yo ya no sé si ella podrá dedicaros o, o que-, o querrá, no lo sé, no lo sé. 
+E2: ¿Le parece que le preguntemos, porque igual ella… ? 
+I:  I: T9 La…, pero bueno, que yo…, si no es mucho tiempo,  por el campo, hombre, yo me he criao en el campo, y he vivío del campo y…, y sigo viviendo del campo. . Quiere decir que yo, mi…, mi profesión ha sío el campo. 
+E2: ¿Toda la vida? 
+I:  I: Toda la, toda la trayectoria, desde, desde, desde que empecé a aprovechar desde que tenía siete años,ya empecé en el campo y bueno, y en el campo, y en el campo estoy, en el campo estoy, yo el trabajo mío es el campo.
+",La provincia a la que pertenecen los informadores es Alicante.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I:  I: T11 Tengo unas cosas y quiero terminalas . 
+E1: ¿Y cuánto tiempo cree que va a tardar? 
+I:  I: ¿En volvé ? 
+E1: Sí.  
+I:  I: Pos yo qué sé, igual a lo mejor tardo… una hora, que tardo hora y media, que tardo media hora, depende lo que… 
+E3: Y, y su, su hermana ¿cree que, que podría dedicarnos un rato y…? Porque… 
+I:  I: Ay, yo ya no sé si ella podrá dedicaros o, o que-, o querrá, no lo sé, no lo sé. 
+E2: ¿Le parece que le preguntemos, porque igual ella… ? 
+I:  I: T9 La…, pero bueno, que yo…, si no es mucho tiempo,  por el campo, hombre, yo me he criao en el campo, y he vivío del campo y…, y sigo viviendo del campo. . Quiere decir que yo, mi…, mi profesión ha sío el campo. 
+E2: ¿Toda la vida? 
+I:  I: Toda la, toda la trayectoria, desde, desde, desde que empecé a aprovechar desde que tenía siete años,ya empecé en el campo y bueno, y en el campo, y en el campo estoy, en el campo estoy, yo el trabajo mío es el campo.
+",La provincia a la que pertenecen los informadores es Alicante.
+"Dime la provincia del siguiente texto: I:  I: T11 Tengo unas cosas y quiero terminalas . 
+E1: ¿Y cuánto tiempo cree que va a tardar? 
+I:  I: ¿En volvé ? 
+E1: Sí.  
+I:  I: Pos yo qué sé, igual a lo mejor tardo… una hora, que tardo hora y media, que tardo media hora, depende lo que… 
+E3: Y, y su, su hermana ¿cree que, que podría dedicarnos un rato y…? Porque… 
+I:  I: Ay, yo ya no sé si ella podrá dedicaros o, o que-, o querrá, no lo sé, no lo sé. 
+E2: ¿Le parece que le preguntemos, porque igual ella… ? 
+I:  I: T9 La…, pero bueno, que yo…, si no es mucho tiempo,  por el campo, hombre, yo me he criao en el campo, y he vivío del campo y…, y sigo viviendo del campo. . Quiere decir que yo, mi…, mi profesión ha sío el campo. 
+E2: ¿Toda la vida? 
+I:  I: Toda la, toda la trayectoria, desde, desde, desde que empecé a aprovechar desde que tenía siete años,ya empecé en el campo y bueno, y en el campo, y en el campo estoy, en el campo estoy, yo el trabajo mío es el campo.
+",La provincia a la que pertenecen los informadores es Alicante.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I:  I: T11 Tengo unas cosas y quiero terminalas . 
+E1: ¿Y cuánto tiempo cree que va a tardar? 
+I:  I: ¿En volvé ? 
+E1: Sí.  
+I:  I: Pos yo qué sé, igual a lo mejor tardo… una hora, que tardo hora y media, que tardo media hora, depende lo que… 
+E3: Y, y su, su hermana ¿cree que, que podría dedicarnos un rato y…? Porque… 
+I:  I: Ay, yo ya no sé si ella podrá dedicaros o, o que-, o querrá, no lo sé, no lo sé. 
+E2: ¿Le parece que le preguntemos, porque igual ella… ? 
+I:  I: T9 La…, pero bueno, que yo…, si no es mucho tiempo,  por el campo, hombre, yo me he criao en el campo, y he vivío del campo y…, y sigo viviendo del campo. . Quiere decir que yo, mi…, mi profesión ha sío el campo. 
+E2: ¿Toda la vida? 
+I:  I: Toda la, toda la trayectoria, desde, desde, desde que empecé a aprovechar desde que tenía siete años,ya empecé en el campo y bueno, y en el campo, y en el campo estoy, en el campo estoy, yo el trabajo mío es el campo.
+",La provincia a la que pertenecen los informadores es Alicante.
+"Dime de qué lugar es el siguiente texto:  I:  I: T11 Tengo unas cosas y quiero terminalas . 
+E1: ¿Y cuánto tiempo cree que va a tardar? 
+I:  I: ¿En volvé ? 
+E1: Sí.  
+I:  I: Pos yo qué sé, igual a lo mejor tardo… una hora, que tardo hora y media, que tardo media hora, depende lo que… 
+E3: Y, y su, su hermana ¿cree que, que podría dedicarnos un rato y…? Porque… 
+I:  I: Ay, yo ya no sé si ella podrá dedicaros o, o que-, o querrá, no lo sé, no lo sé. 
+E2: ¿Le parece que le preguntemos, porque igual ella… ? 
+I:  I: T9 La…, pero bueno, que yo…, si no es mucho tiempo,  por el campo, hombre, yo me he criao en el campo, y he vivío del campo y…, y sigo viviendo del campo. . Quiere decir que yo, mi…, mi profesión ha sío el campo. 
+E2: ¿Toda la vida? 
+I:  I: Toda la, toda la trayectoria, desde, desde, desde que empecé a aprovechar desde que tenía siete años,ya empecé en el campo y bueno, y en el campo, y en el campo estoy, en el campo estoy, yo el trabajo mío es el campo.
+",La provincia a la que pertenecen los informadores es Alicante.

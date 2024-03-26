@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I2: Yo no… 
+I1: Nosotros no sabemos… A-Crt… de guerra, de España, ¿sabes?, que corrimos mucho malo, mucho, mucho malo, malo, malo… y tuvimos la suerte de que no nos tocó ni un tirito…
+I2: ¿Son ustedes de por áhi, mu largo? 
+E1: No, de Madrid, venimos de Madrid. 
+I2:  ¡Ah, de Madrí ! 
+E1: ¿Y no nos podría decir…? 
+I2: Este, es el que cuenta algo ¿tienes algo que alegar?  V-Sml Que sepa más, nosotros semos ¡ no sabemos leer la…!Yo nada.
+E1: No, hombre, no, pero para eso no hace falta saber leer.  
+I1: Nosotros no podemos decir más que, que, que ahora los viejos estamos un poquito disgustaos porque no nos suben la pensión un poquito.  
+E1: Sí, pero nosotros en eso no tenemos nada que ver. 
+I1:  ¡Ah, no tenéis que ver nada! 
+",La provincia a la que pertenecen los informadores es Toledo.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I2: Yo no… 
+I1: Nosotros no sabemos… A-Crt… de guerra, de España, ¿sabes?, que corrimos mucho malo, mucho, mucho malo, malo, malo… y tuvimos la suerte de que no nos tocó ni un tirito…
+I2: ¿Son ustedes de por áhi, mu largo? 
+E1: No, de Madrid, venimos de Madrid. 
+I2:  ¡Ah, de Madrí ! 
+E1: ¿Y no nos podría decir…? 
+I2: Este, es el que cuenta algo ¿tienes algo que alegar?  V-Sml Que sepa más, nosotros semos ¡ no sabemos leer la…!Yo nada.
+E1: No, hombre, no, pero para eso no hace falta saber leer.  
+I1: Nosotros no podemos decir más que, que, que ahora los viejos estamos un poquito disgustaos porque no nos suben la pensión un poquito.  
+E1: Sí, pero nosotros en eso no tenemos nada que ver. 
+I1:  ¡Ah, no tenéis que ver nada! 
+",La provincia a la que pertenecen los informadores es Toledo.
+"Dime la provincia del siguiente texto: I2: Yo no… 
+I1: Nosotros no sabemos… A-Crt… de guerra, de España, ¿sabes?, que corrimos mucho malo, mucho, mucho malo, malo, malo… y tuvimos la suerte de que no nos tocó ni un tirito…
+I2: ¿Son ustedes de por áhi, mu largo? 
+E1: No, de Madrid, venimos de Madrid. 
+I2:  ¡Ah, de Madrí ! 
+E1: ¿Y no nos podría decir…? 
+I2: Este, es el que cuenta algo ¿tienes algo que alegar?  V-Sml Que sepa más, nosotros semos ¡ no sabemos leer la…!Yo nada.
+E1: No, hombre, no, pero para eso no hace falta saber leer.  
+I1: Nosotros no podemos decir más que, que, que ahora los viejos estamos un poquito disgustaos porque no nos suben la pensión un poquito.  
+E1: Sí, pero nosotros en eso no tenemos nada que ver. 
+I1:  ¡Ah, no tenéis que ver nada! 
+",La provincia a la que pertenecen los informadores es Toledo.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I2: Yo no… 
+I1: Nosotros no sabemos… A-Crt… de guerra, de España, ¿sabes?, que corrimos mucho malo, mucho, mucho malo, malo, malo… y tuvimos la suerte de que no nos tocó ni un tirito…
+I2: ¿Son ustedes de por áhi, mu largo? 
+E1: No, de Madrid, venimos de Madrid. 
+I2:  ¡Ah, de Madrí ! 
+E1: ¿Y no nos podría decir…? 
+I2: Este, es el que cuenta algo ¿tienes algo que alegar?  V-Sml Que sepa más, nosotros semos ¡ no sabemos leer la…!Yo nada.
+E1: No, hombre, no, pero para eso no hace falta saber leer.  
+I1: Nosotros no podemos decir más que, que, que ahora los viejos estamos un poquito disgustaos porque no nos suben la pensión un poquito.  
+E1: Sí, pero nosotros en eso no tenemos nada que ver. 
+I1:  ¡Ah, no tenéis que ver nada! 
+",La provincia a la que pertenecen los informadores es Toledo.
+"Dime de qué lugar es el siguiente texto:  I2: Yo no… 
+I1: Nosotros no sabemos… A-Crt… de guerra, de España, ¿sabes?, que corrimos mucho malo, mucho, mucho malo, malo, malo… y tuvimos la suerte de que no nos tocó ni un tirito…
+I2: ¿Son ustedes de por áhi, mu largo? 
+E1: No, de Madrid, venimos de Madrid. 
+I2:  ¡Ah, de Madrí ! 
+E1: ¿Y no nos podría decir…? 
+I2: Este, es el que cuenta algo ¿tienes algo que alegar?  V-Sml Que sepa más, nosotros semos ¡ no sabemos leer la…!Yo nada.
+E1: No, hombre, no, pero para eso no hace falta saber leer.  
+I1: Nosotros no podemos decir más que, que, que ahora los viejos estamos un poquito disgustaos porque no nos suben la pensión un poquito.  
+E1: Sí, pero nosotros en eso no tenemos nada que ver. 
+I1:  ¡Ah, no tenéis que ver nada! 
+",La provincia a la que pertenecen los informadores es Toledo.

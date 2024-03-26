@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T3 Pues, ¿qué, qué tipo de animales, por ejemplo, tienen aquí en el pueblo? 
+I1: Pues aquí hay vacas, hay… chones, para el arreglo de casa. 
+E1: Chones son los cerdos, ¿no? 
+I1: Los cerdos, sí, cerdos, claro, y… 
+I2: Y tiene gallinas. 
+I1: Hay gallinas, hay… Hay en el pueblo ganao de monte también. . Y ovejas, pues, pocas hay. Alguna yegua. Pocas también. Y esos es lo que hay. 
+E1: Y las vacas, eh, ¿cómo las tienen? ¿Las, eh, les dan de comer en, en casa? 
+I1: Pues, ah, en el invierno las tenemos cerradas. Ahora, ya… en este tiempo, ya se van a soltar a los praos. 
+E1: Y durante el invierno, ¿qué les dan de comer? 
+I2: Pues, yerba y pienso. Yerba y pienso. 
+E1: Y ¿lo re-, vamos, lo recogen  en verano? ¿Lo acumulan? 
+",La provincia a la que pertenecen los informadores es Burgos.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T3 Pues, ¿qué, qué tipo de animales, por ejemplo, tienen aquí en el pueblo? 
+I1: Pues aquí hay vacas, hay… chones, para el arreglo de casa. 
+E1: Chones son los cerdos, ¿no? 
+I1: Los cerdos, sí, cerdos, claro, y… 
+I2: Y tiene gallinas. 
+I1: Hay gallinas, hay… Hay en el pueblo ganao de monte también. . Y ovejas, pues, pocas hay. Alguna yegua. Pocas también. Y esos es lo que hay. 
+E1: Y las vacas, eh, ¿cómo las tienen? ¿Las, eh, les dan de comer en, en casa? 
+I1: Pues, ah, en el invierno las tenemos cerradas. Ahora, ya… en este tiempo, ya se van a soltar a los praos. 
+E1: Y durante el invierno, ¿qué les dan de comer? 
+I2: Pues, yerba y pienso. Yerba y pienso. 
+E1: Y ¿lo re-, vamos, lo recogen  en verano? ¿Lo acumulan? 
+",La provincia a la que pertenecen los informadores es Burgos.
+"Dime la provincia del siguiente texto: E1: T3 Pues, ¿qué, qué tipo de animales, por ejemplo, tienen aquí en el pueblo? 
+I1: Pues aquí hay vacas, hay… chones, para el arreglo de casa. 
+E1: Chones son los cerdos, ¿no? 
+I1: Los cerdos, sí, cerdos, claro, y… 
+I2: Y tiene gallinas. 
+I1: Hay gallinas, hay… Hay en el pueblo ganao de monte también. . Y ovejas, pues, pocas hay. Alguna yegua. Pocas también. Y esos es lo que hay. 
+E1: Y las vacas, eh, ¿cómo las tienen? ¿Las, eh, les dan de comer en, en casa? 
+I1: Pues, ah, en el invierno las tenemos cerradas. Ahora, ya… en este tiempo, ya se van a soltar a los praos. 
+E1: Y durante el invierno, ¿qué les dan de comer? 
+I2: Pues, yerba y pienso. Yerba y pienso. 
+E1: Y ¿lo re-, vamos, lo recogen  en verano? ¿Lo acumulan? 
+",La provincia a la que pertenecen los informadores es Burgos.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T3 Pues, ¿qué, qué tipo de animales, por ejemplo, tienen aquí en el pueblo? 
+I1: Pues aquí hay vacas, hay… chones, para el arreglo de casa. 
+E1: Chones son los cerdos, ¿no? 
+I1: Los cerdos, sí, cerdos, claro, y… 
+I2: Y tiene gallinas. 
+I1: Hay gallinas, hay… Hay en el pueblo ganao de monte también. . Y ovejas, pues, pocas hay. Alguna yegua. Pocas también. Y esos es lo que hay. 
+E1: Y las vacas, eh, ¿cómo las tienen? ¿Las, eh, les dan de comer en, en casa? 
+I1: Pues, ah, en el invierno las tenemos cerradas. Ahora, ya… en este tiempo, ya se van a soltar a los praos. 
+E1: Y durante el invierno, ¿qué les dan de comer? 
+I2: Pues, yerba y pienso. Yerba y pienso. 
+E1: Y ¿lo re-, vamos, lo recogen  en verano? ¿Lo acumulan? 
+",La provincia a la que pertenecen los informadores es Burgos.
+"Dime de qué lugar es el siguiente texto:  E1: T3 Pues, ¿qué, qué tipo de animales, por ejemplo, tienen aquí en el pueblo? 
+I1: Pues aquí hay vacas, hay… chones, para el arreglo de casa. 
+E1: Chones son los cerdos, ¿no? 
+I1: Los cerdos, sí, cerdos, claro, y… 
+I2: Y tiene gallinas. 
+I1: Hay gallinas, hay… Hay en el pueblo ganao de monte también. . Y ovejas, pues, pocas hay. Alguna yegua. Pocas también. Y esos es lo que hay. 
+E1: Y las vacas, eh, ¿cómo las tienen? ¿Las, eh, les dan de comer en, en casa? 
+I1: Pues, ah, en el invierno las tenemos cerradas. Ahora, ya… en este tiempo, ya se van a soltar a los praos. 
+E1: Y durante el invierno, ¿qué les dan de comer? 
+I2: Pues, yerba y pienso. Yerba y pienso. 
+E1: Y ¿lo re-, vamos, lo recogen  en verano? ¿Lo acumulan? 
+",La provincia a la que pertenecen los informadores es Burgos.

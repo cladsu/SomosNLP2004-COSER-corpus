@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: ¿Trabajado fuera ni nada, de nada? 
+I1:  Bueno, he trabajao cuando venían estas plantaciones… después de la guerra, que vinieron por aquí a…, a re-, a renovar estos montes…, a plantar pinos…, que entonces fue un…, un tiempo de, a… plantar pinos. La forestal-, forestales. Que vino… Sí, que vino cien andaluces de allá… que no tenían trabajo en aquellos tiempos, de Andalucía… Y todo esto pues lo…, lo plantaron por aquí o, o lo plantemos
+I2: claro. 
+I1: T1 Sí.  Y…,  y después, pues oye, siempre he trabajao aquí en la casa, he trabajao siempre, pues he tenido animales, he tenido vacas…,  he tenido ovejas… y he tenido tocinos de cría…, tod-, un poquico de cada cosa.  Pe-, pero poco claro porque es…, tenís que hacer arreglo de lo…, de lo que te da la propiedad, ¿no? Y…, y la cosa de las matacías…, pues primero teníamos cerdo de cría, ¿no? Después pues yatenías unos de muy chicos y los tenías un año… y cuando pesaban ya ciento trenta
+E1: ¿Ah, sí? 
+I1: Que, que se, es lo peor, después la cosa de, de lo demás ya lo hacíamos los de la casa, ¿no?  Y…, y los matabas y después aquel día pues hacías la comida…, todos juntos comías… Y bien. Después ya por la tarde, pues ya las mujeres ya hacían las tortetas y las morcillas…  El, el mismo día…, de  que matabas ya los tocinos… Normalmente también lo hacías igual por la tarde.  
+I2: igual, por el estilo.  Igual, igual, por el estilo. 
+I1: Y… luego  al otro día pues ya se preparaban las carnes… y las arreglaban y las dejaban… un día o medio, dependía del trabajo que tenía, que se regustara la carne. Y después, pues al otro día ya las… envasaban. Sí. 
+I2: Y guisaban la carne… y… luego echaban la especia y todo…   Eso que lo diga el señor. 
+E1: Y…, entonces,  ¿usted mataba o venía aquí alguien,  una, una persona especializada? 
+I2: También hay alguno.  
+",La provincia a la que pertenecen los informadores es Huesca.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: ¿Trabajado fuera ni nada, de nada? 
+I1:  Bueno, he trabajao cuando venían estas plantaciones… después de la guerra, que vinieron por aquí a…, a re-, a renovar estos montes…, a plantar pinos…, que entonces fue un…, un tiempo de, a… plantar pinos. La forestal-, forestales. Que vino… Sí, que vino cien andaluces de allá… que no tenían trabajo en aquellos tiempos, de Andalucía… Y todo esto pues lo…, lo plantaron por aquí o, o lo plantemos
+I2: claro. 
+I1: T1 Sí.  Y…,  y después, pues oye, siempre he trabajao aquí en la casa, he trabajao siempre, pues he tenido animales, he tenido vacas…,  he tenido ovejas… y he tenido tocinos de cría…, tod-, un poquico de cada cosa.  Pe-, pero poco claro porque es…, tenís que hacer arreglo de lo…, de lo que te da la propiedad, ¿no? Y…, y la cosa de las matacías…, pues primero teníamos cerdo de cría, ¿no? Después pues yatenías unos de muy chicos y los tenías un año… y cuando pesaban ya ciento trenta
+E1: ¿Ah, sí? 
+I1: Que, que se, es lo peor, después la cosa de, de lo demás ya lo hacíamos los de la casa, ¿no?  Y…, y los matabas y después aquel día pues hacías la comida…, todos juntos comías… Y bien. Después ya por la tarde, pues ya las mujeres ya hacían las tortetas y las morcillas…  El, el mismo día…, de  que matabas ya los tocinos… Normalmente también lo hacías igual por la tarde.  
+I2: igual, por el estilo.  Igual, igual, por el estilo. 
+I1: Y… luego  al otro día pues ya se preparaban las carnes… y las arreglaban y las dejaban… un día o medio, dependía del trabajo que tenía, que se regustara la carne. Y después, pues al otro día ya las… envasaban. Sí. 
+I2: Y guisaban la carne… y… luego echaban la especia y todo…   Eso que lo diga el señor. 
+E1: Y…, entonces,  ¿usted mataba o venía aquí alguien,  una, una persona especializada? 
+I2: También hay alguno.  
+",La provincia a la que pertenecen los informadores es Huesca.
+"Dime la provincia del siguiente texto: E1: ¿Trabajado fuera ni nada, de nada? 
+I1:  Bueno, he trabajao cuando venían estas plantaciones… después de la guerra, que vinieron por aquí a…, a re-, a renovar estos montes…, a plantar pinos…, que entonces fue un…, un tiempo de, a… plantar pinos. La forestal-, forestales. Que vino… Sí, que vino cien andaluces de allá… que no tenían trabajo en aquellos tiempos, de Andalucía… Y todo esto pues lo…, lo plantaron por aquí o, o lo plantemos
+I2: claro. 
+I1: T1 Sí.  Y…,  y después, pues oye, siempre he trabajao aquí en la casa, he trabajao siempre, pues he tenido animales, he tenido vacas…,  he tenido ovejas… y he tenido tocinos de cría…, tod-, un poquico de cada cosa.  Pe-, pero poco claro porque es…, tenís que hacer arreglo de lo…, de lo que te da la propiedad, ¿no? Y…, y la cosa de las matacías…, pues primero teníamos cerdo de cría, ¿no? Después pues yatenías unos de muy chicos y los tenías un año… y cuando pesaban ya ciento trenta
+E1: ¿Ah, sí? 
+I1: Que, que se, es lo peor, después la cosa de, de lo demás ya lo hacíamos los de la casa, ¿no?  Y…, y los matabas y después aquel día pues hacías la comida…, todos juntos comías… Y bien. Después ya por la tarde, pues ya las mujeres ya hacían las tortetas y las morcillas…  El, el mismo día…, de  que matabas ya los tocinos… Normalmente también lo hacías igual por la tarde.  
+I2: igual, por el estilo.  Igual, igual, por el estilo. 
+I1: Y… luego  al otro día pues ya se preparaban las carnes… y las arreglaban y las dejaban… un día o medio, dependía del trabajo que tenía, que se regustara la carne. Y después, pues al otro día ya las… envasaban. Sí. 
+I2: Y guisaban la carne… y… luego echaban la especia y todo…   Eso que lo diga el señor. 
+E1: Y…, entonces,  ¿usted mataba o venía aquí alguien,  una, una persona especializada? 
+I2: También hay alguno.  
+",La provincia a la que pertenecen los informadores es Huesca.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: ¿Trabajado fuera ni nada, de nada? 
+I1:  Bueno, he trabajao cuando venían estas plantaciones… después de la guerra, que vinieron por aquí a…, a re-, a renovar estos montes…, a plantar pinos…, que entonces fue un…, un tiempo de, a… plantar pinos. La forestal-, forestales. Que vino… Sí, que vino cien andaluces de allá… que no tenían trabajo en aquellos tiempos, de Andalucía… Y todo esto pues lo…, lo plantaron por aquí o, o lo plantemos
+I2: claro. 
+I1: T1 Sí.  Y…,  y después, pues oye, siempre he trabajao aquí en la casa, he trabajao siempre, pues he tenido animales, he tenido vacas…,  he tenido ovejas… y he tenido tocinos de cría…, tod-, un poquico de cada cosa.  Pe-, pero poco claro porque es…, tenís que hacer arreglo de lo…, de lo que te da la propiedad, ¿no? Y…, y la cosa de las matacías…, pues primero teníamos cerdo de cría, ¿no? Después pues yatenías unos de muy chicos y los tenías un año… y cuando pesaban ya ciento trenta
+E1: ¿Ah, sí? 
+I1: Que, que se, es lo peor, después la cosa de, de lo demás ya lo hacíamos los de la casa, ¿no?  Y…, y los matabas y después aquel día pues hacías la comida…, todos juntos comías… Y bien. Después ya por la tarde, pues ya las mujeres ya hacían las tortetas y las morcillas…  El, el mismo día…, de  que matabas ya los tocinos… Normalmente también lo hacías igual por la tarde.  
+I2: igual, por el estilo.  Igual, igual, por el estilo. 
+I1: Y… luego  al otro día pues ya se preparaban las carnes… y las arreglaban y las dejaban… un día o medio, dependía del trabajo que tenía, que se regustara la carne. Y después, pues al otro día ya las… envasaban. Sí. 
+I2: Y guisaban la carne… y… luego echaban la especia y todo…   Eso que lo diga el señor. 
+E1: Y…, entonces,  ¿usted mataba o venía aquí alguien,  una, una persona especializada? 
+I2: También hay alguno.  
+",La provincia a la que pertenecen los informadores es Huesca.
+"Dime de qué lugar es el siguiente texto:  E1: ¿Trabajado fuera ni nada, de nada? 
+I1:  Bueno, he trabajao cuando venían estas plantaciones… después de la guerra, que vinieron por aquí a…, a re-, a renovar estos montes…, a plantar pinos…, que entonces fue un…, un tiempo de, a… plantar pinos. La forestal-, forestales. Que vino… Sí, que vino cien andaluces de allá… que no tenían trabajo en aquellos tiempos, de Andalucía… Y todo esto pues lo…, lo plantaron por aquí o, o lo plantemos
+I2: claro. 
+I1: T1 Sí.  Y…,  y después, pues oye, siempre he trabajao aquí en la casa, he trabajao siempre, pues he tenido animales, he tenido vacas…,  he tenido ovejas… y he tenido tocinos de cría…, tod-, un poquico de cada cosa.  Pe-, pero poco claro porque es…, tenís que hacer arreglo de lo…, de lo que te da la propiedad, ¿no? Y…, y la cosa de las matacías…, pues primero teníamos cerdo de cría, ¿no? Después pues yatenías unos de muy chicos y los tenías un año… y cuando pesaban ya ciento trenta
+E1: ¿Ah, sí? 
+I1: Que, que se, es lo peor, después la cosa de, de lo demás ya lo hacíamos los de la casa, ¿no?  Y…, y los matabas y después aquel día pues hacías la comida…, todos juntos comías… Y bien. Después ya por la tarde, pues ya las mujeres ya hacían las tortetas y las morcillas…  El, el mismo día…, de  que matabas ya los tocinos… Normalmente también lo hacías igual por la tarde.  
+I2: igual, por el estilo.  Igual, igual, por el estilo. 
+I1: Y… luego  al otro día pues ya se preparaban las carnes… y las arreglaban y las dejaban… un día o medio, dependía del trabajo que tenía, que se regustara la carne. Y después, pues al otro día ya las… envasaban. Sí. 
+I2: Y guisaban la carne… y… luego echaban la especia y todo…   Eso que lo diga el señor. 
+E1: Y…, entonces,  ¿usted mataba o venía aquí alguien,  una, una persona especializada? 
+I2: También hay alguno.  
+",La provincia a la que pertenecen los informadores es Huesca.

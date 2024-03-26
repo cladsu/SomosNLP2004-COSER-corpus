@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: Que decía que su madre era la más experta aquí nos han dicho,  hablar con su madre, ¿eh? 
+I1: que mi madre que tiene la cabeza buena, que tiene noventa_y_cuatro años, entonces la memoria la tiene bien y ella claro, nosotros hemos… ¿Grabándome estás?  No, no. Ah, bueno, porque con estos pelos que tengo…  
+E2: No se preocupe que solo lo vamos a ver nosotros.  
+I1: T8 Que… ella, nosotros hemos tenido panadería y esto en ahí en el cruce de Espera y entonces hemos hecho el pan antiguo y hemos hecho de to. Y teníamos vacas, hacíamos queso. 
+E3: Entonces, nos, nos si quiere, nos, nos podría contar cómo hacían el pan. 
+I1: T2 Pos, el pan antes, mi padre empezó que lo estás escribiendo, ¿no?  Empezó a lo mejó en un lebrillo grande que tenían de estos, pos echaba a lo mejó
+E3: Eso le iba a decir, que si ustedes también le echaban una mano. 
+I1: T9 Bueno, pos claro,  era familia. Estábamos en era en el campo, en una venta que teníamos allí. Mis primos tenían un venta de comestibles y eso y nosotros teníamos la panadería. Y entre mi hermana, mi hermano, mi padre, mi madre y yo hacíamos el pan y lo vendíamos y yo ya después más, más mayorcilla cogía una moto y repartía to el pan con ellos y esas cosas en el campo. 
+E3: ¿No vivían entonces en el pueblo?,  ¿vivían en un cortijo en el campo?  
+I1: ahí en el Empalme a siete kilómetros de aquí está todavía la venta y to. Lo que pasa es que, claro, ya hemos quitado to y las ve-, tenemos donde estaba el horno hay una piscina ahora  mira que… Que ha-, en la misma de su puerta hay una rueda de molino, hay dos ruedas de molino grandes porque hay también se hacía el trigo, se molía y todas esas cosas se hacía. 
+E3: ¿Y allí también plantaban? 
+",La provincia a la que pertenecen los informadores es Cádiz.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: Que decía que su madre era la más experta aquí nos han dicho,  hablar con su madre, ¿eh? 
+I1: que mi madre que tiene la cabeza buena, que tiene noventa_y_cuatro años, entonces la memoria la tiene bien y ella claro, nosotros hemos… ¿Grabándome estás?  No, no. Ah, bueno, porque con estos pelos que tengo…  
+E2: No se preocupe que solo lo vamos a ver nosotros.  
+I1: T8 Que… ella, nosotros hemos tenido panadería y esto en ahí en el cruce de Espera y entonces hemos hecho el pan antiguo y hemos hecho de to. Y teníamos vacas, hacíamos queso. 
+E3: Entonces, nos, nos si quiere, nos, nos podría contar cómo hacían el pan. 
+I1: T2 Pos, el pan antes, mi padre empezó que lo estás escribiendo, ¿no?  Empezó a lo mejó en un lebrillo grande que tenían de estos, pos echaba a lo mejó
+E3: Eso le iba a decir, que si ustedes también le echaban una mano. 
+I1: T9 Bueno, pos claro,  era familia. Estábamos en era en el campo, en una venta que teníamos allí. Mis primos tenían un venta de comestibles y eso y nosotros teníamos la panadería. Y entre mi hermana, mi hermano, mi padre, mi madre y yo hacíamos el pan y lo vendíamos y yo ya después más, más mayorcilla cogía una moto y repartía to el pan con ellos y esas cosas en el campo. 
+E3: ¿No vivían entonces en el pueblo?,  ¿vivían en un cortijo en el campo?  
+I1: ahí en el Empalme a siete kilómetros de aquí está todavía la venta y to. Lo que pasa es que, claro, ya hemos quitado to y las ve-, tenemos donde estaba el horno hay una piscina ahora  mira que… Que ha-, en la misma de su puerta hay una rueda de molino, hay dos ruedas de molino grandes porque hay también se hacía el trigo, se molía y todas esas cosas se hacía. 
+E3: ¿Y allí también plantaban? 
+",La provincia a la que pertenecen los informadores es Cádiz.
+"Dime la provincia del siguiente texto: E1: Que decía que su madre era la más experta aquí nos han dicho,  hablar con su madre, ¿eh? 
+I1: que mi madre que tiene la cabeza buena, que tiene noventa_y_cuatro años, entonces la memoria la tiene bien y ella claro, nosotros hemos… ¿Grabándome estás?  No, no. Ah, bueno, porque con estos pelos que tengo…  
+E2: No se preocupe que solo lo vamos a ver nosotros.  
+I1: T8 Que… ella, nosotros hemos tenido panadería y esto en ahí en el cruce de Espera y entonces hemos hecho el pan antiguo y hemos hecho de to. Y teníamos vacas, hacíamos queso. 
+E3: Entonces, nos, nos si quiere, nos, nos podría contar cómo hacían el pan. 
+I1: T2 Pos, el pan antes, mi padre empezó que lo estás escribiendo, ¿no?  Empezó a lo mejó en un lebrillo grande que tenían de estos, pos echaba a lo mejó
+E3: Eso le iba a decir, que si ustedes también le echaban una mano. 
+I1: T9 Bueno, pos claro,  era familia. Estábamos en era en el campo, en una venta que teníamos allí. Mis primos tenían un venta de comestibles y eso y nosotros teníamos la panadería. Y entre mi hermana, mi hermano, mi padre, mi madre y yo hacíamos el pan y lo vendíamos y yo ya después más, más mayorcilla cogía una moto y repartía to el pan con ellos y esas cosas en el campo. 
+E3: ¿No vivían entonces en el pueblo?,  ¿vivían en un cortijo en el campo?  
+I1: ahí en el Empalme a siete kilómetros de aquí está todavía la venta y to. Lo que pasa es que, claro, ya hemos quitado to y las ve-, tenemos donde estaba el horno hay una piscina ahora  mira que… Que ha-, en la misma de su puerta hay una rueda de molino, hay dos ruedas de molino grandes porque hay también se hacía el trigo, se molía y todas esas cosas se hacía. 
+E3: ¿Y allí también plantaban? 
+",La provincia a la que pertenecen los informadores es Cádiz.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: Que decía que su madre era la más experta aquí nos han dicho,  hablar con su madre, ¿eh? 
+I1: que mi madre que tiene la cabeza buena, que tiene noventa_y_cuatro años, entonces la memoria la tiene bien y ella claro, nosotros hemos… ¿Grabándome estás?  No, no. Ah, bueno, porque con estos pelos que tengo…  
+E2: No se preocupe que solo lo vamos a ver nosotros.  
+I1: T8 Que… ella, nosotros hemos tenido panadería y esto en ahí en el cruce de Espera y entonces hemos hecho el pan antiguo y hemos hecho de to. Y teníamos vacas, hacíamos queso. 
+E3: Entonces, nos, nos si quiere, nos, nos podría contar cómo hacían el pan. 
+I1: T2 Pos, el pan antes, mi padre empezó que lo estás escribiendo, ¿no?  Empezó a lo mejó en un lebrillo grande que tenían de estos, pos echaba a lo mejó
+E3: Eso le iba a decir, que si ustedes también le echaban una mano. 
+I1: T9 Bueno, pos claro,  era familia. Estábamos en era en el campo, en una venta que teníamos allí. Mis primos tenían un venta de comestibles y eso y nosotros teníamos la panadería. Y entre mi hermana, mi hermano, mi padre, mi madre y yo hacíamos el pan y lo vendíamos y yo ya después más, más mayorcilla cogía una moto y repartía to el pan con ellos y esas cosas en el campo. 
+E3: ¿No vivían entonces en el pueblo?,  ¿vivían en un cortijo en el campo?  
+I1: ahí en el Empalme a siete kilómetros de aquí está todavía la venta y to. Lo que pasa es que, claro, ya hemos quitado to y las ve-, tenemos donde estaba el horno hay una piscina ahora  mira que… Que ha-, en la misma de su puerta hay una rueda de molino, hay dos ruedas de molino grandes porque hay también se hacía el trigo, se molía y todas esas cosas se hacía. 
+E3: ¿Y allí también plantaban? 
+",La provincia a la que pertenecen los informadores es Cádiz.
+"Dime de qué lugar es el siguiente texto:  E1: Que decía que su madre era la más experta aquí nos han dicho,  hablar con su madre, ¿eh? 
+I1: que mi madre que tiene la cabeza buena, que tiene noventa_y_cuatro años, entonces la memoria la tiene bien y ella claro, nosotros hemos… ¿Grabándome estás?  No, no. Ah, bueno, porque con estos pelos que tengo…  
+E2: No se preocupe que solo lo vamos a ver nosotros.  
+I1: T8 Que… ella, nosotros hemos tenido panadería y esto en ahí en el cruce de Espera y entonces hemos hecho el pan antiguo y hemos hecho de to. Y teníamos vacas, hacíamos queso. 
+E3: Entonces, nos, nos si quiere, nos, nos podría contar cómo hacían el pan. 
+I1: T2 Pos, el pan antes, mi padre empezó que lo estás escribiendo, ¿no?  Empezó a lo mejó en un lebrillo grande que tenían de estos, pos echaba a lo mejó
+E3: Eso le iba a decir, que si ustedes también le echaban una mano. 
+I1: T9 Bueno, pos claro,  era familia. Estábamos en era en el campo, en una venta que teníamos allí. Mis primos tenían un venta de comestibles y eso y nosotros teníamos la panadería. Y entre mi hermana, mi hermano, mi padre, mi madre y yo hacíamos el pan y lo vendíamos y yo ya después más, más mayorcilla cogía una moto y repartía to el pan con ellos y esas cosas en el campo. 
+E3: ¿No vivían entonces en el pueblo?,  ¿vivían en un cortijo en el campo?  
+I1: ahí en el Empalme a siete kilómetros de aquí está todavía la venta y to. Lo que pasa es que, claro, ya hemos quitado to y las ve-, tenemos donde estaba el horno hay una piscina ahora  mira que… Que ha-, en la misma de su puerta hay una rueda de molino, hay dos ruedas de molino grandes porque hay también se hacía el trigo, se molía y todas esas cosas se hacía. 
+E3: ¿Y allí también plantaban? 
+",La provincia a la que pertenecen los informadores es Cádiz.

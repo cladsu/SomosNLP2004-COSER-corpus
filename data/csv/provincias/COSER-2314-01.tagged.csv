@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T6 ¿Nos va a hablar de su trabajo? Cuéntenos de su trabajo. 
+I1: Que he trabajao muncho
+E1: ¿Y cómo se cogía la, cómo se vendimiaba? ¿Cómo se cogía la…, la, la aceituna? 
+I1: ¿Cómo se principiaba? Pues eso se principiaba…, nosotros siempre empezábamos el día de los Reyes. Ya estábamos hasta que se terminaba, pero siempre empezábamos el día de los Reyes. Y íbamos con una cuadrilla de a lo mejor de quince o veinte y tos cogíamos… Los hombres avariaban
+E1: ¿Te agachabas? 
+I1: Agachar. Que, cuando terminábamos la aceituna, estábamos rendías . Y en las matanzas pos también ibas a las matanzas y echaba días a blanquear.
+E1: ¿A qué? 
+I1: A pintar. 
+E1: ¿A pintar? 
+I1: A pintar las casas. 
+E1: Ah, a pintar las casas. 
+",La provincia a la que pertenecen los informadores es Jaén.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T6 ¿Nos va a hablar de su trabajo? Cuéntenos de su trabajo. 
+I1: Que he trabajao muncho
+E1: ¿Y cómo se cogía la, cómo se vendimiaba? ¿Cómo se cogía la…, la, la aceituna? 
+I1: ¿Cómo se principiaba? Pues eso se principiaba…, nosotros siempre empezábamos el día de los Reyes. Ya estábamos hasta que se terminaba, pero siempre empezábamos el día de los Reyes. Y íbamos con una cuadrilla de a lo mejor de quince o veinte y tos cogíamos… Los hombres avariaban
+E1: ¿Te agachabas? 
+I1: Agachar. Que, cuando terminábamos la aceituna, estábamos rendías . Y en las matanzas pos también ibas a las matanzas y echaba días a blanquear.
+E1: ¿A qué? 
+I1: A pintar. 
+E1: ¿A pintar? 
+I1: A pintar las casas. 
+E1: Ah, a pintar las casas. 
+",La provincia a la que pertenecen los informadores es Jaén.
+"Dime la provincia del siguiente texto: E1: T6 ¿Nos va a hablar de su trabajo? Cuéntenos de su trabajo. 
+I1: Que he trabajao muncho
+E1: ¿Y cómo se cogía la, cómo se vendimiaba? ¿Cómo se cogía la…, la, la aceituna? 
+I1: ¿Cómo se principiaba? Pues eso se principiaba…, nosotros siempre empezábamos el día de los Reyes. Ya estábamos hasta que se terminaba, pero siempre empezábamos el día de los Reyes. Y íbamos con una cuadrilla de a lo mejor de quince o veinte y tos cogíamos… Los hombres avariaban
+E1: ¿Te agachabas? 
+I1: Agachar. Que, cuando terminábamos la aceituna, estábamos rendías . Y en las matanzas pos también ibas a las matanzas y echaba días a blanquear.
+E1: ¿A qué? 
+I1: A pintar. 
+E1: ¿A pintar? 
+I1: A pintar las casas. 
+E1: Ah, a pintar las casas. 
+",La provincia a la que pertenecen los informadores es Jaén.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T6 ¿Nos va a hablar de su trabajo? Cuéntenos de su trabajo. 
+I1: Que he trabajao muncho
+E1: ¿Y cómo se cogía la, cómo se vendimiaba? ¿Cómo se cogía la…, la, la aceituna? 
+I1: ¿Cómo se principiaba? Pues eso se principiaba…, nosotros siempre empezábamos el día de los Reyes. Ya estábamos hasta que se terminaba, pero siempre empezábamos el día de los Reyes. Y íbamos con una cuadrilla de a lo mejor de quince o veinte y tos cogíamos… Los hombres avariaban
+E1: ¿Te agachabas? 
+I1: Agachar. Que, cuando terminábamos la aceituna, estábamos rendías . Y en las matanzas pos también ibas a las matanzas y echaba días a blanquear.
+E1: ¿A qué? 
+I1: A pintar. 
+E1: ¿A pintar? 
+I1: A pintar las casas. 
+E1: Ah, a pintar las casas. 
+",La provincia a la que pertenecen los informadores es Jaén.
+"Dime de qué lugar es el siguiente texto:  E1: T6 ¿Nos va a hablar de su trabajo? Cuéntenos de su trabajo. 
+I1: Que he trabajao muncho
+E1: ¿Y cómo se cogía la, cómo se vendimiaba? ¿Cómo se cogía la…, la, la aceituna? 
+I1: ¿Cómo se principiaba? Pues eso se principiaba…, nosotros siempre empezábamos el día de los Reyes. Ya estábamos hasta que se terminaba, pero siempre empezábamos el día de los Reyes. Y íbamos con una cuadrilla de a lo mejor de quince o veinte y tos cogíamos… Los hombres avariaban
+E1: ¿Te agachabas? 
+I1: Agachar. Que, cuando terminábamos la aceituna, estábamos rendías . Y en las matanzas pos también ibas a las matanzas y echaba días a blanquear.
+E1: ¿A qué? 
+I1: A pintar. 
+E1: ¿A pintar? 
+I1: A pintar las casas. 
+E1: Ah, a pintar las casas. 
+",La provincia a la que pertenecen los informadores es Jaén.

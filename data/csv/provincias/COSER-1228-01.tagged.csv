@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: T15 Aquí el día veinticuatro se celebra, se planta un palo que le llaman la malla . y tiene tren-, treinta metros de altura  la levantan con, la, la, la levantan a mano . nada de a ningún aparato. 
+E1: ¿Cómo ha dicho que se llama? 
+I1: La malla. 
+E1: ¿El veinticuatro de qué?, ¿de mayo es? 
+I1: No, de este mes. 
+E1: Ah. De julio. 
+I1: El día veinticinco es Santiago  que se celebra en una romería pues estupenda, que está ahí, en la finca de áhi aonde
+E1: O sea que se pasan allí las vacas ellas solas, todo  ¿Y qué comen? 
+I1: Joder, si en el campo ese, tienen un can- cantidá de hierba de miedo.
+E1: Ah. O sea que, ¿no echa nadie de comer a las vacas? 
+I1: No, no. Ahí van, ahí suben, ya digo, a mediaos de mayo y, y van los vamos los dueños a verlas pues cada ocho días o cada tres, según,  según las ganas que hay de andar y eso os puedo contar. 
+",La provincia a la que pertenecen los informadores es Cantabria.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: T15 Aquí el día veinticuatro se celebra, se planta un palo que le llaman la malla . y tiene tren-, treinta metros de altura  la levantan con, la, la, la levantan a mano . nada de a ningún aparato. 
+E1: ¿Cómo ha dicho que se llama? 
+I1: La malla. 
+E1: ¿El veinticuatro de qué?, ¿de mayo es? 
+I1: No, de este mes. 
+E1: Ah. De julio. 
+I1: El día veinticinco es Santiago  que se celebra en una romería pues estupenda, que está ahí, en la finca de áhi aonde
+E1: O sea que se pasan allí las vacas ellas solas, todo  ¿Y qué comen? 
+I1: Joder, si en el campo ese, tienen un can- cantidá de hierba de miedo.
+E1: Ah. O sea que, ¿no echa nadie de comer a las vacas? 
+I1: No, no. Ahí van, ahí suben, ya digo, a mediaos de mayo y, y van los vamos los dueños a verlas pues cada ocho días o cada tres, según,  según las ganas que hay de andar y eso os puedo contar. 
+",La provincia a la que pertenecen los informadores es Cantabria.
+"Dime la provincia del siguiente texto: I1: T15 Aquí el día veinticuatro se celebra, se planta un palo que le llaman la malla . y tiene tren-, treinta metros de altura  la levantan con, la, la, la levantan a mano . nada de a ningún aparato. 
+E1: ¿Cómo ha dicho que se llama? 
+I1: La malla. 
+E1: ¿El veinticuatro de qué?, ¿de mayo es? 
+I1: No, de este mes. 
+E1: Ah. De julio. 
+I1: El día veinticinco es Santiago  que se celebra en una romería pues estupenda, que está ahí, en la finca de áhi aonde
+E1: O sea que se pasan allí las vacas ellas solas, todo  ¿Y qué comen? 
+I1: Joder, si en el campo ese, tienen un can- cantidá de hierba de miedo.
+E1: Ah. O sea que, ¿no echa nadie de comer a las vacas? 
+I1: No, no. Ahí van, ahí suben, ya digo, a mediaos de mayo y, y van los vamos los dueños a verlas pues cada ocho días o cada tres, según,  según las ganas que hay de andar y eso os puedo contar. 
+",La provincia a la que pertenecen los informadores es Cantabria.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: T15 Aquí el día veinticuatro se celebra, se planta un palo que le llaman la malla . y tiene tren-, treinta metros de altura  la levantan con, la, la, la levantan a mano . nada de a ningún aparato. 
+E1: ¿Cómo ha dicho que se llama? 
+I1: La malla. 
+E1: ¿El veinticuatro de qué?, ¿de mayo es? 
+I1: No, de este mes. 
+E1: Ah. De julio. 
+I1: El día veinticinco es Santiago  que se celebra en una romería pues estupenda, que está ahí, en la finca de áhi aonde
+E1: O sea que se pasan allí las vacas ellas solas, todo  ¿Y qué comen? 
+I1: Joder, si en el campo ese, tienen un can- cantidá de hierba de miedo.
+E1: Ah. O sea que, ¿no echa nadie de comer a las vacas? 
+I1: No, no. Ahí van, ahí suben, ya digo, a mediaos de mayo y, y van los vamos los dueños a verlas pues cada ocho días o cada tres, según,  según las ganas que hay de andar y eso os puedo contar. 
+",La provincia a la que pertenecen los informadores es Cantabria.
+"Dime de qué lugar es el siguiente texto:  I1: T15 Aquí el día veinticuatro se celebra, se planta un palo que le llaman la malla . y tiene tren-, treinta metros de altura  la levantan con, la, la, la levantan a mano . nada de a ningún aparato. 
+E1: ¿Cómo ha dicho que se llama? 
+I1: La malla. 
+E1: ¿El veinticuatro de qué?, ¿de mayo es? 
+I1: No, de este mes. 
+E1: Ah. De julio. 
+I1: El día veinticinco es Santiago  que se celebra en una romería pues estupenda, que está ahí, en la finca de áhi aonde
+E1: O sea que se pasan allí las vacas ellas solas, todo  ¿Y qué comen? 
+I1: Joder, si en el campo ese, tienen un can- cantidá de hierba de miedo.
+E1: Ah. O sea que, ¿no echa nadie de comer a las vacas? 
+I1: No, no. Ahí van, ahí suben, ya digo, a mediaos de mayo y, y van los vamos los dueños a verlas pues cada ocho días o cada tres, según,  según las ganas que hay de andar y eso os puedo contar. 
+",La provincia a la que pertenecen los informadores es Cantabria.

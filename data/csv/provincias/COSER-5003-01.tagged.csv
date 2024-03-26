@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: O sea que usted nació, ¿dónde? 
+I1: En un predio que se llama Cotainet, que es en el, en el término de Alaior. 
+E1: De Alaior.  Cotainet. 
+I1: Cotainet. 
+E1: ¿En el camino de Cotaines? 
+I1: Exactamente. 
+E1: T6 Ah…  Y entonces usted allí, ¿tenía, vivía su familia…? 
+I1: Ahí vivía, ahí… vivía mis abuelos, mis padres y después nacimos cinco hermanos y después, con el tiempo, nos marchamos, porque no sacaban casi. Porque el tiempo de la dictadura aquí lo pasamos bastante mal los pobres.  Porque hubo señores, eran los que mandaban. Y si un señor, a un trabajador no le gustaba, lo echaban. Y eso es lo que había. Y lo pasamos un poco jodidos, ¿me entiende? Y con eso… mos fuimos a una finca que se llama Forma_Nou, que está pegado a Canutells, en el cabo de Canutells, fuimos allí. Éramos cinco hermanos, el abuelo, que casi siempre estaba con nosotros, y dos, y dos jornaleros. Y todo eso lo teníamos que pagar… el aparcero, que era mi padre.
+E1: Su padre era el aparcero. 
+I1: Exacto. Y el propietario exigía sacar al máximo de la finca. Y todo esto del sur de Menorca es muy malo, porque hay poca tierra y mucha piedra y cuestaba mucho trabajo para sacar poca cosa. Y eso era el poblema
+E1: Claro. 
+",La provincia a la que pertenecen los informadores es Menorca.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: O sea que usted nació, ¿dónde? 
+I1: En un predio que se llama Cotainet, que es en el, en el término de Alaior. 
+E1: De Alaior.  Cotainet. 
+I1: Cotainet. 
+E1: ¿En el camino de Cotaines? 
+I1: Exactamente. 
+E1: T6 Ah…  Y entonces usted allí, ¿tenía, vivía su familia…? 
+I1: Ahí vivía, ahí… vivía mis abuelos, mis padres y después nacimos cinco hermanos y después, con el tiempo, nos marchamos, porque no sacaban casi. Porque el tiempo de la dictadura aquí lo pasamos bastante mal los pobres.  Porque hubo señores, eran los que mandaban. Y si un señor, a un trabajador no le gustaba, lo echaban. Y eso es lo que había. Y lo pasamos un poco jodidos, ¿me entiende? Y con eso… mos fuimos a una finca que se llama Forma_Nou, que está pegado a Canutells, en el cabo de Canutells, fuimos allí. Éramos cinco hermanos, el abuelo, que casi siempre estaba con nosotros, y dos, y dos jornaleros. Y todo eso lo teníamos que pagar… el aparcero, que era mi padre.
+E1: Su padre era el aparcero. 
+I1: Exacto. Y el propietario exigía sacar al máximo de la finca. Y todo esto del sur de Menorca es muy malo, porque hay poca tierra y mucha piedra y cuestaba mucho trabajo para sacar poca cosa. Y eso era el poblema
+E1: Claro. 
+",La provincia a la que pertenecen los informadores es Menorca.
+"Dime la provincia del siguiente texto: E1: O sea que usted nació, ¿dónde? 
+I1: En un predio que se llama Cotainet, que es en el, en el término de Alaior. 
+E1: De Alaior.  Cotainet. 
+I1: Cotainet. 
+E1: ¿En el camino de Cotaines? 
+I1: Exactamente. 
+E1: T6 Ah…  Y entonces usted allí, ¿tenía, vivía su familia…? 
+I1: Ahí vivía, ahí… vivía mis abuelos, mis padres y después nacimos cinco hermanos y después, con el tiempo, nos marchamos, porque no sacaban casi. Porque el tiempo de la dictadura aquí lo pasamos bastante mal los pobres.  Porque hubo señores, eran los que mandaban. Y si un señor, a un trabajador no le gustaba, lo echaban. Y eso es lo que había. Y lo pasamos un poco jodidos, ¿me entiende? Y con eso… mos fuimos a una finca que se llama Forma_Nou, que está pegado a Canutells, en el cabo de Canutells, fuimos allí. Éramos cinco hermanos, el abuelo, que casi siempre estaba con nosotros, y dos, y dos jornaleros. Y todo eso lo teníamos que pagar… el aparcero, que era mi padre.
+E1: Su padre era el aparcero. 
+I1: Exacto. Y el propietario exigía sacar al máximo de la finca. Y todo esto del sur de Menorca es muy malo, porque hay poca tierra y mucha piedra y cuestaba mucho trabajo para sacar poca cosa. Y eso era el poblema
+E1: Claro. 
+",La provincia a la que pertenecen los informadores es Menorca.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: O sea que usted nació, ¿dónde? 
+I1: En un predio que se llama Cotainet, que es en el, en el término de Alaior. 
+E1: De Alaior.  Cotainet. 
+I1: Cotainet. 
+E1: ¿En el camino de Cotaines? 
+I1: Exactamente. 
+E1: T6 Ah…  Y entonces usted allí, ¿tenía, vivía su familia…? 
+I1: Ahí vivía, ahí… vivía mis abuelos, mis padres y después nacimos cinco hermanos y después, con el tiempo, nos marchamos, porque no sacaban casi. Porque el tiempo de la dictadura aquí lo pasamos bastante mal los pobres.  Porque hubo señores, eran los que mandaban. Y si un señor, a un trabajador no le gustaba, lo echaban. Y eso es lo que había. Y lo pasamos un poco jodidos, ¿me entiende? Y con eso… mos fuimos a una finca que se llama Forma_Nou, que está pegado a Canutells, en el cabo de Canutells, fuimos allí. Éramos cinco hermanos, el abuelo, que casi siempre estaba con nosotros, y dos, y dos jornaleros. Y todo eso lo teníamos que pagar… el aparcero, que era mi padre.
+E1: Su padre era el aparcero. 
+I1: Exacto. Y el propietario exigía sacar al máximo de la finca. Y todo esto del sur de Menorca es muy malo, porque hay poca tierra y mucha piedra y cuestaba mucho trabajo para sacar poca cosa. Y eso era el poblema
+E1: Claro. 
+",La provincia a la que pertenecen los informadores es Menorca.
+"Dime de qué lugar es el siguiente texto:  E1: O sea que usted nació, ¿dónde? 
+I1: En un predio que se llama Cotainet, que es en el, en el término de Alaior. 
+E1: De Alaior.  Cotainet. 
+I1: Cotainet. 
+E1: ¿En el camino de Cotaines? 
+I1: Exactamente. 
+E1: T6 Ah…  Y entonces usted allí, ¿tenía, vivía su familia…? 
+I1: Ahí vivía, ahí… vivía mis abuelos, mis padres y después nacimos cinco hermanos y después, con el tiempo, nos marchamos, porque no sacaban casi. Porque el tiempo de la dictadura aquí lo pasamos bastante mal los pobres.  Porque hubo señores, eran los que mandaban. Y si un señor, a un trabajador no le gustaba, lo echaban. Y eso es lo que había. Y lo pasamos un poco jodidos, ¿me entiende? Y con eso… mos fuimos a una finca que se llama Forma_Nou, que está pegado a Canutells, en el cabo de Canutells, fuimos allí. Éramos cinco hermanos, el abuelo, que casi siempre estaba con nosotros, y dos, y dos jornaleros. Y todo eso lo teníamos que pagar… el aparcero, que era mi padre.
+E1: Su padre era el aparcero. 
+I1: Exacto. Y el propietario exigía sacar al máximo de la finca. Y todo esto del sur de Menorca es muy malo, porque hay poca tierra y mucha piedra y cuestaba mucho trabajo para sacar poca cosa. Y eso era el poblema
+E1: Claro. 
+",La provincia a la que pertenecen los informadores es Menorca.

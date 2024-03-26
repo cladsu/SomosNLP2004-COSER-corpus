@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: Ha sido la, la hierbabuena, ¿no? 
+I1: No,  tomillo. 
+E1:  ¿Es tomillo? 
+I1: Tomillo, ese es tomillo. 
+E1: Ah, es que oiga hablamos del tomillo ese, que es  tranquilizante, ¿no? 
+I1: Sí. 
+E2: ¿Le gustan las hierbas? 
+I1: Sí. 
+E2: ¿Y por aquí cultivan hierba? 
+I1: No, están en el campo, están en el campo. 
+E2: ¿Y no cultivan por aquí menta o hierbaluisa…? 
+",La provincia a la que pertenecen los informadores es Teruel.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: Ha sido la, la hierbabuena, ¿no? 
+I1: No,  tomillo. 
+E1:  ¿Es tomillo? 
+I1: Tomillo, ese es tomillo. 
+E1: Ah, es que oiga hablamos del tomillo ese, que es  tranquilizante, ¿no? 
+I1: Sí. 
+E2: ¿Le gustan las hierbas? 
+I1: Sí. 
+E2: ¿Y por aquí cultivan hierba? 
+I1: No, están en el campo, están en el campo. 
+E2: ¿Y no cultivan por aquí menta o hierbaluisa…? 
+",La provincia a la que pertenecen los informadores es Teruel.
+"Dime la provincia del siguiente texto: E1: Ha sido la, la hierbabuena, ¿no? 
+I1: No,  tomillo. 
+E1:  ¿Es tomillo? 
+I1: Tomillo, ese es tomillo. 
+E1: Ah, es que oiga hablamos del tomillo ese, que es  tranquilizante, ¿no? 
+I1: Sí. 
+E2: ¿Le gustan las hierbas? 
+I1: Sí. 
+E2: ¿Y por aquí cultivan hierba? 
+I1: No, están en el campo, están en el campo. 
+E2: ¿Y no cultivan por aquí menta o hierbaluisa…? 
+",La provincia a la que pertenecen los informadores es Teruel.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: Ha sido la, la hierbabuena, ¿no? 
+I1: No,  tomillo. 
+E1:  ¿Es tomillo? 
+I1: Tomillo, ese es tomillo. 
+E1: Ah, es que oiga hablamos del tomillo ese, que es  tranquilizante, ¿no? 
+I1: Sí. 
+E2: ¿Le gustan las hierbas? 
+I1: Sí. 
+E2: ¿Y por aquí cultivan hierba? 
+I1: No, están en el campo, están en el campo. 
+E2: ¿Y no cultivan por aquí menta o hierbaluisa…? 
+",La provincia a la que pertenecen los informadores es Teruel.
+"Dime de qué lugar es el siguiente texto:  E1: Ha sido la, la hierbabuena, ¿no? 
+I1: No,  tomillo. 
+E1:  ¿Es tomillo? 
+I1: Tomillo, ese es tomillo. 
+E1: Ah, es que oiga hablamos del tomillo ese, que es  tranquilizante, ¿no? 
+I1: Sí. 
+E2: ¿Le gustan las hierbas? 
+I1: Sí. 
+E2: ¿Y por aquí cultivan hierba? 
+I1: No, están en el campo, están en el campo. 
+E2: ¿Y no cultivan por aquí menta o hierbaluisa…? 
+",La provincia a la que pertenecen los informadores es Teruel.

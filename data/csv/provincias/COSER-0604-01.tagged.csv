@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: ¿Cómo se llaman ustedes? 
+I1: Anonimizado. 
+E1: ¿Y cuántos años tiene? 
+I1: Sesenta_y_cinco. 
+E1: ¿Y usted? 
+I2: ¿Yo? Anonimizado. 
+E1: ¿Y cuántos años tiene? 
+I2: Ochenta_y_dos vi a hacer.
+E1: Muy bien. A-Crt 
+E2: T1 Nos han dicho que ustedes han vivido toda la vida aquí, en el pueblo, ¿no?  ¿Hacían matanzas en su época?  ¿Sí?  
+I2: yo sí que la he hecho, y este, tamién , este señor, tamién
+",La provincia a la que pertenecen los informadores es Ávila.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: ¿Cómo se llaman ustedes? 
+I1: Anonimizado. 
+E1: ¿Y cuántos años tiene? 
+I1: Sesenta_y_cinco. 
+E1: ¿Y usted? 
+I2: ¿Yo? Anonimizado. 
+E1: ¿Y cuántos años tiene? 
+I2: Ochenta_y_dos vi a hacer.
+E1: Muy bien. A-Crt 
+E2: T1 Nos han dicho que ustedes han vivido toda la vida aquí, en el pueblo, ¿no?  ¿Hacían matanzas en su época?  ¿Sí?  
+I2: yo sí que la he hecho, y este, tamién , este señor, tamién
+",La provincia a la que pertenecen los informadores es Ávila.
+"Dime la provincia del siguiente texto: E1: ¿Cómo se llaman ustedes? 
+I1: Anonimizado. 
+E1: ¿Y cuántos años tiene? 
+I1: Sesenta_y_cinco. 
+E1: ¿Y usted? 
+I2: ¿Yo? Anonimizado. 
+E1: ¿Y cuántos años tiene? 
+I2: Ochenta_y_dos vi a hacer.
+E1: Muy bien. A-Crt 
+E2: T1 Nos han dicho que ustedes han vivido toda la vida aquí, en el pueblo, ¿no?  ¿Hacían matanzas en su época?  ¿Sí?  
+I2: yo sí que la he hecho, y este, tamién , este señor, tamién
+",La provincia a la que pertenecen los informadores es Ávila.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: ¿Cómo se llaman ustedes? 
+I1: Anonimizado. 
+E1: ¿Y cuántos años tiene? 
+I1: Sesenta_y_cinco. 
+E1: ¿Y usted? 
+I2: ¿Yo? Anonimizado. 
+E1: ¿Y cuántos años tiene? 
+I2: Ochenta_y_dos vi a hacer.
+E1: Muy bien. A-Crt 
+E2: T1 Nos han dicho que ustedes han vivido toda la vida aquí, en el pueblo, ¿no?  ¿Hacían matanzas en su época?  ¿Sí?  
+I2: yo sí que la he hecho, y este, tamién , este señor, tamién
+",La provincia a la que pertenecen los informadores es Ávila.
+"Dime de qué lugar es el siguiente texto:  E1: ¿Cómo se llaman ustedes? 
+I1: Anonimizado. 
+E1: ¿Y cuántos años tiene? 
+I1: Sesenta_y_cinco. 
+E1: ¿Y usted? 
+I2: ¿Yo? Anonimizado. 
+E1: ¿Y cuántos años tiene? 
+I2: Ochenta_y_dos vi a hacer.
+E1: Muy bien. A-Crt 
+E2: T1 Nos han dicho que ustedes han vivido toda la vida aquí, en el pueblo, ¿no?  ¿Hacían matanzas en su época?  ¿Sí?  
+I2: yo sí que la he hecho, y este, tamién , este señor, tamién
+",La provincia a la que pertenecen los informadores es Ávila.

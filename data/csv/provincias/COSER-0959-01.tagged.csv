@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: ¿Y la sangre y todo eso? ¿Ya los ha limpiado usted? 
+I1: No, no  nos quedan por ahí, luego cuando tenga las segundinas que llaman…, excusas que llamamos nosotros. 
+E1: ¿Las echa después ahora? 
+I1: No,  después, porque las quito. Hay chinas que… no hace falta quitárselas, porque las comen. Hay chinas que se las comen y no hace falta quitárselas. 
+E1: Uy, por Dios, se está ahogando. 
+E2: Y luego con todos estos cerdos, ¿qué hacen? 
+I1: Luego venderles, cuando son… 
+E1: Mira, mira. Está dando una patada. V-Sml 
+E2: Ay, pobre. 
+E1: Ay…, lo va a aplastar. Uy, si quiere irse por aquí…  
+I3:  una bombilla con calor. 
+",La provincia a la que pertenecen los informadores es Burgos.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: ¿Y la sangre y todo eso? ¿Ya los ha limpiado usted? 
+I1: No, no  nos quedan por ahí, luego cuando tenga las segundinas que llaman…, excusas que llamamos nosotros. 
+E1: ¿Las echa después ahora? 
+I1: No,  después, porque las quito. Hay chinas que… no hace falta quitárselas, porque las comen. Hay chinas que se las comen y no hace falta quitárselas. 
+E1: Uy, por Dios, se está ahogando. 
+E2: Y luego con todos estos cerdos, ¿qué hacen? 
+I1: Luego venderles, cuando son… 
+E1: Mira, mira. Está dando una patada. V-Sml 
+E2: Ay, pobre. 
+E1: Ay…, lo va a aplastar. Uy, si quiere irse por aquí…  
+I3:  una bombilla con calor. 
+",La provincia a la que pertenecen los informadores es Burgos.
+"Dime la provincia del siguiente texto: E1: ¿Y la sangre y todo eso? ¿Ya los ha limpiado usted? 
+I1: No, no  nos quedan por ahí, luego cuando tenga las segundinas que llaman…, excusas que llamamos nosotros. 
+E1: ¿Las echa después ahora? 
+I1: No,  después, porque las quito. Hay chinas que… no hace falta quitárselas, porque las comen. Hay chinas que se las comen y no hace falta quitárselas. 
+E1: Uy, por Dios, se está ahogando. 
+E2: Y luego con todos estos cerdos, ¿qué hacen? 
+I1: Luego venderles, cuando son… 
+E1: Mira, mira. Está dando una patada. V-Sml 
+E2: Ay, pobre. 
+E1: Ay…, lo va a aplastar. Uy, si quiere irse por aquí…  
+I3:  una bombilla con calor. 
+",La provincia a la que pertenecen los informadores es Burgos.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: ¿Y la sangre y todo eso? ¿Ya los ha limpiado usted? 
+I1: No, no  nos quedan por ahí, luego cuando tenga las segundinas que llaman…, excusas que llamamos nosotros. 
+E1: ¿Las echa después ahora? 
+I1: No,  después, porque las quito. Hay chinas que… no hace falta quitárselas, porque las comen. Hay chinas que se las comen y no hace falta quitárselas. 
+E1: Uy, por Dios, se está ahogando. 
+E2: Y luego con todos estos cerdos, ¿qué hacen? 
+I1: Luego venderles, cuando son… 
+E1: Mira, mira. Está dando una patada. V-Sml 
+E2: Ay, pobre. 
+E1: Ay…, lo va a aplastar. Uy, si quiere irse por aquí…  
+I3:  una bombilla con calor. 
+",La provincia a la que pertenecen los informadores es Burgos.
+"Dime de qué lugar es el siguiente texto:  E1: ¿Y la sangre y todo eso? ¿Ya los ha limpiado usted? 
+I1: No, no  nos quedan por ahí, luego cuando tenga las segundinas que llaman…, excusas que llamamos nosotros. 
+E1: ¿Las echa después ahora? 
+I1: No,  después, porque las quito. Hay chinas que… no hace falta quitárselas, porque las comen. Hay chinas que se las comen y no hace falta quitárselas. 
+E1: Uy, por Dios, se está ahogando. 
+E2: Y luego con todos estos cerdos, ¿qué hacen? 
+I1: Luego venderles, cuando son… 
+E1: Mira, mira. Está dando una patada. V-Sml 
+E2: Ay, pobre. 
+E1: Ay…, lo va a aplastar. Uy, si quiere irse por aquí…  
+I3:  una bombilla con calor. 
+",La provincia a la que pertenecen los informadores es Burgos.

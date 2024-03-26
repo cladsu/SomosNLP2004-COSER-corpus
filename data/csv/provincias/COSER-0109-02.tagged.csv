@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T7 Pues, estábamos impresionados de, de, de lo bonito que era esta comarca, que no conocíamos…, no conocíamos, vamos, de nada, ¿no? Que, que era precioso. Vamos a ver, ¿nos podría un poco contar aquí cómo…, bueno, si la gente sigue teniendo animales…, y…? 
+I1: Pues algunos sí tienen, todavía. 
+E1:  Todavía… ¿Qué animales tienen? 
+I1: Pues aquí se tiene vacas. Vacas, ovejas. 
+E1: Sí. 
+I1: Pues, vacas y ovejas, no tienen otra cosa. 
+E1: ¿Y con las vacas qué hacen?, ¿qué…?,  ¿cómo, cómo alimentan las va-, a las vacas? 
+I1: Pues, oye, con el pasto del campo,  hierba seca que les dan, y luego piensos.  Eso se les da. 
+E1: . O sea qu-… ¿Y, hierba cultivada especialmente o…? 
+I1: Sí, sí, hierba de aquí, del campo.  Hierba… cultivada. De aquí.  Se siega, se seca. 
+E1: ¿Pero centeno?, ¿cebada?, ¿alfalfa?, ¿qué es? 
+",La provincia a la que pertenecen los informadores es Álava.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T7 Pues, estábamos impresionados de, de, de lo bonito que era esta comarca, que no conocíamos…, no conocíamos, vamos, de nada, ¿no? Que, que era precioso. Vamos a ver, ¿nos podría un poco contar aquí cómo…, bueno, si la gente sigue teniendo animales…, y…? 
+I1: Pues algunos sí tienen, todavía. 
+E1:  Todavía… ¿Qué animales tienen? 
+I1: Pues aquí se tiene vacas. Vacas, ovejas. 
+E1: Sí. 
+I1: Pues, vacas y ovejas, no tienen otra cosa. 
+E1: ¿Y con las vacas qué hacen?, ¿qué…?,  ¿cómo, cómo alimentan las va-, a las vacas? 
+I1: Pues, oye, con el pasto del campo,  hierba seca que les dan, y luego piensos.  Eso se les da. 
+E1: . O sea qu-… ¿Y, hierba cultivada especialmente o…? 
+I1: Sí, sí, hierba de aquí, del campo.  Hierba… cultivada. De aquí.  Se siega, se seca. 
+E1: ¿Pero centeno?, ¿cebada?, ¿alfalfa?, ¿qué es? 
+",La provincia a la que pertenecen los informadores es Álava.
+"Dime la provincia del siguiente texto: E1: T7 Pues, estábamos impresionados de, de, de lo bonito que era esta comarca, que no conocíamos…, no conocíamos, vamos, de nada, ¿no? Que, que era precioso. Vamos a ver, ¿nos podría un poco contar aquí cómo…, bueno, si la gente sigue teniendo animales…, y…? 
+I1: Pues algunos sí tienen, todavía. 
+E1:  Todavía… ¿Qué animales tienen? 
+I1: Pues aquí se tiene vacas. Vacas, ovejas. 
+E1: Sí. 
+I1: Pues, vacas y ovejas, no tienen otra cosa. 
+E1: ¿Y con las vacas qué hacen?, ¿qué…?,  ¿cómo, cómo alimentan las va-, a las vacas? 
+I1: Pues, oye, con el pasto del campo,  hierba seca que les dan, y luego piensos.  Eso se les da. 
+E1: . O sea qu-… ¿Y, hierba cultivada especialmente o…? 
+I1: Sí, sí, hierba de aquí, del campo.  Hierba… cultivada. De aquí.  Se siega, se seca. 
+E1: ¿Pero centeno?, ¿cebada?, ¿alfalfa?, ¿qué es? 
+",La provincia a la que pertenecen los informadores es Álava.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T7 Pues, estábamos impresionados de, de, de lo bonito que era esta comarca, que no conocíamos…, no conocíamos, vamos, de nada, ¿no? Que, que era precioso. Vamos a ver, ¿nos podría un poco contar aquí cómo…, bueno, si la gente sigue teniendo animales…, y…? 
+I1: Pues algunos sí tienen, todavía. 
+E1:  Todavía… ¿Qué animales tienen? 
+I1: Pues aquí se tiene vacas. Vacas, ovejas. 
+E1: Sí. 
+I1: Pues, vacas y ovejas, no tienen otra cosa. 
+E1: ¿Y con las vacas qué hacen?, ¿qué…?,  ¿cómo, cómo alimentan las va-, a las vacas? 
+I1: Pues, oye, con el pasto del campo,  hierba seca que les dan, y luego piensos.  Eso se les da. 
+E1: . O sea qu-… ¿Y, hierba cultivada especialmente o…? 
+I1: Sí, sí, hierba de aquí, del campo.  Hierba… cultivada. De aquí.  Se siega, se seca. 
+E1: ¿Pero centeno?, ¿cebada?, ¿alfalfa?, ¿qué es? 
+",La provincia a la que pertenecen los informadores es Álava.
+"Dime de qué lugar es el siguiente texto:  E1: T7 Pues, estábamos impresionados de, de, de lo bonito que era esta comarca, que no conocíamos…, no conocíamos, vamos, de nada, ¿no? Que, que era precioso. Vamos a ver, ¿nos podría un poco contar aquí cómo…, bueno, si la gente sigue teniendo animales…, y…? 
+I1: Pues algunos sí tienen, todavía. 
+E1:  Todavía… ¿Qué animales tienen? 
+I1: Pues aquí se tiene vacas. Vacas, ovejas. 
+E1: Sí. 
+I1: Pues, vacas y ovejas, no tienen otra cosa. 
+E1: ¿Y con las vacas qué hacen?, ¿qué…?,  ¿cómo, cómo alimentan las va-, a las vacas? 
+I1: Pues, oye, con el pasto del campo,  hierba seca que les dan, y luego piensos.  Eso se les da. 
+E1: . O sea qu-… ¿Y, hierba cultivada especialmente o…? 
+I1: Sí, sí, hierba de aquí, del campo.  Hierba… cultivada. De aquí.  Se siega, se seca. 
+E1: ¿Pero centeno?, ¿cebada?, ¿alfalfa?, ¿qué es? 
+",La provincia a la que pertenecen los informadores es Álava.

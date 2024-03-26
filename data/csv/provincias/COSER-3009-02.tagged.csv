@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: Las cosas desde…  
+I1: como de la noche al día, ay. 
+E1: Como de la noche al día.  
+I1: T11  yo lo veo. Mi nieta, por ejemplo, que tiene ahora dieciocho años y dice: «Abuela, tanto no será». Y tanto es y más todavía. Porque íbamos a bañanos , ni bañadores solo, uf… eso un bañadó
+E1: Pero entonces, ¿no había bañadores ni nada? O sea, ¿ustedes se bañaban… en…? 
+I1: Nosotros nos bañamos con unas braguillas, y una camisilla de… Yo me la ponía de mi abuela, y otra de su madre; con unas naguas
+E1: Entonces era una camisa blanca, como…  
+I1: o… una chispita de mangas, y con eso nos bañábamos pa que no se vean los… los pechos, ¿sabes? . Y eso, mos veníamos por la cuesta arriba con la panera en la cabeza, con una cabecera que hacíamos de, que te voy a enseñá , ah, no sé si tendré que entrá
+E1: ¿Ah, sí?  
+I1: eso tenía novio y eso… Se miraba… eran mucho machista, eh, que era… no querían que hubiera estao manoseá ya de otro, qué va, sino que la cogiera él… el tío intacto. Y no sé cómo es eso, íbamos por leña al campo. En unas chimeneas de estas, íbamos por leña a esos campos por ahí arriba, unos trozaos
+E1: Que es la fiesta del pueblo.  
+",La provincia a la que pertenecen los informadores es Málaga.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: Las cosas desde…  
+I1: como de la noche al día, ay. 
+E1: Como de la noche al día.  
+I1: T11  yo lo veo. Mi nieta, por ejemplo, que tiene ahora dieciocho años y dice: «Abuela, tanto no será». Y tanto es y más todavía. Porque íbamos a bañanos , ni bañadores solo, uf… eso un bañadó
+E1: Pero entonces, ¿no había bañadores ni nada? O sea, ¿ustedes se bañaban… en…? 
+I1: Nosotros nos bañamos con unas braguillas, y una camisilla de… Yo me la ponía de mi abuela, y otra de su madre; con unas naguas
+E1: Entonces era una camisa blanca, como…  
+I1: o… una chispita de mangas, y con eso nos bañábamos pa que no se vean los… los pechos, ¿sabes? . Y eso, mos veníamos por la cuesta arriba con la panera en la cabeza, con una cabecera que hacíamos de, que te voy a enseñá , ah, no sé si tendré que entrá
+E1: ¿Ah, sí?  
+I1: eso tenía novio y eso… Se miraba… eran mucho machista, eh, que era… no querían que hubiera estao manoseá ya de otro, qué va, sino que la cogiera él… el tío intacto. Y no sé cómo es eso, íbamos por leña al campo. En unas chimeneas de estas, íbamos por leña a esos campos por ahí arriba, unos trozaos
+E1: Que es la fiesta del pueblo.  
+",La provincia a la que pertenecen los informadores es Málaga.
+"Dime la provincia del siguiente texto: E1: Las cosas desde…  
+I1: como de la noche al día, ay. 
+E1: Como de la noche al día.  
+I1: T11  yo lo veo. Mi nieta, por ejemplo, que tiene ahora dieciocho años y dice: «Abuela, tanto no será». Y tanto es y más todavía. Porque íbamos a bañanos , ni bañadores solo, uf… eso un bañadó
+E1: Pero entonces, ¿no había bañadores ni nada? O sea, ¿ustedes se bañaban… en…? 
+I1: Nosotros nos bañamos con unas braguillas, y una camisilla de… Yo me la ponía de mi abuela, y otra de su madre; con unas naguas
+E1: Entonces era una camisa blanca, como…  
+I1: o… una chispita de mangas, y con eso nos bañábamos pa que no se vean los… los pechos, ¿sabes? . Y eso, mos veníamos por la cuesta arriba con la panera en la cabeza, con una cabecera que hacíamos de, que te voy a enseñá , ah, no sé si tendré que entrá
+E1: ¿Ah, sí?  
+I1: eso tenía novio y eso… Se miraba… eran mucho machista, eh, que era… no querían que hubiera estao manoseá ya de otro, qué va, sino que la cogiera él… el tío intacto. Y no sé cómo es eso, íbamos por leña al campo. En unas chimeneas de estas, íbamos por leña a esos campos por ahí arriba, unos trozaos
+E1: Que es la fiesta del pueblo.  
+",La provincia a la que pertenecen los informadores es Málaga.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: Las cosas desde…  
+I1: como de la noche al día, ay. 
+E1: Como de la noche al día.  
+I1: T11  yo lo veo. Mi nieta, por ejemplo, que tiene ahora dieciocho años y dice: «Abuela, tanto no será». Y tanto es y más todavía. Porque íbamos a bañanos , ni bañadores solo, uf… eso un bañadó
+E1: Pero entonces, ¿no había bañadores ni nada? O sea, ¿ustedes se bañaban… en…? 
+I1: Nosotros nos bañamos con unas braguillas, y una camisilla de… Yo me la ponía de mi abuela, y otra de su madre; con unas naguas
+E1: Entonces era una camisa blanca, como…  
+I1: o… una chispita de mangas, y con eso nos bañábamos pa que no se vean los… los pechos, ¿sabes? . Y eso, mos veníamos por la cuesta arriba con la panera en la cabeza, con una cabecera que hacíamos de, que te voy a enseñá , ah, no sé si tendré que entrá
+E1: ¿Ah, sí?  
+I1: eso tenía novio y eso… Se miraba… eran mucho machista, eh, que era… no querían que hubiera estao manoseá ya de otro, qué va, sino que la cogiera él… el tío intacto. Y no sé cómo es eso, íbamos por leña al campo. En unas chimeneas de estas, íbamos por leña a esos campos por ahí arriba, unos trozaos
+E1: Que es la fiesta del pueblo.  
+",La provincia a la que pertenecen los informadores es Málaga.
+"Dime de qué lugar es el siguiente texto:  E1: Las cosas desde…  
+I1: como de la noche al día, ay. 
+E1: Como de la noche al día.  
+I1: T11  yo lo veo. Mi nieta, por ejemplo, que tiene ahora dieciocho años y dice: «Abuela, tanto no será». Y tanto es y más todavía. Porque íbamos a bañanos , ni bañadores solo, uf… eso un bañadó
+E1: Pero entonces, ¿no había bañadores ni nada? O sea, ¿ustedes se bañaban… en…? 
+I1: Nosotros nos bañamos con unas braguillas, y una camisilla de… Yo me la ponía de mi abuela, y otra de su madre; con unas naguas
+E1: Entonces era una camisa blanca, como…  
+I1: o… una chispita de mangas, y con eso nos bañábamos pa que no se vean los… los pechos, ¿sabes? . Y eso, mos veníamos por la cuesta arriba con la panera en la cabeza, con una cabecera que hacíamos de, que te voy a enseñá , ah, no sé si tendré que entrá
+E1: ¿Ah, sí?  
+I1: eso tenía novio y eso… Se miraba… eran mucho machista, eh, que era… no querían que hubiera estao manoseá ya de otro, qué va, sino que la cogiera él… el tío intacto. Y no sé cómo es eso, íbamos por leña al campo. En unas chimeneas de estas, íbamos por leña a esos campos por ahí arriba, unos trozaos
+E1: Que es la fiesta del pueblo.  
+",La provincia a la que pertenecen los informadores es Málaga.

@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1:  Hola, buenos días. 
+I1: Yo salí ahora a caminar un pizco porque como… me operé de u-, de la cadera, me rompí la cadera, tuve hallada en Santa_Cruz tantos días, . y después en El_Mojón, pero toas
+E1: Y fue así, ¿no?  
+I1: Vamos a bajar pa abajo. 
+E2: Anonimizado, ¿a usted no le importa que le grabemos? 
+I1: ¿Eh? 
+E2: La, le, le tenemos que grabar para… poder tomar nota después, ¿vale?  
+E1: No tiene ningún problema, ¿no? 
+I1: No. 
+E1:  Vale.  ¿Y usted ha vivido aquí siempre? 
+I1: Sí, mis casas son estas. Esta de aquí es de mi hija y las otras de abajo son las mías. 
+",La provincia a la que pertenecen los informadores es La Gomera.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1:  Hola, buenos días. 
+I1: Yo salí ahora a caminar un pizco porque como… me operé de u-, de la cadera, me rompí la cadera, tuve hallada en Santa_Cruz tantos días, . y después en El_Mojón, pero toas
+E1: Y fue así, ¿no?  
+I1: Vamos a bajar pa abajo. 
+E2: Anonimizado, ¿a usted no le importa que le grabemos? 
+I1: ¿Eh? 
+E2: La, le, le tenemos que grabar para… poder tomar nota después, ¿vale?  
+E1: No tiene ningún problema, ¿no? 
+I1: No. 
+E1:  Vale.  ¿Y usted ha vivido aquí siempre? 
+I1: Sí, mis casas son estas. Esta de aquí es de mi hija y las otras de abajo son las mías. 
+",La provincia a la que pertenecen los informadores es La Gomera.
+"Dime la provincia del siguiente texto: E1:  Hola, buenos días. 
+I1: Yo salí ahora a caminar un pizco porque como… me operé de u-, de la cadera, me rompí la cadera, tuve hallada en Santa_Cruz tantos días, . y después en El_Mojón, pero toas
+E1: Y fue así, ¿no?  
+I1: Vamos a bajar pa abajo. 
+E2: Anonimizado, ¿a usted no le importa que le grabemos? 
+I1: ¿Eh? 
+E2: La, le, le tenemos que grabar para… poder tomar nota después, ¿vale?  
+E1: No tiene ningún problema, ¿no? 
+I1: No. 
+E1:  Vale.  ¿Y usted ha vivido aquí siempre? 
+I1: Sí, mis casas son estas. Esta de aquí es de mi hija y las otras de abajo son las mías. 
+",La provincia a la que pertenecen los informadores es La Gomera.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1:  Hola, buenos días. 
+I1: Yo salí ahora a caminar un pizco porque como… me operé de u-, de la cadera, me rompí la cadera, tuve hallada en Santa_Cruz tantos días, . y después en El_Mojón, pero toas
+E1: Y fue así, ¿no?  
+I1: Vamos a bajar pa abajo. 
+E2: Anonimizado, ¿a usted no le importa que le grabemos? 
+I1: ¿Eh? 
+E2: La, le, le tenemos que grabar para… poder tomar nota después, ¿vale?  
+E1: No tiene ningún problema, ¿no? 
+I1: No. 
+E1:  Vale.  ¿Y usted ha vivido aquí siempre? 
+I1: Sí, mis casas son estas. Esta de aquí es de mi hija y las otras de abajo son las mías. 
+",La provincia a la que pertenecen los informadores es La Gomera.
+"Dime de qué lugar es el siguiente texto:  E1:  Hola, buenos días. 
+I1: Yo salí ahora a caminar un pizco porque como… me operé de u-, de la cadera, me rompí la cadera, tuve hallada en Santa_Cruz tantos días, . y después en El_Mojón, pero toas
+E1: Y fue así, ¿no?  
+I1: Vamos a bajar pa abajo. 
+E2: Anonimizado, ¿a usted no le importa que le grabemos? 
+I1: ¿Eh? 
+E2: La, le, le tenemos que grabar para… poder tomar nota después, ¿vale?  
+E1: No tiene ningún problema, ¿no? 
+I1: No. 
+E1:  Vale.  ¿Y usted ha vivido aquí siempre? 
+I1: Sí, mis casas son estas. Esta de aquí es de mi hija y las otras de abajo son las mías. 
+",La provincia a la que pertenecen los informadores es La Gomera.

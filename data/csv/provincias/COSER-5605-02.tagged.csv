@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: T3 T7¡Ah!, sí, pero… 
+E1:  Aquí está usted dándole de comer a los animales. 
+I1: A los animales. 
+E1: ¿Qué animales tiene? 
+I1: Tengo cabras y gallinas. 
+E1: ¿Y cuántas cabras? 
+I1: Tengo siete. 
+E1: ¿Siete? 
+I1: O ocho. 
+E1: ¿Y qué hace con ellas? 
+I1: ¿Que qué hago con ellas? Pues este año no me quedaron pa crías, porque no…, cuando no hay macho no…, no hay na.  
+",La provincia a la que pertenecen los informadores es Lanzarote.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: T3 T7¡Ah!, sí, pero… 
+E1:  Aquí está usted dándole de comer a los animales. 
+I1: A los animales. 
+E1: ¿Qué animales tiene? 
+I1: Tengo cabras y gallinas. 
+E1: ¿Y cuántas cabras? 
+I1: Tengo siete. 
+E1: ¿Siete? 
+I1: O ocho. 
+E1: ¿Y qué hace con ellas? 
+I1: ¿Que qué hago con ellas? Pues este año no me quedaron pa crías, porque no…, cuando no hay macho no…, no hay na.  
+",La provincia a la que pertenecen los informadores es Lanzarote.
+"Dime la provincia del siguiente texto: I1: T3 T7¡Ah!, sí, pero… 
+E1:  Aquí está usted dándole de comer a los animales. 
+I1: A los animales. 
+E1: ¿Qué animales tiene? 
+I1: Tengo cabras y gallinas. 
+E1: ¿Y cuántas cabras? 
+I1: Tengo siete. 
+E1: ¿Siete? 
+I1: O ocho. 
+E1: ¿Y qué hace con ellas? 
+I1: ¿Que qué hago con ellas? Pues este año no me quedaron pa crías, porque no…, cuando no hay macho no…, no hay na.  
+",La provincia a la que pertenecen los informadores es Lanzarote.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: T3 T7¡Ah!, sí, pero… 
+E1:  Aquí está usted dándole de comer a los animales. 
+I1: A los animales. 
+E1: ¿Qué animales tiene? 
+I1: Tengo cabras y gallinas. 
+E1: ¿Y cuántas cabras? 
+I1: Tengo siete. 
+E1: ¿Siete? 
+I1: O ocho. 
+E1: ¿Y qué hace con ellas? 
+I1: ¿Que qué hago con ellas? Pues este año no me quedaron pa crías, porque no…, cuando no hay macho no…, no hay na.  
+",La provincia a la que pertenecen los informadores es Lanzarote.
+"Dime de qué lugar es el siguiente texto:  I1: T3 T7¡Ah!, sí, pero… 
+E1:  Aquí está usted dándole de comer a los animales. 
+I1: A los animales. 
+E1: ¿Qué animales tiene? 
+I1: Tengo cabras y gallinas. 
+E1: ¿Y cuántas cabras? 
+I1: Tengo siete. 
+E1: ¿Siete? 
+I1: O ocho. 
+E1: ¿Y qué hace con ellas? 
+I1: ¿Que qué hago con ellas? Pues este año no me quedaron pa crías, porque no…, cuando no hay macho no…, no hay na.  
+",La provincia a la que pertenecen los informadores es Lanzarote.

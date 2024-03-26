@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: Se trata de que nos cuente un poco cómo era… la vida de antes,  por ejemplo, o… 
+I1: T4 Pues  la vida de antes yo ya la he vivido también. En el museo hay… esto…,  coladoras, que se colaba la ropa; en lugar de lejía hacían coladoras,  colaban la ropa, le ponían ceniza, arriba. 
+E1: ¿Aquí se hacía? ¿Y cómo llamaban eso? 
+I1: Pues bueno, lavaban la ropa en el río, en las balsas o… como podías, antiguamente. Aquí había balsas pa lavar, otros iban al río, porque aquí no hay río. Bueno. Entonces se lavaba la ropa… con jabón. Y se hacía jabón de casa. 
+E1: ¿Usted ha hecho jabón? 
+I1: Sí… 
+E1: Ahora nos cuenta. 
+I1: Jabón de casa. Y…, y el jabón se hacía con los desperdicios de grasa que ya n-, se había frito, se guardaban esos aceites… Y se guardaba el aceite ese y se hacía el jabón con sosa. 
+E1: Sí. 
+I1: Y se hacía el jabón. 
+E1: Sí. 
+",La provincia a la que pertenecen los informadores es Huesca.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: Se trata de que nos cuente un poco cómo era… la vida de antes,  por ejemplo, o… 
+I1: T4 Pues  la vida de antes yo ya la he vivido también. En el museo hay… esto…,  coladoras, que se colaba la ropa; en lugar de lejía hacían coladoras,  colaban la ropa, le ponían ceniza, arriba. 
+E1: ¿Aquí se hacía? ¿Y cómo llamaban eso? 
+I1: Pues bueno, lavaban la ropa en el río, en las balsas o… como podías, antiguamente. Aquí había balsas pa lavar, otros iban al río, porque aquí no hay río. Bueno. Entonces se lavaba la ropa… con jabón. Y se hacía jabón de casa. 
+E1: ¿Usted ha hecho jabón? 
+I1: Sí… 
+E1: Ahora nos cuenta. 
+I1: Jabón de casa. Y…, y el jabón se hacía con los desperdicios de grasa que ya n-, se había frito, se guardaban esos aceites… Y se guardaba el aceite ese y se hacía el jabón con sosa. 
+E1: Sí. 
+I1: Y se hacía el jabón. 
+E1: Sí. 
+",La provincia a la que pertenecen los informadores es Huesca.
+"Dime la provincia del siguiente texto: E1: Se trata de que nos cuente un poco cómo era… la vida de antes,  por ejemplo, o… 
+I1: T4 Pues  la vida de antes yo ya la he vivido también. En el museo hay… esto…,  coladoras, que se colaba la ropa; en lugar de lejía hacían coladoras,  colaban la ropa, le ponían ceniza, arriba. 
+E1: ¿Aquí se hacía? ¿Y cómo llamaban eso? 
+I1: Pues bueno, lavaban la ropa en el río, en las balsas o… como podías, antiguamente. Aquí había balsas pa lavar, otros iban al río, porque aquí no hay río. Bueno. Entonces se lavaba la ropa… con jabón. Y se hacía jabón de casa. 
+E1: ¿Usted ha hecho jabón? 
+I1: Sí… 
+E1: Ahora nos cuenta. 
+I1: Jabón de casa. Y…, y el jabón se hacía con los desperdicios de grasa que ya n-, se había frito, se guardaban esos aceites… Y se guardaba el aceite ese y se hacía el jabón con sosa. 
+E1: Sí. 
+I1: Y se hacía el jabón. 
+E1: Sí. 
+",La provincia a la que pertenecen los informadores es Huesca.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: Se trata de que nos cuente un poco cómo era… la vida de antes,  por ejemplo, o… 
+I1: T4 Pues  la vida de antes yo ya la he vivido también. En el museo hay… esto…,  coladoras, que se colaba la ropa; en lugar de lejía hacían coladoras,  colaban la ropa, le ponían ceniza, arriba. 
+E1: ¿Aquí se hacía? ¿Y cómo llamaban eso? 
+I1: Pues bueno, lavaban la ropa en el río, en las balsas o… como podías, antiguamente. Aquí había balsas pa lavar, otros iban al río, porque aquí no hay río. Bueno. Entonces se lavaba la ropa… con jabón. Y se hacía jabón de casa. 
+E1: ¿Usted ha hecho jabón? 
+I1: Sí… 
+E1: Ahora nos cuenta. 
+I1: Jabón de casa. Y…, y el jabón se hacía con los desperdicios de grasa que ya n-, se había frito, se guardaban esos aceites… Y se guardaba el aceite ese y se hacía el jabón con sosa. 
+E1: Sí. 
+I1: Y se hacía el jabón. 
+E1: Sí. 
+",La provincia a la que pertenecen los informadores es Huesca.
+"Dime de qué lugar es el siguiente texto:  E1: Se trata de que nos cuente un poco cómo era… la vida de antes,  por ejemplo, o… 
+I1: T4 Pues  la vida de antes yo ya la he vivido también. En el museo hay… esto…,  coladoras, que se colaba la ropa; en lugar de lejía hacían coladoras,  colaban la ropa, le ponían ceniza, arriba. 
+E1: ¿Aquí se hacía? ¿Y cómo llamaban eso? 
+I1: Pues bueno, lavaban la ropa en el río, en las balsas o… como podías, antiguamente. Aquí había balsas pa lavar, otros iban al río, porque aquí no hay río. Bueno. Entonces se lavaba la ropa… con jabón. Y se hacía jabón de casa. 
+E1: ¿Usted ha hecho jabón? 
+I1: Sí… 
+E1: Ahora nos cuenta. 
+I1: Jabón de casa. Y…, y el jabón se hacía con los desperdicios de grasa que ya n-, se había frito, se guardaban esos aceites… Y se guardaba el aceite ese y se hacía el jabón con sosa. 
+E1: Sí. 
+I1: Y se hacía el jabón. 
+E1: Sí. 
+",La provincia a la que pertenecen los informadores es Huesca.

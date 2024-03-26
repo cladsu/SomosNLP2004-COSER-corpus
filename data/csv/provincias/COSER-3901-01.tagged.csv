@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E:  E: T11 Pues mi-,  ¿usted ha vivido aquí siempre en el pueblo? 
+I:  I: Siempre. 
+E:  E: ¿Sí? ¿Ha nacido aquí? 
+I:  I: Desde que nací hasta ahora  que tengo ochenta_y_ocho años. 
+E:  E: ¿Ochenta_y_ocho años? Pues no los aparenta. 
+I:  I: Sí, señor, así que date cuenta los años que llevo aquí. Y no he salido de aquí nunca, no. 
+E:  E: ¿No? 
+I:  I:  Siempre…, nací aquí y yo creo que aquí moriré, . creo, ¿eh?, a no ser que me dé un patatús,  por ahí en otro pueblo, por ahí. Sí, he ido por áhi de excursión a bastantes sitios.
+E:  E: T1 Sí, sí, muy bien. ¿Y usted hacía matanza antiguamente? 
+I:  I: P-Enf:Sí, hombre, y ahora también hacemos. 
+E:  E: ¿Sí? ¿Y cómo se hacía la matanza? 
+",La provincia a la que pertenecen los informadores es Soria.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E:  E: T11 Pues mi-,  ¿usted ha vivido aquí siempre en el pueblo? 
+I:  I: Siempre. 
+E:  E: ¿Sí? ¿Ha nacido aquí? 
+I:  I: Desde que nací hasta ahora  que tengo ochenta_y_ocho años. 
+E:  E: ¿Ochenta_y_ocho años? Pues no los aparenta. 
+I:  I: Sí, señor, así que date cuenta los años que llevo aquí. Y no he salido de aquí nunca, no. 
+E:  E: ¿No? 
+I:  I:  Siempre…, nací aquí y yo creo que aquí moriré, . creo, ¿eh?, a no ser que me dé un patatús,  por ahí en otro pueblo, por ahí. Sí, he ido por áhi de excursión a bastantes sitios.
+E:  E: T1 Sí, sí, muy bien. ¿Y usted hacía matanza antiguamente? 
+I:  I: P-Enf:Sí, hombre, y ahora también hacemos. 
+E:  E: ¿Sí? ¿Y cómo se hacía la matanza? 
+",La provincia a la que pertenecen los informadores es Soria.
+"Dime la provincia del siguiente texto: E:  E: T11 Pues mi-,  ¿usted ha vivido aquí siempre en el pueblo? 
+I:  I: Siempre. 
+E:  E: ¿Sí? ¿Ha nacido aquí? 
+I:  I: Desde que nací hasta ahora  que tengo ochenta_y_ocho años. 
+E:  E: ¿Ochenta_y_ocho años? Pues no los aparenta. 
+I:  I: Sí, señor, así que date cuenta los años que llevo aquí. Y no he salido de aquí nunca, no. 
+E:  E: ¿No? 
+I:  I:  Siempre…, nací aquí y yo creo que aquí moriré, . creo, ¿eh?, a no ser que me dé un patatús,  por ahí en otro pueblo, por ahí. Sí, he ido por áhi de excursión a bastantes sitios.
+E:  E: T1 Sí, sí, muy bien. ¿Y usted hacía matanza antiguamente? 
+I:  I: P-Enf:Sí, hombre, y ahora también hacemos. 
+E:  E: ¿Sí? ¿Y cómo se hacía la matanza? 
+",La provincia a la que pertenecen los informadores es Soria.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E:  E: T11 Pues mi-,  ¿usted ha vivido aquí siempre en el pueblo? 
+I:  I: Siempre. 
+E:  E: ¿Sí? ¿Ha nacido aquí? 
+I:  I: Desde que nací hasta ahora  que tengo ochenta_y_ocho años. 
+E:  E: ¿Ochenta_y_ocho años? Pues no los aparenta. 
+I:  I: Sí, señor, así que date cuenta los años que llevo aquí. Y no he salido de aquí nunca, no. 
+E:  E: ¿No? 
+I:  I:  Siempre…, nací aquí y yo creo que aquí moriré, . creo, ¿eh?, a no ser que me dé un patatús,  por ahí en otro pueblo, por ahí. Sí, he ido por áhi de excursión a bastantes sitios.
+E:  E: T1 Sí, sí, muy bien. ¿Y usted hacía matanza antiguamente? 
+I:  I: P-Enf:Sí, hombre, y ahora también hacemos. 
+E:  E: ¿Sí? ¿Y cómo se hacía la matanza? 
+",La provincia a la que pertenecen los informadores es Soria.
+"Dime de qué lugar es el siguiente texto:  E:  E: T11 Pues mi-,  ¿usted ha vivido aquí siempre en el pueblo? 
+I:  I: Siempre. 
+E:  E: ¿Sí? ¿Ha nacido aquí? 
+I:  I: Desde que nací hasta ahora  que tengo ochenta_y_ocho años. 
+E:  E: ¿Ochenta_y_ocho años? Pues no los aparenta. 
+I:  I: Sí, señor, así que date cuenta los años que llevo aquí. Y no he salido de aquí nunca, no. 
+E:  E: ¿No? 
+I:  I:  Siempre…, nací aquí y yo creo que aquí moriré, . creo, ¿eh?, a no ser que me dé un patatús,  por ahí en otro pueblo, por ahí. Sí, he ido por áhi de excursión a bastantes sitios.
+E:  E: T1 Sí, sí, muy bien. ¿Y usted hacía matanza antiguamente? 
+I:  I: P-Enf:Sí, hombre, y ahora también hacemos. 
+E:  E: ¿Sí? ¿Y cómo se hacía la matanza? 
+",La provincia a la que pertenecen los informadores es Soria.

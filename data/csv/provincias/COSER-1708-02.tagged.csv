@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. E1: T5 T9 ¿Podría usted contarnos a qué se dedicaba la gente…? 
+I1:  Mira, yo nací en el año 42.  1942. . Ahora tengo setenta_y_nueve años. Yo nací aquí, y entonces la gente se dedicaban a la labranza de la tierra… Mi padre tenía vacas, y te-,  y labraba la tierra y yo cuando me hice ma-, mayor ya, ocho, nueve o diez años, tenía que seguirlo a él, aguantarle las vacas o lo que sea, ¿no?  O darles de comer y todo esto. Bueno, pero yo ya iba a la escuela aquí…, aquí había una escuela y… solo era para niños, las niñas tenían que ir con las monjas, ¿sabes? Pero bueno, la vida era una vida que era pasao la guerra y era… pues un poco triste. Claro. Y… el dinero no sobraba. Y entonces cua-, al llegar a los catorce años, pues los padres ya te mandaban a trabajar. Y allí trabajabas y ganabas treinta pesetas a la semana, o cuarenta máximo.¡A la semana! ¿Entendes
+E1: ¿Y qué tocaba usted? 
+I1: El clarinete,  el saxofón  y pas-, pa las sardanas, el tiple… ¿Sabes qué es el tiple?
+E1:  ¿Es un instrumento de viento? 
+I1: Sí.   Los, de los que van delante de las sardanas, hay el L-Otra:flabiol, . el pequeño, luego el que es un poco más grande, se llama el tiple, y el más grande se llama la tenora.  Pues yo tocaba el tiple… con la orquesta. 
+E1: Ah, qué bien. Vale, per-, perdone un momento.  HCruz:Paula, ponte la mascarilla.  Si a usted no le importa… quitarse la mascarilla, a nosotros no nos importa, ¿eh?¡Lo que usted prefiera!  No, lo que usted prefiera, o sea…  
+I1: así, así, así. 
+E1: ¿Así está más cómodo? 
+I1: No es que mejor, se habla mejor. 
+E1: Vale, perfecto, pues muchas gracias.   Pues nada, con-, continúe contándonos lo que usted quiera. 
+",La provincia a la que pertenecen los informadores es Gerona.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: E1: T5 T9 ¿Podría usted contarnos a qué se dedicaba la gente…? 
+I1:  Mira, yo nací en el año 42.  1942. . Ahora tengo setenta_y_nueve años. Yo nací aquí, y entonces la gente se dedicaban a la labranza de la tierra… Mi padre tenía vacas, y te-,  y labraba la tierra y yo cuando me hice ma-, mayor ya, ocho, nueve o diez años, tenía que seguirlo a él, aguantarle las vacas o lo que sea, ¿no?  O darles de comer y todo esto. Bueno, pero yo ya iba a la escuela aquí…, aquí había una escuela y… solo era para niños, las niñas tenían que ir con las monjas, ¿sabes? Pero bueno, la vida era una vida que era pasao la guerra y era… pues un poco triste. Claro. Y… el dinero no sobraba. Y entonces cua-, al llegar a los catorce años, pues los padres ya te mandaban a trabajar. Y allí trabajabas y ganabas treinta pesetas a la semana, o cuarenta máximo.¡A la semana! ¿Entendes
+E1: ¿Y qué tocaba usted? 
+I1: El clarinete,  el saxofón  y pas-, pa las sardanas, el tiple… ¿Sabes qué es el tiple?
+E1:  ¿Es un instrumento de viento? 
+I1: Sí.   Los, de los que van delante de las sardanas, hay el L-Otra:flabiol, . el pequeño, luego el que es un poco más grande, se llama el tiple, y el más grande se llama la tenora.  Pues yo tocaba el tiple… con la orquesta. 
+E1: Ah, qué bien. Vale, per-, perdone un momento.  HCruz:Paula, ponte la mascarilla.  Si a usted no le importa… quitarse la mascarilla, a nosotros no nos importa, ¿eh?¡Lo que usted prefiera!  No, lo que usted prefiera, o sea…  
+I1: así, así, así. 
+E1: ¿Así está más cómodo? 
+I1: No es que mejor, se habla mejor. 
+E1: Vale, perfecto, pues muchas gracias.   Pues nada, con-, continúe contándonos lo que usted quiera. 
+",La provincia a la que pertenecen los informadores es Gerona.
+"Dime la provincia del siguiente texto: E1: T5 T9 ¿Podría usted contarnos a qué se dedicaba la gente…? 
+I1:  Mira, yo nací en el año 42.  1942. . Ahora tengo setenta_y_nueve años. Yo nací aquí, y entonces la gente se dedicaban a la labranza de la tierra… Mi padre tenía vacas, y te-,  y labraba la tierra y yo cuando me hice ma-, mayor ya, ocho, nueve o diez años, tenía que seguirlo a él, aguantarle las vacas o lo que sea, ¿no?  O darles de comer y todo esto. Bueno, pero yo ya iba a la escuela aquí…, aquí había una escuela y… solo era para niños, las niñas tenían que ir con las monjas, ¿sabes? Pero bueno, la vida era una vida que era pasao la guerra y era… pues un poco triste. Claro. Y… el dinero no sobraba. Y entonces cua-, al llegar a los catorce años, pues los padres ya te mandaban a trabajar. Y allí trabajabas y ganabas treinta pesetas a la semana, o cuarenta máximo.¡A la semana! ¿Entendes
+E1: ¿Y qué tocaba usted? 
+I1: El clarinete,  el saxofón  y pas-, pa las sardanas, el tiple… ¿Sabes qué es el tiple?
+E1:  ¿Es un instrumento de viento? 
+I1: Sí.   Los, de los que van delante de las sardanas, hay el L-Otra:flabiol, . el pequeño, luego el que es un poco más grande, se llama el tiple, y el más grande se llama la tenora.  Pues yo tocaba el tiple… con la orquesta. 
+E1: Ah, qué bien. Vale, per-, perdone un momento.  HCruz:Paula, ponte la mascarilla.  Si a usted no le importa… quitarse la mascarilla, a nosotros no nos importa, ¿eh?¡Lo que usted prefiera!  No, lo que usted prefiera, o sea…  
+I1: así, así, así. 
+E1: ¿Así está más cómodo? 
+I1: No es que mejor, se habla mejor. 
+E1: Vale, perfecto, pues muchas gracias.   Pues nada, con-, continúe contándonos lo que usted quiera. 
+",La provincia a la que pertenecen los informadores es Gerona.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: E1: T5 T9 ¿Podría usted contarnos a qué se dedicaba la gente…? 
+I1:  Mira, yo nací en el año 42.  1942. . Ahora tengo setenta_y_nueve años. Yo nací aquí, y entonces la gente se dedicaban a la labranza de la tierra… Mi padre tenía vacas, y te-,  y labraba la tierra y yo cuando me hice ma-, mayor ya, ocho, nueve o diez años, tenía que seguirlo a él, aguantarle las vacas o lo que sea, ¿no?  O darles de comer y todo esto. Bueno, pero yo ya iba a la escuela aquí…, aquí había una escuela y… solo era para niños, las niñas tenían que ir con las monjas, ¿sabes? Pero bueno, la vida era una vida que era pasao la guerra y era… pues un poco triste. Claro. Y… el dinero no sobraba. Y entonces cua-, al llegar a los catorce años, pues los padres ya te mandaban a trabajar. Y allí trabajabas y ganabas treinta pesetas a la semana, o cuarenta máximo.¡A la semana! ¿Entendes
+E1: ¿Y qué tocaba usted? 
+I1: El clarinete,  el saxofón  y pas-, pa las sardanas, el tiple… ¿Sabes qué es el tiple?
+E1:  ¿Es un instrumento de viento? 
+I1: Sí.   Los, de los que van delante de las sardanas, hay el L-Otra:flabiol, . el pequeño, luego el que es un poco más grande, se llama el tiple, y el más grande se llama la tenora.  Pues yo tocaba el tiple… con la orquesta. 
+E1: Ah, qué bien. Vale, per-, perdone un momento.  HCruz:Paula, ponte la mascarilla.  Si a usted no le importa… quitarse la mascarilla, a nosotros no nos importa, ¿eh?¡Lo que usted prefiera!  No, lo que usted prefiera, o sea…  
+I1: así, así, así. 
+E1: ¿Así está más cómodo? 
+I1: No es que mejor, se habla mejor. 
+E1: Vale, perfecto, pues muchas gracias.   Pues nada, con-, continúe contándonos lo que usted quiera. 
+",La provincia a la que pertenecen los informadores es Gerona.
+"Dime de qué lugar es el siguiente texto:  E1: T5 T9 ¿Podría usted contarnos a qué se dedicaba la gente…? 
+I1:  Mira, yo nací en el año 42.  1942. . Ahora tengo setenta_y_nueve años. Yo nací aquí, y entonces la gente se dedicaban a la labranza de la tierra… Mi padre tenía vacas, y te-,  y labraba la tierra y yo cuando me hice ma-, mayor ya, ocho, nueve o diez años, tenía que seguirlo a él, aguantarle las vacas o lo que sea, ¿no?  O darles de comer y todo esto. Bueno, pero yo ya iba a la escuela aquí…, aquí había una escuela y… solo era para niños, las niñas tenían que ir con las monjas, ¿sabes? Pero bueno, la vida era una vida que era pasao la guerra y era… pues un poco triste. Claro. Y… el dinero no sobraba. Y entonces cua-, al llegar a los catorce años, pues los padres ya te mandaban a trabajar. Y allí trabajabas y ganabas treinta pesetas a la semana, o cuarenta máximo.¡A la semana! ¿Entendes
+E1: ¿Y qué tocaba usted? 
+I1: El clarinete,  el saxofón  y pas-, pa las sardanas, el tiple… ¿Sabes qué es el tiple?
+E1:  ¿Es un instrumento de viento? 
+I1: Sí.   Los, de los que van delante de las sardanas, hay el L-Otra:flabiol, . el pequeño, luego el que es un poco más grande, se llama el tiple, y el más grande se llama la tenora.  Pues yo tocaba el tiple… con la orquesta. 
+E1: Ah, qué bien. Vale, per-, perdone un momento.  HCruz:Paula, ponte la mascarilla.  Si a usted no le importa… quitarse la mascarilla, a nosotros no nos importa, ¿eh?¡Lo que usted prefiera!  No, lo que usted prefiera, o sea…  
+I1: así, así, así. 
+E1: ¿Así está más cómodo? 
+I1: No es que mejor, se habla mejor. 
+E1: Vale, perfecto, pues muchas gracias.   Pues nada, con-, continúe contándonos lo que usted quiera. 
+",La provincia a la que pertenecen los informadores es Gerona.

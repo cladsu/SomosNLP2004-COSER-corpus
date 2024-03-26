@@ -1,0 +1,61 @@
+input,output
+"A continuación vas a recibir una entrevista en la que pueden participar varios entrevistadores (E), indicados como E1, E2, ..., y varios informadores (I), indicados como I1, I2, sucesivamente. Basándote en los rasgos lingüísticos mostrados por los informadores, determina la provincia española a la que pertenecen. I1: Hala, a ver, empezar. Hoy me cogéis de buen talante. 
+E1:  ¿Por dónde empezamos?  La matanza, el embutido y eso… 
+E2: Si nos puede explicar un poco la matanza, ¿cómo e-…? 
+I1: Pues las matanzas se hacían en diciembre, enero, febrero… Pues bueno, , se hacían morcillas, se salaba el tocino, se hacían jamones. Se hacían chorizos. Pero ahora ya no…, eso ya terminó al del… Ya no se hace ya. 
+E2: ¿Cómo, cómo era el proceso? 
+E3: ¿Cómo se hacía? 
+I1: ¿Eh? 
+E2: El proceso de… ¿Qué…? 
+E1: ¿Cómo lo alimentaban? O… 
+I1: ¿Con lo…? ¿Con qué lo alimentábamos? Con cebada, maíz, algo de compuesto, poco compuesto, na más pa
+E1: ¿No era para uso familiar? 
+",La provincia a la que pertenecen los informadores es Navarra.
+"Dime la provincia del siguiente texto basándose en sus características lingüísticas. Texto: I1: Hala, a ver, empezar. Hoy me cogéis de buen talante. 
+E1:  ¿Por dónde empezamos?  La matanza, el embutido y eso… 
+E2: Si nos puede explicar un poco la matanza, ¿cómo e-…? 
+I1: Pues las matanzas se hacían en diciembre, enero, febrero… Pues bueno, , se hacían morcillas, se salaba el tocino, se hacían jamones. Se hacían chorizos. Pero ahora ya no…, eso ya terminó al del… Ya no se hace ya. 
+E2: ¿Cómo, cómo era el proceso? 
+E3: ¿Cómo se hacía? 
+I1: ¿Eh? 
+E2: El proceso de… ¿Qué…? 
+E1: ¿Cómo lo alimentaban? O… 
+I1: ¿Con lo…? ¿Con qué lo alimentábamos? Con cebada, maíz, algo de compuesto, poco compuesto, na más pa
+E1: ¿No era para uso familiar? 
+",La provincia a la que pertenecen los informadores es Navarra.
+"Dime la provincia del siguiente texto: I1: Hala, a ver, empezar. Hoy me cogéis de buen talante. 
+E1:  ¿Por dónde empezamos?  La matanza, el embutido y eso… 
+E2: Si nos puede explicar un poco la matanza, ¿cómo e-…? 
+I1: Pues las matanzas se hacían en diciembre, enero, febrero… Pues bueno, , se hacían morcillas, se salaba el tocino, se hacían jamones. Se hacían chorizos. Pero ahora ya no…, eso ya terminó al del… Ya no se hace ya. 
+E2: ¿Cómo, cómo era el proceso? 
+E3: ¿Cómo se hacía? 
+I1: ¿Eh? 
+E2: El proceso de… ¿Qué…? 
+E1: ¿Cómo lo alimentaban? O… 
+I1: ¿Con lo…? ¿Con qué lo alimentábamos? Con cebada, maíz, algo de compuesto, poco compuesto, na más pa
+E1: ¿No era para uso familiar? 
+",La provincia a la que pertenecen los informadores es Navarra.
+"Con la información de la siguiente entrevista, dame el lugar al que pertenecen los hablantes: I1: Hala, a ver, empezar. Hoy me cogéis de buen talante. 
+E1:  ¿Por dónde empezamos?  La matanza, el embutido y eso… 
+E2: Si nos puede explicar un poco la matanza, ¿cómo e-…? 
+I1: Pues las matanzas se hacían en diciembre, enero, febrero… Pues bueno, , se hacían morcillas, se salaba el tocino, se hacían jamones. Se hacían chorizos. Pero ahora ya no…, eso ya terminó al del… Ya no se hace ya. 
+E2: ¿Cómo, cómo era el proceso? 
+E3: ¿Cómo se hacía? 
+I1: ¿Eh? 
+E2: El proceso de… ¿Qué…? 
+E1: ¿Cómo lo alimentaban? O… 
+I1: ¿Con lo…? ¿Con qué lo alimentábamos? Con cebada, maíz, algo de compuesto, poco compuesto, na más pa
+E1: ¿No era para uso familiar? 
+",La provincia a la que pertenecen los informadores es Navarra.
+"Dime de qué lugar es el siguiente texto:  I1: Hala, a ver, empezar. Hoy me cogéis de buen talante. 
+E1:  ¿Por dónde empezamos?  La matanza, el embutido y eso… 
+E2: Si nos puede explicar un poco la matanza, ¿cómo e-…? 
+I1: Pues las matanzas se hacían en diciembre, enero, febrero… Pues bueno, , se hacían morcillas, se salaba el tocino, se hacían jamones. Se hacían chorizos. Pero ahora ya no…, eso ya terminó al del… Ya no se hace ya. 
+E2: ¿Cómo, cómo era el proceso? 
+E3: ¿Cómo se hacía? 
+I1: ¿Eh? 
+E2: El proceso de… ¿Qué…? 
+E1: ¿Cómo lo alimentaban? O… 
+I1: ¿Con lo…? ¿Con qué lo alimentábamos? Con cebada, maíz, algo de compuesto, poco compuesto, na más pa
+E1: ¿No era para uso familiar? 
+",La provincia a la que pertenecen los informadores es Navarra.
